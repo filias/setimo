@@ -1,0 +1,14 @@
+[Unit]
+Description=setimo.filias.dev deploy webhook
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/opt/setimo
+EnvironmentFile=/etc/setimo-webhook.env
+ExecStart=/usr/bin/python3 /opt/setimo/deploy/webhook.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
