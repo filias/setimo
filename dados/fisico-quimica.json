@@ -1,0 +1,511 @@
+{
+  "id": "fisico-quimica",
+  "nome": "Físico-Química",
+  "emoji": "⚗️",
+  "ano": "7.º ano",
+  "ciclo": "3.º ciclo do Ensino Básico",
+  "intro": "A Físico-Química começa no 7.º ano. É a disciplina que explica de que é feito o mundo — desde as galáxias até ao sal que se dissolve num copo de água — e como a energia passa de um lado para o outro. O programa está organizado em três grandes domínios: o Espaço, os Materiais e a Energia.",
+  "paraTiIntro": "Este ano vais aprender a olhar para coisas normais — uma sombra no chão, um balão que enche sozinho, uma nódoa que não sai — e perceber o que está mesmo a acontecer lá dentro. Metade da disciplina faz-se com as mãos, no laboratório.",
+  "fonte": {
+    "titulo": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Físico-Química, 7.º ano, 3.º ciclo do Ensino Básico",
+    "editor": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Projeto_Autonomia_e_Flexibilidade/ae_3oc_7_fisico-quimica.pdf",
+    "nota": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho."
+  },
+  "dominios": [
+    {
+      "id": "espaco",
+      "nome": "Espaço",
+      "emoji": "🔭",
+      "sumario": "Onde é que a Terra fica, como é que sabemos isso, e por que é que as coisas caem.",
+      "subdominios": [
+        {
+          "id": "universo",
+          "nome": "Universo e Distâncias no Universo",
+          "paraTi": "O Universo é grande de uma forma que não cabe na cabeça: a estrela mais próxima depois do Sol está a mais de quatro anos-luz, ou seja, a luz que dela vês hoje saiu de lá há mais de quatro anos. Vais aprender a arrumar tudo isto por ordem de tamanho — estrelas, sistemas planetários, galáxias, enxames — e a usar unidades que não sejam absurdas (o quilómetro não serve para aqui). E vais ver como é que a humanidade descobriu isto tudo a olhar para cima com instrumentos cada vez melhores.",
+          "perguntas": [
+            "Se o Universo começou com o Big Bang, o que é que havia antes?",
+            "Como é que se mede a distância a uma estrela sem lá ir?",
+            "Porque é que olhar para longe é olhar para o passado?"
+          ],
+          "ae": [
+            "Descrever a organização dos corpos celestes, localizando a Terra no Universo, construindo diagramas/mapas, através da recolha e sistematização de informação em fontes diversas.",
+            "Explicar o papel da observação e dos instrumentos utilizados na evolução histórica do conhecimento do Universo, através de pesquisa e seleção de informação.",
+            "Estabelecer relações entre as estruturas do Universo através da recolha de informação em fontes diversas e apresentar as conclusões.",
+            "Descrever a origem e evolução do Universo com base na teoria do Big Bang.",
+            "Resolver exercícios, envolvendo cálculos numéricos, utilizando as unidades de distância adequadas às várias escalas do Universo, designadamente ua e a.l., recorrendo à notação científica e às unidades SI."
+          ],
+          "atividades": [
+            {
+              "titulo": "O Universo numa fita de papel",
+              "tipo": "Escala",
+              "duracao": "45 min",
+              "material": ["Rolo de papel de cozinha ou fita de papel de 3 m", "Régua", "Marcador", "Calculadora"],
+              "passos": [
+                "Escreve a lista das distâncias em anos-luz: Lua (0,0000000406 a.l.), Sol (0,0000158 a.l.), Proxima Centauri (4,25 a.l.), centro da Via Láctea (26 000 a.l.), galáxia de Andrómeda (2 500 000 a.l.).",
+                "Tenta marcar tudo na mesma fita com escala linear. Vais falhar — e esse é o ponto da atividade.",
+                "Repete com uma escala logarítmica: cada 30 cm da fita vale ×10 na distância. Agora cabe tudo.",
+                "Escreve cada distância também em notação científica e em ua."
+              ],
+              "ligacao": "Trabalha diretamente o descritor das unidades de distância (ua e a.l.) e da notação científica, e mostra por que razão o quilómetro é inútil a esta escala.",
+              "reflexao": "Porque é que os astrónomos precisaram de inventar unidades novas em vez de usarem só o metro?"
+            },
+            {
+              "titulo": "A linha do tempo dos instrumentos",
+              "tipo": "Investigação",
+              "duracao": "1 h",
+              "material": ["Computador ou tablet", "Cartolina ou documento partilhado"],
+              "passos": [
+                "Escolhe seis instrumentos, do olho nu ao telescópio espacial James Webb.",
+                "Para cada um, anota: quem o usou, em que ano, e uma coisa concreta que só se conseguiu ver por causa dele.",
+                "Ordena-os numa linha do tempo e liga cada instrumento à descoberta correspondente.",
+                "Termina com uma frase: o que é que ainda não conseguimos ver, e que instrumento faria falta?"
+              ],
+              "ligacao": "Cobre o descritor sobre o papel da observação e dos instrumentos na evolução histórica do conhecimento do Universo.",
+              "reflexao": "As descobertas vieram de ideias novas ou de instrumentos novos? Consegues encontrar um exemplo de cada?"
+            }
+          ]
+        },
+        {
+          "id": "sistema-solar",
+          "nome": "Sistema solar",
+          "paraTi": "Oito planetas, um Sol, e uma quantidade enorme de espaço vazio no meio — muito mais vazio do que qualquer poster de sala de aula deixa perceber. Vais comparar planetas (tamanho, distância, quanto tempo demoram a dar a volta ao Sol, se têm atmosfera) e perceber o que é que faz da Terra um sítio onde há vida e de Marte um sítio onde não há.",
+          "perguntas": [
+            "Porque é que Neptuno demora 165 anos a dar uma volta ao Sol e a Terra só demora um?",
+            "O que é que a Terra tem que Vénus não tem, se são quase do mesmo tamanho?"
+          ],
+          "ae": [
+            "Localizar a Terra no sistema solar.",
+            "Interpretar informação sobre planetas do sistema solar (em tabelas, gráficos, textos, etc.) identificando semelhanças e diferenças (constituição, localização, períodos de translação e rotação) e o que faz da Terra um planeta com vida.",
+            "Estabelecer relações entre astros, tendo em conta as suas dimensões e distâncias, e construir modelos do sistema solar.",
+            "Relacionar os períodos de translação dos planetas com a distância ao Sol."
+          ],
+          "atividades": [
+            {
+              "titulo": "O sistema solar à escala na rua",
+              "tipo": "Ao ar livre",
+              "duracao": "1 h 30 (mais a caminhada)",
+              "material": ["Fita métrica ou app de passos", "Bola de futebol (Sol)", "Objetos pequenos: grão de pimenta, ervilha, berlinde, bola de ténis", "Papéis para etiquetar"],
+              "passos": [
+                "Com o Sol do tamanho de uma bola de futebol (22 cm), a escala fica ≈ 1:6,3 mil milhões.",
+                "Calcula as distâncias: Mercúrio a 9 m, Vénus a 17 m, Terra a 24 m, Marte a 36 m, Júpiter a 124 m, Saturno a 227 m, Úrano a 457 m, Neptuno a 716 m.",
+                "Vai a um parque ou a uma rua comprida, deixa a bola no início e caminha, deixando um objeto etiquetado em cada distância.",
+                "Nesta escala, a Terra é um grão com 2 mm. Confirma que ninguém consegue ver o grão a partir da bola."
+              ],
+              "ligacao": "Concretiza o descritor «construir modelos do sistema solar» tendo em conta dimensões e distâncias — que num modelo à escala não cabem no mesmo desenho.",
+              "reflexao": "Todos os posters do sistema solar estão errados na mesma coisa. Qual é?"
+            },
+            {
+              "titulo": "Encontrar a lei escondida nos dados",
+              "tipo": "Cálculo",
+              "duracao": "45 min",
+              "material": ["Tabela com distância ao Sol (ua) e período de translação (anos) dos 8 planetas", "Papel milimétrico ou folha de cálculo"],
+              "passos": [
+                "Constrói um gráfico com a distância ao Sol no eixo horizontal e o período de translação no eixo vertical.",
+                "Descreve a curva por palavras tuas: quando a distância duplica, o período mais do que duplica?",
+                "Calcula, para cada planeta, T² e d³. Compara os dois valores.",
+                "Escreve a relação que descobriste. (Acabaste de redescobrir a 3.ª lei de Kepler.)"
+              ],
+              "ligacao": "É exatamente o descritor «relacionar os períodos de translação dos planetas com a distância ao Sol», feito a partir dos dados em vez de decorado.",
+              "reflexao": "Descobrir um padrão em dados e explicar o padrão são coisas diferentes. Qual delas fizeste aqui?"
+            }
+          ]
+        },
+        {
+          "id": "terra-lua-gravidade",
+          "nome": "A Terra, a Lua e as forças gravíticas",
+          "paraTi": "Aqui explicam-se coisas que vês todos os dias sem reparar: porque é que a sombra muda de tamanho ao longo do dia, porque é que há verão e inverno, porque é que a Lua muda de forma e por que razão os eclipses não acontecem todos os meses. E aprendes uma distinção que muita gente adulta confunde: massa e peso não são a mesma coisa. A tua massa é igual na Lua; o teu peso é seis vezes menor.",
+          "perguntas": [
+            "Se a Lua dá a volta à Terra todos os meses, porque é que não há um eclipse por mês?",
+            "Numa balança da farmácia, o que é que estás mesmo a medir?",
+            "Pesas menos no cimo de uma montanha do que ao nível do mar?"
+          ],
+          "ae": [
+            "Interpretar fenómenos que ocorrem na Terra como resultado dos movimentos no sistema Sol-Terra-Lua: comprimento de uma sombra, sucessão dos dias e das noites, estações do ano, fases da Lua e eclipses.",
+            "Caracterizar a força gravítica reconhecendo os seus efeitos.",
+            "Distinguir peso e massa de um corpo, relacionando-os a partir de uma atividade experimental, na qual constrói tabelas e gráficos.",
+            "Relacionar a diminuição do peso de um corpo com o aumento da sua distância ao centro da Terra."
+          ],
+          "atividades": [
+            {
+              "titulo": "O gnómon do quintal",
+              "tipo": "Observação",
+              "duracao": "Um dia inteiro (medições de hora a hora)",
+              "material": ["Um pau direito ou lápis fixado num cartão", "Fita métrica", "Giz ou marcadores", "Um sítio ao sol e plano"],
+              "passos": [
+                "Fixa o pau na vertical num sítio que apanhe sol o dia todo. Confirma a verticalidade.",
+                "De hora a hora, marca a ponta da sombra e mede o seu comprimento e a sua direção.",
+                "No fim do dia, faz um gráfico do comprimento da sombra em função da hora.",
+                "Identifica a hora a que a sombra foi mais curta. Essa é a hora do meio-dia solar — e não coincide com o meio-dia do relógio.",
+                "Bónus: repete no mesmo sítio daqui a três meses e compara os dois gráficos."
+              ],
+              "ligacao": "É o descritor do «comprimento de uma sombra» como resultado dos movimentos no sistema Sol-Terra, medido e não apenas descrito.",
+              "reflexao": "Porque é que o meio-dia solar não é às 12h00 do relógio?"
+            },
+            {
+              "titulo": "As fases da Lua com um candeeiro",
+              "tipo": "Modelo",
+              "duracao": "30 min",
+              "material": ["Uma bola de esferovite ou laranja (a Lua)", "Um candeeiro sem abajur (o Sol)", "Um quarto às escuras", "A tua cabeça (a Terra)"],
+              "passos": [
+                "Acende o candeeiro no meio do quarto e apaga as outras luzes.",
+                "Segura a bola com o braço esticado e roda lentamente sobre ti próprio, sempre a olhar para a bola.",
+                "Vai parando e desenhando a forma da parte iluminada que consegues ver.",
+                "Compara os teus oito desenhos com os nomes das fases: nova, crescente, quarto crescente, gibosa, cheia, e o caminho de volta.",
+                "Agora levanta o braço um pouco: repara que a sombra da tua cabeça deixa de cair na bola. É por isso que não há eclipse todos os meses."
+              ],
+              "ligacao": "Cobre fases da Lua e eclipses no mesmo modelo, e explica a órbita inclinada — a razão de os eclipses serem raros.",
+              "cuidado": "Não olhes diretamente para a lâmpada acesa.",
+              "reflexao": "A Lua muda de forma ou muda a parte dela que conseguimos ver iluminada?"
+            },
+            {
+              "titulo": "Massa e peso: construir o gráfico",
+              "tipo": "Laboratório",
+              "duracao": "45 min",
+              "material": ["Dinamómetro (ou elástico + régua, calibrado)", "Balança de cozinha", "5 a 6 objetos de massas diferentes"],
+              "passos": [
+                "Mede a massa de cada objeto na balança, em quilogramas.",
+                "Pendura cada objeto no dinamómetro e regista a força em newton.",
+                "Constrói uma tabela com as duas colunas e depois um gráfico do peso em função da massa.",
+                "Verifica se os pontos ficam sobre uma reta e calcula o declive. Deve dar perto de 9,8 N/kg.",
+                "Escreve a relação P = m × g com os teus próprios números."
+              ],
+              "ligacao": "É literalmente o descritor «distinguir peso e massa (…) a partir de uma atividade experimental, na qual constrói tabelas e gráficos».",
+              "reflexao": "Se repetisses esta experiência na Lua, o que mudava: os valores da balança, os do dinamómetro, ou os dois?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materiais",
+      "nome": "Materiais",
+      "emoji": "🧪",
+      "sumario": "De que é feito o mundo, como se mistura, como se separa e como se transforma.",
+      "subdominios": [
+        {
+          "id": "constituicao-mundo-material",
+          "nome": "Constituição do mundo material",
+          "paraTi": "Tudo à tua volta é feito de materiais, e cada material foi escolhido por alguém por causa das suas propriedades: a panela é de metal porque conduz calor, a pega é de plástico porque não conduz. Vais aprender a agrupar materiais por propriedades e a perceber uma coisa incómoda: as matérias-primas acabam. Por isso é que reutilizar e reciclar não é um discurso — é aritmética.",
+          "perguntas": [
+            "Porque é que ninguém faz janelas de madeira maciça nem mesas de vidro fino?",
+            "Quantos materiais diferentes tem um telemóvel?"
+          ],
+          "ae": [
+            "Distinguir materiais e agrupá-los com base em propriedades comuns.",
+            "Concluir que os materiais são recursos limitados e que é necessário usá-los bem, reutilizando-os e reciclando-os."
+          ],
+          "atividades": [
+            {
+              "titulo": "Auditoria de materiais da cozinha",
+              "tipo": "Investigação",
+              "duracao": "45 min",
+              "material": ["Caderno ou folha de cálculo", "Acesso à cozinha"],
+              "passos": [
+                "Escolhe 15 objetos da cozinha e regista de que material principal são feitos.",
+                "Para cada um, escreve a propriedade que justifica essa escolha: conduz calor, é transparente, não enferruja, é leve, é isolador.",
+                "Agrupa os objetos por material e conta quantos há de cada.",
+                "Escolhe três objetos e responde: este material vem de onde? É reciclável no teu município?",
+                "Encontra um objeto onde a escolha do material te pareça má, e propõe uma alternativa."
+              ],
+              "ligacao": "Cobre os dois descritores do subdomínio: agrupar por propriedades comuns e concluir sobre a limitação dos recursos.",
+              "reflexao": "O material mais comum na tua lista é também o mais fácil de reciclar?"
+            }
+          ]
+        },
+        {
+          "id": "substancias-misturas",
+          "nome": "Substâncias e misturas",
+          "paraTi": "Quase nada do que usas é uma substância pura — o ar é uma mistura, a água da torneira é uma mistura, o aço é uma mistura. Vais aprender a ler rótulos a sério (a garrafa de água tem lá a composição toda), a distinguir misturas homogéneas de heterogéneas, e a preparar uma solução com a concentração que quiseres. Solução, soluto, solvente: três palavras que vais usar o ano inteiro.",
+          "perguntas": [
+            "A água mineral é uma substância pura? E a água destilada?",
+            "O que quer dizer «concentrado» num sumo de pacote?",
+            "Porque é que o azeite e o vinagre voltam sempre a separar-se?"
+          ],
+          "ae": [
+            "Compreender os conceitos de substância pura e mistura, analisando rótulos.",
+            "Reconhecer que a maior parte dos materiais são misturas de substâncias, recorrendo a exemplos diversos.",
+            "Distinguir, através de um trabalho laboratorial, misturas homogéneas e heterogéneas e substâncias miscíveis e imiscíveis.",
+            "Distinguir os conceitos de solução, soluto e solvente bem como solução concentrada, diluída e saturada, recorrendo a exemplos.",
+            "Caracterizar qualitativa e quantitativamente uma solução.",
+            "Preparar, laboratorialmente, soluções aquosas com uma determinada concentração, em massa, a partir de um soluto sólido, selecionando o material de laboratório, as operações a executar, reconhecendo as regras e sinalética de segurança necessárias."
+          ],
+          "atividades": [
+            {
+              "titulo": "Duelo de rótulos de água",
+              "tipo": "Investigação",
+              "duracao": "40 min",
+              "material": ["3 a 4 rótulos de garrafas de água diferentes", "Um rótulo de água do mar ou de soro fisiológico, se houver"],
+              "passos": [
+                "Copia, para uma tabela, a composição química de cada água: cálcio, magnésio, sódio, bicarbonato, resíduo seco.",
+                "Ordena as águas do menor para o maior resíduo seco. Qual é a mais «pura»?",
+                "Identifica, em cada uma, qual é o solvente e quais são os solutos.",
+                "Responde: alguma destas é uma substância pura? Justifica com o rótulo na mão.",
+                "Calcula, para uma das águas, a massa de cálcio que ingerias se bebesses 1,5 L por dia."
+              ],
+              "ligacao": "Cobre «analisar rótulos», a distinção substância pura / mistura, e a caracterização quantitativa de uma solução.",
+              "reflexao": "Se a água mais pura é a que tem menos sais dissolvidos, porque é que as marcas anunciam os sais que têm?"
+            },
+            {
+              "titulo": "Preparar 100 g de solução a 5 %",
+              "tipo": "Laboratório caseiro",
+              "duracao": "30 min",
+              "material": ["Balança de cozinha com precisão de 1 g", "Copo medidor", "Sal fino", "Água", "Vareta ou colher"],
+              "passos": [
+                "Calcula, antes de mexer em nada: para 100 g de solução a 5 % em massa, quanto sal e quanta água precisas?",
+                "Pesa o sal. Pesa a água. Junta e mexe até dissolver por completo.",
+                "Repete para uma solução a 20 %. Consegues? A partir de que ponto o sal deixa de dissolver?",
+                "Esse ponto tem nome: solução saturada. Regista a percentagem a que chegaste.",
+                "Dilui a primeira solução para metade da concentração e explica por escrito o que fizeste."
+              ],
+              "ligacao": "É o descritor da preparação laboratorial de soluções aquosas com concentração em massa, mais os conceitos de concentrada, diluída e saturada.",
+              "cuidado": "Nunca provar nada preparado no contexto de uma experiência, mesmo com ingredientes de cozinha. É uma regra de laboratório e treina-se aqui.",
+              "reflexao": "Ao diluir, o que é que muda: a quantidade de soluto ou a quantidade de solução?"
+            }
+          ]
+        },
+        {
+          "id": "transformacoes",
+          "nome": "Transformações físicas e químicas",
+          "paraTi": "Partir um vidro e queimar um papel são coisas diferentes: no primeiro caso continuas a ter vidro, no segundo já não tens papel. Essa é a diferença entre uma transformação física e uma química. Vais aprender os sinais que denunciam uma reação química — mudança de cor, gás a libertar-se, calor, um sólido que aparece do nada — e a escrever o que aconteceu em «equações» de palavras: reagentes de um lado, produtos do outro.",
+          "perguntas": [
+            "A água a ferver está a transformar-se em quê? É a mesma substância?",
+            "Onde é que foi parar a massa da vela que ardeu?",
+            "Cozinhar é química?"
+          ],
+          "ae": [
+            "Distinguir transformações físicas de químicas, através de exemplos.",
+            "Aplicar os conceitos de fusão/solidificação, ebulição/condensação e evaporação na interpretação de situações do dia a dia e do ciclo da água.",
+            "Identificar, laboratorialmente e no dia a dia, transformações químicas através da junção de substâncias, por ação mecânica, do calor, da luz, e da eletricidade.",
+            "Distinguir, experimentalmente e a partir de informação selecionada, reagentes e produtos da reação e designar uma transformação química por reação química, representando-a por «equações» de palavras.",
+            "Justificar, a partir de informação selecionada, a importância da síntese química na produção de novos e melhores materiais, de uma forma mais económica e ecológica."
+          ],
+          "atividades": [
+            {
+              "titulo": "O balão que se enche sozinho",
+              "tipo": "Laboratório caseiro",
+              "duracao": "20 min",
+              "material": ["Garrafa de plástico pequena", "Balão", "Vinagre", "Bicarbonato de sódio", "Funil", "Balança"],
+              "passos": [
+                "Pesa a garrafa com o vinagre e o balão com o bicarbonato, separadamente. Soma e regista a massa total.",
+                "Deita 3 colheres de bicarbonato dentro do balão com a ajuda do funil.",
+                "Põe 100 mL de vinagre na garrafa e encaixa a boca do balão no gargalo, sem deixar cair o bicarbonato.",
+                "Levanta o balão para o pó cair. Observa e regista tudo: gás, temperatura da garrafa, espuma.",
+                "Pesa outra vez o conjunto todo, com o balão ainda encaixado. Compara com a massa inicial.",
+                "Escreve a «equação» de palavras: bicarbonato de sódio + ácido acético → acetato de sódio + água + dióxido de carbono."
+              ],
+              "ligacao": "Identifica uma transformação química por junção de substâncias, separa reagentes de produtos e treina a «equação» de palavras, tudo num só ensaio.",
+              "reflexao": "Se tirares o balão antes de pesar, a massa diminui. A matéria desapareceu ou foi-se embora?"
+            },
+            {
+              "titulo": "Cinco frascos, físico ou químico?",
+              "tipo": "Laboratório caseiro",
+              "duracao": "1 h (com pausas de observação)",
+              "material": ["Palha de aço", "Água oxigenada", "Meio limão", "Gelo", "Açúcar", "Fatia de maçã", "Frascos ou copos"],
+              "passos": [
+                "Monta cinco montagens: palha de aço molhada ao ar, gelo a derreter num copo, açúcar dissolvido em água, meia maçã ao ar, e sumo de limão sobre palha de aço.",
+                "Antes de observar, escreve a tua previsão para cada uma: física ou química? E porquê?",
+                "Observa aos 10 min, aos 30 min e no dia seguinte. Regista com fotografias.",
+                "Classifica cada caso e indica a evidência que usaste para decidir.",
+                "Aponta o caso em que te enganaste na previsão — é o mais interessante de todos."
+              ],
+              "ligacao": "Trabalha diretamente a distinção entre transformação física e química e o reconhecimento das evidências de reação.",
+              "reflexao": "Dissolver açúcar na água muda o aspeto de tudo. Porque é que continua a ser uma transformação física?"
+            }
+          ]
+        },
+        {
+          "id": "propriedades",
+          "nome": "Propriedades físicas e químicas dos materiais",
+          "paraTi": "Cada substância tem uma espécie de impressão digital: funde a uma temperatura certa, ferve a outra, e tem uma massa volúmica que é sempre a mesma independentemente de teres um grama ou uma tonelada. É por isso que se consegue identificar um material sem saber de onde veio — e é por isso que dá para desconfiar de ouro falso. Vais construir gráficos temperatura-tempo, calcular massas volúmicas e fazer testes químicos que detetam substâncias específicas.",
+          "perguntas": [
+            "Porque é que a água a ferver fica nos 100 °C mesmo com o lume no máximo?",
+            "Um quilo de chumbo e um quilo de penas pesam o mesmo. Então o que é que é diferente?",
+            "Como é que se descobre se um material é puro?"
+          ],
+          "ae": [
+            "Reconhecer que (a uma dada pressão) a fusão e a ebulição de uma substância ocorre a uma temperatura bem definida.",
+            "Construir e interpretar tabelas e gráficos temperatura-tempo para materiais, identificando temperaturas de fusão e de ebulição e concluindo sobre os estados físicos dos materiais a uma dada temperatura.",
+            "Relacionar o ponto de ebulição com a volatilidade das substâncias.",
+            "Compreender o conceito de massa volúmica e efetuar cálculos com base na sua definição.",
+            "Determinar, laboratorialmente, massas volúmicas de materiais sólidos e líquidos usando técnicas básicas.",
+            "Constatar, recorrendo a valores tabelados que o grau de pureza de uma substância pode ser aferido através dos pontos de fusão e de ebulição ou da massa volúmica.",
+            "Executar, laboratorialmente, testes químicos simples para detetar água, amido, glicose, dióxido de carbono e oxigénio.",
+            "Justificar, a partir de informação selecionada, a importância das propriedades físico-químicas na análise química e na qualidade de vida."
+          ],
+          "atividades": [
+            {
+              "titulo": "A torre de líquidos",
+              "tipo": "Laboratório caseiro",
+              "duracao": "40 min",
+              "material": ["Proveta ou copo alto estreito", "Mel", "Detergente da loiça", "Água corada", "Óleo alimentar", "Álcool corado", "Balança", "Seringa ou pipeta"],
+              "passos": [
+                "Antes de misturar: mede 20 mL de cada líquido, pesa cada um e calcula a massa volúmica (ρ = m / V).",
+                "Ordena os líquidos por massa volúmica decrescente na tua folha.",
+                "Deita-os no copo por essa ordem, muito devagar, escorrendo pela parede.",
+                "Confirma se a torre ficou pela ordem que previste. Se não ficou, procura o erro na medição.",
+                "Deixa cair um clipe, um pedaço de rolha e uma uva. Onde é que cada um pára — e o que é que isso te diz sobre a massa volúmica de cada um?"
+              ],
+              "ligacao": "Cobre a determinação laboratorial de massas volúmicas de líquidos e os cálculos a partir da definição, com uma verificação visual imediata da previsão.",
+              "reflexao": "Um objeto flutua num líquido e afunda noutro. Que grandeza está a decidir isso?"
+            },
+            {
+              "titulo": "A curva de aquecimento da água",
+              "tipo": "Laboratório",
+              "duracao": "50 min",
+              "material": ["Termómetro de cozinha", "Panela pequena", "Gelo", "Cronómetro", "Papel milimétrico ou folha de cálculo"],
+              "passos": [
+                "Começa com gelo picado na panela e o termómetro no meio. Regista a temperatura de 30 em 30 segundos.",
+                "Aquece com lume constante e continua a registar até 5 minutos depois de a água ferver.",
+                "Constrói o gráfico temperatura-tempo com todos os pontos.",
+                "Identifica os dois patamares horizontais. O que é que está a acontecer neles?",
+                "Marca no gráfico a temperatura de fusão e a de ebulição que mediste e compara com os valores tabelados (0 °C e 100 °C)."
+              ],
+              "ligacao": "É o descritor de construir e interpretar gráficos temperatura-tempo, identificando temperaturas de fusão e ebulição e concluindo sobre os estados físicos.",
+              "cuidado": "Fogão e água a ferver — esta é para fazer com um adulto ao lado.",
+              "reflexao": "Durante o patamar continuas a fornecer calor e a temperatura não sobe. Para onde vai essa energia?"
+            },
+            {
+              "titulo": "Caça ao amido na despensa",
+              "tipo": "Laboratório caseiro",
+              "duracao": "30 min",
+              "material": ["Tintura de iodo da farmácia", "Conta-gotas", "Prato branco", "Amostras: batata, pão, maçã, arroz, farinha, açúcar, presunto, folha de papel"],
+              "passos": [
+                "Faz uma previsão para cada amostra: tem amido ou não?",
+                "Põe uma gota de iodo em cada amostra, bem separadas no prato.",
+                "Regista a cor obtida. O azul-escuro quase preto é o resultado positivo.",
+                "Compara com as tuas previsões e conta quantas acertaste.",
+                "Testa uma banana verde e uma banana madura. Explica a diferença."
+              ],
+              "ligacao": "É o descritor dos testes químicos simples para detetar amido, com a lógica de teste positivo/negativo que se repete depois para a água, a glicose, o CO₂ e o oxigénio.",
+              "cuidado": "A tintura de iodo mancha e não se ingere. Usar em pouca quantidade e lavar as mãos no fim.",
+              "reflexao": "Um teste que dá negativo prova que a substância não existe, ou só que não foi detetada?"
+            }
+          ]
+        },
+        {
+          "id": "separacao",
+          "nome": "Separação das substâncias de uma mistura",
+          "paraTi": "Se quase tudo é uma mistura, separar é meio caminho para usar. Cada técnica aproveita uma propriedade diferente: a filtração usa o tamanho, a destilação usa o ponto de ebulição, a decantação usa a massa volúmica, a cromatografia usa a forma como cada substância adere ao papel. Isto não é teoria: é assim que se trata a água que sai da tua torneira e é assim que se faz gasolina a partir de petróleo.",
+          "perguntas": [
+            "Como é que se tira o sal da água do mar?",
+            "O que é que a ETAR da tua cidade faz, por ordem?",
+            "Um marcador preto é feito de tinta preta?"
+          ],
+          "ae": [
+            "Identificar técnicas para separar componentes de misturas homogéneas e heterogéneas e efetuar a separação usando técnicas laboratoriais básicas, selecionando o material necessário.",
+            "Conhecer, recorrendo a fontes documentais, as técnicas de separação necessárias no tratamento de águas para consumo e de efluentes e a sua importância para o equilíbrio dos ecossistemas e qualidade de vida.",
+            "Pesquisar a aplicação do uso de técnicas de separação de misturas na indústria e em outras atividades e comunicar as conclusões."
+          ],
+          "atividades": [
+            {
+              "titulo": "Cromatografia de marcadores",
+              "tipo": "Laboratório caseiro",
+              "duracao": "35 min",
+              "material": ["Filtros de café ou papel de filtro", "Marcadores de várias cores, sobretudo pretos e castanhos", "Copos", "Água", "Álcool (para os marcadores permanentes)", "Lápis e clipes"],
+              "passos": [
+                "Corta tiras de papel de filtro com 3 cm de largura. Marca uma linha a lápis a 2 cm do fundo.",
+                "Faz um ponto grosso de marcador sobre essa linha, uma cor por tira.",
+                "Mergulha a ponta da tira em 1 cm de água, sem deixar o ponto tocar na água. Pendura a tira num lápis.",
+                "Espera 15 minutos e observa as cores a separarem-se e a subirem a alturas diferentes.",
+                "Compara marcadores pretos de marcas diferentes: as manchas são iguais? Consegues identificar a marca só pela cromatografia?"
+              ],
+              "ligacao": "Mostra a separação de uma mistura homogénea por uma técnica que não é óbvia, e liga à ideia de «impressão digital» química usada em análise forense.",
+              "reflexao": "Todos os pretos deram o mesmo padrão? O que é que isso te diz sobre a composição de cada tinta?"
+            },
+            {
+              "titulo": "Estação de tratamento em cima da mesa",
+              "tipo": "Laboratório caseiro",
+              "duracao": "1 h",
+              "material": ["Garrafa de plástico cortada ao meio", "Algodão", "Areia", "Gravilha lavada", "Carvão ativado ou carvão de churrasco partido", "Água suja preparada com terra, óleo, esferovite e corante", "Copos"],
+              "passos": [
+                "Prepara a água suja e deixa-a repousar. Observa: o que sobe, o que desce, o que fica em suspensão?",
+                "Faz a decantação: separa o óleo à superfície e a terra do fundo. Que propriedade permitiu esta separação?",
+                "Monta o filtro na garrafa invertida por camadas: algodão, carvão, areia fina, areia grossa, gravilha.",
+                "Passa a água decantada pelo filtro e recolhe. Compara com a original.",
+                "O corante não saiu com a areia. Investiga: em que fase do tratamento real de água é que ele sairia?",
+                "Faz uma pesquisa sobre a ETAR ou ETA mais próxima de casa e escreve as etapas por ordem."
+              ],
+              "ligacao": "Junta os três descritores do subdomínio: efetuar separações com técnicas básicas, conhecer o tratamento de águas e pesquisar aplicações reais.",
+              "cuidado": "A água filtrada não fica potável. Não se bebe.",
+              "reflexao": "Cada etapa do teu filtro tirou uma coisa diferente. Consegues escrever qual foi qual?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "energia",
+      "nome": "Energia",
+      "emoji": "⚡",
+      "sumario": "De onde vem, para onde vai, e por que razão nunca se perde de verdade.",
+      "subdominios": [
+        {
+          "id": "fontes-transferencias",
+          "nome": "Fontes de energia e transferências de energia",
+          "paraTi": "A energia não se cria nem se gasta: passa de um sítio para o outro e muda de forma. Um sistema é fonte quando cede energia e recetor quando a recebe — e o mesmo objeto pode ser as duas coisas em momentos diferentes. Vais identificar os três modos de transferência (condução, convecção e radiação), perceber por que motivo uma colher de metal aquece e uma de madeira não, e discutir a sério a diferença entre fontes renováveis e não renováveis. E vais separar duas palavras que se usam como sinónimos e não são: temperatura e calor.",
+          "perguntas": [
+            "Porque é que o chão de tijoleira parece mais frio do que o tapete, se estão à mesma temperatura?",
+            "Uma casa com bom isolamento gasta menos energia. Porquê, exatamente?",
+            "Se a energia se conserva sempre, por que razão temos uma crise energética?"
+          ],
+          "ae": [
+            "Identificar, em situações concretas, sistemas que são fontes ou recetores de energia, indicando o sentido de transferência da energia e concluindo que a energia se mantém na globalidade.",
+            "Identificar diversos processos de transferência de energia (condução, convecção e radiação) no dia a dia, justificando escolhas que promovam uma utilização racional da energia.",
+            "Distinguir fontes de energia renováveis de não renováveis e argumentar sobre as vantagens e desvantagens da sua utilização e as respetivas consequências na sustentabilidade da Terra.",
+            "Distinguir temperatura de calor, relacionando-os através de exemplos."
+          ],
+          "atividades": [
+            {
+              "titulo": "Corrida de colheres",
+              "tipo": "Laboratório caseiro",
+              "duracao": "25 min",
+              "material": ["Colheres de materiais diferentes: metal, madeira, plástico, silicone", "Manteiga ou margarina", "Feijões ou missangas", "Copo alto", "Água quente"],
+              "passos": [
+                "Cola um feijão na ponta de cada colher com um pouco de manteiga, todos à mesma altura.",
+                "Põe as colheres num copo e enche com água quente até meio, todas mergulhadas à mesma profundidade.",
+                "Cronometra: qual é o feijão que cai primeiro? E o último?",
+                "Ordena os materiais do melhor condutor ao pior isolador.",
+                "Explica com esta experiência porque é que as pegas das panelas não são de metal."
+              ],
+              "ligacao": "É a condução medida em vez de definida, e liga diretamente ao descritor de justificar escolhas que promovam uma utilização racional da energia.",
+              "cuidado": "Água quente da torneira ou aquecida e deixada arrefecer um pouco. Não é preciso água a ferver.",
+              "reflexao": "A energia passou da água para o feijão. A água ficou com menos — para onde é que ela foi?"
+            },
+            {
+              "titulo": "Auditoria energética de casa",
+              "tipo": "Investigação",
+              "duracao": "1 h 30 (ao longo de uma semana)",
+              "material": ["Uma fatura de eletricidade", "Caderno ou folha de cálculo", "Etiquetas energéticas dos eletrodomésticos"],
+              "passos": [
+                "Lista os 10 aparelhos que mais usam energia em casa e procura a potência de cada um, em watt.",
+                "Estima quantas horas por dia cada um funciona e calcula o consumo diário em kWh.",
+                "Compara a tua estimativa com o consumo real da fatura. Bateu certo? Onde é que falhaste?",
+                "Identifica, para cada aparelho, se ele é sobretudo fonte ou recetor de energia, e qual é a forma de energia que sai.",
+                "Descobre de onde vem a eletricidade que chega a tua casa: que percentagem é renovável, este ano, em Portugal?",
+                "Propõe três mudanças concretas e estima a poupança de cada uma."
+              ],
+              "ligacao": "Junta a identificação de fontes e recetores, a distinção renovável/não renovável e a argumentação sobre sustentabilidade, com números reais da casa.",
+              "reflexao": "A medida que mais poupa energia é a mesma que mais poupa dinheiro?"
+            },
+            {
+              "titulo": "Temperatura não é calor",
+              "tipo": "Laboratório caseiro",
+              "duracao": "30 min",
+              "material": ["Termómetro", "Duas tigelas: uma pequena e uma grande", "Água quente", "Cronómetro"],
+              "passos": [
+                "Enche a tigela pequena com 100 mL de água a 50 °C e a grande com 1 L de água a 50 °C.",
+                "Confirma com o termómetro que ambas estão à mesma temperatura.",
+                "Deixa as duas a arrefecer no mesmo sítio e mede a temperatura de 5 em 5 minutos durante meia hora.",
+                "Faz um gráfico com as duas curvas sobrepostas.",
+                "Responde: se estavam à mesma temperatura, porque é que uma arrefeceu muito mais depressa?"
+              ],
+              "ligacao": "É o descritor «distinguir temperatura de calor, relacionando-os através de exemplos», através de um caso em que a temperatura é igual e a energia envolvida não é.",
+              "reflexao": "Uma faísca está a 1000 °C e não te queima. Uma banheira está a 50 °C e queima. Porquê?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
