@@ -17,6 +17,7 @@
       "id": "espaco",
       "name": "Espaço",
       "emoji": "🔭",
+      "palette": "indigo",
       "summary": "Onde é que a Terra fica, como é que sabemos isso, e por que é que as coisas caem.",
       "subtopics": [
         {
@@ -211,6 +212,7 @@
       "id": "materiais",
       "name": "Materiais",
       "emoji": "🧪",
+      "palette": "green",
       "summary": "De que é feito o mundo, como se mistura, como se separa e como se transforma.",
       "subtopics": [
         {
@@ -530,6 +532,7 @@
       "id": "energia",
       "name": "Energia",
       "emoji": "⚡",
+      "palette": "orange",
       "summary": "De onde vem, para onde vai, e por que razão nunca se perde de verdade.",
       "subtopics": [
         {

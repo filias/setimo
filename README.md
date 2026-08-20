@@ -87,8 +87,11 @@ Keys in English, values in Portuguese.
 }
 ```
 
-Per-domain colours live in `DOMAIN_COLORS`, in `js/subject.js`. A domain with no
-entry in that map falls back to the brand colour.
+Each domain may carry a `palette`, one of `indigo`, `green`, `orange`, `purple`,
+`crimson`, `teal`, `amber` or `slate`. The values live in `css/style.css` and are
+defined for both themes; a domain with no palette falls back to the brand colour.
+Colours belong to the data rather than to a map in the code, because domain ids
+repeat across subjects — `gramatica` and `leitura` appear in three of them.
 
 ## About the sources
 

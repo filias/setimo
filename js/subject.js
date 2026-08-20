@@ -1,10 +1,7 @@
 /* Subject page: domains, subtopics, official essentials and activities. */
 
-const DOMAIN_COLORS = {
-  espaco: ['var(--space-color)', 'var(--space-light)'],
-  materiais: ['var(--materials-color)', 'var(--materials-light)'],
-  energia: ['var(--energy-color)', 'var(--energy-light)']
-};
+/* Palettes a domain may pick from, defined in css/style.css for both themes. */
+const PALETTES = ['indigo', 'green', 'orange', 'purple', 'crimson', 'teal', 'amber', 'slate'];
 
 (async function () {
   const content = document.getElementById('content');
@@ -75,7 +72,9 @@ function buildSourceLink(subject) {
 /* ---------------------------------------------------------------- domain -- */
 
 function buildDomain(domain, subject) {
-  const [color, colorLight] = DOMAIN_COLORS[domain.id] || ['var(--brand)', 'var(--brand-light)'];
+  const palette = PALETTES.includes(domain.palette) ? domain.palette : null;
+  const color = palette ? `var(--palette-${palette})` : 'var(--brand)';
+  const colorLight = palette ? `var(--palette-${palette}-light)` : 'var(--brand-light)';
 
   const section = el('section', {
     class: 'domain',
