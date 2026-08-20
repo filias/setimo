@@ -99,15 +99,15 @@ and the «para ti» passages are our own and carry no official standing.
 
 ## The matrix
 
-Thirteen subjects. Second Foreign Language is fixed as **French**, which is what
+Twelve subjects. Second Foreign Language is fixed as **French**, which is what
 this school offers; elsewhere it may be Spanish or German. Complemento à Educação
-Artística varies the same way, with each school's educational project. EMRC,
-being optional to attend, is not part of this matrix.
+Artística and EMRC are not part of this matrix — the first is a school-by-school
+offer, the second optional to attend.
 
 ## Status
 
 - [x] Físico-Química — 3 domains, 9 subtopics, 41 essential descriptors, 20 activities
-- [ ] The remaining twelve subjects of the seventh-grade matrix
+- [ ] The remaining eleven subjects of the seventh-grade matrix
 
 ## Publishing
 

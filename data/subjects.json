@@ -1,7 +1,7 @@
 {
   "year": "7.º ano",
   "cycle": "3.º ciclo do Ensino Básico",
-  "matrixNote": "Matriz curricular do 3.º ciclo, nos termos do Decreto-Lei n.º 55/2018, de 6 de julho. A Língua Estrangeira II aqui listada é o Francês; noutras escolas pode ser Espanhol ou Alemão. O Complemento à Educação Artística também varia com o projeto educativo de cada escola.",
+  "matrixNote": "Matriz curricular do 3.º ciclo, nos termos do Decreto-Lei n.º 55/2018, de 6 de julho. A Língua Estrangeira II aqui listada é o Francês; noutras escolas pode ser Espanhol ou Alemão.",
   "subjects": [
     {
       "id": "portugues",
@@ -75,14 +75,6 @@
       "area": "Educação Artística",
       "status": "pending",
       "summary": "Apropriação e reflexão, interpretação e comunicação, experimentação e criação. Desenho, geometria e comunicação visual."
-    },
-    {
-      "id": "complemento-artistica",
-      "name": "Complemento à Educação Artística",
-      "emoji": "🎭",
-      "area": "Educação Artística",
-      "status": "pending",
-      "summary": "Oferta de escola: música, teatro, dança ou artes visuais, conforme o projeto educativo."
     },
     {
       "id": "tic",
