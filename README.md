@@ -1,129 +1,130 @@
 # Sétimo
 
-Um site sobre o 7.º ano de escolaridade em Portugal: as disciplinas, o currículo
-oficial (Aprendizagens Essenciais da DGE) e atividades para fazer fora da sala de aula.
+A site about the seventh grade in Portugal: the subjects, the official curriculum
+(the DGE's *Aprendizagens Essenciais*) and activities to do outside the classroom.
 
-No ar em **<https://setimo.filias.dev>**.
+Live at **<https://setimo.filias.dev>**.
 
-HTML, CSS e JavaScript sem build. O conteúdo vive em ficheiros JSON, separado da marcação.
+HTML, CSS and JavaScript, no build step. The content lives in JSON files, kept
+apart from the markup.
 
-## Correr
+## Running it
 
 ```bash
 python3 server.py
 ```
 
-Abre em `http://localhost:8000`. É preciso servidor porque o site lê os JSON com
-`fetch()`, e o navegador bloqueia isso em `file://`.
+Opens at `http://localhost:8000`. A server is needed because the site reads its
+JSON with `fetch()`, which browsers block over `file://`.
 
-## Estrutura
+## Layout
 
 ```
-index.html          Grelha das disciplinas do 7.º ano
-subject.html        Página genérica; a disciplina vem de ?subject=<id>
-css/style.css       Folha única, com tokens em :root e tema claro/escuro
-js/common.js        Tema, carregamento de JSON, criação de elementos
-js/home.js          Grelha da página inicial
-js/subject.js       Renderização de domínios, subdomínios, AE e atividades
-data/               O conteúdo todo
-favicon.svg         O sete cortado; o .ico e o PNG de 180 px ao lado
-favicons/           Os seis desenhos que estiveram em cima da mesa
-server.py           Servidor local sem dependências
-deploy/             Webhook de publicação e unidade systemd
+index.html          Grid of the seventh-grade subjects
+subject.html        Generic page; the subject comes from ?subject=<id>
+css/style.css       Single stylesheet, tokens on :root, light and dark themes
+js/common.js        Theme, JSON loading, element creation
+js/home.js          The home-page grid
+js/subject.js       Renders domains, subtopics, essentials and activities
+data/               All of the content
+favicon.svg         The crossed seven; the .ico and 180 px PNG sit beside it
+favicons/           The six designs that were on the table
+server.py           Local server, no dependencies
+deploy/             Publish webhook and its systemd unit
 ```
 
-O código é todo em inglês — nomes de ficheiros, classes, funções, variáveis e
-chaves de JSON. Em português fica só o que se lê no ecrã: os valores do JSON, o
-texto das páginas e as mensagens ao utilizador. Os `id` das disciplinas e dos
-domínios (`fisico-quimica`, `espaco`) também ficam em português, porque são
-identificadores de conteúdo e aparecem no endereço.
+The code is entirely in English — filenames, classes, functions, variables and
+JSON keys. Portuguese is reserved for what appears on screen: the JSON values,
+the page copy and the messages shown to the reader. Subject and domain `id`s
+(`fisico-quimica`, `espaco`) stay Portuguese too, since they are content
+identifiers and show up in the URL.
 
-## As três camadas de leitura
+## The three reading layers
 
-Cada subdomínio tem duas escritas do mesmo assunto, e o botão no topo escolhe o que se vê:
+Every subtopic is written twice, and the button in the header picks what you see:
 
-| Modo | Mostra |
+| Mode | Shows |
 |---|---|
-| **Aluno** | Só o texto narrativo, as perguntas e as atividades |
-| **Ambos** | Tudo, com as Aprendizagens Essenciais recolhidas num painel |
-| **Currículo** | Aprendizagens Essenciais abertas, narrativa reduzida a contexto |
+| **Aluno** | Only the narrative text, the questions and the activities |
+| **Ambos** | Everything, with the essentials folded into a panel |
+| **Currículo** | Essentials opened, narrative reduced to context |
 
-A escolha fica guardada em `localStorage`.
+The choice is kept in `localStorage`.
 
-## Acrescentar uma disciplina
+## Adding a subject
 
-1. Cria `data/<id>.json` com a mesma forma de `data/fisico-quimica.json`.
-2. Em `data/subjects.json`, muda o `status` dessa disciplina para `"ready"`.
+1. Create `data/<id>.json` in the same shape as `data/fisico-quimica.json`.
+2. In `data/subjects.json`, change that subject's `status` to `"ready"`.
 
-O `id` da disciplina é o nome do ficheiro e o valor de `?subject=` no endereço.
+A subject's `id` is both its filename and the value of `?subject=` in the URL.
 
-### Forma de `data/<id>.json`
+### Shape of `data/<id>.json`
 
-As chaves são em inglês, os valores em português.
+Keys in English, values in Portuguese.
 
 ```jsonc
 {
   "id": "…", "name": "…", "emoji": "…", "year": "7.º ano", "cycle": "…",
-  "intro": "…",            // enquadramento da disciplina
-  "studentIntro": "…",     // a mesma coisa, para o aluno
+  "intro": "…",            // framing of the subject
+  "studentIntro": "…",     // the same thing, for the student
   "source": { "title": "…", "publisher": "…", "url": "…", "note": "…" },
   "domains": [{
     "id": "…", "name": "…", "emoji": "…", "summary": "…",
     "subtopics": [{
       "id": "…", "name": "…",
-      "student": "…",            // camada do aluno
-      "questions": ["…"],        // perguntas de arranque
-      "essentials": ["…"],       // descritores oficiais das AE, texto literal
+      "student": "…",            // the student layer
+      "questions": ["…"],        // opening questions
+      "essentials": ["…"],       // official descriptors, verbatim
       "activities": [{
         "title": "…", "type": "…", "duration": "…",
         "materials": ["…"], "steps": ["…"],
-        "curriculumLink": "…",   // que descritor do currículo é que isto cobre
-        "safety": "…",           // opcional: segurança
-        "reflection": "…"        // pergunta de fecho
+        "curriculumLink": "…",   // which descriptor this activity covers
+        "safety": "…",           // optional: safety note
+        "reflection": "…"        // closing question
       }]
     }]
   }]
 }
 ```
 
-As cores por domínio estão em `DOMAIN_COLORS`, em `js/subject.js`. Um domínio
-sem entrada nesse mapa usa a cor da marca.
+Per-domain colours live in `DOMAIN_COLORS`, in `js/subject.js`. A domain with no
+entry in that map falls back to the brand colour.
 
-## Sobre as fontes
+## About the sources
 
-O texto na camada «Aprendizagens Essenciais (oficial)» é transcrito dos documentos
-homologados pela [Direção-Geral da Educação](https://www.dge.mec.pt/aprendizagens-essenciais-0),
-ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. As atividades,
-as perguntas e os textos «para ti» são propostas próprias e não têm carácter oficial.
+The text in the «Aprendizagens Essenciais (oficial)» layer is transcribed from the
+documents ratified by the [Direção-Geral da Educação](https://www.dge.mec.pt/aprendizagens-essenciais-0),
+under article 38 of Decree-Law 55/2018 of 6 July. The activities, the questions
+and the «para ti» passages are our own and carry no official standing.
 
-## A matriz
+## The matrix
 
-Treze disciplinas. A Língua Estrangeira II está fixada no **Francês**, que é a
-oferta desta escola; noutras pode ser Espanhol ou Alemão. O Complemento à
-Educação Artística varia da mesma maneira, com o projeto educativo de cada
-escola. A EMRC, de frequência facultativa, não consta desta matriz.
+Thirteen subjects. Second Foreign Language is fixed as **French**, which is what
+this school offers; elsewhere it may be Spanish or German. Complemento à Educação
+Artística varies the same way, with each school's educational project. EMRC,
+being optional to attend, is not part of this matrix.
 
-## Estado
+## Status
 
-- [x] Físico-Química — 3 domínios, 9 subdomínios, 41 descritores das AE, 20 atividades
-- [ ] As restantes doze disciplinas da matriz do 7.º ano
+- [x] Físico-Química — 3 domains, 9 subtopics, 41 essential descriptors, 20 activities
+- [ ] The remaining twelve subjects of the seventh-grade matrix
 
-## Publicação
+## Publishing
 
-Um push para `main` publica em <https://setimo.filias.dev>. O GitHub chama
-`https://setimo.filias.dev/deploy`, o `deploy/webhook.py` verifica a assinatura
-HMAC e faz `git pull --ff-only` em `/opt/setimo`. O Caddy serve a pasta tal como
-está — não há passo de build, e o que está no repositório é o que fica no ar.
+A push to `main` publishes to <https://setimo.filias.dev>. GitHub calls
+`https://setimo.filias.dev/deploy`, `deploy/webhook.py` checks the HMAC signature
+and runs `git pull --ff-only` in `/opt/setimo`. Caddy serves the folder as it
+stands — no build step, so what is in the repository is what goes live.
 
-| Peça | Onde |
+| Piece | Where |
 |---|---|
-| Repositório | <https://github.com/filias/setimo> |
-| Ficheiros | `/opt/setimo`, clonado com uma chave de leitura própria |
-| Bloco do Caddy | `/etc/caddy/Caddyfile`, host `setimo.filias.dev` |
-| Serviço | `setimo-webhook.service`, à escuta em `127.0.0.1:9017` |
-| Segredo | `/etc/setimo-webhook.env`, o mesmo que está no webhook do GitHub |
+| Repository | <https://github.com/filias/setimo> |
+| Files | `/opt/setimo`, cloned with its own read-only key |
+| Caddy block | `/etc/caddy/Caddyfile`, host `setimo.filias.dev` |
+| Service | `setimo-webhook.service`, listening on `127.0.0.1:9017` |
+| Secret | `/etc/setimo-webhook.env`, matching the one in the GitHub webhook |
 
-O bloco do Caddy:
+The Caddy block:
 
 ```caddy
 setimo.filias.dev {
@@ -140,30 +141,31 @@ setimo.filias.dev {
 }
 ```
 
-O `hide` é preciso: sem ele o `file_server` serve `/.git/`, e com ela toda a
-história do repositório.
+The `hide` matters: without it `file_server` serves `/.git/`, and with it the
+whole history of the repository.
 
-### Montar de novo
+### Setting it up again
 
-Se for preciso repor isto num servidor limpo:
+To restore this on a clean server:
 
-1. `ssh-keygen -t ed25519 -f /root/.ssh/setimo_deploy -N ""` e junta a pública
-   às *deploy keys* do repositório, só de leitura.
-2. Um `Host github-setimo` em `/root/.ssh/config` a apontar para essa chave.
+1. `ssh-keygen -t ed25519 -f /root/.ssh/setimo_deploy -N ""` and add the public
+   half to the repository's deploy keys, read-only.
+2. A `Host github-setimo` entry in `/root/.ssh/config` pointing at that key.
 3. `git clone git@github-setimo:filias/setimo.git /opt/setimo`.
 4. `printf 'WEBHOOK_SECRET=%s\n' "$(openssl rand -hex 32)" > /etc/setimo-webhook.env`
-   com `umask 077`, e o mesmo segredo no webhook do GitHub.
-5. `cp deploy/setimo-webhook.service /etc/systemd/system/` e
+   under `umask 077`, and the same secret in the GitHub webhook.
+5. `cp deploy/setimo-webhook.service /etc/systemd/system/` and
    `systemctl enable --now setimo-webhook`.
-6. O bloco acima no `/etc/caddy/Caddyfile`, `caddy validate` e `systemctl reload caddy`.
+6. The block above in `/etc/caddy/Caddyfile`, then `caddy validate` and
+   `systemctl reload caddy`.
 
-### Confirmar que está bom
+### Checking it worked
 
 ```bash
 curl -s -o /dev/null -w '%{http_code}\n' https://setimo.filias.dev/   # 200
 curl -s -o /dev/null -w '%{http_code}\n' https://setimo.filias.dev/.git/config  # 404
-ssh memi 'git -C /opt/setimo rev-parse --short HEAD'                  # igual ao local
+ssh memi 'git -C /opt/setimo rev-parse --short HEAD'                  # matches local
 ```
 
-Se um push não chegar ao ar, a entrega fica registada no GitHub, em
-*Settings → Webhooks*, com o pedido e a resposta.
+If a push does not reach the air, the delivery is recorded on GitHub under
+*Settings → Webhooks*, with both the request and the response.
