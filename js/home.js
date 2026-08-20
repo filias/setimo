@@ -26,7 +26,6 @@
     }, [
       el('span', { class: 'badge ' + subject.status, text: isReady ? 'Pronto' : 'Em breve' }),
       el('span', { class: 'emoji', text: subject.emoji, 'aria-hidden': 'true' }),
-      el('span', { class: 'area', text: subject.area }),
       el('h3', { text: subject.name }),
       el('p', { text: subject.summary })
     ]);

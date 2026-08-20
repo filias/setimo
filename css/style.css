@@ -324,16 +324,6 @@ a.card:hover {
 .card h3 { font-size: 1.15rem; margin-bottom: .35rem; }
 .card p { font-size: .9rem; color: var(--text-soft); margin: 0; }
 
-.card .area {
-  font-size: .7rem;
-  text-transform: uppercase;
-  letter-spacing: .07em;
-  color: var(--text-faint);
-  font-weight: 600;
-  margin-bottom: .5rem;
-  display: block;
-}
-
 .badge {
   position: absolute;
   top: 1rem;
