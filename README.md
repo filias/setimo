@@ -3,6 +3,8 @@
 Um site sobre o 7.º ano de escolaridade em Portugal: as disciplinas, o currículo
 oficial (Aprendizagens Essenciais da DGE) e atividades para fazer fora da sala de aula.
 
+No ar em **<https://setimo.filias.dev>**.
+
 HTML, CSS e JavaScript sem build. O conteúdo vive em ficheiros JSON, separado da marcação.
 
 ## Correr
@@ -87,3 +89,17 @@ as perguntas e os textos «para ti» são propostas próprias e não têm carác
 
 - [x] Físico-Química — 3 domínios, 9 subdomínios, 41 descritores das AE, 20 atividades
 - [ ] As restantes treze disciplinas da matriz do 7.º ano
+
+## Publicação
+
+Um push para `main` publica em `setimo.filias.dev`. O GitHub chama
+`https://setimo.filias.dev/deploy`, o `deploy/webhook.py` verifica a assinatura
+HMAC e faz `git pull --ff-only` em `/opt/setimo`. O Caddy serve a pasta tal como
+está — não há passo de build.
+
+| Peça | Onde |
+|---|---|
+| Ficheiros | `/opt/setimo` no servidor |
+| Bloco do Caddy | `/etc/caddy/Caddyfile`, host `setimo.filias.dev` |
+| Serviço | `setimo-webhook.service`, à escuta em `127.0.0.1:9017` |
+| Segredo | `/etc/setimo-webhook.env` |
