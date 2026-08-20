@@ -392,6 +392,33 @@ a.cartao:hover {
 
 .atalho:hover { background: var(--fundo-suave); color: var(--texto); }
 
+/* Ligação ao PDF da DGE. Fica no herói, à vista em qualquer modo de leitura. */
+.fonte-oficial { margin-top: 1.4rem; }
+
+.fonte-oficial a {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  font-size: .9rem;
+  color: var(--marca);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+.fonte-oficial a:hover { color: var(--texto); }
+
+.tipo-ficheiro {
+  font-size: .72rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--texto-ténue);
+  border: 1px solid var(--borda);
+  border-radius: 999px;
+  padding: .1rem .45rem;
+  text-decoration: none;
+}
+
 /* --- domínios --- */
 
 .dominio { padding: 3rem 0 1rem; scroll-margin-top: 5rem; }
@@ -673,7 +700,13 @@ body[data-modo="curriculo"] .perguntas { display: none; }
 }
 
 .rodape p { max-width: var(--largura-texto); }
-.rodape a { color: var(--texto-suave); }
+.rodape a {
+  color: var(--texto-suave);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.rodape a:hover { color: var(--texto); }
 
 /* ------------------------------------------------------------- estado --- */
 

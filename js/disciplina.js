@@ -50,7 +50,24 @@ function construirHeroi(d) {
       el('h1', {}, [el('span', { texto: d.emoji, 'aria-hidden': 'true' }), d.nome]),
       el('p', { class: 'lead para-ti', texto: d.paraTiIntro }),
       el('p', { class: 'lead', texto: d.intro }),
-      atalhos
+      atalhos,
+      construirLigacaoFonte(d)
+    ])
+  ]);
+}
+
+/** Ligação ao PDF oficial da DGE, visível em qualquer modo de leitura. */
+function construirLigacaoFonte(d) {
+  return el('p', { class: 'fonte-oficial' }, [
+    el('a', {
+      href: d.fonte.url,
+      target: '_blank',
+      rel: 'noopener',
+      title: d.fonte.titulo
+    }, [
+      el('span', { texto: '📄', 'aria-hidden': 'true' }),
+      'Currículo oficial: Aprendizagens Essenciais de ' + d.nome,
+      el('span', { class: 'tipo-ficheiro', texto: 'PDF, DGE' })
     ])
   ]);
 }
