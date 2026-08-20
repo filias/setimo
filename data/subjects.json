@@ -1,0 +1,112 @@
+{
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "matrixNote": "Matriz curricular do 3.º ciclo, nos termos do Decreto-Lei n.º 55/2018, de 6 de julho. A Língua Estrangeira II aqui listada é o Francês; noutras escolas pode ser Espanhol ou Alemão. O Complemento à Educação Artística também varia com o projeto educativo de cada escola.",
+  "subjects": [
+    {
+      "id": "portugues",
+      "name": "Português",
+      "emoji": "📖",
+      "area": "Línguas",
+      "status": "pending",
+      "summary": "Oralidade, leitura, escrita, educação literária e gramática. No 7.º ano entram os textos narrativos e a poesia trovadoresca."
+    },
+    {
+      "id": "ingles",
+      "name": "Inglês (LE I)",
+      "emoji": "🇬🇧",
+      "area": "Línguas",
+      "status": "pending",
+      "summary": "Continuação da língua estrangeira iniciada no 2.º ciclo. Nível A2.2 / B1 do Quadro Europeu Comum de Referência."
+    },
+    {
+      "id": "frances",
+      "name": "Francês (LE II)",
+      "emoji": "🇫🇷",
+      "area": "Línguas",
+      "status": "pending",
+      "summary": "A segunda língua estrangeira, começada do zero no 7.º ano — nível A1 do Quadro Europeu Comum de Referência."
+    },
+    {
+      "id": "historia",
+      "name": "História",
+      "emoji": "🏛️",
+      "area": "Ciências Sociais e Humanas",
+      "status": "pending",
+      "summary": "Das primeiras civilizações à Europa medieval: Antiguidade, Grécia, Roma, a Península Ibérica e a formação de Portugal."
+    },
+    {
+      "id": "geografia",
+      "name": "Geografia",
+      "emoji": "🌍",
+      "area": "Ciências Sociais e Humanas",
+      "status": "pending",
+      "summary": "A Terra: estudos e representações, o meio natural, e a leitura de mapas, escalas e coordenadas geográficas."
+    },
+    {
+      "id": "matematica",
+      "name": "Matemática",
+      "emoji": "📐",
+      "area": "Matemática",
+      "status": "pending",
+      "summary": "Números racionais, potências, equações do 1.º grau, funções, semelhança de triângulos e estatística."
+    },
+    {
+      "id": "ciencias-naturais",
+      "name": "Ciências Naturais",
+      "emoji": "🌱",
+      "area": "Ciências Físico-Naturais",
+      "status": "pending",
+      "summary": "A Terra em transformação: dinâmica interna e externa, rochas, sismos, vulcões e a estrutura do planeta."
+    },
+    {
+      "id": "fisico-quimica",
+      "name": "Físico-Química",
+      "emoji": "⚗️",
+      "area": "Ciências Físico-Naturais",
+      "status": "ready",
+      "featured": true,
+      "summary": "Estreia no 7.º ano. Três grandes domínios: o Espaço, os Materiais e a Energia."
+    },
+    {
+      "id": "educacao-visual",
+      "name": "Educação Visual",
+      "emoji": "🎨",
+      "area": "Educação Artística",
+      "status": "pending",
+      "summary": "Apropriação e reflexão, interpretação e comunicação, experimentação e criação. Desenho, geometria e comunicação visual."
+    },
+    {
+      "id": "complemento-artistica",
+      "name": "Complemento à Educação Artística",
+      "emoji": "🎭",
+      "area": "Educação Artística",
+      "status": "pending",
+      "summary": "Oferta de escola: música, teatro, dança ou artes visuais, conforme o projeto educativo."
+    },
+    {
+      "id": "tic",
+      "name": "TIC",
+      "emoji": "💻",
+      "area": "Educação Tecnológica",
+      "status": "pending",
+      "summary": "Segurança e responsabilidade digital, investigar e pesquisar, comunicar e colaborar, criar e inovar."
+    },
+    {
+      "id": "educacao-fisica",
+      "name": "Educação Física",
+      "emoji": "🏃",
+      "area": "Educação Física",
+      "status": "pending",
+      "summary": "Atividades físicas e desportivas, aptidão física e conhecimentos sobre saúde e atividade física."
+    },
+    {
+      "id": "cidadania",
+      "name": "Cidadania e Desenvolvimento",
+      "emoji": "🤝",
+      "area": "Componente de currículo",
+      "status": "pending",
+      "summary": "Domínios obrigatórios: direitos humanos, igualdade de género, interculturalidade, desenvolvimento sustentável, educação ambiental e saúde."
+    }
+  ]
+}

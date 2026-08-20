@@ -1,28 +1,31 @@
 <!DOCTYPE html>
-<html lang="pt-PT" data-tema="">
+<html lang="pt-PT" data-theme="">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sétimo — o 7.º ano, disciplina a disciplina</title>
   <meta name="description" content="As disciplinas do 7.º ano em Portugal, o currículo oficial e atividades para experimentar em casa.">
-  <link rel="stylesheet" href="css/estilo.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚗️</text></svg>">
+  <meta name="theme-color" content="#1f6f5c">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
 </head>
 <body>
 
-<header class="topo">
-  <div class="topo-int">
-    <a class="marca" href="index.html">Sétimo <span>7.º ano</span></a>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="brand" href="index.html">Sétimo <span>7.º ano</span></a>
     <nav>
-      <button class="botao-topo" id="alterna-tema" type="button" title="Alternar tema claro/escuro">🌗</button>
+      <button class="header-button" id="theme-toggle" type="button" title="Alternar tema claro/escuro">🌗</button>
     </nav>
   </div>
 </header>
 
 <main>
-  <section class="heroi">
-    <div class="envolve">
-      <span class="etiqueta-ano">3.º ciclo do Ensino Básico</span>
+  <section class="hero">
+    <div class="wrap">
+      <span class="year-tag">3.º ciclo do Ensino Básico</span>
       <h1>O 7.º ano, disciplina a disciplina</h1>
       <p class="lead">
         O que se aprende em cada disciplina este ano — com o currículo oficial das
@@ -32,22 +35,22 @@
     </div>
   </section>
 
-  <section class="seccao">
-    <div class="envolve">
-      <div class="seccao-cab">
+  <section class="section">
+    <div class="wrap">
+      <div class="section-header">
         <h2>Disciplinas</h2>
-        <span class="sub" id="contagem"></span>
+        <span class="section-count" id="subject-count"></span>
       </div>
-      <div class="grelha" id="grelha-disciplinas">
-        <p class="estado">A carregar…</p>
+      <div class="grid" id="subject-grid">
+        <p class="status">A carregar…</p>
       </div>
-      <p class="nota-matriz" id="nota-matriz"></p>
+      <p class="matrix-note" id="matrix-note"></p>
     </div>
   </section>
 </main>
 
-<footer class="rodape">
-  <div class="envolve">
+<footer class="site-footer">
+  <div class="wrap">
     <p>
       <strong>Sétimo</strong> — um caderno de bordo para o 7.º ano. O texto das
       Aprendizagens Essenciais é transcrito dos documentos homologados pela
@@ -58,7 +61,7 @@
   </div>
 </footer>
 
-<script src="js/comum.js"></script>
-<script src="js/inicio.js"></script>
+<script src="js/common.js"></script>
+<script src="js/home.js"></script>
 </body>
 </html>

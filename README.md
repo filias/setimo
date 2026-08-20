@@ -10,7 +10,7 @@ HTML, CSS e JavaScript sem build. O conteúdo vive em ficheiros JSON, separado d
 ## Correr
 
 ```bash
-python3 servidor.py
+python3 server.py
 ```
 
 Abre em `http://localhost:8000`. É preciso servidor porque o site lê os JSON com
@@ -20,15 +20,23 @@ Abre em `http://localhost:8000`. É preciso servidor porque o site lê os JSON c
 
 ```
 index.html          Grelha das disciplinas do 7.º ano
-disciplina.html     Página genérica; a disciplina vem de ?d=<id>
-css/estilo.css      Folha única, com tokens em :root e tema claro/escuro
-js/comum.js         Tema, carregamento de JSON, criação de elementos
-js/inicio.js        Grelha da página inicial
-js/disciplina.js    Renderização de domínios, subdomínios, AE e atividades
-dados/              O conteúdo todo
-servidor.py         Servidor local sem dependências
+subject.html        Página genérica; a disciplina vem de ?subject=<id>
+css/style.css       Folha única, com tokens em :root e tema claro/escuro
+js/common.js        Tema, carregamento de JSON, criação de elementos
+js/home.js          Grelha da página inicial
+js/subject.js       Renderização de domínios, subdomínios, AE e atividades
+data/               O conteúdo todo
+favicon.svg         O sete cortado; o .ico e o PNG de 180 px ao lado
+favicons/           Os seis desenhos que estiveram em cima da mesa
+server.py           Servidor local sem dependências
 deploy/             Webhook de publicação e unidade systemd
 ```
+
+O código é todo em inglês — nomes de ficheiros, classes, funções, variáveis e
+chaves de JSON. Em português fica só o que se lê no ecrã: os valores do JSON, o
+texto das páginas e as mensagens ao utilizador. Os `id` das disciplinas e dos
+domínios (`fisico-quimica`, `espaco`) também ficam em português, porque são
+identificadores de conteúdo e aparecem no endereço.
 
 ## As três camadas de leitura
 
@@ -44,39 +52,41 @@ A escolha fica guardada em `localStorage`.
 
 ## Acrescentar uma disciplina
 
-1. Cria `dados/<id>.json` com a mesma forma de `dados/fisico-quimica.json`.
-2. Em `dados/disciplinas.json`, muda o `estado` dessa disciplina para `"pronto"`.
+1. Cria `data/<id>.json` com a mesma forma de `data/fisico-quimica.json`.
+2. Em `data/subjects.json`, muda o `status` dessa disciplina para `"ready"`.
 
-O `id` da disciplina é o nome do ficheiro e o valor de `?d=` no endereço.
+O `id` da disciplina é o nome do ficheiro e o valor de `?subject=` no endereço.
 
-### Forma de `dados/<id>.json`
+### Forma de `data/<id>.json`
+
+As chaves são em inglês, os valores em português.
 
 ```jsonc
 {
-  "id": "…", "nome": "…", "emoji": "…", "ano": "7.º ano", "ciclo": "…",
+  "id": "…", "name": "…", "emoji": "…", "year": "7.º ano", "cycle": "…",
   "intro": "…",            // enquadramento da disciplina
-  "paraTiIntro": "…",      // a mesma coisa, para o aluno
-  "fonte": { "titulo": "…", "editor": "…", "url": "…", "nota": "…" },
-  "dominios": [{
-    "id": "…", "nome": "…", "emoji": "…", "sumario": "…",
-    "subdominios": [{
-      "id": "…", "nome": "…",
-      "paraTi": "…",             // camada do aluno
-      "perguntas": ["…"],        // perguntas de arranque
-      "ae": ["…"],               // descritores oficiais, texto literal
-      "atividades": [{
-        "titulo": "…", "tipo": "…", "duracao": "…",
-        "material": ["…"], "passos": ["…"],
-        "ligacao": "…",          // que descritor do currículo é que isto cobre
-        "cuidado": "…",          // opcional: segurança
-        "reflexao": "…"          // pergunta de fecho
+  "studentIntro": "…",     // a mesma coisa, para o aluno
+  "source": { "title": "…", "publisher": "…", "url": "…", "note": "…" },
+  "domains": [{
+    "id": "…", "name": "…", "emoji": "…", "summary": "…",
+    "subtopics": [{
+      "id": "…", "name": "…",
+      "student": "…",            // camada do aluno
+      "questions": ["…"],        // perguntas de arranque
+      "essentials": ["…"],       // descritores oficiais das AE, texto literal
+      "activities": [{
+        "title": "…", "type": "…", "duration": "…",
+        "materials": ["…"], "steps": ["…"],
+        "curriculumLink": "…",   // que descritor do currículo é que isto cobre
+        "safety": "…",           // opcional: segurança
+        "reflection": "…"        // pergunta de fecho
       }]
     }]
   }]
 }
 ```
 
-As cores por domínio estão em `CORES_DOMINIO`, em `js/disciplina.js`. Um domínio
+As cores por domínio estão em `DOMAIN_COLORS`, em `js/subject.js`. Um domínio
 sem entrada nesse mapa usa a cor da marca.
 
 ## Sobre as fontes
