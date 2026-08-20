@@ -88,7 +88,7 @@ as perguntas e os textos «para ti» são propostas próprias e não têm carác
 ## Estado
 
 - [x] Físico-Química — 3 domínios, 9 subdomínios, 41 descritores das AE, 20 atividades
-- [ ] As restantes treze disciplinas da matriz do 7.º ano
+- [ ] As restantes doze disciplinas da matriz do 7.º ano
 
 ## Publicação
 

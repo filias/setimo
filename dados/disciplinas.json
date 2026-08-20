@@ -1,7 +1,7 @@
 {
   "ano": "7.º ano",
   "ciclo": "3.º ciclo do Ensino Básico",
-  "notaMatriz": "Matriz curricular do 3.º ciclo, nos termos do Decreto-Lei n.º 55/2018, de 6 de julho. A oferta concreta (Língua Estrangeira II, Complemento à Educação Artística, EMRC) varia de escola para escola.",
+  "notaMatriz": "Matriz curricular do 3.º ciclo, nos termos do Decreto-Lei n.º 55/2018, de 6 de julho. A Língua Estrangeira II aqui listada é o Francês; noutras escolas pode ser Espanhol ou Alemão. O Complemento à Educação Artística também varia com o projeto educativo de cada escola.",
   "disciplinas": [
     {
       "id": "portugues",
@@ -20,12 +20,12 @@
       "resumo": "Continuação da língua estrangeira iniciada no 2.º ciclo. Nível A2.2 / B1 do Quadro Europeu Comum de Referência."
     },
     {
-      "id": "lingua-estrangeira-ii",
-      "nome": "Língua Estrangeira II",
-      "emoji": "🗣️",
+      "id": "frances",
+      "nome": "Francês (LE II)",
+      "emoji": "🇫🇷",
       "area": "Línguas",
       "estado": "por-fazer",
-      "resumo": "Francês, Espanhol ou Alemão, conforme a oferta da escola. Começa do zero no 7.º ano — nível A1."
+      "resumo": "A segunda língua estrangeira, começada do zero no 7.º ano — nível A1 do Quadro Europeu Comum de Referência."
     },
     {
       "id": "historia",
@@ -107,14 +107,6 @@
       "area": "Componente de currículo",
       "estado": "por-fazer",
       "resumo": "Domínios obrigatórios: direitos humanos, igualdade de género, interculturalidade, desenvolvimento sustentável, educação ambiental e saúde."
-    },
-    {
-      "id": "emrc",
-      "nome": "EMRC",
-      "emoji": "✨",
-      "area": "Disciplina de frequência facultativa",
-      "estado": "por-fazer",
-      "resumo": "Educação Moral e Religiosa Católica. Frequência facultativa, por opção dos encarregados de educação."
     }
   ]
 }
