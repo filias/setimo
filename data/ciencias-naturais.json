@@ -1,0 +1,321 @@
+{
+  "id": "ciencias-naturais",
+  "name": "Ciências Naturais",
+  "emoji": "🌱",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "As Ciências Naturais do 7.º ano têm um único tema — Terra em transformação — dividido em cinco subtemas: a dinâmica externa da Terra, a estrutura e dinâmica interna, as consequências dessa dinâmica interna, a história que a Terra conta através dos fósseis, e a ciência geológica ao serviço da sustentabilidade. É um ano inteiro de geologia, com muito trabalho de campo e de amostra de mão.",
+  "studentIntro": "O chão que pisas está a mover-se. Devagar — mais ou menos à velocidade a que te crescem as unhas — mas nunca parou. A Índia foi uma ilha que embateu na Ásia e continua a empurrar, e é por isso que os Himalaias ainda estão a crescer. Este ano vais aprender a ler a paisagem como quem lê um texto: uma rocha diz onde se formou, um fóssil diz que idade tem a camada, e uma dobra numa falésia conta uma pressão que durou milhões de anos. É a disciplina que te dá o hábito de olhar para uma pedra e perguntar de onde veio.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Ciências Naturais, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/ciencias_naturais_3c_7a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho."
+  },
+  "domains": [
+    {
+      "id": "terra-em-transformacao",
+      "name": "Terra em transformação",
+      "emoji": "🌋",
+      "palette": "orange",
+      "summary": "Um ano inteiro a perceber que o planeta é um sistema em movimento, e a ler as marcas que isso deixa.",
+      "subtopics": [
+        {
+          "id": "dinamica-externa",
+          "name": "Dinâmica externa da Terra",
+          "student": "A água, o vento e os seres vivos gastam a paisagem sem parar. Levam material de um sítio, transportam-no e largam-no noutro — e onde o largam em quantidade suficiente, com tempo e pressão a mais, formam-se rochas sedimentares. É o tipo de rocha mais fácil de ler, porque guarda a memória do sítio onde se formou: um calcário conta um mar antigo, um arenito conta uma praia ou um deserto. Este subtema começa fora da sala, a caracterizar a paisagem à volta da escola.",
+          "questions": [
+            "Que rochas dominam a paisagem à volta da tua escola?",
+            "Para onde é que vai a terra que a chuva leva do teu bairro?",
+            "Como é que uma pedra solta se transforma em rocha maciça?"
+          ],
+          "essentials": [
+            "Caracterizar a paisagem envolvente da escola (rochas dominantes, relevo), a partir de dados recolhidos no campo.",
+            "Identificar alguns minerais (biotite, calcite, feldspato, moscovite, olivina, quartzo), em amostras de mão de rochas e de minerais.",
+            "Relacionar a ação de agentes de geodinâmica externa (água, vento e seres vivos) com a modelação de diferentes paisagens, privilegiando o contexto português.",
+            "Interpretar modelos que evidenciem a dinâmica de um curso de água (transporte e deposição de materiais), relacionando as observações efetuadas com problemáticas locais ou regionais de cariz CTSA.",
+            "Explicar processos envolvidos na formação de rochas sedimentares (sedimentogénese e diagénese) apresentados em suportes diversificados (esquemas, figuras, textos).",
+            "Distinguir rochas detríticas, de quimiogénicas e de biogénicas em amostras de mão."
+          ],
+          "activities": [
+            {
+              "title": "O frasco que separa os sedimentos",
+              "type": "Experiência",
+              "duration": "40 min mais uma noite",
+              "materials": [
+                "Um frasco alto com tampa",
+                "Terra do jardim, areia grossa, areia fina e um pouco de argila",
+                "Água"
+              ],
+              "steps": [
+                "Enche o frasco até meio com a mistura de terra, areias e argila.",
+                "Acrescenta água até quase acima e fecha bem.",
+                "Agita com força durante meio minuto e pousa o frasco.",
+                "Observa aos cinco minutos, à hora e no dia seguinte, desenhando as camadas de cada vez.",
+                "Escreve o que ficou em baixo e o que ficou em cima, e explica porquê."
+              ],
+              "curriculumLink": "Modela o transporte e a deposição de materiais e a sedimentogénese, mostrando por que razão as rochas sedimentares se formam em camadas.",
+              "reflection": "Se encontrasses estas camadas numa falésia, o que concluirias sobre a ordem em que se depositaram?"
+            },
+            {
+              "title": "Caderno de campo à volta da escola",
+              "type": "Trabalho de campo",
+              "duration": "60 min",
+              "materials": [
+                "Caderno e lápis",
+                "Lupa de mão",
+                "Saco para amostras",
+                "Telemóvel para fotografar"
+              ],
+              "steps": [
+                "Percorre um trajeto curto à volta da escola e desenha o perfil do relevo que vês.",
+                "Recolhe três amostras de mão de rochas diferentes, anotando onde apanhaste cada uma.",
+                "Com a lupa, procura minerais visíveis: quartzo brilhante, moscovite em lâminas, calcite branca.",
+                "Testa com vinagre: se borbulhar, há calcite.",
+                "Escreve que rocha domina a tua zona e o que isso sugere sobre o passado do lugar."
+              ],
+              "curriculumLink": "É o descritor de caracterizar a paisagem envolvente da escola a partir de dados recolhidos no campo, com identificação de minerais em amostra de mão.",
+              "safety": "Não recolhas amostras em taludes instáveis nem junto a estradas com trânsito.",
+              "reflection": "A rocha dominante explica alguma coisa sobre as casas antigas da tua terra?"
+            }
+          ]
+        },
+        {
+          "id": "dinamica-interna",
+          "name": "Estrutura e dinâmica interna da Terra",
+          "student": "Wegener reparou, há mais de cem anos, que a costa do Brasil encaixa na de África, e que havia fósseis iguais dos dois lados do Atlântico. Propôs que os continentes andavam — e foi rejeitado durante décadas, porque não conseguia explicar como. A explicação chegou do fundo do mar: as rochas oceânicas são mais novas junto às dorsais e mais velhas à medida que se afastam, e o magnetismo delas guarda a orientação do campo terrestre no momento em que arrefeceram. O fundo do oceano está a nascer no meio e a ser destruído nas margens.",
+          "questions": [
+            "Porque é que uma ideia certa pode ser rejeitada pelos cientistas?",
+            "Se o fundo do mar está sempre a crescer, porque é que a Terra não aumenta?",
+            "Como é que uma rocha guarda a memória do campo magnético?"
+          ],
+          "essentials": [
+            "Sistematizar informação sobre a Teoria da Deriva Continental, explicitando os argumentos que a apoiaram e que a fragilizaram, tendo em conta o seu contexto histórico.",
+            "Caracterizar a morfologia dos fundos oceânicos, relacionando a idade e o paleomagnetismo das rochas que os constituem com a distância ao eixo da dorsal médio-oceânica.",
+            "Relacionar a expansão e a destruição dos fundos oceânicos com a Teoria da Tectónica de Placas (limites entre placas) e com a constância do volume e da massa da Terra.",
+            "Explicar a deformação das rochas (dobras e falhas), tendo em conta o comportamento dos materiais (dúctil e frágil) e o tipo de forças a que são sujeitos, relacionando-as com a formação de cadeias montanhosas."
+          ],
+          "activities": [
+            {
+              "title": "O puzzle de Wegener",
+              "type": "Modelo",
+              "duration": "40 min",
+              "materials": [
+                "Um mapa-múndi impresso",
+                "Tesoura",
+                "Lápis de cor"
+              ],
+              "steps": [
+                "Recorta os continentes pelas margens continentais, não pela linha de costa.",
+                "Tenta juntá-los como um puzzle e vê onde encaixam melhor.",
+                "Procura onde foram encontrados fósseis de Mesossauro e de Glossopteris e marca-os a cor.",
+                "Verifica se as manchas de fósseis ficam contínuas quando os continentes estão juntos.",
+                "Escreve dois argumentos a favor da deriva e um que na época a fragilizava."
+              ],
+              "curriculumLink": "Trabalha a sistematização da Teoria da Deriva Continental, explicitando os argumentos que a apoiaram e os que a fragilizaram no seu contexto histórico.",
+              "reflection": "O que faltava a Wegener para convencer os outros cientistas?"
+            },
+            {
+              "title": "Dobrar ou partir",
+              "type": "Experiência",
+              "duration": "35 min",
+              "materials": [
+                "Plasticina de várias cores em camadas",
+                "Duas tábuas pequenas",
+                "Bolachas ou uma barra de chocolate frio"
+              ],
+              "steps": [
+                "Empilha camadas finas de plasticina de cores diferentes e deixa-as ficar juntas.",
+                "Comprime lateralmente com as duas tábuas, devagar. Observa as dobras.",
+                "Repete o mesmo com uma barra de chocolate frio, também devagar.",
+                "Compara: um dobrou, o outro partiu. Escreve porquê.",
+                "Empurra as duas metades partidas uma sobre a outra e compara com uma falha real numa fotografia."
+              ],
+              "curriculumLink": "Cobre a explicação da deformação das rochas em dobras e falhas segundo o comportamento dúctil ou frágil dos materiais.",
+              "reflection": "A mesma rocha pode dobrar ou partir consoante o quê?"
+            }
+          ]
+        },
+        {
+          "id": "consequencias-dinamica-interna",
+          "name": "Consequências da dinâmica interna da Terra",
+          "student": "Vulcões e sismos não estão espalhados ao acaso: desenham as fronteiras das placas com uma precisão que, uma vez vista num mapa, não se esquece. Este é o subtema mais longo do ano e junta três assuntos ligados — o vulcanismo, o ciclo das rochas e a sismologia. Repara na distinção entre intensidade e magnitude, que os noticiários confundem: a magnitude é a energia libertada e é uma só por sismo; a intensidade é o estrago sentido e muda de lugar para lugar. Portugal sabe disto por experiência: 1755 ainda define a forma da baixa de Lisboa.",
+          "questions": [
+            "Porque é que a Islândia tem vulcões e Portugal continental não?",
+            "Qual é a diferença entre magnitude e intensidade de um sismo?",
+            "O que farias exatamente nos primeiros dez segundos de um sismo?"
+          ],
+          "essentials": [
+            "Identificar os principais aspetos de uma atividade vulcânica, em esquemas ou modelos, e estabelecendo as possíveis analogias com o contexto real em que os fenómenos acontecem.",
+            "Relacionar os diferentes tipos de edifícios vulcânicos com as características do magma e o tipo de atividade vulcânica que lhes deu origem.",
+            "Identificar vantagens e desvantagens do vulcanismo principal e secundário para as populações locais, bem como os contributos da ciência e da tecnologia para a sua previsão e minimização de riscos associados.",
+            "Distinguir rochas magmáticas (granito e basalto) de rochas metamórficas (xistos, mármores e quartzitos), relacionando as suas características com a sua génese.",
+            "Identificar aspetos característicos de paisagens magmáticas e metamórficas, relacionando-os com o tipo de rochas presentes e as dinâmicas a que foram sujeitas após a sua formação.",
+            "Interpretar informação relativa ao ciclo das rochas, integrando conhecimentos sobre rochas sedimentares, magmáticas e metamórficas e relacionando-os com as dinâmicas interna e externa da Terra.",
+            "Identificar os principais grupos de rochas existentes em Portugal em cartas geológicas simplificadas e reconhecer a importância do contributo de outras ciências para a compreensão do conhecimento geológico.",
+            "Relacionar algumas características das rochas e a sua ocorrência com a forma como o Homem as utiliza, a partir de dados recolhidos no campo.",
+            "Analisar criticamente a importância da ciência e da tecnologia na exploração sustentável dos recursos litológicos, partindo de exemplos teoricamente enquadrados em problemáticas locais, regionais, nacionais ou globais.",
+            "Distinguir hipocentro de epicentro sísmico e intensidade de magnitude sísmica.",
+            "Distinguir a Escala de Richter da Escala Macrossísmica Europeia.",
+            "Interpretar sismogramas e cartas de isossistas nacionais, valorizando o seu papel na identificação do risco sísmico de uma região.",
+            "Discutir medidas de proteção de bens e de pessoas, antes, durante e após um sismo, bem como a importância da ciência e da tecnologia na previsão sísmica.",
+            "Explicar a distribuição dos sismos e dos vulcões no planeta Terra, tendo em conta os limites das placas tectónicas.",
+            "Relacionar os fenómenos vulcânicos e sísmicos com os métodos diretos e indiretos e com a sua importância para o conhecimento da estrutura interna da Terra, explicitando os contributos da ciência e da tecnologia para esse conhecimento."
+          ],
+          "activities": [
+            {
+              "title": "O mapa que desenha as placas",
+              "type": "Cartografia",
+              "duration": "40 min",
+              "materials": [
+                "Um mapa-múndi mudo",
+                "Dois lápis de cor",
+                "Lista de sismos e vulcões recentes"
+              ],
+              "steps": [
+                "Marca a vermelho a posição de trinta vulcões ativos.",
+                "Marca a azul os epicentros dos trinta sismos mais fortes dos últimos anos.",
+                "Afasta o mapa e olha para o padrão sem pensar em nada.",
+                "Desenha por cima as linhas que os pontos sugerem.",
+                "Compara com um mapa real de placas tectónicas."
+              ],
+              "curriculumLink": "Trabalha a explicação da distribuição dos sismos e dos vulcões no planeta tendo em conta os limites das placas tectónicas.",
+              "reflection": "Havia pontos fora das linhas? O que poderá explicá-los?"
+            },
+            {
+              "title": "Viscosidade decide a forma",
+              "type": "Experiência",
+              "duration": "40 min",
+              "materials": [
+                "Mel, detergente e água",
+                "Três pratos",
+                "Uma seringa sem agulha ou um funil pequeno"
+              ],
+              "steps": [
+                "Deita devagar a mesma quantidade de água no primeiro prato, a partir do centro.",
+                "Repete com detergente e depois com mel.",
+                "Mede o diâmetro e a altura de cada mancha.",
+                "Desenha o perfil das três: qual é plana e larga, qual é alta e estreita?",
+                "Associa cada uma a um tipo de vulcão real e explica a analogia."
+              ],
+              "curriculumLink": "Cobre a relação entre os diferentes tipos de edifícios vulcânicos e as características do magma que lhes deu origem.",
+              "safety": "Não aqueças nenhum dos líquidos.",
+              "reflection": "Um magma muito viscoso dá um vulcão mais perigoso? Porquê?"
+            },
+            {
+              "title": "Plano sísmico para a tua casa",
+              "type": "Prevenção",
+              "duration": "45 min",
+              "materials": [
+                "Uma planta simples da tua casa",
+                "Papel"
+              ],
+              "steps": [
+                "Desenha a planta da casa e marca a vermelho o que pode cair: estantes, quadros, televisão.",
+                "Marca a verde os sítios seguros: debaixo de mesas sólidas, junto a paredes mestras.",
+                "Escreve o que fazer antes, durante e depois, em três colunas.",
+                "Combina com a família um ponto de encontro exterior.",
+                "Consulta a carta de risco sísmico da tua região e vê onde a tua zona se situa."
+              ],
+              "curriculumLink": "É o descritor de discutir medidas de proteção de bens e pessoas antes, durante e após um sismo, ligado à interpretação de cartas de isossistas.",
+              "reflection": "Quantas das coisas que marcaste a vermelho podiam ser fixadas à parede hoje mesmo?"
+            }
+          ]
+        },
+        {
+          "id": "terra-conta-historia",
+          "name": "A Terra conta a sua história",
+          "student": "O tempo geológico é impossível de sentir. A Terra tem cerca de 4600 milhões de anos, e a nossa espécie aparece nos últimos instantes — se a história do planeta fosse um ano, os humanos surgiriam pouco antes da meia-noite de 31 de dezembro. Os fósseis são os relógios: certas espécies viveram pouco tempo e espalharam-se muito, e por isso encontrar uma numa camada data essa camada. É o princípio da datação relativa, que não diz a idade em anos mas diz o que veio antes e o que veio depois.",
+          "questions": [
+            "Porque é que só uma pequena parte dos seres vivos fossiliza?",
+            "Como é que se sabe que uma camada é mais antiga do que outra?",
+            "Que diferença faz saber a ordem sem saber os anos?"
+          ],
+          "essentials": [
+            "Identificar as principais etapas da formação de fósseis e estabelecer as possíveis analogias entre as mesmas e o contexto real em que os fenómenos acontecem.",
+            "Explicar o contributo do estudo dos fósseis e dos processos de fossilização para a reconstituição da história da vida na Terra.",
+            "Distinguir tempo histórico de tempo geológico em documentos diversificados, valorizando saberes de outras disciplinas (ex.: História).",
+            "Explicitar os princípios do raciocínio geológico e de datação relativa e reconhecer a sua importância para a caracterização das principais etapas da história da Terra (eras geológicas)."
+          ],
+          "activities": [
+            {
+              "title": "A Terra num rolo de papel higiénico",
+              "type": "Escala",
+              "duration": "35 min",
+              "materials": [
+                "Um rolo de papel higiénico completo",
+                "Caneta",
+                "Corredor comprido"
+              ],
+              "steps": [
+                "Conta as folhas do rolo e divide 4600 milhões de anos por esse número.",
+                "Estende o rolo pelo corredor: o início é a formação da Terra, o fim é hoje.",
+                "Marca a primeira vida, os primeiros animais, os dinossauros, a extinção deles e os humanos.",
+                "Mede quantos milímetros ocupa toda a história humana escrita.",
+                "Fotografa o rolo estendido com as marcas."
+              ],
+              "curriculumLink": "Trabalha a distinção entre tempo histórico e tempo geológico, articulando com saberes de História como as AE sugerem.",
+              "reflection": "A história que estudas em História cabe em quantos milímetros deste rolo?"
+            },
+            {
+              "title": "Fazer um fóssil em gesso",
+              "type": "Modelo",
+              "duration": "50 min",
+              "materials": [
+                "Plasticina",
+                "Gesso de modelar",
+                "Uma concha, folha ou osso pequeno",
+                "Vaselina"
+              ],
+              "steps": [
+                "Achata a plasticina e passa-lhe uma camada fina de vaselina.",
+                "Carrega o objeto na plasticina e retira-o com cuidado: ficas com o molde.",
+                "Prepara o gesso e deita-o sobre o molde.",
+                "Espera secar e separa: tens o contramolde, que é como se formam muitos fósseis.",
+                "Escreve as etapas por que passou, e compara com as etapas reais da fossilização."
+              ],
+              "curriculumLink": "Cobre a identificação das principais etapas da formação de fósseis e as analogias com o contexto real em que ocorrem.",
+              "safety": "O gesso aquece ao presar; não o prepares nas mãos nem o deites pelo lava-loiça.",
+              "reflection": "O teu fóssil guarda a forma, mas não guarda o quê?"
+            }
+          ]
+        },
+        {
+          "id": "geologia-e-sustentabilidade",
+          "name": "Ciência geológica e sustentabilidade da vida na Terra",
+          "student": "A geologia parece distante da saúde até se reparar que o solo, a água e a rocha por baixo de nós entram no que comemos e bebemos. Há regiões onde a água tem excesso ou falta de certos elementos e isso aparece nas pessoas, nos animais e nas plantas. O gás radão, que sai naturalmente de certos granitos, acumula-se em caves mal ventiladas. Este subtema fecha o ano com a pergunta prática: para que serve saber isto tudo?",
+          "questions": [
+            "O que é que a rocha por baixo da tua casa tem a ver com a tua saúde?",
+            "Um recurso geológico pode acabar?",
+            "Que perguntas sobre a tua região só a geologia consegue responder?"
+          ],
+          "essentials": [
+            "Relacionar o ambiente geológico com a saúde e a ocorrência de doenças nas pessoas, nos animais e nas plantas que vivem nesse ambiente, partindo de questões problemáticas locais, regionais ou nacionais.",
+            "Explicitar a importância do conhecimento geológico para a sustentabilidade da vida na Terra."
+          ],
+          "activities": [
+            {
+              "title": "A geologia da tua água",
+              "type": "Investigação",
+              "duration": "40 min",
+              "materials": [
+                "Rótulos de três águas engarrafadas diferentes",
+                "O relatório de qualidade da água da tua zona",
+                "Um mapa geológico simplificado de Portugal"
+              ],
+              "steps": [
+                "Copia dos rótulos os valores de cálcio, magnésio e resíduo seco das três águas.",
+                "Descobre de que região vem cada uma e localiza-a no mapa geológico.",
+                "Relaciona: as águas mais duras vêm de zonas calcárias ou graníticas?",
+                "Procura o relatório da água da tua torneira e compara.",
+                "Escreve um parágrafo a explicar por que razão a água muda de sabor de terra para terra."
+              ],
+              "curriculumLink": "Trabalha a relação entre o ambiente geológico e a saúde, partindo de questões locais ou regionais como as AE pedem.",
+              "reflection": "Se a água leva consigo a rocha por onde passou, o que é que estás a beber exatamente?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
