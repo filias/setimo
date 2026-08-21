@@ -1,0 +1,437 @@
+{
+  "id": "ingles",
+  "name": "Inglês (LE I)",
+  "emoji": "🇬🇧",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "O Inglês do 7.º ano trabalha o nível A2.1/A2.2 do Quadro Europeu Comum de Referência e organiza-se em três competências: a comunicativa, que junta compreender, interagir e produzir em oral e escrito; a intercultural, que compara o teu meio com o dos outros; e a estratégica, que trata de como se aprende uma língua e de como se trabalha com os outros nela.",
+  "studentIntro": "Já andas com o inglês há uns anos, e este é o ano em que ele começa a servir para conversas a sério — combinar coisas, discordar de alguém, explicar planos para o futuro. A diferença entre saber palavras e falar uma língua está quase toda na coragem de começar uma frase sem saber ainda como é que ela acaba. Também vais reparar que o inglês não é de um país só: muda entre o Reino Unido, os Estados Unidos e todos os outros sítios onde se fala.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Inglês, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/ingles_3c_7a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho."
+  },
+  "domains": [
+    {
+      "id": "competencia-comunicativa",
+      "name": "Competência Comunicativa",
+      "emoji": "💬",
+      "palette": "indigo",
+      "summary": "Compreender, interagir e produzir, em oral e em escrito, ao nível A2.1/A2.2.",
+      "subtopics": [
+        {
+          "id": "areas-tematicas",
+          "name": "Áreas temáticas e situacionais",
+          "student": "Antes das competências, o programa fixa os assuntos sobre os quais se fala este ano. Não são temas de exame — são os terrenos onde o vocabulário novo vai aparecer. Repara que quase todos são coisas da tua vida real: o que fazes depois das aulas, como é a tua casa, o que tencionas fazer para o ano. Isso não é por acaso. Uma língua estrangeira aprende-se muito mais depressa quando o assunto é uma coisa sobre a qual já tens opinião na tua.",
+          "questions": [
+            "Sobre qual destes temas terias mais para dizer em português — e quanto disso consegues dizer em inglês?",
+            "Que palavras te faltam para descreveres a tua própria casa em inglês?"
+          ],
+          "essentials": [
+            "Atividades escolares e de lazer; situações quotidianas; serviços; planos para o futuro; hábitos e rotinas; tipos de habitação; eventos escolares e festividades."
+          ],
+          "activities": [
+            {
+              "title": "O caderno dos sete terrenos",
+              "type": "Vocabulário",
+              "duration": "Ao longo do ano",
+              "materials": [
+                "Um caderno pequeno",
+                "Sete separadores ou sete páginas marcadas"
+              ],
+              "steps": [
+                "Dá uma página a cada uma das sete áreas temáticas do programa.",
+                "Sempre que precisares de uma palavra que não sabes, escreve-a na página certa — em inglês e em português.",
+                "Uma vez por semana, escolhe cinco palavras e escreve uma frase com cada.",
+                "Ao fim de um mês, vê qual das páginas está mais cheia. É aí que tens mais para dizer.",
+                "Vê qual está mais vazia e passa uma semana só a enchê-la."
+              ],
+              "curriculumLink": "Cobre as áreas temáticas e situacionais fixadas para o ano, ancorando o vocabulário novo aos assuntos previstos.",
+              "reflection": "As palavras que te faltam são sobre assuntos de que gostas ou de que raramente falas?"
+            }
+          ]
+        },
+        {
+          "id": "compreensao-oral-e-escrita",
+          "name": "Compreensão oral e escrita",
+          "student": "Compreender numa língua estrangeira tem um truque que ninguém conta: não precisas de perceber todas as palavras. Precisas de perceber quem faz o quê, por que ordem, e qual é a informação que foste ali buscar. O resto preenche-se sozinho. Este ano treinas as duas portas de entrada — o que ouves e vês, e o que lês — em textos que já não são feitos para principiantes: notícias adaptadas de jornais e revistas, e narrativas de leitura extensiva.",
+          "questions": [
+            "Quantas palavras podes não perceber antes de perderes o fio à meada?",
+            "É mais fácil compreender inglês escrito ou falado — e porquê?",
+            "Como é que adivinhas o significado de uma palavra que nunca viste?"
+          ],
+          "essentials": [
+            "Seguir instruções detalhadas dadas pelo professor; identificar o conteúdo principal do que se ouve e vê, os intervenientes e a sequência do discurso assim como informações específicas.",
+            "Compreender textos narrativos sobre temas abordados no domínio intercultural; identificar informação essencial em textos adaptados de jornais e revistas; ler pequenos textos adaptados de leitura extensiva."
+          ],
+          "activities": [
+            {
+              "title": "Três perguntas antes de ouvir",
+              "type": "Escuta",
+              "duration": "30 min",
+              "materials": [
+                "Um vídeo curto em inglês com legendas disponíveis",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Antes de carregar no play, escreve três perguntas a que queres que o vídeo responda.",
+                "Vê uma vez sem legendas, à procura apenas dessas três respostas.",
+                "Vê outra vez, ainda sem legendas, e aponta quem fala e por que ordem.",
+                "Só agora liga as legendas e confirma.",
+                "Conta quantas palavras não percebeste e vê se alguma delas te impediu mesmo de responder."
+              ],
+              "curriculumLink": "Trabalha a identificação do conteúdo principal do que se ouve e vê, dos intervenientes, da sequência do discurso e de informações específicas.",
+              "reflection": "Ter perguntas antes de ouvir mudou o que conseguiste apanhar?"
+            },
+            {
+              "title": "A notícia em cinco linhas",
+              "type": "Leitura",
+              "duration": "35 min",
+              "materials": [
+                "Um artigo curto de um jornal ou revista em inglês",
+                "Um marcador"
+              ],
+              "steps": [
+                "Lê o artigo uma vez sem dicionário nenhum, mesmo que doa.",
+                "Sublinha só as cinco palavras que te parecem mesmo indispensáveis para o sentido.",
+                "Procura essas cinco, e só essas.",
+                "Escreve o artigo em cinco linhas, em inglês.",
+                "Compara com o original: ficou lá a informação essencial?"
+              ],
+              "curriculumLink": "Cobre a identificação de informação essencial em textos adaptados de jornais e revistas.",
+              "reflection": "Cinco palavras chegaram? Costuma chegar menos do que se pensa."
+            }
+          ]
+        },
+        {
+          "id": "interacao-oral-e-escrita",
+          "name": "Interação oral e escrita",
+          "student": "Interagir é diferente de produzir: aqui há outra pessoa e há vez de falar. É a parte mais assustadora e a mais útil, porque numa conversa real ninguém espera que digas frases perfeitas — espera que respondas. Este ano treinas o arranque, a manutenção e o fecho de uma conversa breve, que são três momentos com fórmulas próprias, e a escrita curta que se usa para tratar de coisas: formulários, mensagens, recados.",
+          "questions": [
+            "Como é que se acaba uma conversa em inglês sem parecer mal-educado?",
+            "O que fazes quando não percebeste e já perguntaste duas vezes?",
+            "Porque é que preencher um formulário noutra língua é tão estranhamente difícil?"
+          ],
+          "essentials": [
+            "Entender e trocar ideias em situações quotidianas previsíveis; iniciar, manter ou terminar uma conversa breve.",
+            "Interagir de forma simples, completando formulários, mensagens e textos curtos."
+          ],
+          "activities": [
+            {
+              "title": "Sessenta segundos sem português",
+              "type": "Conversa",
+              "duration": "20 min",
+              "materials": [
+                "Outra pessoa",
+                "Um cronómetro"
+              ],
+              "steps": [
+                "Escolham um tema das áreas temáticas do ano.",
+                "Falem durante sessenta segundos sem uma única palavra em português.",
+                "Sempre que faltar uma palavra, contorna-a: descreve-a, aponta, usa outra parecida — mas não pares.",
+                "Ao fim, apontem as palavras que faltaram aos dois.",
+                "Repitam o mesmo minuto no dia seguinte, já com as palavras aprendidas."
+              ],
+              "curriculumLink": "Trabalha a troca de ideias em situações quotidianas previsíveis e o iniciar, manter e terminar de uma conversa breve.",
+              "reflection": "Contornar uma palavra que não sabes é falhar, ou é exatamente o que fazem os falantes fluentes?"
+            },
+            {
+              "title": "Formulários a sério",
+              "type": "Escrita",
+              "duration": "25 min",
+              "materials": [
+                "Formulários reais em inglês: inscrição num clube, reserva, devolução de uma encomenda"
+              ],
+              "steps": [
+                "Imprime ou copia três formulários verdadeiros em inglês.",
+                "Preenche-os com dados inventados mas coerentes.",
+                "Sublinha os campos cujo nome não percebeste à primeira: surname, postcode, date of birth.",
+                "Escreve ao lado o que cada um quer, por palavras tuas.",
+                "Escreve uma mensagem curta a acompanhar um dos formulários."
+              ],
+              "curriculumLink": "Cobre a interação escrita simples através do preenchimento de formulários, mensagens e textos curtos.",
+              "reflection": "Quais dos campos te enganaram por serem parecidos com palavras portuguesas?"
+            }
+          ]
+        },
+        {
+          "id": "producao-oral-e-escrita",
+          "name": "Produção oral e escrita",
+          "student": "Produzir é falar ou escrever sozinho, sem ninguém para te ajudar a meio. Este ano o que se pede é concreto: descrever pessoas, objetos, sítios e acontecimentos, comparar tipos de casa e festas de países diferentes, e falar sobre o que tencionas fazer. Os planos para o futuro dão trabalho porque obrigam a formas verbais que ainda não são automáticas — e é aí que se nota quem praticou.",
+          "questions": [
+            "Descrever uma imagem em inglês: por onde é que se começa?",
+            "Quantas maneiras diferentes conheces de falar do futuro em inglês?",
+            "Um diálogo escrito por ti soa a conversa real ou a exercício?"
+          ],
+          "essentials": [
+            "Falar sobre os temas explorados: atividades escolares e de lazer, situações quotidianas, serviços, planos para o futuro, hábitos e rotinas; comparar tipos de habitação, eventos escolares e festividades; descrever imagens, locais, atividades e acontecimentos.",
+            "Escrever sobre pessoas, objetos e rotinas; escrever diálogos com encadeamento lógico; descrever planos para o futuro."
+          ],
+          "activities": [
+            {
+              "title": "A mesma fotografia, três vezes",
+              "type": "Descrição",
+              "duration": "30 min",
+              "materials": [
+                "Uma fotografia com muita coisa a acontecer",
+                "Telemóvel para gravar"
+              ],
+              "steps": [
+                "Grava-te a descrever a fotografia em inglês durante um minuto, sem preparar nada.",
+                "Ouve e escreve as três coisas que te faltaram.",
+                "Aprende essas três e grava outra vez.",
+                "À terceira, descreve a mesma fotografia mas contando o que aconteceu antes e o que vai acontecer a seguir.",
+                "Compara a primeira gravação com a terceira."
+              ],
+              "curriculumLink": "Trabalha a descrição de imagens, locais, atividades e acontecimentos, e leva naturalmente às formas de falar do futuro.",
+              "reflection": "A terceira versão foi melhor por saberes mais palavras, ou por já saberes o que ias dizer?"
+            },
+            {
+              "title": "Um diálogo que funcione",
+              "type": "Escrita",
+              "duration": "35 min",
+              "materials": [
+                "Papel e caneta",
+                "Alguém para ler contigo"
+              ],
+              "steps": [
+                "Escolhe uma situação de serviço: devolver uma peça de roupa, pedir informações numa estação.",
+                "Escreve o diálogo completo, com pelo menos oito falas de cada lado.",
+                "Lê em voz alta com outra pessoa, cada um num papel.",
+                "Marca as falas que soaram a livro e não a conversa, e reescreve-as.",
+                "Representem o diálogo sem ler, só de memória."
+              ],
+              "curriculumLink": "Cobre a escrita de diálogos com encadeamento lógico e a produção sobre situações quotidianas e serviços.",
+              "reflection": "O que é que faz uma fala soar a pessoa real e não a exercício?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competencia-intercultural",
+      "name": "Competência Intercultural",
+      "emoji": "🌍",
+      "palette": "orange",
+      "summary": "Comparar o teu meio com o dos outros, e perceber que o inglês não pertence a um país só.",
+      "subtopics": [
+        {
+          "id": "realidades-interculturais",
+          "name": "Reconhecer realidades interculturais distintas",
+          "student": "Aprender uma língua sem aprender nada sobre quem a fala dá um resultado esquisito: frases certas em situações erradas. Esta parte do programa pede que compares — o teu tempo livre e o dos outros, a tua casa e outras casas, as tuas festas e as festas deles. Comparar não é ordenar do melhor para o pior: é reparar que aquilo que te parece a maneira normal de fazer as coisas é apenas uma das maneiras.",
+          "questions": [
+            "O que é que na tua rotina pareceria estranho a alguém de outro país?",
+            "Tolerância e respeito são a mesma coisa?",
+            "Consegues explicar uma festa portuguesa a quem nunca ouviu falar dela?"
+          ],
+          "essentials": [
+            "Conhecer, com algum pormenor, o seu meio e identidade; estabelecer comparações entre as suas vivências e as dos outros; falar sobre atividades de lazer do seu meio cultural por oposição a outras culturas, incluindo a anglo-saxónica; reconhecer, compreender e explicar exemplos concretos de atitudes de tolerância e respeito intercultural."
+          ],
+          "activities": [
+            {
+              "title": "Um sábado, dois países",
+              "type": "Comparação",
+              "duration": "40 min",
+              "materials": [
+                "Papel dividido ao meio",
+                "Acesso a vídeos do dia a dia de adolescentes noutro país"
+              ],
+              "steps": [
+                "Escreve em inglês, hora a hora, como foi o teu último sábado.",
+                "Procura um vídeo do dia a dia de alguém da tua idade num país de língua inglesa.",
+                "Escreve o sábado dessa pessoa na outra metade da folha.",
+                "Sublinha três diferenças que te surpreenderam e três semelhanças que não esperavas.",
+                "Escreve um parágrafo em inglês a explicar uma das diferenças a essa pessoa."
+              ],
+              "curriculumLink": "Trabalha a comparação entre as próprias vivências e as dos outros, incluindo as atividades de lazer do meio anglo-saxónico.",
+              "reflection": "Foi mais fácil encontrar diferenças ou semelhanças? O que é que isso diz?"
+            }
+          ]
+        },
+        {
+          "id": "topicos-sugeridos",
+          "name": "Tópicos sugeridos",
+          "student": "Há uma confusão que quase toda a gente faz e que este ano se desfaz: Grã-Bretanha e Reino Unido não são a mesma coisa, e Inglaterra é outra coisa ainda. A Grã-Bretanha é a ilha; o Reino Unido é o país, que inclui a Irlanda do Norte, que não fica na ilha. Saber isto não é trivial — há gente que se ofende com a troca, e com razão. O programa sugere também olhar para os Estados Unidos e para países da União Europeia.",
+          "questions": [
+            "Qual é a diferença entre Inglaterra, Grã-Bretanha e Reino Unido?",
+            "Quantos países consegues nomear onde o inglês é língua oficial?",
+            "Porque é que uma pessoa da Escócia pode não gostar de ser chamada inglesa?"
+          ],
+          "essentials": [
+            "Reconhecer a diferença entre Grã-Bretanha e Reino Unido e identificar a constituição do Reino Unido; identificar alguns estados e cidades importantes nos Estados Unidos da América e alguns países da União Europeia; comparar agregados familiares, tipos de habitação e festividades em diferentes países."
+          ],
+          "activities": [
+            {
+              "title": "As quatro nações",
+              "type": "Geografia",
+              "duration": "35 min",
+              "materials": [
+                "Um mapa mudo das ilhas britânicas",
+                "Lápis de cor"
+              ],
+              "steps": [
+                "Pinta de cores diferentes Inglaterra, Escócia, País de Gales e Irlanda do Norte.",
+                "Desenha a tracejado o contorno da ilha da Grã-Bretanha.",
+                "Escreve, em inglês, o que é o Reino Unido e o que é a Grã-Bretanha.",
+                "Descobre a bandeira de cada uma das quatro nações e como se combinam na Union Jack.",
+                "Repara em qual das quatro não está representada na bandeira, e descobre porquê."
+              ],
+              "curriculumLink": "Cobre o reconhecimento da diferença entre Grã-Bretanha e Reino Unido e a identificação da constituição do Reino Unido.",
+              "reflection": "Porque é que um país precisa de quatro nomes diferentes conforme quem pergunta?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competencia-estrategica",
+      "name": "Competência Estratégica",
+      "emoji": "🧭",
+      "palette": "teal",
+      "summary": "Como se comunica, como se colabora e como se aprende a aprender uma língua.",
+      "subtopics": [
+        {
+          "id": "comunicar-e-colaborar",
+          "name": "Comunicar e colaborar",
+          "student": "Esta competência é sobre o método, não sobre a língua. Trata de escolher a estratégia certa antes de comunicar, de preparar uma apresentação em vez de improvisar, e de trabalhar com outras pessoas sem que o grupo se desfaça à primeira discordância. O programa é explícito quanto a isto último: pede capacidade de te colocares na posição do outro e de minimizares diferenças e discordâncias — que é uma competência de vida disfarçada de aula de inglês.",
+          "questions": [
+            "O que fazes quando alguém do grupo não faz a parte dele?",
+            "Repetir uma apresentação em voz alta ajuda mesmo, ou é perda de tempo?",
+            "Qual é a diferença entre ceder e chegar a acordo?"
+          ],
+          "essentials": [
+            "Reconhecer diferentes estratégias de comunicação nas fases de planificação, realização e avaliação das atividades comunicativas e escolher a mais apropriada; preparar, repetir e memorizar uma apresentação oral com confiança e criatividade, à turma e/ou a outros elementos da comunidade educativa; responder com segurança e certeza a perguntas colocadas; participar em atividades de pares e grupos, revelando capacidade para se colocar na posição do outro; pedir e dar informações; planear, organizar e apresentar uma tarefa de pares ou um trabalho de grupo, minimizando possíveis diferenças e discordâncias.",
+            "Participar em atividades de pares e grupos para atingir um objetivo a curto prazo, revelando capacidade para se colocar na posição do outro; planear, organizar e apresentar uma tarefa de pares ou um trabalho de grupo, partilhando tarefas e responsabilidades."
+          ],
+          "activities": [
+            {
+              "title": "Apresentação em três ensaios",
+              "type": "Oral",
+              "duration": "50 min",
+              "materials": [
+                "Um tema à escolha",
+                "Telemóvel para gravar",
+                "Um ouvinte"
+              ],
+              "steps": [
+                "Prepara uma apresentação de três minutos em inglês, com um plano escrito.",
+                "Primeiro ensaio: sozinho, a ler.",
+                "Segundo ensaio: sozinho, sem ler, gravado.",
+                "Terceiro ensaio: para uma pessoa real, que no fim faz três perguntas.",
+                "Responde às três perguntas sem hesitar mais de cinco segundos em cada."
+              ],
+              "curriculumLink": "Trabalha a preparação, repetição e memorização de uma apresentação oral e a resposta segura a perguntas colocadas.",
+              "reflection": "Em que ensaio é que a apresentação deixou de ser um texto e passou a ser tua?"
+            }
+          ]
+        },
+        {
+          "id": "tecnologia-e-pensamento-critico",
+          "name": "Literacia tecnológica e pensamento crítico",
+          "student": "O inglês é a língua em que está a maior parte do que há para saber na internet, e esta parte do programa trata disso: usar a tecnologia para comunicar com pessoas longe e para chegar ao conhecimento. Vem acompanhada de uma coisa mais exigente — pensar criticamente, que aqui é definido de maneira muito concreta: ouvir com atenção, perceber o outro, e justificar as tuas conclusões com razões em vez de as afirmares.",
+          "questions": [
+            "Escrever um email formal em inglês: o que muda em relação a uma mensagem?",
+            "Como é que se discorda de alguém sem a conversa acabar?",
+            "Uma opinião sem razões é uma opinião?"
+          ],
+          "essentials": [
+            "Comunicar com outros a uma escala local, nacional e internacional; pedir e dar informações por email; contribuir para projetos e tarefas de grupo interdisciplinares que se apliquem ao contexto e experiências reais e quotidianas do aluno; participar num WebQuest e aceder ao saber, recorrendo a aplicações informáticas online.",
+            "Desenvolver a empatia com o outro de forma a adquirir atitudes mais tolerantes, reconhecendo e respeitando opiniões divergentes de modo a realizar novas aprendizagens; ouvir atentamente, compreender o outro e refletir criticamente sobre o que foi dito, dando razões para justificar as suas conclusões, associando aprendizagens novas a anteriores."
+          ],
+          "activities": [
+            {
+              "title": "Discordar em inglês",
+              "type": "Debate",
+              "duration": "40 min",
+              "materials": [
+                "Outra pessoa",
+                "Uma lista de fórmulas de discordância em inglês"
+              ],
+              "steps": [
+                "Escolham um tema em que tenham opiniões diferentes.",
+                "Regra única: antes de discordares, tens de resumir em inglês o que o outro disse, e ele tem de confirmar que ficou bem resumido.",
+                "Só depois podes apresentar a tua razão, começando por «I see your point, but…».",
+                "Ao fim de dez minutos, cada um escreve o melhor argumento do outro.",
+                "Vejam se algum de vocês mudou de ideias, ainda que um bocadinho."
+              ],
+              "curriculumLink": "Trabalha o ouvir atentamente, compreender o outro e refletir criticamente sobre o que foi dito, dando razões para justificar conclusões.",
+              "reflection": "Ter de resumir o outro antes de responder mudou o tom da discussão?"
+            },
+            {
+              "title": "Um email a um sítio real",
+              "type": "Escrita",
+              "duration": "30 min",
+              "materials": [
+                "Acesso a email",
+                "Um museu, clube ou biblioteca estrangeiro que te interesse"
+              ],
+              "steps": [
+                "Encontra uma instituição estrangeira sobre a qual queiras mesmo saber uma coisa.",
+                "Escreve um email em inglês com três partes: quem és, o que queres saber, agradecimento.",
+                "Lê em voz alta e corta tudo o que for desnecessário — os emails bons são curtos.",
+                "Mostra a alguém antes de enviar, e envia-o só se essa pessoa achar claro.",
+                "Se responderem, guarda a resposta e repara em como está escrita."
+              ],
+              "curriculumLink": "Cobre o comunicar com outros a escala internacional e o pedir e dar informações por email.",
+              "safety": "Antes de enviares qualquer mensagem, mostra-a a um adulto, e nunca dês morada, telefone ou dados pessoais a quem não conheças.",
+              "reflection": "O que é que torna um email a um desconhecido fácil de responder?"
+            }
+          ]
+        },
+        {
+          "id": "criar-e-aprender-a-aprender",
+          "name": "Criar e aprender a aprender",
+          "student": "A última parte do programa é a mais invisível e a que mais rende: perceber como é que tu, especificamente, aprendes uma língua. Passa por coisas práticas — usar dicionários bilingues e monolingues, adivinhar sentidos a partir do que já sabes — e por outras mais desconfortáveis, como registar por escrito as tuas dificuldades e escolher estratégias para as vencer. Um portefólio ou um diário de aprendizagem parece burocracia até ao dia em que o abres e vês, preto no branco, o quanto já andaste.",
+          "questions": [
+            "Quando é que vale a pena usar um dicionário só de inglês, em vez de bilingue?",
+            "Como é que sabes que aprendeste alguma coisa, e não apenas que a reconheces?",
+            "Qual foi a última dificuldade em inglês que resolveste — e como?"
+          ],
+          "essentials": [
+            "Pesquisar novas ideias e reinterpretar ideias existentes de modo a criar produtos adequados à sua realidade cultural e quotidiana; participar em atividades diferenciadas e de natureza diversa; desenvolver a literacia em língua inglesa, lendo diferentes tipos de textos e adaptações de leitura extensiva; desenvolver e participar em projetos e atividades interdisciplinares.",
+            "Discutir e selecionar objetivos de aprendizagem comuns e individuais e desenvolver uma atitude ativa e confiante relativamente à aprendizagem; monitorizar/avaliar progressos e dificuldades na língua inglesa, registando as suas aquisições e dificuldades linguísticas; selecionar, com o apoio do professor, estratégias de aprendizagem eficazes para superar estas dificuldades e consolidar as aprendizagens; utilizar dicionários bilingues e monolingues (online e em suporte de papel); utilizar conhecimentos prévios da língua e a sua experiência pessoal para fazer previsões de sentido e comunicar de forma simples; participar numa reflexão e discussão no final da aula para identificar atividades associadas aos objetivos de aprendizagem e ao cumprimento dos mesmos; reconhecer diferentes estratégias de aprendizagem; realizar atividades simples de auto e heteroavaliação: portefólios, diários de aprendizagem e grelhas de progressão."
+          ],
+          "activities": [
+            {
+              "title": "Diário de dificuldades",
+              "type": "Autoavaliação",
+              "duration": "Ao longo do ano",
+              "materials": [
+                "Um caderno",
+                "Duas cores"
+              ],
+              "steps": [
+                "Cada vez que falhares alguma coisa em inglês, escreve-a numa cor: a palavra, a regra, a situação.",
+                "Ao lado, escreve a estratégia que vais usar para a vencer.",
+                "Quando a acertares três vezes seguidas, reescreve-a na outra cor.",
+                "Ao fim de cada período, conta quantas passaram de cor.",
+                "Escolhe a que mais resistiu e pede ajuda especificamente para essa."
+              ],
+              "curriculumLink": "É a monitorização e avaliação de progressos e dificuldades prevista nas AE, com registo de aquisições e seleção de estratégias para as superar.",
+              "reflection": "As tuas dificuldades repetem-se sempre no mesmo tipo de coisa?"
+            },
+            {
+              "title": "Dicionário monolingue à primeira",
+              "type": "Estratégia",
+              "duration": "25 min",
+              "materials": [
+                "Um dicionário de inglês só em inglês, em papel ou online",
+                "Dez palavras novas"
+              ],
+              "steps": [
+                "Escolhe dez palavras que não conheças, tiradas de um texto real.",
+                "Adivinha o significado de cada uma pelo contexto, antes de procurar.",
+                "Procura no dicionário monolingue e lê a definição em inglês.",
+                "Só se continuares sem perceber é que vais ao bilingue.",
+                "Conta em quantas acertaste só pelo contexto."
+              ],
+              "curriculumLink": "Trabalha a utilização de dicionários bilingues e monolingues e o uso de conhecimentos prévios para fazer previsões de sentido.",
+              "reflection": "Ler a definição em inglês custou mais, mas ficou a saber-se melhor?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
