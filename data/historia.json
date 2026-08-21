@@ -1,0 +1,534 @@
+{
+  "id": "historia",
+  "name": "História",
+  "emoji": "🏛️",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "A História do 7.º ano percorre quatro temas, do Paleolítico à revolução de 1383-1385: as sociedades recoletoras e as primeiras civilizações urbanas, a herança da Grécia e de Roma, a formação da Cristandade Ocidental a par da expansão islâmica, e Portugal no contexto europeu dos séculos XII a XIV. Cada subtema fecha com uma lista de conceitos que se pede para identificar e aplicar.",
+  "studentIntro": "Este ano vais atravessar cerca de dois milhões de anos, e acabar com uma revolução em Lisboa. Pelo caminho encontras a invenção da agricultura, que mudou tudo; a democracia de Atenas, que era uma democracia com metade da população de fora; um império que se manteve unido pela língua, pela lei e pelas estradas; e um reino pequeno no canto da Península que teve de lutar para existir. História não é decorar datas — é perceber porque é que as coisas mudaram, e quem ganhou e perdeu com isso.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — História, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/historia_3c_7a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho."
+  },
+  "domains": [
+    {
+      "id": "recoletoras-primeiras-civilizacoes",
+      "name": "Das sociedades recoletoras às primeiras civilizações",
+      "emoji": "🪨",
+      "palette": "amber",
+      "summary": "Como se passou de apanhar comida a produzi-la, e o que é que isso desencadeou.",
+      "subtopics": [
+        {
+          "id": "recoletoras-a-produtoras",
+          "name": "Das sociedades recoletoras às primeiras sociedades produtoras",
+          "student": "Durante quase toda a história da nossa espécie, comer significou ir buscar: caçar, pescar, apanhar. Depois, há cerca de doze mil anos, alguém percebeu que uma semente enterrada dá uma planta — e o mundo mudou de eixo. Quem produz comida deixa de precisar de andar atrás dela, fixa-se, acumula excedentes, e a partir de excedentes nasce tudo o resto: propriedade, hierarquia, escrita, guerra por terras. Repara que o primeiro descritor deste ano não é sobre o passado mas sobre método: como é que sabemos alguma coisa disto? Por fontes materiais, escritas e orais.",
+          "questions": [
+            "Como é que se sabe alguma coisa sobre gente que não deixou nada escrito?",
+            "A agricultura melhorou a vida das pessoas, ou só aumentou o número delas?",
+            "Porque é que os primeiros artistas pintaram animais nas paredes das grutas?"
+          ],
+          "essentials": [
+            "Relembrar que o conhecimento histórico se constrói com informação fornecida por diversos tipos de fontes: materiais, escritas e orais;",
+            "Reconhecer no fabrico de instrumentos e no domínio sobre a natureza momentos cruciais para o desenvolvimento da Humanidade;",
+            "Compreender a existência de diferentes sentidos de evolução nas sociedades recoletoras/caçadoras e agropastoris, estabelecendo comparações com as sociedades atuais;",
+            "Relacionar ritos mágicos/funerários com manifestações artísticas;",
+            "Compreender como se deu a passagem de um modo de vida recoletor para um modo de vida produtor;",
+            "Identificar/aplicar os conceitos: modo de vida recoletor; modo de vida produtor; nomadismo; sedentarização; megalitismo; arqueologia; Paleolítico; Neolítico; arte rupestre; ritos mágicos; milénio; fonte histórica; periodização."
+          ],
+          "activities": [
+            {
+              "title": "A arqueologia do teu caixote do lixo",
+              "type": "Arqueologia",
+              "duration": "40 min",
+              "materials": [
+                "O conteúdo do caixote da reciclagem de uma semana",
+                "Luvas",
+                "Papel para registo"
+              ],
+              "steps": [
+                "Espalha o lixo reciclável de uma semana sobre jornais, com luvas calçadas.",
+                "Finge que és um arqueólogo daqui a mil anos e não sabes nada sobre esta casa.",
+                "Escreve o que consegues deduzir: quantas pessoas vivem cá, o que comem, que línguas leem, que horas fazem.",
+                "Marca cada dedução como certa, provável ou especulativa.",
+                "Confirma com quem vive contigo. Em quantas acertaste?"
+              ],
+              "curriculumLink": "Trabalha a ideia, que abre o programa do ano, de que o conhecimento histórico se constrói a partir de fontes — aqui fontes materiais, as únicas que a Pré-História deixou.",
+              "safety": "Usa luvas e não mexas em vidro partido nem em restos de comida.",
+              "reflection": "O que é que o teu lixo não revela sobre ti — e que um arqueólogo nunca poderia saber?"
+            },
+            {
+              "title": "Fazer fogo é mais difícil do que parece",
+              "type": "Experiência",
+              "duration": "45 min",
+              "materials": [
+                "Um cordel e dois paus secos, ou uma pederneira",
+                "Palha ou algodão seco",
+                "Um adulto",
+                "Um balde de água ao lado"
+              ],
+              "steps": [
+                "Ao ar livre, com um adulto presente, tenta produzir uma faísca sem fósforos nem isqueiro.",
+                "Cronometra quanto tempo demoras até desistires ou conseguires.",
+                "Escreve o que correu mal em cada tentativa.",
+                "Pensa no que seria depender disto para comer quente todos os dias.",
+                "Descobre há quanto tempo é que a nossa espécie domina o fogo."
+              ],
+              "curriculumLink": "Cobre o reconhecimento do fabrico de instrumentos e do domínio sobre a natureza como momentos cruciais para o desenvolvimento da Humanidade.",
+              "safety": "Só ao ar livre, longe de vegetação seca, sempre com um adulto e com água à mão.",
+              "reflection": "Quantas coisas fazes todos os dias que dependem de tecnologias que não saberias reconstruir?"
+            }
+          ]
+        },
+        {
+          "id": "primeiras-civilizacoes",
+          "name": "Contributos das primeiras civilizações",
+          "student": "As primeiras cidades nasceram todas no mesmo tipo de sítio: junto a grandes rios. Não é coincidência — um rio dá água, terra fértil pela cheia e caminho para transportar coisas. Onde há excedente há quem o guarde, quem o conte e quem mande, e é aí que aparece a escrita, inventada primeiro para contabilidade e só muito depois para poesia. Muito do que herdámos vem daqui: o calendário, a divisão do dia, o alfabeto, a ideia de lei escrita.",
+          "questions": [
+            "Porque é que as primeiras civilizações apareceram junto a rios?",
+            "A escrita foi inventada para contar histórias ou para contar coisas?",
+            "O que é que da tua vida diária vem de há quatro mil anos?"
+          ],
+          "essentials": [
+            "Relacionar a organização socioeconómica e política institucional das primeiras civilizações urbanas com os recursos existentes nos espaços em que se implantaram;",
+            "Destacar contributos dessas civilizações para a civilização ocidental, identificando a permanência de alguns deles na atualidade;",
+            "Diferenciar formas de escrita e suportes utilizados para gravar mensagens escritas, no passado e na atualidade;",
+            "Identificar/aplicar os conceitos: núcleo urbano; acumulação de excedentes; sociedade estratificada; poder sacralizado; politeísmo; monoteísmo; escravatura; escrita figurativa; escrita alfabética."
+          ],
+          "activities": [
+            {
+              "title": "Escrever em barro",
+              "type": "Escrita",
+              "duration": "40 min",
+              "materials": [
+                "Plasticina ou barro",
+                "Um pau afiado ou um lápis sem bico",
+                "Papel e caneta, para comparar"
+              ],
+              "steps": [
+                "Achata a plasticina numa tábua, como uma tabuinha suméria.",
+                "Escreve o teu nome e a data com o pau, em cunha, pressionando em vez de arrastar.",
+                "Escreve agora a mesma coisa no papel com caneta e cronometra as duas.",
+                "Tenta corrigir um erro no barro, e depois no papel.",
+                "Escreve numa lista o que cada suporte permite e impede: durar, corrigir, transportar, copiar."
+              ],
+              "curriculumLink": "Trabalha a diferenciação de formas de escrita e de suportes usados para gravar mensagens, no passado e na atualidade.",
+              "reflection": "Um suporte difícil de corrigir muda o que as pessoas escolhem escrever nele?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mediterraneo-antigo",
+      "name": "A herança do Mediterrâneo antigo",
+      "emoji": "🏺",
+      "palette": "crimson",
+      "summary": "Atenas no século V a.C. e Roma no apogeu do império — e o que de lá continua connosco.",
+      "subtopics": [
+        {
+          "id": "gregos-atenas",
+          "name": "Os gregos no séc. V a.C.: exemplo de Atenas",
+          "student": "Atenas inventou a democracia, e o programa pede uma coisa importante: que identifiques as suas restrições. Na Atenas do século V a.C., votavam os cidadãos — homens, atenienses, livres. Ficavam de fora as mulheres, os escravos e os metecos, que eram estrangeiros residentes muitas vezes há gerações. Somando, votava talvez uma pessoa em cada dez. Isto não anula a invenção: a ideia de que os cidadãos são iguais perante a lei era radical. Mas mostra que «democracia» é uma palavra cujo significado foi crescendo ao longo de dois mil e quinhentos anos.",
+          "questions": [
+            "Se só vota uma pessoa em dez, ainda é uma democracia?",
+            "Quem é que hoje vive num país e não pode votar nele?",
+            "Porque é que continuamos a copiar templos gregos em bancos e tribunais?"
+          ],
+          "essentials": [
+            "Analisar a experiência democrática de Atenas do século V a.C., nomeadamente a importância do princípio da igualdade dos cidadãos perante a lei, identificando as suas restrições;",
+            "Identificar manifestações artísticas do período clássico grego, ressaltando os seus aspetos estéticos e humanistas;",
+            "Reconhecer os contributos da civilização helénica para o mundo contemporâneo;",
+            "Identificar/aplicar os conceitos: cidade-estado; democracia; cidadão; meteco; escravo; economia comercial e monetária; arte clássica; método comparativo."
+          ],
+          "activities": [
+            {
+              "title": "Quem vota nesta sala",
+              "type": "Simulação",
+              "duration": "35 min",
+              "materials": [
+                "Um grupo de pessoas",
+                "Papelinhos com estatutos",
+                "Uma decisão real a tomar"
+              ],
+              "steps": [
+                "Distribui papelinhos ao acaso: cidadão, mulher, meteco, escravo, na proporção aproximada da Atenas do século V.",
+                "Proponham uma decisão real, como onde ir num passeio.",
+                "Discutam livremente — toda a gente pode falar.",
+                "Na votação, só os cidadãos põem a mão no ar.",
+                "Anunciem o resultado e peçam a quem não votou que diga o que sentiu."
+              ],
+              "curriculumLink": "Trabalha a análise da experiência democrática de Atenas e, sobretudo, a identificação das suas restrições, com os conceitos de cidadão, meteco e escravo.",
+              "reflection": "A decisão teria sido diferente se todos votassem?"
+            }
+          ]
+        },
+        {
+          "id": "mundo-romano",
+          "name": "O mundo romano no apogeu do império",
+          "student": "Roma governou durante séculos um território com dezenas de povos, línguas e religiões, e o programa aponta os três elementos que o mantiveram unido: a língua, o Direito e a administração. Nenhum deles é um exército. O latim deu origem ao português que estás a ler; o Direito romano continua na base das nossas leis; e a administração inventou a ideia de que um funcionário aplica a mesma regra em Braga e na Síria. A romanização não foi só conquista — foi também estradas, aquedutos, cidades e o hábito de escrever tudo.",
+          "questions": [
+            "Como é que se governa um império sem telefones nem comboios?",
+            "Que palavras portuguesas consegues reconhecer em latim?",
+            "Roma caiu, ou transformou-se noutra coisa?"
+          ],
+          "essentials": [
+            "Referir o espaço imperial romano nos séculos II e III e a sua diversidade de recursos, povos e culturas;",
+            "Caracterizar a economia romana como urbana, comercial, monetária e esclavagista;",
+            "Compreender que a língua, o Direito e a administração foram elementos unificadores do império;",
+            "Caracterizar o poder imperial acentuando o seu estatuto sagrado e o controlo exercido sobre as instituições políticas;",
+            "Caracterizar a arquitetura romana;",
+            "Reconhecer os contributos da civilização romana para o mundo contemporâneo;",
+            "Identificar/aplicar os conceitos: império; magistrado; administração; urbanismo; Direito; romanização."
+          ],
+          "activities": [
+            {
+              "title": "O arco que se aguenta sozinho",
+              "type": "Construção",
+              "duration": "45 min",
+              "materials": [
+                "Cartão grosso ou esponja",
+                "Tesoura",
+                "Uma forma curva para apoiar durante a montagem"
+              ],
+              "steps": [
+                "Corta sete ou nove blocos em forma de cunha, mais largos em cima do que em baixo.",
+                "Monta-os sobre a forma curva, começando pelas pontas e acabando na pedra do meio.",
+                "Retira a forma com cuidado. O arco deve ficar de pé só com o peso dele.",
+                "Carrega devagar em cima e vê quanto aguenta.",
+                "Tira a pedra do meio e repete. Nota a diferença."
+              ],
+              "curriculumLink": "Cobre a caracterização da arquitetura romana, cuja marca é precisamente o arco e a abóbada que dele deriva.",
+              "reflection": "Porque é que uma tecnologia tão simples demorou tanto tempo a ser inventada?"
+            },
+            {
+              "title": "Latim à mesa",
+              "type": "Língua",
+              "duration": "30 min",
+              "materials": [
+                "Uma lista de vinte palavras latinas comuns",
+                "Dicionário"
+              ],
+              "steps": [
+                "Escolhe vinte palavras latinas do dia a dia: aqua, terra, mater, panis, liber, nox.",
+                "Escreve ao lado o que achas que deu em português, antes de confirmares.",
+                "Confirma e marca as que acertaste.",
+                "Descobre o que as mesmas palavras deram em espanhol, francês e italiano.",
+                "Procura uma palavra portuguesa que não venha do latim e descobre de onde veio."
+              ],
+              "curriculumLink": "Trabalha a compreensão da língua como elemento unificador do império e o reconhecimento dos contributos romanos para o mundo contemporâneo.",
+              "reflection": "Se a língua se transformou tanto em dois mil anos, como estará o português daqui a mil?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cristandade-e-islao",
+      "name": "A formação da Cristandade Ocidental e a expansão islâmica",
+      "emoji": "🗺️",
+      "palette": "purple",
+      "summary": "Um império que se desfaz, duas religiões que se espalham e uma sociedade que se organiza por vassalagem.",
+      "subtopics": [
+        {
+          "id": "cristianismo",
+          "name": "Origem e difusão do cristianismo",
+          "student": "O cristianismo nasceu numa província ocupada, entre gente sem poder, e trezentos anos depois era a religião do imperador. O programa aponta a explicação prática: espalhou-se pelas infraestruturas que o próprio império tinha construído — as estradas, os portos, o latim e o grego que se falavam de uma ponta à outra. Uma ideia viaja pelos caminhos que existem. Este subtema traz também dois conceitos que servem para toda a História: continuidade e mudança.",
+          "questions": [
+            "Como é que uma religião de perseguidos se torna a religião do império?",
+            "As estradas romanas ajudaram mais o exército ou as ideias?",
+            "O que é que muda numa sociedade quando muda a religião oficial?"
+          ],
+          "essentials": [
+            "Contextualizar o aparecimento do cristianismo na Palestina ocupada pelo império romano;",
+            "Relacionar a difusão do cristianismo com a utilização das infraestruturas imperiais romanas e com as condições culturais;",
+            "Identificar/aplicar os conceitos: cristianismo; cristão; Antigo Testamento; Novo Testamento; continuidade; mudança."
+          ],
+          "activities": [
+            {
+              "title": "O mapa das estradas e o mapa das ideias",
+              "type": "Cartografia",
+              "duration": "40 min",
+              "materials": [
+                "Um mapa do império romano com as estradas principais",
+                "Papel vegetal ou uma folha transparente"
+              ],
+              "steps": [
+                "Decalca as estradas e rotas marítimas romanas para o papel vegetal.",
+                "Noutra cor, marca as cidades onde se sabe que havia comunidades cristãs no século II.",
+                "Sobrepõe os dois desenhos.",
+                "Escreve o que vês: as comunidades estão onde?",
+                "Procura uma cidade cristã longe de qualquer estrada e tenta descobrir como lá chegou."
+              ],
+              "curriculumLink": "Trabalha diretamente a relação entre a difusão do cristianismo e o uso das infraestruturas imperiais romanas.",
+              "reflection": "Que infraestruturas é que hoje espalham ideias da mesma maneira?"
+            }
+          ]
+        },
+        {
+          "id": "europa-vi-a-ix",
+          "name": "A Europa dos séculos VI a IX",
+          "student": "Quando o poder central desaparece, o que fica não é o caos absoluto — é a fragmentação. A Europa parte-se em reinos, o comércio de longa distância quase acaba, as cidades encolhem e cada zona passa a viver do que produz, que é o que significa economia de subsistência. No meio disso, a Igreja é a única instituição que continua a ligar sítios distantes: tem uma língua comum, uma hierarquia e mosteiros que copiam livros. Não é por acaso que muito do que sobrou da Antiguidade sobreviveu em mosteiros.",
+          "questions": [
+            "O que acontece a uma cidade quando o comércio de longa distância acaba?",
+            "Porque é que os mosteiros copiavam livros de autores pagãos?",
+            "Uma rutura na História é sempre um recuo?"
+          ],
+          "essentials": [
+            "Explicar que a passagem da realidade imperial romana para a fragmentada realidade medieval se deveu ao clima de insegurança originado pelas invasões, pelos conflitos constantes e pela regressão económica;",
+            "Reconhecer a importância da Igreja enquanto fator de unidade numa realidade fragmentada;",
+            "Identificar/aplicar os conceitos: Idade Média; bárbaros; economia de subsistência; reino; monarquia; Igreja Católica; ordem religiosa; rutura."
+          ],
+          "activities": [
+            {
+              "title": "Uma semana de subsistência",
+              "type": "Investigação",
+              "duration": "45 min",
+              "materials": [
+                "Um caderno",
+                "A despensa lá de casa"
+              ],
+              "steps": [
+                "Escolhe dez alimentos da despensa e descobre de onde vieram, pelo rótulo.",
+                "Marca num mapa a distância que cada um percorreu.",
+                "Risca da lista tudo o que veio de mais de cem quilómetros.",
+                "Com o que sobra, escreve uma ementa possível para uma semana.",
+                "Compara com o que comes normalmente."
+              ],
+              "curriculumLink": "Torna concreto o conceito de economia de subsistência, mostrando o que significa viver apenas do que se produz perto.",
+              "reflection": "A tua ementa de subsistência seria mais pobre, ou apenas mais monótona?"
+            }
+          ]
+        },
+        {
+          "id": "mundo-muculmano",
+          "name": "O mundo muçulmano em expansão",
+          "student": "Enquanto a Europa cristã encolhia e se ruralizava, o mundo islâmico fazia o contrário: crescia, comerciava e vivia em cidades grandes. Bagdad, Córdova ou o Cairo eram, na altura, muito maiores e mais cultas do que qualquer cidade da Europa cristã. O programa aponta os dois fatores de unidade — a língua e a religião — que permitiram a um mercador viajar da Península Ibérica à Índia entendendo-se pelo caminho. Muita ciência grega chegou até nós porque foi traduzida para árabe e só depois para latim.",
+          "questions": [
+            "Como é que se mantém unido um mundo que vai da Península Ibérica à Ásia?",
+            "Porque é que as cidades islâmicas eram maiores do que as cristãs nesta época?",
+            "Que palavras portuguesas começam por «al-» e o que é que isso indica?"
+          ],
+          "essentials": [
+            "Identificar acontecimentos relacionados com as origens da religião islâmica e a sua expansão;",
+            "Reconhecer a língua e a religião como fatores de unidade do mundo islâmico;",
+            "Caracterizar o carácter cosmopolita, comercial e urbano do mundo islâmico medieval;",
+            "Identificar/aplicar os conceitos: islamismo; islão; muçulmano; Corão."
+          ],
+          "activities": [
+            {
+              "title": "As palavras que ficaram",
+              "type": "Língua",
+              "duration": "35 min",
+              "materials": [
+                "Dicionário ou acesso à internet",
+                "Papel"
+              ],
+              "steps": [
+                "Faz uma lista de palavras portuguesas começadas por «al»: alface, alcatifa, alfaiate, álgebra, alcaide.",
+                "Descobre o significado do «al» em árabe.",
+                "Agrupa as palavras por tema: agricultura, casa, ciência, administração, guerra.",
+                "Vê em que temas há mais. Isso diz-te o que os árabes trouxeram à Península.",
+                "Procura três topónimos portugueses de origem árabe."
+              ],
+              "curriculumLink": "Trabalha o reconhecimento da língua como fator de unidade do mundo islâmico e o carácter cosmopolita e urbano dessa civilização.",
+              "reflection": "O que é que a lista revela sobre o que se aprendeu de quem cá esteve?"
+            }
+          ]
+        },
+        {
+          "id": "sociedade-ix-a-xii",
+          "name": "A sociedade europeia nos séculos IX a XII",
+          "student": "Com o rei fraco, quem manda no dia a dia é quem tem terra e quem tem armas. A sociedade organiza-se numa cadeia de promessas: o vassalo jura fidelidade ao senhor, o senhor dá-lhe um feudo e proteção, e assim sucessivamente até ao rei, que muitas vezes é apenas o maior dos senhores. Por baixo de tudo estão os camponeses, que trabalham a terra e sustentam os outros dois grupos. É um sistema construído para a insegurança — e que se desfaz quando a insegurança acaba.",
+          "questions": [
+            "O que é que o senhor dava, exatamente, em troca da fidelidade?",
+            "Um servo era um escravo?",
+            "Porque é que só três grupos, se havia tanta gente diferente?"
+          ],
+          "essentials": [
+            "Reconhecer a importância da aristocracia guerreira e do clero cristão na regulação da sociedade, dada a fragilidade do poder régio;",
+            "Analisar as dinâmicas económicas e sociais existentes entre senhores e camponeses;",
+            "Compreender como se processavam as relações de vassalidade;",
+            "Identificar/aplicar os conceitos: aristocracia; feudo; clero; nobreza; povo; servo; vassalo."
+          ],
+          "activities": [
+            {
+              "title": "A pirâmide das promessas",
+              "type": "Esquema",
+              "duration": "35 min",
+              "materials": [
+                "Uma folha grande",
+                "Cordel e fita-cola, ou apenas lápis"
+              ],
+              "steps": [
+                "Desenha os degraus: rei, grandes senhores, senhores menores, cavaleiros, camponeses.",
+                "Liga cada nível ao de cima com uma seta e escreve nela o que sobe: fidelidade, serviço militar, trabalho.",
+                "Liga cada nível ao de baixo com outra seta e escreve o que desce: terra, proteção, justiça.",
+                "Marca a vermelho o degrau que sustenta todos os outros.",
+                "Corta uma das setas e escreve o que aconteceria ao sistema."
+              ],
+              "curriculumLink": "Cobre a compreensão das relações de vassalidade e das dinâmicas entre senhores e camponeses, com os conceitos de feudo, vassalo e servo.",
+              "reflection": "Se as promessas eram nos dois sentidos, porque é que só um lado podia queixar-se?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "portugal-xii-xiv",
+      "name": "Portugal no contexto europeu dos séculos XII a XIV",
+      "emoji": "🇵🇹",
+      "palette": "green",
+      "summary": "Como nasceu o reino, como enriqueceu, o que construiu e a crise que quase o desfez.",
+      "subtopics": [
+        {
+          "id": "peninsula-ix-a-xii",
+          "name": "A Península Ibérica nos séculos IX a XII",
+          "student": "Portugal não apareceu de uma vez nem por vontade de um homem só. Nasceu de um condado dentro de um reino maior, num território onde cristãos, muçulmanos e judeus conviviam, guerreavam e negociavam consoante a década. D. Afonso Henriques lutou contra a própria mãe antes de lutar contra mouros, e o reconhecimento da independência foi um processo longo, feito de batalhas mas também de cartas, casamentos e do reconhecimento do Papa.",
+          "questions": [
+            "Um país começa exatamente em que dia?",
+            "Cristãos, muçulmanos e judeus na mesma península: sempre em guerra?",
+            "Porque é que era preciso o Papa reconhecer um reino?"
+          ],
+          "essentials": [
+            "Reconhecer na Península Ibérica a existência de diferentes formas de relacionamento entre cristãos, muçulmanos, e judeus;",
+            "Descrever a formação do Reino de Portugal, nomeadamente a luta de D. Afonso Henriques pela independência;",
+            "Relacionar a formação do Reino de Portugal com as dinâmicas de interação entre as unidades políticas cristãs e com a reconquista;",
+            "Referir os momentos-chave da autonomização e reconhecimento da independência de Portugal;",
+            "Identificar/aplicar os conceitos: condado; independência política; judeu."
+          ],
+          "activities": [
+            {
+              "title": "A linha do tempo da independência",
+              "type": "Cronologia",
+              "duration": "40 min",
+              "materials": [
+                "Uma tira de papel de dois metros",
+                "Marcadores de três cores"
+              ],
+              "steps": [
+                "Marca a tira de 1096 a 1179, um centímetro por ano.",
+                "Assinala os momentos-chave: o condado, São Mamede, Ourique, Zamora, a bula papal.",
+                "Usa cores diferentes para batalhas, tratados e reconhecimentos.",
+                "Olha para a tira de longe: que cor domina?",
+                "Escreve em que ano dirias que Portugal passou mesmo a existir, e justifica."
+              ],
+              "curriculumLink": "Trabalha os momentos-chave da autonomização e do reconhecimento da independência de Portugal.",
+              "reflection": "Escolheste um ano de batalha ou de documento? Porquê?"
+            }
+          ]
+        },
+        {
+          "id": "economia-e-poder-xii-a-xiv",
+          "name": "Desenvolvimento económico, relações sociais e poder político nos séculos XII a XIV",
+          "student": "A partir do século XII a Europa aquece: melhores charruas, moinhos, rotações de cultura, mais comida, mais gente. Com mais gente e mais excedente, voltam as feiras, o dinheiro e as cidades — e com as cidades aparece um grupo novo que não é nobreza nem clero nem campesinato: a burguesia, gente que vive de comprar e vender. Os reis percebem depressa que estes novos ricos lhes convêm, e apoiam-se neles para reduzir o poder dos senhores. Lisboa cresce ao ritmo do comércio marítimo do Atlântico.",
+          "questions": [
+            "De onde é que apareceu uma classe social que antes não existia?",
+            "Porque é que o rei preferia aliar-se aos burgueses e não aos nobres?",
+            "O que é que um foral dava a uma terra?"
+          ],
+          "essentials": [
+            "Compreender o processo de passagem de uma economia de subsistência para uma economia monetária e urbana na Europa medieval;",
+            "Relacionar inovações técnicas e desenvolvimento demográfico com o dinamismo económico do período histórico estudado;",
+            "Interpretar o aparecimento da burguesia;",
+            "Explicar a divisão do país em senhorios laicos e eclesiásticos e em concelhos;",
+            "Analisar o processo de fortalecimento do poder régio;",
+            "Relacionar o crescimento de Lisboa com o dinamismo comercial marítimo e urbano da Europa nos séculos XIII e XIV;",
+            "Identificar/aplicar os conceitos: senhorio; concelho; foral; mercado; feira; burguês; Cortes."
+          ],
+          "activities": [
+            {
+              "title": "A feira medieval da tua terra",
+              "type": "Investigação local",
+              "duration": "50 min",
+              "materials": [
+                "Acesso ao arquivo ou biblioteca municipal",
+                "Um mapa da tua localidade"
+              ],
+              "steps": [
+                "Descobre se a tua terra tem foral e de que ano é.",
+                "Procura se havia feira ou mercado, e em que dia da semana se fazia.",
+                "Marca no mapa onde ficava, e vê o que lá está hoje.",
+                "Compara o dia da feira antiga com o dia do mercado atual, se ainda existir.",
+                "Escreve meia página sobre o que mudou e o que ficou."
+              ],
+              "curriculumLink": "Torna locais os conceitos de foral, concelho, mercado e feira, e a passagem a uma economia monetária e urbana.",
+              "reflection": "Muitas feiras mantêm o mesmo dia há oitocentos anos. Porque é que isso acontece?"
+            }
+          ]
+        },
+        {
+          "id": "cultura-portuguesa",
+          "name": "A cultura portuguesa face aos modelos europeus",
+          "student": "Nesta época, a cultura escrita vive sobretudo em dois sítios: nos mosteiros e nas cortes. Nos mosteiros copia-se, traduz-se e ensina-se; nas cortes canta-se, faz-se poesia e discute-se. A universidade aparece em Portugal em 1290. Na arquitetura, dois estilos sucedem-se: o românico, de paredes grossas, janelas pequenas e ar de fortaleza, e o gótico, que descobre como pôr o peso nos pilares e por isso pode abrir paredes inteiras em vitrais.",
+          "questions": [
+            "Porque é que as igrejas românicas parecem fortalezas?",
+            "Como é que o gótico consegue janelas tão grandes sem cair?",
+            "Quem sabia ler nesta época, e o que é que isso lhe dava?"
+          ],
+          "essentials": [
+            "Compreender o papel exercido pelas instituições monásticas e pelas cortes régias e senhoriais na produção e disseminação de cultura;",
+            "Caracterizar os estilos românico e gótico, destacando especificidades regionais;",
+            "Identificar/aplicar os conceitos: universidade; cultura popular; românico; gótico."
+          ],
+          "activities": [
+            {
+              "title": "Românico ou gótico?",
+              "type": "Observação",
+              "duration": "45 min",
+              "materials": [
+                "Fotografias de igrejas, ou uma visita a uma igreja antiga",
+                "Uma grelha de observação"
+              ],
+              "steps": [
+                "Faz uma grelha com cinco linhas: arcos, janelas, paredes, altura, luz interior.",
+                "Preenche-a para uma igreja românica e para uma gótica.",
+                "Repara sobretudo na forma dos arcos: redondos ou em bico?",
+                "Explica por escrito porque é que o arco em bico permite paredes mais finas.",
+                "Se puderes, visita uma e fica lá dentro cinco minutos em silêncio."
+              ],
+              "curriculumLink": "Cobre a caracterização dos estilos românico e gótico, com atenção às especificidades regionais.",
+              "reflection": "Os dois estilos foram feitos para provocar que sensação a quem entrava?"
+            }
+          ]
+        },
+        {
+          "id": "crise-e-revolucao",
+          "name": "Crises e revolução no século XIV",
+          "student": "O século XIV corre mal a quase toda a Europa: o clima piora, as colheitas falham, a peste negra mata talvez um terço da população, e a Guerra dos Cem Anos arrasta-se entre França e Inglaterra. Portugal apanha tudo isto e ainda uma crise dinástica: morre D. Fernando sem herdeiro varão, e a sucessão cai numa rainha casada com o rei de Castela. O que se segue, entre 1383 e 1385, é uma revolução — com Lisboa cercada, um Mestre de Avis aclamado em Cortes e uma batalha em Aljubarrota que decide quem existe.",
+          "questions": [
+            "Uma epidemia pode mudar a história de um país?",
+            "Porque é que os burgueses de Lisboa apoiaram o Mestre de Avis?",
+            "O que é que faz de 1383-1385 uma revolução e não apenas uma guerra?"
+          ],
+          "essentials": [
+            "Analisar a crise económica, social e política do século XIV em Portugal, integrando as guerras fernandinas no contexto da Guerra dos Cem Anos;",
+            "Integrar a revolução de 1383-1385 num contexto de crise e rutura, realçando os seus aspetos dinásticos e os confrontos militares, assim como as suas consequências políticas, sociais e económicas;",
+            "Identificar/aplicar os conceitos: crise económica; quebra demográfica; peste; revolução."
+          ],
+          "activities": [
+            {
+              "title": "Um terço a menos",
+              "type": "Matemática histórica",
+              "duration": "30 min",
+              "materials": [
+                "Papel quadriculado",
+                "Calculadora"
+              ],
+              "steps": [
+                "Descobre quantas pessoas vivem na tua freguesia ou vila.",
+                "Calcula um terço desse número.",
+                "Desenha uma grelha em que cada quadrado vale dez pessoas e pinta o terço que morreria.",
+                "Escreve o que aconteceria às escolas, aos campos e às lojas dessa terra.",
+                "Descobre o que aconteceu aos salários na Europa depois da peste, e explica porquê."
+              ],
+              "curriculumLink": "Trabalha os conceitos de quebra demográfica, peste e crise económica, ligando-os às consequências sociais que as AE pedem que se realcem.",
+              "reflection": "Porque é que uma catástrofe que mata tanta gente acaba por melhorar a vida de quem sobrevive?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
