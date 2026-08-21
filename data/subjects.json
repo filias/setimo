@@ -35,8 +35,8 @@
       "id": "geografia",
       "name": "Geografia",
       "emoji": "🌍",
-      "status": "pending",
-      "summary": "A Terra: estudos e representações, o meio natural, e a leitura de mapas, escalas e coordenadas geográficas."
+      "status": "ready",
+      "summary": "A Terra e as suas representações, e o meio natural: coordenadas, escalas, projeções, climas, relevo e rede hidrográfica."
     },
     {
       "id": "matematica",

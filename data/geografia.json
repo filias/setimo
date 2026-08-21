@@ -1,0 +1,334 @@
+{
+  "id": "geografia",
+  "name": "Geografia",
+  "emoji": "🌍",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "A Geografia estreia-se no 7.º ano com dois temas: A Terra — estudos e representações, e o Meio Natural. O documento organiza cada tema em três colunas, que aqui aparecem como subtemas: localizar e compreender os lugares, problematizar e debater as inter-relações entre fenómenos e espaços, e comunicar e participar. Entram as coordenadas geográficas, as escalas, as projeções cartográficas, os climas e biomas, o relevo e a rede hidrográfica.",
+  "studentIntro": "Um mapa nunca é o mundo — é uma opinião sobre o mundo. Todos os mapas mentem de alguma maneira, porque é impossível achatar uma esfera sem esticar qualquer coisa, e cada projeção escolhe o que estica. Este ano vais descobrir quanto é que o mapa da tua sala de aula aumenta a Gronelândia, aprender a dizer exatamente onde estás com dois números, e perceber a diferença entre o tempo que faz hoje e o clima do sítio onde vives — que são coisas tão diferentes como o teu humor e a tua personalidade.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Geografia, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/7_geografia.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho."
+  },
+  "domains": [
+    {
+      "id": "a-terra",
+      "name": "A Terra: estudos e representações",
+      "emoji": "🗺️",
+      "palette": "indigo",
+      "summary": "Dizer onde ficam as coisas, e perceber que nenhum mapa consegue dizê-lo sem distorcer alguma coisa.",
+      "subtopics": [
+        {
+          "id": "terra-localizar",
+          "name": "Localizar e compreender os lugares e as regiões",
+          "student": "Há duas maneiras de dizer onde uma coisa fica. A relativa usa referências — a norte da escola, à esquerda do rio — e depende de onde estás. A absoluta usa dois números, latitude e longitude, e funciona em qualquer ponto do planeta sem precisar de contexto nenhum. É por isso que um barco no meio do Atlântico consegue dizer a sua posição a alguém que nunca lá esteve. Aprendes também a ler escalas, e uma coisa que confunde toda a gente: um mapa de grande escala mostra uma área pequena com muito pormenor, e não o contrário.",
+          "questions": [
+            "Porque é que um mapa de grande escala mostra uma área pequena?",
+            "Consegues dizer a alguém onde moras usando apenas dois números?",
+            "Como é que os navegadores sabiam a latitude sem satélites?"
+          ],
+          "essentials": [
+            "Elaborar esboços da paisagem descrevendo os seus elementos essenciais.",
+            "Situar exemplos de paisagens no respetivo território a diferentes escalas geográficas, ilustrando com diversos tipos de imagens.",
+            "Descrever a localização relativa de um lugar, em diferentes formas de representação da superfície terrestre, utilizando a rosa dos ventos.",
+            "Descrever a localização absoluta de um lugar, usando o sistema de coordenadas geográficas (latitude, longitude), em mapas de pequena escala com um sistema de projeção cilíndrica.",
+            "Distinguir mapas de grande escala de mapas de pequena escala, quanto à dimensão e ao pormenor da área representada.",
+            "Calcular a distância real entre dois lugares, em itinerários definidos, utilizando a escala de um mapa.",
+            "Aplicar as Tecnologias de Informação Geográfica, para localizar, descrever e compreender os lugares."
+          ],
+          "activities": [
+            {
+              "title": "Caça ao tesouro por coordenadas",
+              "type": "Localização",
+              "duration": "45 min",
+              "materials": [
+                "Telemóvel com GPS ou mapa com grelha",
+                "Papel e caneta",
+                "Alguém para esconder o tesouro"
+              ],
+              "steps": [
+                "Escolhe cinco sítios da tua zona e regista as coordenadas exatas de cada um.",
+                "Escreve as cinco coordenadas num papel, sem nomes nem pistas.",
+                "Dá o papel a outra pessoa e vê se consegue chegar aos cinco.",
+                "Troquem: agora és tu a seguir as coordenadas dela.",
+                "No fim, descrevam os mesmos cinco sítios com localização relativa, usando a rosa dos ventos."
+              ],
+              "curriculumLink": "Trabalha lado a lado a localização absoluta por coordenadas geográficas e a localização relativa com a rosa dos ventos.",
+              "reflection": "Qual das duas formas foi mais rápida de seguir, e qual foi mais fácil de explicar?"
+            },
+            {
+              "title": "Quanto é que isto é ao certo",
+              "type": "Escala",
+              "duration": "35 min",
+              "materials": [
+                "Um mapa em papel com escala gráfica",
+                "Um cordel",
+                "Régua e calculadora"
+              ],
+              "steps": [
+                "Escolhe um percurso que faças muitas vezes, com curvas.",
+                "Pousa o cordel por cima do percurso no mapa, seguindo todas as curvas.",
+                "Estica o cordel contra a régua e converte para distância real usando a escala.",
+                "Mede agora a distância em linha reta e compara os dois números.",
+                "Confirma com uma aplicação de mapas: acertaste em quanto?"
+              ],
+              "curriculumLink": "Cobre o cálculo da distância real entre dois lugares em itinerários definidos, utilizando a escala de um mapa.",
+              "reflection": "A diferença entre a linha reta e o percurso real muda a tua ideia de «perto»?"
+            }
+          ]
+        },
+        {
+          "id": "terra-problematizar",
+          "name": "Problematizar e debater as inter-relações",
+          "student": "Achatar uma esfera é impossível sem estragar alguma coisa: ou as áreas, ou as formas, ou as distâncias. Cada projeção escolhe o que sacrifica. A de Mercator, que é a que quase toda a gente conhece, mantém as formas e os ângulos — o que serve para navegar — mas incha tudo o que está longe do equador. Na Mercator, a Gronelândia parece do tamanho de África; na realidade, África é catorze vezes maior. E depois há os mapas mentais: o mapa que tens na cabeça da tua cidade, que dá mais espaço aos sítios que conheces.",
+          "questions": [
+            "Se todos os mapas distorcem, algum está certo?",
+            "Porque é que o norte fica sempre em cima?",
+            "O mapa que tens na cabeça da tua zona é fiel às distâncias reais?"
+          ],
+          "essentials": [
+            "Reconhecer diferentes formas de representação do mundo de acordo com a posição geográfica dos continentes e com os espaços de vivência dos povos, utilizando diversas projeções cartográficas (em suporte papel ou digital).",
+            "Inferir a relatividade da representação do território, desenhando mapas mentais, a diversas escalas.",
+            "Reconhecer as características que conferem identidade a um lugar (o bairro, a região e o país onde vive), comparando diferentes formas de representação desses lugares.",
+            "Inferir sobre a distorção do território cartografado em mapas com diferentes sistemas de projeção.",
+            "Discutir os aspetos mais significativos da inserção de Portugal na União Europeia."
+          ],
+          "activities": [
+            {
+              "title": "A Gronelândia não é assim tão grande",
+              "type": "Projeções",
+              "duration": "40 min",
+              "materials": [
+                "Uma laranja e uma faca, com um adulto",
+                "Um mapa-múndi de Mercator",
+                "Acesso a um comparador de tamanhos de países online"
+              ],
+              "steps": [
+                "Descasca a laranja tentando manter a casca inteira e depois achata-a na mesa. Repara onde rasga.",
+                "No mapa de Mercator, compara a olho a Gronelândia com África.",
+                "Procura a área real de cada uma e calcula quantas Gronelândias cabem em África.",
+                "Arrasta a Gronelândia para cima do equador num comparador online e vê o que acontece.",
+                "Encontra outra projeção do mundo e compara os dois mapas lado a lado."
+              ],
+              "curriculumLink": "Trabalha a inferência sobre a distorção do território cartografado em mapas com diferentes sistemas de projeção.",
+              "safety": "Peça a um adulto para usar a faca.",
+              "reflection": "Se o mapa mais usado do mundo exagera umas regiões e encolhe outras, isso tem consequências?"
+            },
+            {
+              "title": "O mapa que tens na cabeça",
+              "type": "Mapa mental",
+              "duration": "35 min",
+              "materials": [
+                "Folha em branco",
+                "Um mapa real da tua zona, guardado até ao fim"
+              ],
+              "steps": [
+                "Desenha de memória o mapa do teu bairro, sem consultar nada, com tudo o que te lembrares.",
+                "Marca quanto tempo demoraste e o que desenhaste primeiro.",
+                "Só agora abre o mapa real e sobrepõe mentalmente.",
+                "Marca a vermelho o que aumentaste e a azul o que encolheste ou esqueceste.",
+                "Pede a outra pessoa que desenhe o mesmo bairro e compara os dois."
+              ],
+              "curriculumLink": "Cobre a inferência da relatividade da representação do território através do desenho de mapas mentais.",
+              "reflection": "O que aumentaste é onde passas mais tempo?"
+            }
+          ]
+        },
+        {
+          "id": "terra-comunicar",
+          "name": "Comunicar e participar",
+          "student": "Depois de saberes que há muitas formas de representar a superfície da Terra, vem a pergunta prática: qual é que se usa em cada caso. Um mapa de estradas, uma fotografia de satélite, um perfil topográfico e um mapa temático servem propósitos diferentes, e escolher mal torna a informação inútil. Este descritor é sobre isso — selecionar a representação certa para aquilo que queres mostrar.",
+          "questions": [
+            "Que representação usarias para mostrar onde chove mais em Portugal?",
+            "Quando é que uma fotografia de satélite é pior do que um mapa desenhado?",
+            "Um mapa pode ser bonito e inútil ao mesmo tempo?"
+          ],
+          "essentials": [
+            "Selecionar as formas de representação da superfície terrestre, tendo em conta a heterogeneidade de situações e acontecimentos observáveis a partir de diferentes territórios."
+          ],
+          "activities": [
+            {
+              "title": "A mesma terra, cinco maneiras",
+              "type": "Representação",
+              "duration": "40 min",
+              "materials": [
+                "Acesso à internet",
+                "Folhas A4"
+              ],
+              "steps": [
+                "Escolhe a tua localidade e reúne cinco representações dela: mapa de estradas, imagem de satélite, mapa topográfico, planta da cidade e um mapa antigo.",
+                "Para cada uma, escreve numa linha o que mostra melhor do que as outras.",
+                "Escreve cinco perguntas sobre a tua terra e decide qual das representações responde a cada uma.",
+                "Encontra uma pergunta a que nenhuma responda.",
+                "Desenha tu a representação que faltava."
+              ],
+              "curriculumLink": "Trabalha diretamente a seleção das formas de representação da superfície terrestre em função das situações a observar.",
+              "reflection": "A representação que desenhaste existiria se alguém precisasse mesmo dela?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meio-natural",
+      "name": "Meio Natural",
+      "emoji": "🏔️",
+      "palette": "green",
+      "summary": "Climas, biomas, relevo, rios e o que a ação humana lhes vai fazendo.",
+      "subtopics": [
+        {
+          "id": "meio-localizar",
+          "name": "Localizar e compreender o meio natural",
+          "student": "Tempo e clima confundem-se e não são a mesma coisa: o estado do tempo é o que se passa lá fora agora, o clima é o padrão desses estados ao longo de trinta anos. Uma semana fria não desmente um clima quente, tal como um dia mal-humorado não faz de alguém uma pessoa má. Depois vem o relevo e a água: os rios não escolhem por onde correr, seguem a forma do terreno, e ao correr vão-no gastando. É por isso que se pode ler um perfil topográfico e adivinhar onde estará o rio.",
+          "questions": [
+            "Quantos anos de observações são precisos para se falar de clima?",
+            "Porque é que os rios têm curvas se o caminho mais curto é a linha reta?",
+            "O mar constrói ou destrói a costa?"
+          ],
+          "essentials": [
+            "Distinguir clima e estado do tempo, utilizando a observação direta e diferentes recursos digitais (sítio do IPMA, por exemplo).",
+            "Reconhecer a zonalidade dos climas e biomas, utilizando representações cartográficas (em suporte papel ou digital).",
+            "Identificar as grandes cadeias montanhosas e os principais rios do Mundo, utilizando mapas de diferentes escalas (em suporte papel ou digital).",
+            "Relacionar a localização de formas de relevo com a rede hidrográfica, utilizando perfis topográficos.",
+            "Demonstrar a ação erosiva dos cursos de água e do mar, utilizando esquemas e imagens.",
+            "Identificar fatores responsáveis por situações de conflito na gestão dos recursos naturais (bacias hidrográficas, litoral), utilizando terminologia específica, à escala local e nacional.",
+            "Aplicar as Tecnologias de Informação Geográfica – Web SIG, Google Earth, GPS, Big Data, para localizar, descrever e compreender e os fenómenos geográficos."
+          ],
+          "activities": [
+            {
+              "title": "Trinta dias de tempo",
+              "type": "Observação",
+              "duration": "Um mês, 2 min por dia",
+              "materials": [
+                "Uma folha quadriculada",
+                "Acesso ao sítio do IPMA"
+              ],
+              "steps": [
+                "Todos os dias, à mesma hora, regista temperatura, céu e vento.",
+                "No fim do mês, calcula a temperatura média.",
+                "Procura no IPMA a normal climatológica da tua região para esse mês.",
+                "Compara o teu mês com a normal de trinta anos.",
+                "Escreve numa frase a diferença entre o que registaste e o clima da tua terra."
+              ],
+              "curriculumLink": "Trabalha a distinção entre clima e estado do tempo com observação direta e recursos digitais, tal como as AE indicam.",
+              "reflection": "O teu mês foi típico? Um mês chega para concluir alguma coisa sobre o clima?"
+            },
+            {
+              "title": "Um rio num tabuleiro",
+              "type": "Experiência",
+              "duration": "45 min",
+              "materials": [
+                "Um tabuleiro fundo ou caixa de plástico",
+                "Areia ou terra",
+                "Um jarro de água",
+                "Livros para inclinar o tabuleiro"
+              ],
+              "steps": [
+                "Enche o tabuleiro de areia húmida e inclina-o com livros numa das pontas.",
+                "Deita água devagar pelo ponto mais alto e observa o caminho que ela escolhe.",
+                "Repete com mais inclinação e depois com menos. Compara as curvas.",
+                "Põe uma pedra no meio do percurso e vê o que acontece à jusante.",
+                "Fotografa o antes e o depois e desenha o esquema do que aconteceu à areia."
+              ],
+              "curriculumLink": "Cobre a demonstração da ação erosiva dos cursos de água e a relação entre formas de relevo e rede hidrográfica.",
+              "safety": "Faz isto ao ar livre ou sobre uma superfície fácil de limpar.",
+              "reflection": "Onde é que a areia foi tirada e onde é que foi depositada?"
+            }
+          ]
+        },
+        {
+          "id": "meio-problematizar",
+          "name": "Problematizar a ação humana no território",
+          "student": "Quase nenhuma paisagem que vês é natural no sentido estrito: quase todas foram alteradas por pessoas, umas há séculos, outras no ano passado. Este subtema pede que descrevas esses impactes a partir de exemplos concretos e de fontes fidedignas — e a insistência nas fontes não é enfeite. Em questões de ambiente circula muita afirmação forte sem nada por trás, de todos os lados, e a Geografia dá-te o hábito de perguntar de onde vem o número antes de o usares.",
+          "questions": [
+            "Qual é a paisagem mais alterada por pessoas que vês da tua janela?",
+            "Como é que se distingue uma fonte fidedigna de uma que soa bem?",
+            "Um recurso natural que atravessa fronteiras pertence a quem?"
+          ],
+          "essentials": [
+            "Descrever impactes da ação humana na alteração e ou degradação de ambientes biogeográficos, a partir de exemplos concretos e apoiados em fontes fidedignas.",
+            "Identificar exemplos de impactes da ação humana no território, apoiados em fontes fidedignas.",
+            "Reconhecer a necessidade da cooperação internacional na gestão de recursos naturais, exemplificando com casos concretos, a diferentes escalas."
+          ],
+          "activities": [
+            {
+              "title": "A tua terra vista de cima, então e agora",
+              "type": "Investigação",
+              "duration": "45 min",
+              "materials": [
+                "Imagens de satélite atuais",
+                "Fotografias aéreas antigas da tua zona",
+                "Papel"
+              ],
+              "steps": [
+                "Encontra uma imagem aérea da tua zona com pelo menos trinta anos.",
+                "Põe ao lado a imagem de satélite de hoje, à mesma escala.",
+                "Marca três diferenças grandes: construção, campos, floresta, linha de costa.",
+                "Para cada uma, procura uma fonte que explique o que aconteceu e quando.",
+                "Escreve um parágrafo por diferença, citando a fonte no fim."
+              ],
+              "curriculumLink": "Trabalha a identificação de impactes da ação humana no território apoiados em fontes fidedignas, como as AE exigem duas vezes.",
+              "reflection": "Alguma das mudanças que encontraste foi decidida por alguém que vive lá?"
+            }
+          ]
+        },
+        {
+          "id": "meio-comunicar",
+          "name": "Comunicar e participar no meio local",
+          "student": "Esta é a parte do programa que sai da sala: pede que sensibilizes a comunidade, com questionários de monitorização de riscos no meio local — cursos de água, zonas de litoral. Por outras palavras, que faças geografia sobre o sítio onde vives e devolvas o resultado a quem lá mora. Pede também que relates casos de interdependência na gestão da água, que é o recurso onde a cooperação entre países é mais difícil e mais necessária: os rios não param nas fronteiras.",
+          "questions": [
+            "Que riscos naturais existem mesmo no sítio onde vives?",
+            "Quem é responsável por um rio que atravessa dois países?",
+            "Um questionário feito por estudantes pode mudar alguma coisa?"
+          ],
+          "essentials": [
+            "Sensibilizar a comunidade para a necessidade de uma gestão sustentável do território, aplicando questionários de monitorização dos riscos no meio local, como por exemplo, os dos cursos de água e das áreas do litoral.",
+            "Relatar situações concretas de complementaridade e interdependência entre regiões, países ou lugares na gestão de recursos hídricos."
+          ],
+          "activities": [
+            {
+              "title": "Questionário de riscos na tua rua",
+              "type": "Trabalho de campo",
+              "duration": "Duas sessões de 45 min",
+              "materials": [
+                "Um questionário de dez perguntas feito por ti",
+                "Prancheta",
+                "Um adulto acompanhante"
+              ],
+              "steps": [
+                "Descobre que riscos existem na tua zona: cheias, incêndio, erosão costeira, deslizamento.",
+                "Escreve dez perguntas curtas para saber se as pessoas os conhecem e o que fariam.",
+                "Aplica o questionário a quinze pessoas, sempre acompanhado por um adulto.",
+                "Faz um gráfico simples com as respostas.",
+                "Escreve meia página de conclusões e afixa-a num sítio público, com autorização."
+              ],
+              "curriculumLink": "É exatamente o descritor de sensibilização da comunidade através de questionários de monitorização dos riscos no meio local.",
+              "safety": "Nunca faças inquéritos sozinho e não recolhas nomes, moradas nem contactos de ninguém.",
+              "reflection": "As pessoas conheciam os riscos do sítio onde vivem?"
+            },
+            {
+              "title": "Os rios que atravessam a fronteira",
+              "type": "Investigação",
+              "duration": "40 min",
+              "materials": [
+                "Um mapa da Península Ibérica",
+                "Acesso à internet"
+              ],
+              "steps": [
+                "Marca no mapa os rios que nascem em Espanha e desaguam em Portugal: Douro, Tejo, Guadiana, Minho.",
+                "Descobre que percentagem do curso de cada um está em cada país.",
+                "Procura o que é a Convenção de Albufeira e o que é que ela regula.",
+                "Escreve o que aconteceria a Portugal se não houvesse acordo nenhum.",
+                "Encontra outro caso no mundo em que dois países partilham um rio, e compara."
+              ],
+              "curriculumLink": "Cobre o relato de situações concretas de complementaridade e interdependência entre países na gestão de recursos hídricos.",
+              "reflection": "Estar a jusante é uma posição de força ou de fraqueza?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
