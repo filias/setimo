@@ -1,0 +1,300 @@
+{
+  "id": "frances",
+  "name": "Francês (LE II)",
+  "emoji": "🇫🇷",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "O Francês começa do zero no 7.º ano e trabalha o nível A1.2 do Quadro Europeu Comum de Referência, sempre no contexto temático da vida quotidiana. Tem os mesmos três organizadores do Inglês — competência comunicativa, intercultural e estratégica — mas com metas muito mais contidas: frases simples, textos de trinta a quarenta palavras, estruturas gramaticais muito elementares.",
+  "studentIntro": "Este é o ano zero do francês, e tens uma vantagem enorme que talvez não te ocorra: já sabes muito. O português e o francês são línguas irmãs, ambas nascidas do latim, e há milhares de palavras que vais reconhecer à primeira vista. O próprio programa diz isso — pede que uses as semelhanças com o que já sabes para adivinhar sentidos. Cuidado apenas com os falsos amigos: em francês, «attendre» não é atender e uma «salade» pode não ser nada do que esperas.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Francês, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/frances_3c_7a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Nos descritores que o documento apresenta em lista, os itens surgem aqui seguidos, separados por ponto e vírgula."
+  },
+  "domains": [
+    {
+      "id": "competencia-comunicativa",
+      "name": "Competência Comunicativa",
+      "emoji": "💬",
+      "palette": "indigo",
+      "summary": "Compreender, interagir e produzir ao nível A1.2, no contexto temático da vida quotidiana.",
+      "subtopics": [
+        {
+          "id": "compreensao-oral-e-escrita",
+          "name": "Compreensão oral e escrita",
+          "student": "Repara na condição que o programa impõe para a compreensão oral: o discurso tem de ser «muito claro, pausado, cuidadosamente articulado». Não é um pormenor — é o reconhecimento honesto de que, no primeiro ano de uma língua, ainda não consegues acompanhar francês falado à velocidade real. O que consegues, e é muito, é apanhar palavras conhecidas dentro de anúncios, canções e cartazes. Na escrita tens uma ajuda extra: os textos vêm ilustrados, e a imagem faz metade do trabalho.",
+          "questions": [
+            "Quantas palavras francesas já reconheces sem nunca as teres estudado?",
+            "Porque é que é mais fácil ler francês do que ouvi-lo?",
+            "O que é que uma imagem te diz sobre um texto que ainda não consegues ler?"
+          ],
+          "essentials": [
+            "Identificar um número limitado de palavras e de frases simples em instruções, mensagens e textos simples e curtos (anúncios públicos, publicidade e canções, publicações digitais, entre outros), desde que o discurso seja muito claro, pausado, cuidadosamente articulado e relativo à identificação e caracterização pessoais, hábitos e necessidades do quotidiano.",
+            "Identificar palavras e frases simples em instruções, mensagens e textos ilustrados curtos (instruções, mapas, cartazes, horários, publicidade, catálogos, receitas, ementas, postais, mensagens pessoais, banda desenhada, publicações digitais, entre outros), relativos à identificação e caracterização pessoais, hábitos e necessidades do quotidiano."
+          ],
+          "activities": [
+            {
+              "title": "Uma ementa que se percebe",
+              "type": "Leitura",
+              "duration": "30 min",
+              "materials": [
+                "Uma ementa de restaurante francês, impressa ou do telemóvel",
+                "Duas cores"
+              ],
+              "steps": [
+                "Lê a ementa toda antes de procurar seja o que for.",
+                "Sublinha a verde tudo o que percebeste só por parecer português: «salade», «soupe», «chocolat».",
+                "Sublinha a vermelho o que não fazes ideia.",
+                "Conta as duas listas. A verde costuma ser maior do que se espera.",
+                "Escolhe um prato só pela descrição e só depois confirma o que era."
+              ],
+              "curriculumLink": "Trabalha a identificação de palavras e frases simples em textos ilustrados curtos como ementas e catálogos, relativos às necessidades do quotidiano.",
+              "reflection": "As palavras que percebeste vieram do parecido com o português ou do contexto?"
+            },
+            {
+              "title": "Canção com buracos",
+              "type": "Escuta",
+              "duration": "30 min",
+              "materials": [
+                "Uma canção francesa lenta, com letra disponível",
+                "A letra impressa com dez palavras apagadas"
+              ],
+              "steps": [
+                "Apaga dez palavras da letra, espalhadas, e imprime.",
+                "Ouve a canção uma vez sem escrever.",
+                "Ouve outra vez e tenta preencher os buracos.",
+                "Ouve uma terceira vez, agora com o dedo a acompanhar a letra.",
+                "Corrige e canta por cima da gravação, mesmo que mal."
+              ],
+              "curriculumLink": "Cobre a identificação de palavras e frases simples em canções e mensagens, com discurso pausado e cuidadosamente articulado.",
+              "reflection": "Cantar por cima ajudou a fixar a pronúncia mais do que repetir palavras soltas?"
+            }
+          ]
+        },
+        {
+          "id": "interacao-oral-e-escrita",
+          "name": "Interação oral e escrita",
+          "student": "Duas expressões do programa merecem atenção: «com preparação prévia» e «apoiando-se no discurso do interlocutor». Traduzido: ninguém espera que improvises, e podes agarrar-te às palavras que a outra pessoa acabou de usar. É assim que toda a gente sobrevive aos primeiros meses de uma língua. As tarefas são concretas — cumprimentar, pedir desculpa, agradecer, pedir informações — e na escrita são mensagens de trinta a quarenta palavras, o tamanho de um recado.",
+          "questions": [
+            "Como é que se pede desculpa em francês sem parecer que se está a pedir um favor?",
+            "Repetir a palavra que o outro acabou de dizer é batota ou é estratégia?",
+            "Quarenta palavras chegam para dizer o quê?"
+          ],
+          "essentials": [
+            "Interagir em situações do quotidiano com preparação prévia, apoiando-se no discurso do interlocutor, com pronúncia geralmente compreensível e repertório muito limitado, expressões, frases simples e estruturas gramaticais muito elementares para: estabelecer contactos sociais (cumprimentos, desculpas e agradecimentos); pedir ou dar informações (dados pessoais, hábitos, gostos e preferências, lugares, serviços, factos e projetos).",
+            "Completar formulários com os dados adequados e escrever mensagens simples e curtas (30-40 palavras), respeitando as convenções textuais e sociolinguísticas das mensagens. Utilizar expressões e frases muito simples com estruturas gramaticais muito elementares para: pedir e dar informações breves; agradecer, desculpar-se, felicitar (aniversários e outras celebrações), aceitar ou recusar convites."
+          ],
+          "activities": [
+            {
+              "title": "O caderno das dez fórmulas",
+              "type": "Conversa",
+              "duration": "25 min",
+              "materials": [
+                "Dez cartões pequenos",
+                "Outra pessoa"
+              ],
+              "steps": [
+                "Escreve num cartão cada uma destas situações: cumprimentar, despedir-se, agradecer, pedir desculpa, pedir uma informação, aceitar, recusar, felicitar, não perceber, pedir para repetir.",
+                "No verso, escreve a fórmula em francês.",
+                "Baralha os cartões e tira um ao acaso: tens de dizer a fórmula em três segundos.",
+                "Quando acertares um cartão três vezes seguidas, tira-o do baralho.",
+                "Com outra pessoa, encadeiem fórmulas até fazerem uma conversa inteira."
+              ],
+              "curriculumLink": "Trabalha o estabelecimento de contactos sociais — cumprimentos, desculpas e agradecimentos — com repertório muito limitado e preparação prévia.",
+              "reflection": "Quais das dez fórmulas saem já sem pensar?"
+            },
+            {
+              "title": "Quarenta palavras exatas",
+              "type": "Escrita",
+              "duration": "30 min",
+              "materials": [
+                "Papel",
+                "Contador de palavras"
+              ],
+              "steps": [
+                "Escreve um convite de aniversário em francês, com quarenta palavras exatas.",
+                "Tem de ter: saudação, o que é, quando, onde e um pedido de resposta.",
+                "Conta as palavras e ajusta até dar quarenta certas.",
+                "Escreve depois a resposta a aceitar, também com quarenta.",
+                "E uma terceira a recusar com jeito, sem inventar desculpas complicadas."
+              ],
+              "curriculumLink": "Cobre a escrita de mensagens simples e curtas de 30-40 palavras para felicitar, aceitar ou recusar convites, respeitando as convenções das mensagens.",
+              "reflection": "Recusar foi mais difícil do que aceitar? Em que língua é que isso não acontece?"
+            }
+          ]
+        },
+        {
+          "id": "producao-oral-e-escrita",
+          "name": "Produção oral e escrita",
+          "student": "Aqui o programa é desarmantemente honesto: podes apoiar-te «num texto memorizado». No primeiro ano de uma língua, decorar não é fazer batota — é a forma de teres alguma coisa para dizer enquanto o resto não vem. Apresentares-te e descreveres outras pessoas, hábitos e gostos são as duas tarefas do ano, em oral e em escrito, e são a base de tudo o que vem depois.",
+          "questions": [
+            "O que é que dirias sobre ti se só pudesses usar dez palavras francesas?",
+            "Decorar um texto ajuda a falar ou impede?",
+            "Descrever outra pessoa é mais fácil do que descrever-te a ti?"
+          ],
+          "essentials": [
+            "Exprimir-se, de forma muito simples, pronunciando de forma geralmente compreensível e apoiando-se num texto memorizado com um repertório muito limitado de palavras, expressões isoladas e frases curtas para: se apresentar; apresentar e descrever outras pessoas, hábitos, gostos, preferências, projetos, serviços, lugares e factos.",
+            "Escrever textos (30-40 palavras) simples e muito curtos, em suportes variados, utilizando expressões, frases e estruturas gramaticais muito elementares para: se apresentar; apresentar e descrever outras pessoas, hábitos, gostos, preferências, projetos, serviços, lugares e factos."
+          ],
+          "activities": [
+            {
+              "title": "A apresentação que cresce",
+              "type": "Oral",
+              "duration": "Quatro semanas, 10 min por semana",
+              "materials": [
+                "Telemóvel para gravar",
+                "Um caderno"
+              ],
+              "steps": [
+                "Semana um: grava-te a dizer o teu nome e idade em francês. Duas frases.",
+                "Semana dois: acrescenta onde vives e com quem. Grava tudo de novo, do início.",
+                "Semana três: acrescenta o que gostas de fazer.",
+                "Semana quatro: acrescenta um projeto para o futuro.",
+                "Ouve a gravação da semana um a seguir à da semana quatro."
+              ],
+              "curriculumLink": "Trabalha a produção oral para se apresentar, apoiada num texto memorizado com repertório muito limitado, tal como as AE preveem.",
+              "reflection": "Qual foi a semana em que deixaste de recitar e começaste a falar?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competencia-intercultural",
+      "name": "Competência Intercultural",
+      "emoji": "🌍",
+      "palette": "orange",
+      "summary": "Reconhecer o que é teu e o que é da cultura francesa, no que te rodeia todos os dias.",
+      "subtopics": [
+        {
+          "id": "elementos-culturais",
+          "name": "Reconhecer elementos culturais",
+          "student": "O descritor tem uma expressão que vale a pena reparar: «no seu meio envolvente». Ou seja, não se trata de estudar a França à distância, mas de dar por ela à tua volta. Há francês na tua cidade em mais sítios do que imaginas — em palavras que usamos sem pensar como «croissant», «bidé» ou «chefe», em marcas, em nomes de ruas, em receitas. A cultura de uma língua entra sempre antes da própria língua.",
+          "questions": [
+            "Que palavras francesas usas em português sem dar por isso?",
+            "O que é que sabes sobre França que não aprendeste na escola?",
+            "Uma cultura pode ser conhecida só pela comida?"
+          ],
+          "essentials": [
+            "Reconhecer elementos constitutivos da sua própria cultura e da(s) cultura(s) da língua estrangeira no seu meio envolvente e nas práticas de comunicação da vida quotidiana."
+          ],
+          "activities": [
+            {
+              "title": "Caça ao francês na tua rua",
+              "type": "Descoberta",
+              "duration": "45 min",
+              "materials": [
+                "Telemóvel com câmara",
+                "Caderno"
+              ],
+              "steps": [
+                "Dá uma volta pela tua zona à procura de francês: montras, marcas, ementas, nomes de lojas.",
+                "Fotografa tudo o que encontrares, mesmo que só uma palavra.",
+                "Em casa, faz uma lista e descobre o que cada palavra quer dizer.",
+                "Separa as que entraram no português para ficar das que continuam a ser estrangeiras.",
+                "Compara com alguém: quem encontrou mais?"
+              ],
+              "curriculumLink": "Trabalha o reconhecimento de elementos da cultura da língua estrangeira no meio envolvente e nas práticas de comunicação do quotidiano.",
+              "reflection": "As palavras francesas que encontraste estavam mais ligadas a que temas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competencia-estrategica",
+      "name": "Competência Estratégica",
+      "emoji": "🧭",
+      "palette": "teal",
+      "summary": "A atitude com que se entra numa língua nova, e o truque de usar tudo o que já sabes.",
+      "subtopics": [
+        {
+          "id": "atitude-e-uso-da-lingua",
+          "name": "Atitude e uso da língua na aula",
+          "student": "É invulgar um programa oficial pedir uma atitude, mas aqui pede — positiva e confiante. A razão é prática: numa língua nova vais errar em voz alta, muitas vezes, à frente de toda a gente, e quem não aguenta isso não avança. A segunda parte é ainda mais concreta: usar o francês dentro da aula para coisas reais, incluindo pedir ajuda. Dizer «je ne comprends pas» em francês vale mais do que dizer «não percebi» em português.",
+          "questions": [
+            "O que é que te impede de falar em voz alta numa língua que ainda não dominas?",
+            "Pedir ajuda em francês é mais difícil do que responder em francês?",
+            "Errar à frente da turma custa menos com o tempo, ou aprende-se a ignorar?"
+          ],
+          "essentials": [
+            "Demonstrar uma atitude positiva e confiante na aprendizagem da língua estrangeira.",
+            "Valorizar o uso da língua estrangeira como instrumento de comunicação dentro da aula, nomeadamente para solicitar esclarecimentos, ajuda e colaborar com colegas na realização de tarefas e na resolução de problemas."
+          ],
+          "activities": [
+            {
+              "title": "Só em francês, cinco minutos",
+              "type": "Aula",
+              "duration": "5 min por aula",
+              "materials": [
+                "Uma lista de fórmulas de sala de aula em francês",
+                "A turma"
+              ],
+              "steps": [
+                "Escrevam em conjunto dez frases de sobrevivência: «não percebi», «podes repetir», «como se diz», «posso ir», «acabei».",
+                "Afixem a lista à vista de todos.",
+                "Combinem cinco minutos por aula em que só se fala francês.",
+                "Quem escorregar para português não perde nada — repete a frase em francês e continua.",
+                "Ao fim de um mês, tentem dez minutos."
+              ],
+              "curriculumLink": "Cobre a valorização do uso da língua estrangeira dentro da aula para solicitar esclarecimentos e ajuda, e a atitude positiva e confiante.",
+              "reflection": "Ao fim de um mês, quais das dez frases já dizes sem olhar para a lista?"
+            }
+          ]
+        },
+        {
+          "id": "transferir-o-que-ja-sabes",
+          "name": "Usar o que já sabes",
+          "student": "Este é o descritor mais poderoso do programa e o mais fácil de ignorar. Diz que podes usar o português, outras línguas que saibas, a tua experiência, o contexto e as semelhanças entre palavras para adivinhar sentidos — e que podes recorrer a gestos, mímica e desenhos quando as palavras faltarem. Por outras palavras: comunicar vem primeiro, a correção vem depois. Quem desenha um mapa para pedir uma direção comunicou; quem ficou calado à procura da palavra certa não.",
+          "questions": [
+            "Que línguas é que já sabes que te podem ajudar no francês?",
+            "Um falso amigo engana porque é parecido — como é que se apanha?",
+            "Fazer-se entender por gestos conta como falar a língua?"
+          ],
+          "essentials": [
+            "Usar os seus conhecimentos prévios em língua materna e noutras línguas, a sua experiência pessoal, indícios contextuais e semelhanças lexicais e gramaticais para fazer previsões de sentido e comunicar de forma simples, recorrendo, quando necessário, a idiomas conhecidos, gestos, mímica e/ou desenhos."
+          ],
+          "activities": [
+            {
+              "title": "Primos e falsos amigos",
+              "type": "Vocabulário",
+              "duration": "35 min",
+              "materials": [
+                "Um texto simples em francês",
+                "Duas colunas numa folha"
+              ],
+              "steps": [
+                "Lê o texto e sublinha todas as palavras que se parecem com português.",
+                "Adivinha o significado de cada uma antes de confirmar.",
+                "Confirma e arruma-as em duas colunas: primas verdadeiras e falsos amigos.",
+                "Para cada falso amigo, escreve uma frase que mostre o que ele quer mesmo dizer.",
+                "Fixa os cinco falsos amigos mais traiçoeiros num papel na parede."
+              ],
+              "curriculumLink": "Trabalha o uso de semelhanças lexicais e gramaticais e de indícios contextuais para fazer previsões de sentido.",
+              "reflection": "Acertaste mais vezes do que erraste? O parecido ajuda mais do que atrapalha?"
+            },
+            {
+              "title": "Explicar sem a palavra",
+              "type": "Comunicação",
+              "duration": "20 min",
+              "materials": [
+                "Cartões com objetos do dia a dia",
+                "Outra pessoa"
+              ],
+              "steps": [
+                "Tira um cartão sem mostrar.",
+                "Faz a outra pessoa adivinhar o objeto, em francês, sem dizer o nome dele.",
+                "Podes usar palavras que saibas, gestos, mímica ou desenho — tudo menos português.",
+                "Troquem de papéis.",
+                "No fim, apontem as palavras que vos fizeram falta e aprendam-nas."
+              ],
+              "curriculumLink": "Cobre o recurso a gestos, mímica e desenhos para comunicar de forma simples quando o repertório é limitado.",
+              "reflection": "Qual foi mais eficaz: as palavras que sabias ou os gestos?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

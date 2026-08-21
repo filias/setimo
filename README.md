@@ -112,7 +112,8 @@ offer, the second optional to attend.
 - [x] Físico-Química — 3 domains, 9 subtopics, 41 essential descriptors, 20 activities
 - [x] Português — 5 domains, 10 subtopics, 42 essential descriptors, 21 activities
 - [x] Inglês (LE I) — 3 domains, 9 subtopics, 15 essential descriptors, 14 activities
-- [ ] The remaining nine subjects of the seventh-grade matrix
+- [x] Francês (LE II) — 3 domains, 6 subtopics, 10 essential descriptors, 9 activities
+- [ ] The remaining eight subjects of the seventh-grade matrix
 
 ## Publishing
 
