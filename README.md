@@ -110,7 +110,8 @@ offer, the second optional to attend.
 ## Status
 
 - [x] Físico-Química — 3 domains, 9 subtopics, 41 essential descriptors, 20 activities
-- [ ] The remaining eleven subjects of the seventh-grade matrix
+- [x] Português — 5 domains, 10 subtopics, 42 essential descriptors, 21 activities
+- [ ] The remaining ten subjects of the seventh-grade matrix
 
 ## Publishing
 

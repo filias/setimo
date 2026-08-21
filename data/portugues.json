@@ -1,0 +1,622 @@
+{
+  "id": "portugues",
+  "name": "Português",
+  "emoji": "📖",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "O Português do 7.º ano organiza-se em cinco domínios: oralidade, leitura, educação literária, escrita e gramática. É o ano em que entram a sério os textos que servem para convencer — o artigo de opinião, a crítica, a publicidade — e em que a poesia deixa de ser apenas bonita e passa a ter contas: sílabas, rimas, esquemas. Na gramática, chega o modo conjuntivo e a classificação de orações subordinadas.",
+  "studentIntro": "Vais passar este ano na companhia de textos que querem alguma coisa de ti. Um anúncio quer que compres, um artigo de opinião quer que concordes, uma crítica quer que vejas o filme ou que o evites. Perceber como estão feitos é a diferença entre ler e ser levado. Pelo caminho descobres que a poesia, que parece a coisa mais livre do mundo, se conta pelos dedos: cinco sílabas, sete sílabas, e uma rima que volta sempre no mesmo sítio.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Português, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/portugues_3c_7a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho."
+  },
+  "domains": [
+    {
+      "id": "oralidade",
+      "name": "Oralidade",
+      "emoji": "🎙️",
+      "palette": "teal",
+      "summary": "Ouvir de maneira a ficar com alguma coisa, e falar de maneira a que fique alguma coisa aos outros.",
+      "subtopics": [
+        {
+          "id": "compreensao",
+          "name": "Ouvir e ficar com o essencial",
+          "student": "Ouvir não é o mesmo que estar calado enquanto o outro fala. Neste domínio treina-se uma coisa concreta: apanhar a ideia principal de um texto falado e perceber para que é que ele foi dito. Quem fala pode querer informar-te, comover-te, fazer-te rir ou levar-te a fazer alguma coisa — e quase nunca o diz. Descobre-se por inferência, ou seja, juntando pistas: as palavras escolhidas, o tom, o que foi dito primeiro, o que ficou por dizer. Tomar notas ajuda mais do que parece, porque obriga a decidir, em tempo real, o que é que interessa.",
+          "questions": [
+            "Como é que se percebe que alguém está a tentar convencer-te e não apenas a informar-te?",
+            "O que é que se perde quando se toma notas — e o que é que se ganha?",
+            "Porque é que é tão difícil resumir uma coisa que acabaste de ouvir?"
+          ],
+          "essentials": [
+            "Compreender textos orais identificando assunto, tema e intenção comunicativa (expor, informar, narrar, descrever, expressar sentimentos, persuadir), com base em inferências.",
+            "Destacar o essencial de um texto audiovisual, tendo em conta o objetivo da audição/visionamento.",
+            "Sintetizar a informação recebida pela tomada de notas das ideias-chave."
+          ],
+          "activities": [
+            {
+              "title": "Três minutos de rádio",
+              "type": "Escuta",
+              "duration": "30 min",
+              "materials": [
+                "Um noticiário de rádio ou um episódio curto de podcast",
+                "Papel e caneta",
+                "Um relógio"
+              ],
+              "steps": [
+                "Escolhe três minutos de noticiário. Ouve uma primeira vez sem escrever nada.",
+                "Ouve segunda vez, agora a tomar notas — só palavras soltas e números, nada de frases.",
+                "Fecha os olhos e conta a alguém o que ouviste, em três frases apenas.",
+                "Ouve uma terceira vez e vê o que te escapou. Costuma escapar sempre o mesmo tipo de coisa: repara em qual é o teu."
+              ],
+              "curriculumLink": "Trabalha diretamente a síntese pela tomada de notas das ideias-chave, e obriga a separar o essencial do acessório com o relógio a andar.",
+              "reflection": "As tuas notas serviriam a outra pessoa que não tivesse ouvido nada?"
+            },
+            {
+              "title": "Caça à intenção",
+              "type": "Análise",
+              "duration": "30 min",
+              "materials": [
+                "Três vídeos curtos de tipos diferentes: uma notícia, um anúncio e um tutorial",
+                "Uma folha dividida em três colunas"
+              ],
+              "steps": [
+                "Vê cada vídeo uma vez só.",
+                "Para cada um, escreve numa coluna: qual é o assunto, qual é o tema e o que é que quem fala quer de ti.",
+                "Na terceira coluna, escreve a pista que te fez chegar lá — uma palavra, uma imagem, uma pausa.",
+                "Compara os três. O tutorial e o anúncio parecem-se mais do que esperavas?"
+              ],
+              "curriculumLink": "Cobre a identificação de assunto, tema e intenção comunicativa com base em inferências, e o destaque do essencial num texto audiovisual.",
+              "reflection": "Houve algum vídeo em que a intenção declarada e a intenção real fossem diferentes?"
+            }
+          ]
+        },
+        {
+          "id": "expressao",
+          "name": "Falar para os outros",
+          "student": "Falar em público assusta quase toda a gente, e a razão é simples: sente-se como se estivéssemos a ser avaliados enquanto pessoas. Não estamos — está a ser avaliado o discurso, que é uma coisa que se prepara e se corrige. Este domínio trata a fala como se trata um texto escrito: planifica-se, tem destinatário, tem objetivo, e revê-se. A diferença é que a revisão acontece ao vivo, na cara de quem nos ouve, lendo se estão a perceber ou não.",
+          "questions": [
+            "Porque é que falamos de maneira diferente com um amigo e com o diretor da escola?",
+            "Como é que se percebe, a meio de uma apresentação, que a audiência se perdeu?",
+            "Se pudesses ver-te a falar em vídeo, o que é que achas que mais te ia surpreender?"
+          ],
+          "essentials": [
+            "Planificar textos orais tendo em conta os destinatários e os objetivos de comunicação.",
+            "Usar a palavra com fluência, correção e naturalidade em situações de intervenção formal, para expressar pontos de vista e opiniões e fazer a exposição oral de um tema.",
+            "Respeitar as convenções que regulam a interação discursiva, em situações com diferentes graus de formalidade.",
+            "Usar mecanismos de controlo da produção discursiva a partir do feedback dos interlocutores.",
+            "Avaliar o seu próprio discurso a partir de critérios previamente acordados com o professor."
+          ],
+          "activities": [
+            {
+              "title": "Exposição de dois minutos",
+              "type": "Oral",
+              "duration": "45 min",
+              "materials": [
+                "Um telemóvel para gravar",
+                "Um tema que domines mesmo bem",
+                "Uma folha para o plano"
+              ],
+              "steps": [
+                "Escolhe um assunto que conheças melhor do que a maioria das pessoas — um jogo, uma banda, uma receita, um animal.",
+                "Faz um plano em três pontos, com uma frase de abertura escrita à mão e uma frase de fecho.",
+                "Grava-te a falar durante dois minutos, sem ler.",
+                "Antes de veres, escreve três critérios pelos quais te vais avaliar: por exemplo clareza, ritmo e olhar.",
+                "Vê a gravação e dá-te uma nota em cada critério. Volta a gravar uma segunda vez."
+              ],
+              "curriculumLink": "Junta a planificação com destinatário e objetivo, a exposição oral de um tema, e a avaliação do próprio discurso a partir de critérios acordados de antemão.",
+              "reflection": "Entre a primeira e a segunda gravação, o que é que mudou — o discurso ou a confiança?"
+            },
+            {
+              "title": "O mesmo recado, três formalidades",
+              "type": "Registo",
+              "duration": "25 min",
+              "materials": [
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Imagina que precisas de adiar uma entrega por dois dias.",
+                "Escreve o pedido três vezes: numa mensagem a um amigo, num e-mail a um professor e num requerimento formal à direção da escola.",
+                "Lê as três em voz alta e sublinha as palavras que só aparecem numa delas.",
+                "Troca com alguém e tenta adivinhar, só pelo texto, a quem é que cada uma era dirigida."
+              ],
+              "curriculumLink": "Trabalha o respeito pelas convenções da interação discursiva em situações com diferentes graus de formalidade.",
+              "reflection": "Qual das três foi mais difícil de escrever, e porquê?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leitura",
+      "name": "Leitura",
+      "emoji": "📰",
+      "palette": "indigo",
+      "summary": "Textos que informam, textos que opinam e textos que vendem — e a arte de distinguir os três.",
+      "subtopics": [
+        {
+          "id": "ler-e-compreender",
+          "name": "Ler e ficar com o sentido",
+          "student": "Há uma diferença enorme entre passar os olhos por um texto e ficar com ele. Ficar com ele significa conseguir dizer, depois de fechar a página, qual era a ideia principal, como é que o texto estava organizado e o que é que ficou implícito. Este ano entram géneros novos: a biografia, o artigo de opinião, a crítica. E entra uma competência que parece pequena mas não é — a inferência justificada, ou seja, concluir uma coisa que o texto não diz e conseguir apontar onde é que ele a sugeriu.",
+          "questions": [
+            "Qual é a diferença entre um facto e uma opinião bem escrita?",
+            "Como é que se lê um texto de que só precisas de uma informação específica?",
+            "O que é que faz um texto ser difícil — as palavras ou as ideias?"
+          ],
+          "essentials": [
+            "Ler em suportes variados textos dos géneros seguintes: biografia, textos de géneros jornalísticos de opinião (artigo de opinião, crítica), textos publicitários.",
+            "Realizar leitura em voz alta, silenciosa e autónoma, não contínua e de pesquisa.",
+            "Explicitar o sentido global de um texto.",
+            "Fazer inferências devidamente justificadas.",
+            "Identificar tema(s), ideias principais, pontos de vista, causas e efeitos, factos, opiniões.",
+            "Reconhecer a forma como o texto está estruturado (partes e subpartes).",
+            "Compreender a utilização de recursos expressivos para a construção de sentido do texto."
+          ],
+          "activities": [
+            {
+              "title": "Autópsia de uma notícia",
+              "type": "Análise",
+              "duration": "40 min",
+              "materials": [
+                "Um jornal em papel, ou um artigo impresso",
+                "Dois marcadores de cores diferentes",
+                "Uma régua"
+              ],
+              "steps": [
+                "Escolhe um artigo de opinião com pelo menos meia página.",
+                "Com uma cor, sublinha tudo o que é facto verificável: datas, números, coisas que aconteceram.",
+                "Com a outra, sublinha tudo o que é opinião: juízos, previsões, adjetivos de valor.",
+                "Afasta o papel e olha para o padrão das cores. Onde é que se concentra cada uma?",
+                "Escreve numa linha qual é a tese do autor e aponta a frase exata onde ela aparece — se é que aparece."
+              ],
+              "curriculumLink": "Cobre a identificação de ideias principais, pontos de vista, factos e opiniões, e a leitura de textos jornalísticos de opinião.",
+              "reflection": "As opiniões apareciam sozinhas, ou encostadas a factos para parecerem mais sólidas?"
+            },
+            {
+              "title": "O mapa do texto",
+              "type": "Estrutura",
+              "duration": "35 min",
+              "materials": [
+                "Um artigo longo ou um capítulo de um livro de divulgação",
+                "Uma folha A3 ou várias A4 coladas"
+              ],
+              "steps": [
+                "Lê o texto uma vez de seguida, sem parar.",
+                "Volta ao início e dá um título curto a cada parágrafo, na margem.",
+                "Na folha grande, agrupa os títulos que pertencem ao mesmo assunto: ficam as partes.",
+                "Desenha setas entre as partes que se explicam umas às outras — causa para efeito.",
+                "Em baixo, escreve o sentido global do texto numa única frase."
+              ],
+              "curriculumLink": "Trabalha o reconhecimento da estrutura do texto em partes e subpartes, a relação causa-efeito e a explicitação do sentido global.",
+              "reflection": "O texto estava organizado da maneira mais clara possível, ou conseguias arrumá-lo melhor?"
+            }
+          ]
+        },
+        {
+          "id": "opiniao-e-publicidade",
+          "name": "Quem escreveu isto quer o quê?",
+          "student": "A publicidade é o texto mais bem escrito que vais ler este ano, e é o que menos tempo demora a ler. Cada palavra foi paga, discutida e testada. Um anúncio raramente mente — limita-se a escolher com muito cuidado o que diz e, sobretudo, o que cala. E vende quase sempre duas coisas: o produto, e uma ideia de quem tu serias se o tivesses. Aprender a separar as duas é das competências mais úteis que este ano te dá, e serve para o resto da vida.",
+          "questions": [
+            "Um anúncio pode ser inteiramente verdadeiro e ainda assim enganador?",
+            "Que tipo de pessoa é que este anúncio está a dizer que tu podias ser?",
+            "Porque é que é preciso justificar uma opinião, se ela é minha?"
+          ],
+          "essentials": [
+            "Identificar, nas mensagens publicitárias, a intenção persuasiva, os valores e modelos projetados.",
+            "Expressar, com fundamentação, pontos de vista e apreciações críticas suscitadas pelos textos lidos.",
+            "Utilizar procedimentos de registo e tratamento da informação."
+          ],
+          "activities": [
+            {
+              "title": "Desmontar um anúncio",
+              "type": "Análise",
+              "duration": "40 min",
+              "materials": [
+                "Um anúncio de revista, ou a captura de ecrã de um anúncio",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe um anúncio que te tenha apetecido ver até ao fim.",
+                "Faz duas listas: o que o anúncio promete literalmente, e o que sugere sem dizer.",
+                "Escreve quem é a pessoa que aparece: idade, roupa, casa, amigos, humor. Essa pessoa é o modelo projetado.",
+                "Responde por escrito: que valores é que este anúncio trata como bons? Liberdade, pertença, sucesso, segurança?",
+                "Reescreve a promessa do anúncio em linguagem seca, sem adjetivos. Compara o efeito."
+              ],
+              "curriculumLink": "Trabalha diretamente a identificação da intenção persuasiva, dos valores e dos modelos projetados nas mensagens publicitárias.",
+              "reflection": "Depois de desmontado, o anúncio continua a resultar contigo?"
+            },
+            {
+              "title": "Crítica de 150 palavras",
+              "type": "Escrita",
+              "duration": "45 min",
+              "materials": [
+                "Um livro, filme, jogo ou álbum que tenhas acabado",
+                "Contador de palavras"
+              ],
+              "steps": [
+                "Escreve numa linha o teu veredicto: vale a pena ou não.",
+                "Escolhe exatamente três razões e, para cada uma, um exemplo concreto da obra.",
+                "Escreve a crítica em 150 palavras, nem mais nem menos.",
+                "Corta todos os adjetivos que não estejam encostados a um exemplo. Vê quantos sobrevivem.",
+                "Dá a ler a alguém que não conheça a obra e pergunta se ficou com vontade — ou sem ela."
+              ],
+              "curriculumLink": "Cobre a expressão fundamentada de pontos de vista e apreciações críticas, e o género crítica que este ano introduz.",
+              "reflection": "A restrição das 150 palavras tornou a crítica pior ou mais afiada?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "educacao-literaria",
+      "name": "Educação Literária",
+      "emoji": "📚",
+      "palette": "purple",
+      "summary": "Obras inteiras, poemas que se contam pelos dedos e peças que se armam por atos e cenas.",
+      "subtopics": [
+        {
+          "id": "poesia-e-teatro",
+          "name": "Como é feito um poema e uma peça",
+          "student": "Um poema parece a forma mais livre de escrever e é, quase sempre, a mais contada. Este ano aprendes a medir: quantas sílabas tem cada verso, onde é que cai a rima e que desenho é que ela faz ao longo da estrofe. A redondilha maior tem sete sílabas métricas, a menor tem cinco — e a contagem métrica não é igual à contagem das sílabas que dizes, o que é a primeira surpresa. No teatro, a arrumação é outra: atos, cenas, falas, e aquelas indicações entre parênteses que ninguém diz em voz alta mas que mandam em tudo.",
+          "questions": [
+            "Porque é que a métrica não conta as sílabas todas que dizemos?",
+            "As indicações cénicas fazem parte da peça, se nunca são ditas?",
+            "Uma hipérbole é uma mentira?"
+          ],
+          "essentials": [
+            "Identificar marcas formais do texto poético: estrofe, rima, esquema rimático e métrica (redondilha maior e menor).",
+            "Reconhecer, na organização do texto dramático, ato, cena, fala e indicações cénicas.",
+            "Explicar recursos expressivos utilizados na construção do sentido (enumeração, pleonasmo e hipérbole)."
+          ],
+          "activities": [
+            {
+              "title": "Contar pelos dedos",
+              "type": "Métrica",
+              "duration": "40 min",
+              "materials": [
+                "Três poemas de autores diferentes",
+                "Lápis"
+              ],
+              "steps": [
+                "Lê cada poema em voz alta, devagar, batendo com o dedo em cada sílaba que dizes.",
+                "Marca por cima de cada verso o número de sílabas métricas, parando de contar na última sílaba tónica.",
+                "Escreve à direita de cada verso uma letra para o som final: a, b, a, b — esse é o esquema rimático.",
+                "Identifica quais dos poemas são em redondilha maior (sete) ou menor (cinco).",
+                "Tenta escrever dois versos teus em redondilha maior. É mais difícil do que parece."
+              ],
+              "curriculumLink": "Trabalha diretamente as marcas formais do texto poético: estrofe, rima, esquema rimático e métrica, incluindo a redondilha maior e menor.",
+              "reflection": "A contagem mudou a maneira como ouves o poema, ou estragou-a?"
+            },
+            {
+              "title": "Uma cena em pé",
+              "type": "Teatro",
+              "duration": "50 min",
+              "materials": [
+                "Uma cena curta de um texto dramático",
+                "Duas ou três pessoas",
+                "Marcadores de cor"
+              ],
+              "steps": [
+                "Marca no texto, com cores diferentes, as falas e as indicações cénicas.",
+                "Lê a cena em voz alta lendo também, propositadamente, as indicações cénicas. Repara como soa estranho.",
+                "Volta a fazê-la, agora obedecendo às indicações em vez de as dizer.",
+                "Corta todas as indicações cénicas e faz a cena outra vez. O que é que se perdeu?",
+                "Escreve tu duas indicações novas que mudem completamente o sentido das mesmas falas."
+              ],
+              "curriculumLink": "Cobre o reconhecimento de ato, cena, fala e indicações cénicas na organização do texto dramático.",
+              "reflection": "Quem manda mais numa peça: quem escreveu as falas ou quem escreveu as indicações?"
+            }
+          ]
+        },
+        {
+          "id": "obras-e-projeto-de-leitura",
+          "name": "Ler obras inteiras",
+          "student": "Há uma exigência concreta neste ano: ler obras completas, não excertos. No mínimo nove poemas de oito autores diferentes, duas narrativas de autores de língua portuguesa e um texto dramático. A razão é que um excerto se percebe, mas uma obra inteira faz outra coisa — deixa-te viver lá dentro tempo suficiente para os temas assentarem. E há o projeto de leitura, que é a parte em que os teus objetivos entram na conversa: escolhes com o professor o que vais ler, e porquê.",
+          "questions": [
+            "Porque é que ler uma obra inteira é diferente de ler um resumo dela?",
+            "Uma história pode ser boa e não te dizer nada?",
+            "O que é que farias diferente se pudesses escolher tudo o que lês na escola?"
+          ],
+          "essentials": [
+            "Ler integralmente obras literárias narrativas, líricas e dramáticas (no mínimo, nove poemas de oito autores diferentes, duas narrativas de autores de língua portuguesa e um texto dramático).",
+            "Interpretar os textos em função do género literário.",
+            "Analisar o modo como os temas, as experiências e os valores são representados na obra e compará-lo com outras manifestações artísticas (música, pintura, escultura, cinema, etc.).",
+            "Exprimir ideias pessoais sobre textos lidos e ouvidos com recurso a suportes variados.",
+            "Desenvolver um projeto de leitura que integre objetivos pessoais do leitor e comparação de diferentes textos (obras escolhidas em contrato de leitura com o(a) professor(a))."
+          ],
+          "activities": [
+            {
+              "title": "Contrato de leitura",
+              "type": "Projeto",
+              "duration": "Ao longo do ano",
+              "materials": [
+                "Um caderno pequeno só para isto",
+                "A lista das obras possíveis"
+              ],
+              "steps": [
+                "Escreve o que queres da leitura este ano: rir, assustar-te, perceber outra época, ler mais depressa.",
+                "Escolhe as obras com o professor e escreve as datas em que tencionas acabar cada uma.",
+                "Depois de cada obra, escreve meia página: não um resumo, mas o que te ficou.",
+                "A meio do ano, relê o que escreveste no início e ajusta o contrato se for preciso.",
+                "No fim, escolhe a obra que mais te surpreendeu e explica a alguém porquê."
+              ],
+              "curriculumLink": "É o projeto de leitura previsto nas Aprendizagens Essenciais, com objetivos pessoais do leitor e obras escolhidas em contrato com o professor.",
+              "reflection": "Os teus objetivos de leitura mantiveram-se, ou mudaram por causa do que leste?"
+            },
+            {
+              "title": "O mesmo tema, outra arte",
+              "type": "Comparação",
+              "duration": "45 min",
+              "materials": [
+                "Uma obra que tenhas lido",
+                "Uma música, um quadro ou um filme sobre um tema parecido"
+              ],
+              "steps": [
+                "Escolhe um tema forte da obra que leste: a perda, a coragem, a saudade, a injustiça.",
+                "Encontra uma música, um quadro ou uma cena de filme que trate do mesmo tema.",
+                "Faz duas colunas e escreve, em cada uma, como é que a obra mostra esse tema — com que meios.",
+                "Sublinha o que só a literatura consegue fazer, e o que só a outra arte consegue.",
+                "Apresenta a comparação a alguém em três minutos, com a música a tocar ou a imagem à vista."
+              ],
+              "curriculumLink": "Trabalha a análise do modo como temas, experiências e valores são representados na obra e a comparação com outras manifestações artísticas.",
+              "reflection": "Qual das duas te tocou mais, e conseguirias explicar porquê sem dizer «não sei»?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "escrita",
+      "name": "Escrita",
+      "emoji": "✍️",
+      "palette": "crimson",
+      "summary": "Planificar antes, ligar as frases umas às outras, rever no fim e dizer de onde veio o que não é teu.",
+      "subtopics": [
+        {
+          "id": "planificar",
+          "name": "Antes de escrever",
+          "student": "Quase toda a gente escreve mal pela mesma razão: começa pela primeira frase. Escrever bem, neste ano, começa por decidir três coisas antes de escrever seja o que for — para quem é, para que serve e por que ordem vai a informação. Um resumo, uma exposição, um comentário e uma biografia são géneros diferentes, com regras diferentes, e escolher o género é já metade do trabalho feito. A outra metade é distribuir a informação por parágrafos, de modo a que cada um tenha uma ideia e só uma.",
+          "questions": [
+            "Porque é que um parágrafo deve ter só uma ideia?",
+            "Como decides o que fica de fora de um resumo?",
+            "Escrever para um professor e escrever para um colega muda o quê, exatamente?"
+          ],
+          "essentials": [
+            "Elaborar textos que cumpram objetivos explícitos quanto ao destinatário e à finalidade (informativa ou argumentativa) no âmbito de géneros como: resumo, exposição, opinião, comentário, biografia e resposta a questões de leitura.",
+            "Planificar a escrita de textos com finalidades informativas, assegurando distribuição de informação por parágrafos.",
+            "Ordenar e hierarquizar a informação, tendo em vista a continuidade de sentido, a progressão temática e a coerência global do texto."
+          ],
+          "activities": [
+            {
+              "title": "Do caos ao plano",
+              "type": "Planificação",
+              "duration": "35 min",
+              "materials": [
+                "Post-its ou papelinhos cortados",
+                "Uma mesa grande"
+              ],
+              "steps": [
+                "Escolhe um tema e escreve tudo o que sabes sobre ele, uma ideia por papelinho, sem julgar nada.",
+                "Espalha os papelinhos na mesa e junta os que pertencem ao mesmo assunto.",
+                "Cada grupo é um parágrafo. Deita fora os papelinhos que não couberem em grupo nenhum.",
+                "Ordena os grupos de modo a que cada um prepare o seguinte.",
+                "Escreve só a primeira frase de cada parágrafo. Lê essas frases seguidas: já é o texto em miniatura."
+              ],
+              "curriculumLink": "Trabalha a planificação com distribuição de informação por parágrafos e a hierarquização da informação para dar coerência global ao texto.",
+              "reflection": "Quantos papelinhos deitaste fora? Costuma ser aí que está a diferença entre um texto e uma lista."
+            },
+            {
+              "title": "Resumo em degraus",
+              "type": "Resumo",
+              "duration": "40 min",
+              "materials": [
+                "Um texto de cerca de duas páginas",
+                "Contador de palavras"
+              ],
+              "steps": [
+                "Resume o texto em 200 palavras.",
+                "Corta o teu próprio resumo para 100 palavras, sem voltar ao original.",
+                "Corta outra vez, para 50.",
+                "E uma última vez, para uma só frase.",
+                "Lê a frase final e volta ao texto original: ficou lá o essencial, ou perdeste alguma coisa a meio do caminho?"
+              ],
+              "curriculumLink": "Cobre o género resumo e a hierarquização da informação com vista à progressão temática e à coerência do texto.",
+              "reflection": "Em que degrau é que o resumo deixou de ser fiel ao original?"
+            }
+          ]
+        },
+        {
+          "id": "escrever-e-rever",
+          "name": "Escrever, rever, dar crédito",
+          "student": "Um texto bom quase nunca é um texto bem escrito à primeira: é um texto bem revisto. Este ano entra a revisão a sério, incluindo a revisão feita com outras pessoas, que é desconfortável e é a que mais ensina. Entram também as ligações entre frases — os mecanismos que evitam repetir o mesmo nome dez vezes e que fazem uma frase puxar pela seguinte. E entra uma regra de honestidade: quando usas o que outra pessoa escreveu, dizes de onde veio. Não por burocracia, mas porque quem lê tem o direito de ir ver.",
+          "questions": [
+            "Qual é a diferença entre corrigir e rever?",
+            "Porque é que é tão difícil ver os erros no nosso próprio texto?",
+            "Copiar uma frase e mudar duas palavras — é citar ou é copiar?"
+          ],
+          "essentials": [
+            "Redigir textos com processos lexicais e gramaticais de correferência e de conexão interfrásica mais complexos com adequada introdução de novas informações, evitando repetições e contradições.",
+            "Escrever com propriedade vocabular e com respeito pelas regras de ortografia e de pontuação.",
+            "Avaliar a correção do texto escrito individualmente e com discussão de diversos pontos de vista.",
+            "Respeitar os princípios do trabalho intelectual, quanto à identificação das fontes."
+          ],
+          "activities": [
+            {
+              "title": "Revisão a quatro olhos",
+              "type": "Revisão",
+              "duration": "45 min",
+              "materials": [
+                "Um texto teu já escrito",
+                "Um colega com um texto dele",
+                "Uma grelha de critérios combinada antes"
+              ],
+              "steps": [
+                "Combinem antes quatro critérios: por exemplo ortografia, pontuação, repetições e clareza.",
+                "Troquem os textos e leiam em silêncio, sem escrever nada na primeira leitura.",
+                "Na segunda leitura, anotem só o que falha em cada critério, sempre apontando a linha.",
+                "Devolvam os textos e discutam cada anotação — quem escreveu pode defender-se.",
+                "Reescreve o teu texto aceitando o que te convenceu e recusando o resto, com razão declarada."
+              ],
+              "curriculumLink": "Trabalha a avaliação da correção do texto individualmente e com discussão de diversos pontos de vista, e a caça a repetições e contradições.",
+              "reflection": "Foi mais fácil ver os erros dos outros? Porque é que achas que isso acontece?"
+            },
+            {
+              "title": "Onde é que isto foi buscar?",
+              "type": "Fontes",
+              "duration": "30 min",
+              "materials": [
+                "Acesso à internet",
+                "Um tema qualquer que te interesse"
+              ],
+              "steps": [
+                "Procura três fontes sobre o teu tema: uma enciclopédia, um artigo de jornal e um vídeo.",
+                "Escreve um parágrafo curto usando informação das três.",
+                "A seguir ao parágrafo, escreve de onde veio cada informação, com autor, título e data.",
+                "Sublinha no teu parágrafo o que é ideia tua e o que é ideia emprestada.",
+                "Dá o parágrafo a alguém e pergunta se conseguiria verificar tudo o que lá está."
+              ],
+              "curriculumLink": "Cobre o respeito pelos princípios do trabalho intelectual quanto à identificação das fontes.",
+              "reflection": "Se ninguém pudesse verificar o que escreveste, porque é que haviam de acreditar em ti?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "name": "Gramática",
+      "emoji": "🔤",
+      "palette": "amber",
+      "summary": "As peças com que a frase se arma: classes de palavras, verbos em todos os modos e orações que dependem umas das outras.",
+      "subtopics": [
+        {
+          "id": "classes-e-verbos",
+          "name": "Classes de palavras e verbos",
+          "student": "A gramática tem má fama por ser ensinada como se fosse uma lista de nomes a decorar. Na verdade é o contrário: é a descrição de uma coisa que já sabes fazer sem pensar. Já usas o conjuntivo dezenas de vezes por dia — «espero que venhas», «se eu pudesse» — e este ano vais é aprender a chamar-lhe pelo nome e a perceber quando é obrigatório. O mesmo com o pronome átono, aquela regra que faz dizer «não te vi» e não «não vi-te», e que quase toda a gente acerta de ouvido sem saber porquê.",
+          "questions": [
+            "Como é que sabes usar o conjuntivo sem nunca o teres estudado?",
+            "Porque é que se diz «não me disseste» e não «não disseste-me»?",
+            "Se toda a gente fala de uma maneira, essa maneira passa a estar certa?"
+          ],
+          "essentials": [
+            "Identificar a classe de palavras: determinante relativo, pronome relativo, advérbio relativo; conjunção e locução conjuncional coordenativa disjuntiva, conclusiva e explicativa e subordinativa final, condicional e completiva; locução prepositiva.",
+            "Conjugar verbos regulares e irregulares em todos os tempos e modos.",
+            "Utilizar corretamente o pronome pessoal átono (verbos antecedidos de determinados pronomes e advérbios).",
+            "Empregar corretamente o modo conjuntivo em contextos de uso obrigatório em frases complexas."
+          ],
+          "activities": [
+            {
+              "title": "Caça ao conjuntivo",
+              "type": "Gramática",
+              "duration": "35 min",
+              "materials": [
+                "Uma conversa gravada, uma série ou um livro",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Durante quinze minutos de conversa ou de série, aponta todas as frases com conjuntivo que ouvires.",
+                "Para cada uma, escreve a palavra que veio antes e que o obrigou: «espero que», «talvez», «se», «para que».",
+                "Tenta reescrever três dessas frases sem conjuntivo. Repara no que soa errado.",
+                "Agrupa as tuas frases pelo tipo de palavra que desencadeou o conjuntivo.",
+                "Escreve a tua própria regra, por palavras tuas, sobre quando é que ele é obrigatório."
+              ],
+              "curriculumLink": "Trabalha o emprego correto do modo conjuntivo em contextos de uso obrigatório em frases complexas, partindo da língua realmente falada.",
+              "reflection": "A regra que escreveste explica todos os casos que apanhaste, ou tiveste de deixar algum de fora?"
+            },
+            {
+              "title": "O verbo em todas as roupas",
+              "type": "Conjugação",
+              "duration": "30 min",
+              "materials": [
+                "Uma folha grande",
+                "Três verbos: um regular, um irregular e um que uses muito"
+              ],
+              "steps": [
+                "Desenha uma grelha com os modos em coluna e os tempos em linha.",
+                "Preenche-a para o verbo regular. Deve correr depressa.",
+                "Preenche para o irregular e marca a vermelho todas as formas que fogem ao padrão.",
+                "Conta as formas irregulares. São menos do que a fama sugere?",
+                "Escreve uma frase pequena com cada uma das formas vermelhas, para elas ficarem coladas a um sentido."
+              ],
+              "curriculumLink": "Cobre a conjugação de verbos regulares e irregulares em todos os tempos e modos.",
+              "reflection": "Os verbos mais irregulares costumam ser os mais usados. Porque é que achas que é assim?"
+            }
+          ]
+        },
+        {
+          "id": "frase-e-palavras",
+          "name": "Como a frase se arma",
+          "student": "Uma frase simples cresce por acrescento: junta-se um modificador aqui, uma oração ali, e de repente há uma frase complexa com partes que dependem umas das outras. Este ano aprendes a classificar essas partes — orações finais, condicionais, completivas, relativas — e a perceber a função de modificador, que é aquilo que se pode tirar sem a frase deixar de funcionar. Aprendes também de onde vêm as palavras novas, por derivação ou por composição, e que o português não se fala igual em todo o lado.",
+          "questions": [
+            "Se um modificador se pode tirar, para que serve?",
+            "De onde vêm as palavras que ainda não existiam há dez anos?",
+            "Uma vírgula pode mudar quem fez o quê numa frase?"
+          ],
+          "essentials": [
+            "Identificar a função sintática de modificador (de nome e de grupo verbal).",
+            "Classificar orações subordinadas: adverbiais finais, condicionais; substantivas completivas (selecionadas por verbo) e adjetivas relativas (restritiva e explicativa).",
+            "Distinguir os processos de derivação e de composição na formação regular de palavras.",
+            "Reconhecer traços da variação da língua portuguesa de natureza geográfica.",
+            "Explicar sinais de pontuação em função da construção da frase."
+          ],
+          "activities": [
+            {
+              "title": "A frase que cresce",
+              "type": "Sintaxe",
+              "duration": "35 min",
+              "materials": [
+                "Uma tira de papel comprida",
+                "Caneta"
+              ],
+              "steps": [
+                "Escreve no início da tira uma frase de três palavras: «O cão ladrou.»",
+                "Acrescenta um modificador de nome e reescreve a frase por baixo.",
+                "Acrescenta um modificador de grupo verbal e reescreve outra vez.",
+                "Junta agora uma oração subordinada condicional, depois uma final, depois uma relativa — uma linha de cada vez.",
+                "Volta ao princípio e vai tirando peças, para veres quais é que a frase aguenta perder."
+              ],
+              "curriculumLink": "Junta a função sintática de modificador de nome e de grupo verbal com a classificação de orações subordinadas adverbiais, completivas e relativas.",
+              "reflection": "As peças que a frase aguenta perder são as mesmas que lhe davam mais informação?"
+            },
+            {
+              "title": "A vírgula que muda tudo",
+              "type": "Pontuação",
+              "duration": "25 min",
+              "materials": [
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escreve a frase «Os alunos que estudaram passaram» e, ao lado, «Os alunos, que estudaram, passaram».",
+                "Explica por escrito quantos alunos passaram em cada caso.",
+                "Descobre porque é que uma relativa é restritiva e a outra explicativa.",
+                "Inventa mais três pares de frases em que a vírgula mude o sentido, não apenas a pausa.",
+                "Testa-as em alguém: lê em voz alta e vê se a pessoa apanha a diferença sem ver o papel."
+              ],
+              "curriculumLink": "Trabalha a explicação dos sinais de pontuação em função da construção da frase e a distinção entre orações relativas restritivas e explicativas.",
+              "reflection": "Se a diferença não se ouve, de que serve na escrita?"
+            },
+            {
+              "title": "Mapa do português",
+              "type": "Variação",
+              "duration": "40 min",
+              "materials": [
+                "Acesso a vídeos de falantes de várias regiões e países",
+                "Um mapa em branco"
+              ],
+              "steps": [
+                "Ouve falantes do norte de Portugal, do Alentejo, dos Açores, do Brasil, de Angola e de Moçambique.",
+                "Aponta para cada um duas palavras ou sons que sejam diferentes do teu português.",
+                "Marca-os no mapa, no sítio de onde vêm.",
+                "Escolhe uma palavra que exista só numa dessas variedades e descobre a que corresponde na tua.",
+                "Pergunta a alguém mais velho da tua família se diz alguma palavra que tu já não uses."
+              ],
+              "curriculumLink": "Cobre o reconhecimento de traços da variação da língua portuguesa de natureza geográfica.",
+              "reflection": "Alguma destas maneiras de falar é mais correta do que as outras, ou apenas diferente?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
