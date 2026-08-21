@@ -42,8 +42,8 @@
       "id": "matematica",
       "name": "Matemática",
       "emoji": "📐",
-      "status": "pending",
-      "summary": "Números racionais, potências, equações do 1.º grau, funções, semelhança de triângulos e estatística."
+      "status": "ready",
+      "summary": "Números inteiros e racionais, equações do 1.º grau, funções, estatística com mediana, e semelhança de triângulos."
     },
     {
       "id": "ciencias-naturais",

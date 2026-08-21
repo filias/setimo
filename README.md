@@ -115,7 +115,8 @@ offer, the second optional to attend.
 - [x] Francês (LE II) — 3 domains, 6 subtopics, 10 essential descriptors, 9 activities
 - [x] História — 4 domains, 12 subtopics, 53 essential descriptors, 14 activities
 - [x] Geografia — 2 domains, 6 subtopics, 25 essential descriptors, 10 activities
-- [ ] The remaining six subjects of the seventh-grade matrix
+- [x] Matemática — 4 domains, 17 subtopics, 107 essential descriptors, 21 activities
+- [ ] The remaining five subjects of the seventh-grade matrix
 
 ## Publishing
 

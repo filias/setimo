@@ -1,0 +1,782 @@
+{
+  "id": "matematica",
+  "name": "Matemática",
+  "emoji": "📐",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "A Matemática do 7.º ano organiza-se em quatro temas — Números, Álgebra, Dados e Geometria — e é o ano em que entram os números negativos a sério, a primeira equação do 1.º grau, a ideia de função, a mediana e a semelhança de triângulos. O documento acrescenta um conjunto de capacidades matemáticas transversais: resolução de problemas, raciocínio, pensamento computacional, comunicação, representações e conexões.",
+  "studentIntro": "Este é o ano em que a matemática deixa de ser só contas e passa a ter letras. A ideia assusta e é mais simples do que parece: uma letra é apenas um número que ainda não sabemos qual é, e uma equação é uma balança que tem de ficar equilibrada. Vais também descobrir que dois triângulos podem ser diferentes no tamanho e iguais na forma, e que isso chega para medir a altura de um prédio sem lá subir. E que uma média pode mentir descaradamente, enquanto a mediana fica quieta a dizer a verdade.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Matemática, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/ae_mat_7.o_ano.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho, e correspondem à coluna «Objetivos de aprendizagem: Conhecimentos, Capacidades e Atitudes»."
+  },
+  "domains": [
+    {
+      "id": "numeros",
+      "name": "Números",
+      "emoji": "🔢",
+      "palette": "indigo",
+      "summary": "Inteiros negativos, racionais, percentagens e notação científica.",
+      "subtopics": [
+        {
+          "id": "numeros-inteiros",
+          "name": "Números inteiros",
+          "student": "Até agora os números serviam para contar coisas, e não faz sentido ter menos três maçãs. Os negativos aparecem quando o número deixa de contar e passa a medir posição ou variação: temperatura, saldo, altitude, andares abaixo do rés-do-chão. A reta numérica é a melhor ferramenta que vais ter este ano — nela, o simétrico é o reflexo do outro lado do zero e o valor absoluto é simplesmente a distância até ao zero, que nunca pode ser negativa. Repara também no sinal «−»: às vezes indica uma subtração, às vezes indica que o número é negativo, e distinguir os dois papéis resolve metade dos erros.",
+          "questions": [
+            "Se o valor absoluto é uma distância, pode ser negativo?",
+            "Porque é que subtrair um número negativo dá o mesmo que somar?",
+            "Em que situações do dia a dia usas números negativos sem pensar neles?"
+          ],
+          "essentials": [
+            "Reconhecer o que é um número inteiro, positivo ou negativo, e representá-lo na reta numérica.",
+            "Reconhecer o valor absoluto de um número.",
+            "Reconhecer o simétrico de um número negativo.",
+            "Comparar e ordenar números inteiros.",
+            "Reconhecer ℤ como o conjunto dos números inteiros e a sua relação com o conjunto dos númeos naturais (ℕ).",
+            "Adicionar números inteiros.",
+            "Reconhecer a comutatividade e a associatividade da adição de números inteiros.",
+            "Reconhecer a subtração de números naturais como uma adição de números inteiros.",
+            "Reconhecer que a subtração não goza de comutatividade e a associatividade",
+            "Adicionar e subtrair números inteiros em diversos contextos, fazendo uso das propriedades das operações.",
+            "Escrever, simplificar e calcular expressões numéricas que envolvam parênteses.",
+            "Imaginar e descrever uma situação que possa ser traduzida por uma expressão numérica dada.",
+            "Decidir sobre o método mais eficiente de efetuar um cálculo.",
+            "Resolver problemas que envolvam números inteiros negativos, em diversos contextos.",
+            "Conjeturar, generalizar e justificar relações entre números inteiros.",
+            "Comunicar matematicamente, descrevendo a forma de pensar acerca de ideias e processos matemáticos, envolvendo números inteiros."
+          ],
+          "activities": [
+            {
+              "title": "O elevador do prédio",
+              "type": "Modelo",
+              "duration": "30 min",
+              "materials": [
+                "Uma tira de papel comprida",
+                "Régua",
+                "Um clipe para marcar a posição"
+              ],
+              "steps": [
+                "Desenha uma reta vertical com os pisos de −3 a 10, com o rés-do-chão no zero.",
+                "Põe o clipe no piso 4. Sobe 3, desce 9, sobe 2. Em que piso ficas?",
+                "Escreve o percurso como uma única expressão numérica com parênteses.",
+                "Inventa três percursos que acabem todos no piso −1, com números diferentes.",
+                "Descreve por palavras uma situação que se traduza pela expressão 5 − (−3)."
+              ],
+              "curriculumLink": "Trabalha a adição e subtração de inteiros na reta numérica, as expressões numéricas com parênteses e o descritor de imaginar uma situação traduzível por uma expressão dada.",
+              "reflection": "Descer nove pisos a partir do quarto: porque é que o resultado é negativo e não «impossível»?"
+            },
+            {
+              "title": "O sinal que muda de papel",
+              "type": "Cálculo",
+              "duration": "25 min",
+              "materials": [
+                "Papel e caneta",
+                "Calculadora, só para confirmar"
+              ],
+              "steps": [
+                "Escreve as expressões 4 − (3 + 7) e 4 − 3 + 7 e prevê os valores antes de calcular.",
+                "Calcula à mão e confirma na calculadora.",
+                "Escreve por palavras porque é que o parêntese mudou o resultado.",
+                "Inventa três pares de expressões que só diferem nos parênteses e testa-os noutra pessoa.",
+                "Sublinha em cada expressão os «−» que são subtração e os que são sinal do número."
+              ],
+              "curriculumLink": "Cobre a escrita, simplificação e cálculo de expressões numéricas com parênteses e a decisão sobre o método de cálculo mais eficiente.",
+              "reflection": "Quantos erros de sinal desaparecem só por se saber qual é o papel de cada «−»?"
+            }
+          ]
+        },
+        {
+          "id": "numeros-racionais",
+          "name": "Números racionais",
+          "student": "Juntando os negativos às frações e aos decimais, chega-se aos racionais: todos os números que se podem escrever como uma fração de inteiros. O conjunto chama-se ℚ, de «quociente». O trabalho deste ano é somar e subtrair racionais com fluência, incluindo de cabeça, e usar as propriedades das operações para simplificar contas em vez de as fazer à bruta. Muitas vezes reordenar as parcelas transforma uma conta feia numa conta trivial.",
+          "questions": [
+            "Todos os números são racionais?",
+            "Como é que se compara −3/4 com −2/3 sem calculadora?",
+            "Quando é que reordenar as parcelas torna uma conta muito mais fácil?"
+          ],
+          "essentials": [
+            "Reconhecer o que é um número racional, positivo ou negativo.",
+            "Identificar números racionais negativos em diversos contextos.",
+            "Reconhecer ℚ como o conjunto dos números racionais.",
+            "Identificar em contexto números racionais negativos.",
+            "Representar números racionais na reta numérica.",
+            "Comparar e ordenar números racionais.",
+            "Adicionar e subtrair números racionais (cálculo mental e algoritmo) em diversos contextos.",
+            "Reconhecer as propriedades da adição de números racionais e aplicá-las quando for relevante para a simplificação dos cálculos.",
+            "Resolver problemas que envolvam adição e subtração de números racionais, em diversos contextos.",
+            "Compreender e usar com fluência estratégias de cálculo mental para a adição e subtração de números racionais, mobilizando as propriedades das operações."
+          ],
+          "activities": [
+            {
+              "title": "A conta que se arruma sozinha",
+              "type": "Cálculo mental",
+              "duration": "25 min",
+              "materials": [
+                "Cartões com números racionais positivos e negativos"
+              ],
+              "steps": [
+                "Tira seis cartões ao acaso e escreve a soma pela ordem em que saíram.",
+                "Calcula à bruta, da esquerda para a direita, e cronometra.",
+                "Agora reordena as parcelas para juntar simétricos e números fáceis, e calcula outra vez.",
+                "Compara os tempos e confirma que o resultado é o mesmo.",
+                "Escreve qual foi a propriedade que te autorizou a reordenar."
+              ],
+              "curriculumLink": "Trabalha o reconhecimento e a aplicação das propriedades da adição para simplificar cálculos, e as estratégias de cálculo mental.",
+              "reflection": "Reordenar é batota ou é matemática?"
+            }
+          ]
+        },
+        {
+          "id": "percentagem",
+          "name": "Percentagem",
+          "student": "Percentagem é apenas uma fração com denominador cem, mas é a fração que aparece em todo o lado: descontos, juros, sondagens, impostos. O ponto difícil deste ano é o caminho inverso — dado o resultado e a percentagem, descobrir o todo. É aí que quase toda a gente se engana, e é aí que se ganha ou perde dinheiro em saldos.",
+          "questions": [
+            "Um desconto de 20% seguido de outro de 20% dá 40%?",
+            "Se um preço subiu 50% e depois desceu 50%, ficou igual?",
+            "Como descobres o preço original a partir do preço com desconto?"
+          ],
+          "essentials": [
+            "Resolver problemas que envolvam percentagens no contexto do quotidiano dos alunos.",
+            "Calcular percentagens a partir do todo, e vice-versa.",
+            "Apresentar e explicar ideias e processos envolvendo percentagens."
+          ],
+          "activities": [
+            {
+              "title": "Os saldos mentem?",
+              "type": "Problema",
+              "duration": "35 min",
+              "materials": [
+                "Fotografias de etiquetas de saldos reais",
+                "Calculadora"
+              ],
+              "steps": [
+                "Fotografa cinco etiquetas de saldos com preço antigo e novo.",
+                "Calcula a percentagem real de desconto em cada uma.",
+                "Compara com a percentagem anunciada na loja.",
+                "Pega num preço final e, sabendo o desconto, calcula o preço original de volta.",
+                "Testa o caso dos dois descontos seguidos de 20% e vê quanto dá ao certo."
+              ],
+              "curriculumLink": "Cobre o cálculo de percentagens a partir do todo e vice-versa, em problemas do quotidiano dos alunos.",
+              "reflection": "Encontraste alguma etiqueta em que a percentagem anunciada não batesse certo?"
+            }
+          ]
+        },
+        {
+          "id": "notacao-cientifica",
+          "name": "Notação científica",
+          "student": "Quando os números ficam absurdamente grandes, escrevê-los por extenso deixa de ser prático e passa a ser fonte de erro — ninguém conta zeros de forma fiável. A notação científica arruma qualquer número como um valor entre 1 e 10 multiplicado por uma potência de dez. A vantagem não é só o espaço: comparar 3,2 × 10⁸ com 7,5 × 10⁶ é imediato, enquanto comparar as versões por extenso obriga a contar algarismos.",
+          "questions": [
+            "Quantas vezes maior é 10⁸ do que 10⁶?",
+            "Porque é que a parte da frente tem de estar entre 1 e 10?",
+            "Como é que a calculadora mostra números demasiado grandes para o ecrã?"
+          ],
+          "essentials": [
+            "Representar e comparar números racionais positivos em notação científica (com potência de base 10 e expoente inteiro positivo).",
+            "Reconhecer e utilizar números representados em notação científica, com recurso à tecnologia.",
+            "Operar com números em notação científica em casos simples (percentagens, dobro, triplo, metade)."
+          ],
+          "activities": [
+            {
+              "title": "Números grandes à solta",
+              "type": "Notação",
+              "duration": "30 min",
+              "materials": [
+                "Uma lista de grandezas reais",
+                "Calculadora"
+              ],
+              "steps": [
+                "Recolhe dez números enormes reais: população mundial, distância ao Sol, número de células do corpo.",
+                "Escreve cada um em notação científica.",
+                "Ordena-os do menor para o maior olhando apenas para os expoentes.",
+                "Calcula o dobro e a metade de três deles, mantendo a notação científica.",
+                "Escreve dois deles por extenso e conta os zeros para ver quanto tempo demoras."
+              ],
+              "curriculumLink": "Trabalha a representação, comparação e operação com números em notação científica, incluindo dobro e metade.",
+              "reflection": "Ordenar pelos expoentes foi mais rápido do que ordenar pelos números por extenso?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "algebra",
+      "name": "Álgebra",
+      "emoji": "🧮",
+      "palette": "purple",
+      "summary": "Sequências, a primeira equação do 1.º grau e a ideia de função.",
+      "subtopics": [
+        {
+          "id": "sequencias",
+          "name": "Regularidades, sequências e sucessões",
+          "student": "Encontrar o padrão numa sequência é agradável; escrever a lei que o gera é a parte que conta. A lei de formação permite saltar: em vez de calcular termo a termo até ao centésimo, calculas o centésimo diretamente. É a primeira vez que uma letra aparece a fazer trabalho a sério — a letra representa a ordem do termo, e a expressão diz o que fazer com ela.",
+          "questions": [
+            "Duas sequências podem começar igual e continuar diferentes?",
+            "Como é que descobres o termo de ordem 100 sem escrever os 99 anteriores?",
+            "Uma lei de formação em palavras e em símbolos dizem a mesma coisa?"
+          ],
+          "essentials": [
+            "Reconhecer regularidades em sequências ou sucessões de números racionais e determinar uma lei de formação, expressando-a em linguagem natural ou simbólica.",
+            "Determinar termos de uma sequência ou sucessão de ordens variadas, inferior ou superior aos dos termos apresentados, quando conhecida sua a lei de formação.",
+            "Comparar, interpretar e estabelecer conexões entre representações múltiplas de uma sequência ou sucessão."
+          ],
+          "activities": [
+            {
+              "title": "Sequências com fósforos",
+              "type": "Padrões",
+              "duration": "35 min",
+              "materials": [
+                "Uma caixa de fósforos ou palitos",
+                "Papel quadriculado"
+              ],
+              "steps": [
+                "Constrói um quadrado com quatro palitos, depois dois quadrados a partilhar um lado, depois três.",
+                "Conta os palitos de cada figura e escreve a sequência.",
+                "Descobre quantos palitos precisas para dez quadrados, sem os construir.",
+                "Escreve a lei de formação em palavras e depois em símbolos.",
+                "Desafia alguém a adivinhar a tua lei mostrando só os três primeiros termos."
+              ],
+              "curriculumLink": "Cobre o reconhecimento de regularidades, a determinação de uma lei de formação em linguagem natural ou simbólica, e as representações múltiplas de uma sequência.",
+              "reflection": "Três termos chegam para determinar uma lei sem ambiguidade?"
+            }
+          ]
+        },
+        {
+          "id": "equacoes",
+          "name": "Expressões algébricas e equações",
+          "student": "Uma equação é uma balança. Do lado esquerdo uma coisa, do lado direito outra, e o sinal de igual a garantir que pesam o mesmo. Resolver é descobrir o valor da incógnita mantendo a balança sempre equilibrada — o que quer que faças a um lado, fazes ao outro. É por isso que duas equações se dizem equivalentes: têm exatamente as mesmas soluções, mesmo com aspeto diferente. Este ano são equações do 1.º grau a uma incógnita, sem parênteses nem denominadores.",
+          "questions": [
+            "Porque é que se pode somar o mesmo número aos dois lados de uma equação?",
+            "Uma equação pode não ter solução nenhuma?",
+            "Se encontras x = 7 num problema sobre número de pessoas, e dá 7,5, o que fazes?"
+          ],
+          "essentials": [
+            "Reconhecer equações e distinguir entre termos com incógnita e termos independentes.",
+            "Traduzir situações em contextos matemáticos e não matemáticos por meio de uma equação do 1.º grau e vice-versa.",
+            "Apresentar e explicar ideias e processos envolvendo equações do 1.º grau a uma incógnita.",
+            "Resolver equações do 1.º grau a uma incógnita (sem parênteses e denominadores).",
+            "Justificar a equivalência de duas equações.",
+            "Resolver problemas que envolvam equações do 1.º grau a uma incógnita, nomeadamente do quotidiano dos alunos, analisando a adequação da solução obtida no contexto do problema."
+          ],
+          "activities": [
+            {
+              "title": "A balança que não pode desequilibrar",
+              "type": "Modelo",
+              "duration": "40 min",
+              "materials": [
+                "Um cabide e dois sacos, ou uma balança de pratos",
+                "Moedas iguais",
+                "Um objeto de peso desconhecido"
+              ],
+              "steps": [
+                "Pendura o objeto desconhecido num prato e equilibra com moedas no outro.",
+                "Escreve a equação correspondente, com x a valer o peso do objeto.",
+                "Tira duas moedas de um lado e vê o que acontece; repõe o equilíbrio tirando do outro.",
+                "Escreve cada passo que fizeste como um passo algébrico.",
+                "Resolve a equação no papel e confirma com a balança."
+              ],
+              "curriculumLink": "Trabalha a resolução de equações do 1.º grau a uma incógnita e a justificação da equivalência entre duas equações.",
+              "reflection": "Que operação farias na balança que a manteria equilibrada mas não ajudaria nada?"
+            },
+            {
+              "title": "Do problema à equação e de volta",
+              "type": "Tradução",
+              "duration": "35 min",
+              "materials": [
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escreve um problema real do teu dia a dia que envolva uma quantidade desconhecida.",
+                "Traduz o problema numa equação do 1.º grau.",
+                "Resolve-a e verifica se a solução faz sentido no contexto — pessoas inteiras, dinheiro positivo.",
+                "Agora ao contrário: recebe de alguém a equação 3x + 5 = 26 e inventa uma história que lhe corresponda.",
+                "Troquem histórias e equações e confirmem que batem certo."
+              ],
+              "curriculumLink": "Cobre a tradução de situações por meio de uma equação e vice-versa, e a análise da adequação da solução no contexto do problema.",
+              "reflection": "Houve alguma solução matematicamente certa que não servisse no contexto?"
+            }
+          ]
+        },
+        {
+          "id": "funcoes",
+          "name": "Funções",
+          "student": "Uma função é uma máquina com uma regra rígida: para cada entrada, uma e uma só saída. A palavra a reter é «unívoca» — a mesma entrada não pode dar dois resultados diferentes. A partir daqui, quase tudo o que descreve o mundo é uma função: o preço em função do peso, a distância em função do tempo, a temperatura em função da hora. E qualquer função pode aparecer de várias maneiras — tabela, gráfico, expressão, descrição — que dizem o mesmo por outros meios.",
+          "questions": [
+            "Porque é que uma entrada não pode dar duas saídas?",
+            "Um gráfico consegue contar uma história sem números nenhuns?",
+            "Que funções encontras nas outras disciplinas?"
+          ],
+          "essentials": [
+            "Interpretar uma função como uma correspondência unívoca de um conjunto num outro.",
+            "Reconhecer diferentes representações de uma função.",
+            "Modelar situações em contextos matemáticos e da vida real, usando funções.",
+            "Descrever uma situação envolvendo a relação entre duas variáveis que esteja representada num gráfico dado.",
+            "Reconhecer a presença de funções em situações estudadas noutras disciplinas e caracterizá-las estabelecendo conexões matemáticas com outras áreas do saber.",
+            "Descrever uma situação concreta de relação entre duas variáveis, a partir de um gráfico dado que a represente, apresentando e explicando ideias e raciocínios."
+          ],
+          "activities": [
+            {
+              "title": "A história que o gráfico conta",
+              "type": "Interpretação",
+              "duration": "35 min",
+              "materials": [
+                "Gráficos sem títulos nem legendas",
+                "Papel"
+              ],
+              "steps": [
+                "Pede a alguém que desenhe o gráfico da distância a casa ao longo de um dia, sem te dizer nada.",
+                "Olha só para a forma da linha e escreve a história do dia dessa pessoa.",
+                "Confirma com ela: acertaste nas paragens, nas voltas, no almoço?",
+                "Agora inverte: conta-lhe um dia teu e pede-lhe que desenhe o gráfico.",
+                "Compara com o gráfico que tu desenharias."
+              ],
+              "curriculumLink": "Trabalha a descrição de uma situação concreta de relação entre duas variáveis a partir de um gráfico dado, apresentando e explicando raciocínios.",
+              "reflection": "O que é que na forma da linha te disse que a pessoa estava parada?"
+            }
+          ]
+        },
+        {
+          "id": "proporcionalidade-direta",
+          "name": "Função de proporcionalidade direta",
+          "student": "A proporcionalidade direta é a função mais simples e a mais útil: se duplicares a entrada, duplica a saída, e o gráfico é sempre uma reta que passa pela origem. Reconhecê-la depressa poupa muito trabalho, porque significa que basta um par de valores para saber todos os outros. E reconhecê-la onde ela não está evita erros — nem tudo o que cresce cresce proporcionalmente.",
+          "questions": [
+            "O gráfico de uma proporcionalidade direta pode não passar pela origem?",
+            "O preço de uma viagem de táxi é proporcional à distância?",
+            "Se dobrar o lado de um quadrado, a área também dobra?"
+          ],
+          "essentials": [
+            "Resolver problemas que envolvam relações de proporcionalidade direta.",
+            "Exprimir relações de proporcionalidade direta como funções.",
+            "Representar uma função de proporcionalidade direta através de gráfico ou tabela, quando definida através de expressão algébrica e indicação de domínio, e vice-versa, transitando de forma fluente entre diferentes representações.",
+            "Reconhecer a presença de funções de proporcionalidade direta em situações, estudadas noutras disciplinas, estabelecendo conexões matemáticas entre temas matemáticos e com outras áreas do saber."
+          ],
+          "activities": [
+            {
+              "title": "É mesmo proporcional?",
+              "type": "Investigação",
+              "duration": "40 min",
+              "materials": [
+                "Balança de cozinha",
+                "Régua",
+                "Vários objetos iguais e vários diferentes"
+              ],
+              "steps": [
+                "Pesa um parafuso, depois dois, depois cinco, depois dez. Faz a tabela.",
+                "Desenha o gráfico e vê se dá uma reta pela origem.",
+                "Repete com o perímetro e a área de quadrados de lado 1, 2, 3, 4 cm.",
+                "Compara os dois gráficos: qual é proporcional e qual não é?",
+                "Escreve a expressão algébrica de cada relação."
+              ],
+              "curriculumLink": "Cobre a expressão de relações de proporcionalidade direta como funções e a transição entre tabela, gráfico e expressão algébrica.",
+              "reflection": "Porque é que o perímetro é proporcional ao lado mas a área não?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dados",
+      "name": "Dados",
+      "emoji": "📊",
+      "palette": "orange",
+      "summary": "Um estudo estatístico do princípio ao fim, incluindo a parte em que os gráficos enganam.",
+      "subtopics": [
+        {
+          "id": "questoes-e-recolha",
+          "name": "Questões estatísticas, recolha e organização de dados",
+          "student": "Um estudo estatístico começa muito antes das contas: começa numa pergunta que admita variabilidade nas respostas. «Qual é a minha altura?» não é uma questão estatística; «Qual é a altura dos alunos do 7.º ano?» é. Depois decide-se sobre quem se quer saber — a população — e, se for grande demais, escolhe-se uma amostra, com o cuidado de ela representar o todo. Uma amostra mal escolhida estraga tudo o que vem a seguir, por melhores que sejam as contas.",
+          "questions": [
+            "Perguntar só aos teus amigos dá uma amostra representativa de quê?",
+            "Qual é a diferença entre uma variável discreta e uma contínua?",
+            "O que é «limpar» dados, e porque é que é preciso?"
+          ],
+          "essentials": [
+            "Formular questões estatísticas sobre variáveis qualitativas e quantitativas.",
+            "Classificar as variáveis quanto à sua natureza: qualitativas (nominais versus ordinais) e quantitativas (discretas versus contínuas).",
+            "Distinguir população de amostra.",
+            "Identificar a população sobre a qual pretende recolher dados e em que circunstâncias se recorre a uma amostra.",
+            "Planificar a seleção da amostra, relativamente à qual serão recolhidos os dados, acautelando a sua representatividade.",
+            "Definir quais os dados a recolher, selecionar a fonte e o método de recolha dos dados, e proceder à sua recolha e limpeza.",
+            "Recolher dados através de um método de recolha, nomeadamente recorrendo a sítios credíveis na Internet."
+          ],
+          "activities": [
+            {
+              "title": "A amostra que engana",
+              "type": "Estatística",
+              "duration": "40 min",
+              "materials": [
+                "Um saco opaco",
+                "Cem berlindes ou feijões de duas cores, em proporção conhecida por um adulto",
+                "Papel"
+              ],
+              "steps": [
+                "Pede a alguém que encha o saco com duas cores numa proporção que só essa pessoa saiba.",
+                "Tira cinco à sorte, anota as cores e repõe. Estima a proporção.",
+                "Repete com vinte e depois com cinquenta.",
+                "Compara as tuas três estimativas com a proporção verdadeira.",
+                "Agora tira cinquenta sem baralhar, só do fundo, e vê o que acontece à estimativa."
+              ],
+              "curriculumLink": "Torna concreta a distinção entre população e amostra e a necessidade de acautelar a representatividade da amostra.",
+              "reflection": "O que estragou mais a estimativa: a amostra ser pequena ou ser mal escolhida?"
+            }
+          ]
+        },
+        {
+          "id": "organizacao-e-graficos",
+          "name": "Organização de dados e representações gráficas",
+          "student": "Depois de recolhidos, os dados têm de ser arrumados para dizerem alguma coisa. Quando há muita variabilidade, agrupam-se em classes de igual amplitude. Depois escolhe-se a representação: gráfico de linhas quando uma das variáveis é o tempo, barras sobrepostas para comparar dois conjuntos. E há um descritor neste ano que vale por muitos — o que pede que analises criticamente gráficos de outras fontes e concluas sobre efeitos de manipulação. Um eixo vertical que não começa no zero pode transformar uma diferença mínima numa montanha.",
+          "questions": [
+            "Como é que um gráfico pode ser verdadeiro e enganador ao mesmo tempo?",
+            "Porque é que um gráfico precisa sempre de fonte, título e legenda?",
+            "Quando é que agrupar dados em classes esconde informação importante?"
+          ],
+          "essentials": [
+            "Identificar em que casos é necessário proceder ao agrupamento de dados discretos em classes.",
+            "Construir classes de igual amplitude, para agrupar dados discretos que possuam uma grande variabilidade.",
+            "Usar tabelas de frequências para organizar os dados em classes (incluindo título na tabela).",
+            "Representar dados bivariados, em que uma das variáveis é o tempo, através de gráficos de linhas, incluindo fonte, título e legenda.",
+            "Representar dois conjuntos de dados relativos a uma dada característica, através de gráficos de barras sobrepostas, incluindo fonte, título e legenda.",
+            "Decidir sobre qual(is) a(s) representação(ões) gráfica(s) a adotar para representar conjuntos de dados, incluindo fonte, título, legenda e escalas e justificar a(s) escolha(s) feita(s).",
+            "Analisar e comparar diferentes representações gráficas provenientes de fontes secundárias, discutir a sua adequabilidade e concluir criticamente sobre eventuais efeitos de manipulações gráficas, desenvolvendo a literacia estatística."
+          ],
+          "activities": [
+            {
+              "title": "O mesmo dado, dois gráficos opostos",
+              "type": "Literacia estatística",
+              "duration": "40 min",
+              "materials": [
+                "Papel quadriculado ou folha de cálculo",
+                "Um conjunto pequeno de dados reais"
+              ],
+              "steps": [
+                "Escolhe dados com diferenças pequenas: por exemplo golos de duas equipas em cinco jornadas.",
+                "Desenha um gráfico de barras com o eixo vertical a começar no zero.",
+                "Desenha o mesmo gráfico com o eixo a começar logo abaixo do valor mais baixo.",
+                "Mostra os dois a alguém, um de cada vez, e pergunta se a diferença é grande.",
+                "Escreve por baixo de cada gráfico o título que um jornal poria."
+              ],
+              "curriculumLink": "É exatamente o descritor de concluir criticamente sobre efeitos de manipulações gráficas, desenvolvendo a literacia estatística.",
+              "reflection": "Nenhum dos dois gráficos mente nos números. Então qual é que é desonesto, e porquê?"
+            }
+          ]
+        },
+        {
+          "id": "resumo-de-dados",
+          "name": "Análise e resumo de dados",
+          "student": "Resumir um conjunto de dados a um único número é útil e perigoso. A média deixa-se arrastar por valores extremos: numa sala com dez pessoas de rendimento normal, entra um milionário e a média dispara, embora ninguém tenha ficado mais rico. A mediana — o valor do meio depois de ordenar — não se deixa. Por isso este ano acrescenta a mediana e a amplitude, que dizem coisas diferentes: uma sobre o centro, outra sobre a dispersão.",
+          "questions": [
+            "Em que casos é que a média mente e a mediana não?",
+            "Dois conjuntos com a mesma média podem ser completamente diferentes?",
+            "O que é que a amplitude te diz que a mediana não diz?"
+          ],
+          "essentials": [
+            "Reconhecer a amplitude de um conjunto de dados quantitativos como uma medida de dispersão e calculá-la.",
+            "Identificar a diferença entre medidas que fornecem informação em termos de localização (central) e medidas que fornecem informação em termos de dispersão.",
+            "Reconhecer e usar a mediana como uma medida de localização do centro da distribuição dos dados e determiná-la.",
+            "Reconhecer a diferença entre as medidas resumo obtidas através de dados não agrupados e agrupados em classes.",
+            "Analisar criticamente qual(ais) a(s) medida(s) resumo apropriadas para resumir os dados, em função da sua natureza."
+          ],
+          "activities": [
+            {
+              "title": "O milionário na sala",
+              "type": "Estatística",
+              "duration": "30 min",
+              "materials": [
+                "Papel e calculadora"
+              ],
+              "steps": [
+                "Inventa os rendimentos mensais de dez pessoas comuns e calcula média e mediana.",
+                "Acrescenta uma décima primeira pessoa que ganhe um milhão por mês.",
+                "Calcula outra vez média e mediana.",
+                "Escreve quanto cada uma mudou, em percentagem.",
+                "Decide qual das duas usarias para descrever «o que uma pessoa daquela sala ganha», e justifica."
+              ],
+              "curriculumLink": "Trabalha o reconhecimento da mediana como medida de localização do centro e a análise crítica de qual a medida resumo apropriada.",
+              "reflection": "Quando é que um jornal escolheria a média em vez da mediana, e porquê?"
+            }
+          ]
+        },
+        {
+          "id": "conclusoes-e-divulgacao",
+          "name": "Interpretação, conclusões e divulgação",
+          "student": "A última parte de um estudo é aquela que quase toda a gente despacha: contar o que se descobriu a quem interessa. O programa é exigente aqui — pede que decidas a quem divulgar, que escolhas os meios, e que o faças «de forma rigorosa, eficaz e não enganadora». Pede também que contes a história que está por detrás dos dados, porque números sem história não convencem ninguém, e que olhes com o mesmo rigor para os estudos que aparecem nos media.",
+          "questions": [
+            "A quem interessa mesmo o resultado do teu estudo?",
+            "Como é que se conta uma história com dados sem os distorcer?",
+            "Quando lês uma sondagem numa notícia, o que procuras primeiro?"
+          ],
+          "essentials": [
+            "Ler, interpretar e discutir distribuições de dados, salientando criticamente os aspetos mais relevantes, ouvindo os outros, discutindo, contrapondo argumentos, de forma fundamentada.",
+            "Retirar conclusões, fundamentar decisões e colocar novas questões suscitadas pelas conclusões obtidas, a perseguir em eventuais futuros estudos.",
+            "Decidir a quem divulgar o estudo realizado e elaborar diferentes recursos de comunicação de modo a divulgá-lo de forma rigorosa, eficaz e não enganadora.",
+            "Divulgar o estudo, contando a história que está por detrás dos dados e levantando questões emergentes para estudos futuros.",
+            "Analisar criticamente a comunicação de estudos estatísticos realizados nos media, desenvolvendo a literacia estatística."
+          ],
+          "activities": [
+            {
+              "title": "A sondagem da notícia",
+              "type": "Literacia estatística",
+              "duration": "40 min",
+              "materials": [
+                "Uma notícia que cite uma sondagem",
+                "Papel"
+              ],
+              "steps": [
+                "Encontra uma notícia baseada numa sondagem ou estudo.",
+                "Procura na notícia: quem encomendou, quantas pessoas, como foram escolhidas, quando, e a margem de erro.",
+                "Marca quantas dessas cinco coisas a notícia diz, e quantas omite.",
+                "Vai à fonte original, se existir, e vê o que a notícia deixou de fora.",
+                "Reescreve o título de forma rigorosa e não enganadora."
+              ],
+              "curriculumLink": "Cobre a análise crítica da comunicação de estudos estatísticos nos media e a exigência de divulgação rigorosa e não enganadora.",
+              "reflection": "O título original era falso, ou apenas mais interessante do que os dados permitiam?"
+            }
+          ]
+        },
+        {
+          "id": "probabilidades",
+          "name": "Probabilidades",
+          "student": "Este ano acrescenta uma regra simples e poderosa: a probabilidade de um acontecimento que junta vários resultados é a soma das probabilidades de cada um. Sair par num dado é sair 2, ou 4, ou 6 — logo um sexto três vezes, que dá metade. Parece óbvio escrito assim, e é precisamente por ser óbvio que funciona como alicerce de tudo o que vem depois.",
+          "questions": [
+            "Qual é a probabilidade de sair um número maior do que 4 num dado?",
+            "Somar probabilidades funciona sempre, ou só em certos casos?",
+            "Se a probabilidade de chover é 30%, o que significa isso exatamente?"
+          ],
+          "essentials": [
+            "Reconhecer que a probabilidade de um acontecimento constituído por mais de um resultado é igual à soma das probabilidades dos acontecimentos constituídos pelos resultados que o compõem."
+          ],
+          "activities": [
+            {
+              "title": "Dois dados, onze somas",
+              "type": "Probabilidade",
+              "duration": "35 min",
+              "materials": [
+                "Dois dados",
+                "Papel quadriculado"
+              ],
+              "steps": [
+                "Faz uma tabela de dupla entrada com todos os 36 resultados possíveis de dois dados.",
+                "Conta de quantas maneiras se obtém cada soma, de 2 a 12.",
+                "Calcula a probabilidade de cada soma somando as probabilidades dos resultados que a compõem.",
+                "Lança os dados sessenta vezes e regista as somas num gráfico de barras.",
+                "Compara o gráfico real com as probabilidades calculadas."
+              ],
+              "curriculumLink": "Trabalha diretamente o descritor de que a probabilidade de um acontecimento composto é a soma das probabilidades dos resultados que o compõem.",
+              "reflection": "Sessenta lançamentos chegaram para o gráfico real se parecer com o previsto?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geometria",
+      "name": "Geometria",
+      "emoji": "📏",
+      "palette": "crimson",
+      "summary": "Ângulos, quadriláteros, semelhança de triângulos e os cinco poliedros regulares.",
+      "subtopics": [
+        {
+          "id": "angulos-e-poligonos",
+          "name": "Ângulos internos e externos de um polígono convexo",
+          "student": "Há um facto surpreendente à espera neste subtema: a soma dos ângulos externos de qualquer polígono convexo é sempre 360°, tenha ele três lados ou trezentos. A demonstração intuitiva é bonita — imagina-te a caminhar à volta do polígono; em cada vértice viras um pouco, e quando voltas ao início deste-te uma volta completa. Já a soma dos internos cresce com o número de lados, e descobre-se cortando o polígono em triângulos.",
+          "questions": [
+            "Porque é que a soma dos ângulos externos não depende do número de lados?",
+            "Quantos triângulos cabem num polígono de n lados?",
+            "Duas retas paralelas cortadas por uma terceira: quantos ângulos diferentes há mesmo?"
+          ],
+          "essentials": [
+            "Identificar ângulos internos e externos de um polígono convexo.",
+            "Generalizar e justificar a soma das medidas das amplitudes dos ângulos internos e externos de um polígono convexo.",
+            "Resolver problemas que incluam ângulos de um polígono convexo.",
+            "Reconhecer a igualdade das medidas das amplitudes dos ângulos alternos internos em pares de retas paralelas intersetadas por uma secante.",
+            "Reconhecer e justificar a igualdade das medidas das amplitudes dos ângulos verticalmente opostos."
+          ],
+          "activities": [
+            {
+              "title": "A volta ao polígono",
+              "type": "Demonstração",
+              "duration": "30 min",
+              "materials": [
+                "Fita-cola de papel para marcar o chão",
+                "Espaço para andar"
+              ],
+              "steps": [
+                "Marca no chão um polígono grande com cinco ou seis lados, convexo.",
+                "Caminha ao longo de um lado e, em cada vértice, roda apenas o necessário para seguir o lado seguinte.",
+                "Conta quantos graus rodaste em cada vértice, aproximadamente.",
+                "Ao voltares ao ponto de partida, soma todas as rotações.",
+                "Repete com um polígono de mais lados e compara o total."
+              ],
+              "curriculumLink": "Trabalha a generalização e justificação da soma das amplitudes dos ângulos externos de um polígono convexo.",
+              "reflection": "Se a soma é sempre a mesma, o que é que muda quando o polígono tem mais lados?"
+            }
+          ]
+        },
+        {
+          "id": "quadrilateros",
+          "name": "Quadriláteros e suas propriedades",
+          "student": "A classificação dos quadriláteros é hierárquica, e é aqui que muita gente tropeça: um quadrado é um retângulo, é um losango e é um paralelogramo, todos ao mesmo tempo. Não são categorias separadas, são caixas dentro de caixas. A chave para arrumar tudo isto são as diagonais — se são iguais, se se bissetam, se são perpendiculares. Com essas três perguntas identificas qualquer quadrilátero sem decorar nada.",
+          "questions": [
+            "Um quadrado é um retângulo? E um retângulo é um quadrado?",
+            "Que quadriláteros têm diagonais perpendiculares?",
+            "Porque é que a área do losango se calcula com as diagonais?"
+          ],
+          "essentials": [
+            "Identificar as diagonais de um quadrilátero.",
+            "Descrever as propriedades das diagonais de um quadrilátero e aplicá-las para resolver problemas.",
+            "Formular conjeturas, generalizações e justificações, a partir da identificação de regularidades comuns a objetos em estudo.",
+            "Explicar a classificação hierárquica dos quadriláteros, incluindo os casos do trapézio e do papagaio, apresentando e explicando raciocínios e representações.",
+            "Identificar propriedades e classificar quadriláteros.",
+            "Comunicar matematicamente articulando o conhecimento das propriedades dos quadriláteros com a sua visualização.",
+            "Generalizar e justificar as fórmulas das áreas do trapézio, do losango e do papagaio, recorrendo às de outras figuras."
+          ],
+          "activities": [
+            {
+              "title": "Três perguntas às diagonais",
+              "type": "Classificação",
+              "duration": "40 min",
+              "materials": [
+                "Duas tiras de cartão furadas ao meio e em vários pontos",
+                "Um clipe ou ataché",
+                "Fio"
+              ],
+              "steps": [
+                "Prende as duas tiras uma sobre a outra com o ataché, para poderem rodar.",
+                "Une as quatro pontas com fio: obténs um quadrilátero cujas diagonais são as tiras.",
+                "Muda o ponto onde as tiras se cruzam e o ângulo entre elas, e vê que quadriláteros aparecem.",
+                "Regista numa tabela: diagonais iguais? bissetam-se? perpendiculares? qual o quadrilátero?",
+                "Descobre que combinação dá o quadrado, e porquê."
+              ],
+              "curriculumLink": "Cobre a descrição das propriedades das diagonais de um quadrilátero, a classificação hierárquica e a formulação de conjeturas a partir de regularidades.",
+              "reflection": "Quantas das três perguntas bastam para identificar cada quadrilátero?"
+            }
+          ]
+        },
+        {
+          "id": "semelhanca",
+          "name": "Semelhança de figuras e de triângulos",
+          "student": "Duas figuras são semelhantes quando têm a mesma forma e tamanhos diferentes — uma é ampliação ou redução da outra. É a ideia que sustenta os mapas, as maquetes, as fotografias e a possibilidade de medir o inacessível. Com os critérios de semelhança de triângulos podes descobrir a altura de uma árvore com uma vara e uma sombra. Atenção às razões: se a razão de semelhança é 3, os perímetros ficam 3 vezes maiores mas as áreas ficam 9 vezes — o quadrado da razão. Duplicar as dimensões de uma piscina não a torna duas vezes maior.",
+          "questions": [
+            "Se dobrares as dimensões de uma caixa, quantas vezes cabe mais lá dentro?",
+            "Como medirias a altura da tua escola sem lá subir?",
+            "Todos os quadrados são semelhantes? E todos os retângulos?"
+          ],
+          "essentials": [
+            "Reconhecer figuras semelhantes como figuras que têm a mesma forma, obtidas uma da outra por ampliação ou redução.",
+            "Identificar figuras semelhantes em situações do quotidiano.",
+            "Identificar polígonos semelhantes e a razão de semelhança.",
+            "Construir a imagem de uma figura plana por uma homotetia.",
+            "Reconhecer a semelhança em mapas com diferentes escalas, estabelecendo conexões matemáticas com outras áreas do saber.",
+            "Identificar os critérios de semelhança de triângulos.",
+            "Reconhecer situações de aplicação indevida dos critérios de semelhança de triângulos.",
+            "Resolver problemas que envolvam critérios de semelhança de triângulos, em diversos contextos.",
+            "Conhecer a razão entre as medidas dos perímetros de duas figuras semelhantes.",
+            "Conhecer a razão entre as medidas das áreas de duas figuras semelhantes",
+            "Aplicar as razões entre medidas de perímetros e medidas de áreas de figuras semelhantes em situações concretas."
+          ],
+          "activities": [
+            {
+              "title": "A altura da árvore pela sombra",
+              "type": "Medição indireta",
+              "duration": "40 min",
+              "materials": [
+                "Uma vara ou cabo de vassoura",
+                "Fita métrica",
+                "Um dia de sol",
+                "Uma árvore ou um poste"
+              ],
+              "steps": [
+                "Espeta a vara na vertical e mede a sua altura e o comprimento da sua sombra.",
+                "Mede o comprimento da sombra da árvore, ao mesmo tempo.",
+                "Desenha os dois triângulos e justifica por que razão são semelhantes.",
+                "Calcula a altura da árvore pela razão de semelhança.",
+                "Repete uma hora depois, com sombras diferentes, e vê se dá o mesmo."
+              ],
+              "curriculumLink": "Trabalha os critérios de semelhança de triângulos aplicados a um problema real de medição indireta.",
+              "reflection": "Porque é que é essencial medir as duas sombras ao mesmo tempo?"
+            },
+            {
+              "title": "O dobro não é o dobro",
+              "type": "Razões",
+              "duration": "35 min",
+              "materials": [
+                "Papel quadriculado",
+                "Tesoura",
+                "Arroz ou açúcar e duas caixas semelhantes"
+              ],
+              "steps": [
+                "Desenha um retângulo e outro com o dobro das dimensões.",
+                "Conta os quadradinhos de cada um: quantas vezes maior é a área?",
+                "Mede os perímetros e compara: quantas vezes maior?",
+                "Constrói duas caixas semelhantes, uma com o dobro das dimensões da outra.",
+                "Enche a pequena de arroz e vê quantas vezes cabe dentro da grande."
+              ],
+              "curriculumLink": "Cobre a razão entre perímetros e entre áreas de figuras semelhantes e a sua aplicação em situações concretas.",
+              "reflection": "Se a razão dos comprimentos é 2, porque é que a das áreas é 4?"
+            }
+          ]
+        },
+        {
+          "id": "solidos",
+          "name": "Figuras no espaço e poliedros regulares",
+          "student": "Existem exatamente cinco poliedros regulares. Não é uma limitação da nossa imaginação — é uma impossibilidade geométrica, e podes perceber porquê: em cada vértice têm de se juntar pelo menos três faces, e a soma dos seus ângulos tem de ser inferior a 360°, senão a figura fica plana ou não fecha. Com triângulos consegues três combinações, com quadrados uma, com pentágonos uma, e com hexágonos nenhuma. Cinco, e acabou. Depois há a fórmula de Euler, que liga faces, arestas e vértices de qualquer poliedro convexo: F + V − A = 2.",
+          "questions": [
+            "Porque é que não existe um poliedro regular feito de hexágonos?",
+            "A fórmula de Euler funciona para qualquer poliedro?",
+            "Quantas planificações diferentes tem um cubo?"
+          ],
+          "essentials": [
+            "Distinguir poliedros regulares e irregulares e explicar as diferenças.",
+            "Construir modelos tridimensionais dos poliedros regulares e de algumas planificações.",
+            "Visualizar poliedros e suas planificações.",
+            "Identificar os poliedros regulares que existem e justificar a não existência de outros.",
+            "Estabelecer relações entre o número de elementos das classes de sólidos (faces, arestas e vértices).",
+            "Inferir a fórmula de Euler a partir da análise de um conjunto alargado de poliedros.",
+            "Relacionar elementos de poliedros com propriedades de números inteiros, raciocinando matematicamente.",
+            "Validar experiências prévias através do reconhecimento da fórmula de Euler."
+          ],
+          "activities": [
+            {
+              "title": "Os cinco e nem mais um",
+              "type": "Construção",
+              "duration": "60 min",
+              "materials": [
+                "Cartolina",
+                "Tesoura e cola",
+                "Transferidor"
+              ],
+              "steps": [
+                "Recorta triângulos equiláteros iguais e tenta juntar 3, 4 e 5 num vértice. Cola os que fecham.",
+                "Tenta juntar 6 triângulos num vértice e repara no que acontece.",
+                "Repete com quadrados: 3 fecham, 4 não. E com pentágonos: 3 fecham.",
+                "Tenta com hexágonos e mede a soma dos ângulos no vértice.",
+                "Escreve a razão pela qual só existem cinco poliedros regulares."
+              ],
+              "curriculumLink": "Cobre a construção de modelos tridimensionais dos poliedros regulares e a justificação da não existência de outros.",
+              "reflection": "A soma dos ângulos no vértice tem de ser menor do que quanto, exatamente?"
+            },
+            {
+              "title": "A fórmula que se descobre sozinha",
+              "type": "Padrões",
+              "duration": "35 min",
+              "materials": [
+                "Modelos de poliedros, ou imagens",
+                "Uma tabela de três colunas"
+              ],
+              "steps": [
+                "Escolhe oito poliedros diferentes, regulares e irregulares.",
+                "Para cada um, conta faces, vértices e arestas e escreve na tabela.",
+                "Procura uma relação entre as três colunas, experimentando somas e diferenças.",
+                "Quando encontrares uma que funcione para todos, testa-a num poliedro novo.",
+                "Descobre um sólido para o qual a fórmula falhe, e vê o que ele tem de especial."
+              ],
+              "curriculumLink": "Trabalha a inferência da fórmula de Euler a partir da análise de um conjunto alargado de poliedros e a relação entre faces, arestas e vértices.",
+              "reflection": "Encontrar a fórmula sozinho custou mais do que a decorar. Ficou mais bem sabida?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
