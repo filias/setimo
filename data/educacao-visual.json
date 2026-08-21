@@ -1,0 +1,273 @@
+{
+  "id": "educacao-visual",
+  "name": "Educação Visual",
+  "emoji": "🎨",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "A Educação Visual organiza-se em três domínios que funcionam como três verbos: apropriação e reflexão, interpretação e comunicação, experimentação e criação. Ou seja, olhar para o que já existe, perceber como funciona, e fazer coisas com intenção. Os conceitos que atravessam tudo são sempre os mesmos — espaço, volume, cor, luz, forma, movimento, estrutura e ritmo.",
+  "studentIntro": "Vives rodeado de imagens feitas por alguém com um objetivo. Uma fotografia de campanha, um cartaz, o enquadramento de um plano num filme, a cor de uma embalagem — nada disso é acidental, tudo foi decidido. Esta disciplina ensina-te as duas metades da mesma coisa: perceber as decisões que outros tomaram, e tomar as tuas. E há um descritor neste ano que devias ler duas vezes, o que fala dos «jogos de poder» das imagens: uma imagem pode construir uma realidade ou desmontá-la, e saber isso muda a forma como vês tudo o resto.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Educação Visual, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/educacao_visual_3c_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho."
+  },
+  "domains": [
+    {
+      "id": "apropriacao-e-reflexao",
+      "name": "Apropriação e Reflexão",
+      "emoji": "🖼️",
+      "palette": "purple",
+      "summary": "Olhar para o que já foi feito, e ganhar o vocabulário para dizer o que se vê.",
+      "subtopics": [
+        {
+          "id": "patrimonio-e-linguagens",
+          "name": "Património e linguagens artísticas",
+          "student": "A lista de linguagens que o programa nomeia é longa de propósito: pintura, escultura, desenho, assemblage, colagem, fotografia, instalação, land art, banda desenhada, design, arquitetura, artesanato, multimédia e cinema. Serve para desfazer a ideia de que arte é só um quadro numa moldura. E os conceitos que se pedem — plano, ritmo, espaço, estrutura, luz-cor, enquadramento — não mudam de significado quando passas de uma pintura para um filme: são a gramática comum a todas estas linguagens.",
+          "questions": [
+            "Uma banda desenhada e um filme partilham que decisões?",
+            "O que é que faz de um objeto artesanal uma peça de arte?",
+            "Que património artístico existe a menos de um quilómetro de tua casa?"
+          ],
+          "essentials": [
+            "Refletir sobre as manifestações culturais do património local e global (obras e artefactos de arte – pintura, escultura, desenho, assemblage, colagem, fotografia, instalação, land´art, banda desenhada, design, arquitetura, artesanato, multimédia e linguagens cinematográficas).",
+            "Dominar os conceitos de plano, ritmo, espaço, estrutura, luz-cor, enquadramento, entre outros - em diferentes contextos e modalidades expressivas: pintura, escultura, desenho, design, fotografia, cinema, vídeo, banda desenhada."
+          ],
+          "activities": [
+            {
+              "title": "O mesmo conceito em cinco linguagens",
+              "type": "Análise",
+              "duration": "45 min",
+              "materials": [
+                "Revistas, livros de arte ou internet",
+                "Folha A3",
+                "Cola e tesoura"
+              ],
+              "steps": [
+                "Escolhe um conceito só: ritmo, por exemplo.",
+                "Encontra-o numa pintura, numa fotografia, num edifício, numa banda desenhada e num plano de cinema.",
+                "Cola os cinco exemplos na folha, um por linha.",
+                "Ao lado de cada um, escreve como é que o ritmo se faz ali: pela repetição de quê?",
+                "Repete com outro conceito — enquadramento — e compara os dois painéis."
+              ],
+              "curriculumLink": "Trabalha o domínio dos conceitos de plano, ritmo, espaço, estrutura, luz-cor e enquadramento em diferentes modalidades expressivas.",
+              "reflection": "O conceito significa exatamente o mesmo nas cinco linguagens, ou muda de sotaque?"
+            }
+          ]
+        },
+        {
+          "id": "imagens-e-historia-da-arte",
+          "name": "Imagens de massas e História da Arte",
+          "student": "Uma imagem que chega a milhões de pessoas transporta sempre mais do que aquilo que mostra: transporta economia, política, religião, valores. Reconhecer isso não é desconfiar de tudo, é ler com atenção. E há a outra metade: nenhuma obra aparece do nada. Cada uma responde ao seu tempo, aos estilos que a precederam e, muitas vezes, contra eles. É isso que a História da Arte dá — a capacidade de perceber contra o que é que uma obra estava a reagir.",
+          "questions": [
+            "Que valores é que a imagem mais partilhada desta semana está a vender?",
+            "Uma obra pode ser entendida sem se saber quando foi feita?",
+            "O que é uma rutura, em arte?"
+          ],
+          "essentials": [
+            "Reconhecer a importância das imagens como meios de comunicação de massas, capazes de veicular diferentes significados (económicos, políticos, sociais, religiosos, ambientais, entre outros).",
+            "Enquadrar os objetos artísticos de diferentes culturas e períodos históricos, tendo como referência os saberes da História da Arte (estilos, movimentos, intencionalidades e ruturas)."
+          ],
+          "activities": [
+            {
+              "title": "Linha do tempo de uma rutura",
+              "type": "História da Arte",
+              "duration": "45 min",
+              "materials": [
+                "Impressões de obras de vários períodos",
+                "Uma tira de papel comprida"
+              ],
+              "steps": [
+                "Escolhe seis obras de séculos diferentes que representem a mesma coisa: um retrato, por exemplo.",
+                "Ordena-as na tira por data, sem consultar as legendas primeiro.",
+                "Confirma as datas e corrige a ordem se te enganaste.",
+                "Marca o ponto onde houve uma rutura evidente e escreve o que mudou.",
+                "Escreve o que essa rutura estava a recusar do que veio antes."
+              ],
+              "curriculumLink": "Cobre o enquadramento de objetos artísticos de diferentes culturas e períodos, com referência a estilos, movimentos, intencionalidades e ruturas.",
+              "reflection": "Conseguiste ordenar pelas imagens antes de ver as datas? O que te denunciou cada época?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interpretacao-e-comunicacao",
+      "name": "Interpretação e Comunicação",
+      "emoji": "👁️",
+      "palette": "indigo",
+      "summary": "Como as imagens produzem sentido, e o poder que isso lhes dá.",
+      "subtopics": [
+        {
+          "id": "ler-a-comunicacao-visual",
+          "name": "Ler a comunicação visual",
+          "student": "Os saberes da comunicação visual não funcionam isolados: a cor altera a perceção do volume, a luz altera a cor, o enquadramento altera o espaço. É por isso que o programa insiste na inter-relação — mudar um elemento muda todos os outros. E há uma ideia importante aqui: o processo de criação não é apenas o caminho até à obra, interfere no que a obra acaba por dizer. Uma escultura talhada à mão e outra impressa em 3D dizem coisas diferentes mesmo com a mesma forma.",
+          "questions": [
+            "A mesma cor parece igual sobre fundos diferentes?",
+            "A técnica com que uma obra foi feita faz parte do que ela significa?",
+            "O que muda numa fotografia se apenas mudares o enquadramento?"
+          ],
+          "essentials": [
+            "Compreender a importância da inter-relação dos saberes da comunicação visual (espaço, volume, cor, luz, forma, movimento, estrutura, ritmo, entre outros) nos processos de fruição dos universos culturais.",
+            "Relacionar o modo como os processos de criação interferem na(s) intencionalidade(s) dos objetos artísticos."
+          ],
+          "activities": [
+            {
+              "title": "A cor que muda de cor",
+              "type": "Experiência visual",
+              "duration": "35 min",
+              "materials": [
+                "Papel de cor ou tintas",
+                "Cartolinas de fundos diferentes",
+                "Tesoura"
+              ],
+              "steps": [
+                "Recorta seis quadrados exatamente da mesma cor cinzenta.",
+                "Cola cada um sobre um fundo diferente: preto, branco, azul, amarelo, vermelho, verde.",
+                "Olha para os seis ao mesmo tempo e escreve se te parecem da mesma cor.",
+                "Tapa os fundos com uma folha furada e compara outra vez.",
+                "Escreve o que isto te diz sobre confiar nos teus olhos."
+              ],
+              "curriculumLink": "Trabalha a inter-relação dos saberes da comunicação visual, mostrando que cor, luz e contexto não se percebem isoladamente.",
+              "reflection": "Se a cor depende do que está à volta, o que é «a cor» de uma coisa?"
+            }
+          ]
+        },
+        {
+          "id": "poder-das-imagens",
+          "name": "Os jogos de poder das imagens",
+          "student": "Este é o conjunto de descritores mais afiado da disciplina. Uma imagem pode mistificar o real — fazer parecer verdadeiro o que não é — ou desmistificá-lo, mostrando o que estava escondido. As duas coisas usam as mesmas ferramentas: enquadramento, luz, momento escolhido, o que fica fora do quadro. Uma fotografia de guerra e um anúncio a perfume manipulam com a mesma gramática, e a diferença está na intenção. Aprender a interrogar processos artísticos é também a chave para a arte contemporânea, que muitas vezes é sobre o processo mais do que sobre o objeto.",
+          "questions": [
+            "O que é que fica sempre fora do enquadramento de uma fotografia?",
+            "Uma imagem verdadeira pode dar uma ideia falsa?",
+            "Porque é que tanta arte contemporânea parece incompreensível à primeira?"
+          ],
+          "essentials": [
+            "Perceber os “jogos de poder” das imagens e da sua capacidade de mistificação ou desmistificação do real.",
+            "Interrogar os processos artísticos para a compreensão da arte contemporânea.",
+            "Transformar os conhecimentos adquiridos em novos modos de apreciação do mundo."
+          ],
+          "activities": [
+            {
+              "title": "O que está fora do quadro",
+              "type": "Fotografia",
+              "duration": "40 min",
+              "materials": [
+                "Telemóvel com câmara",
+                "Um espaço com alguma desarrumação"
+              ],
+              "steps": [
+                "Escolhe um canto do teu quarto ou da sala tal como está.",
+                "Tira uma fotografia que o faça parecer impecavelmente arrumado, sem arrumar nada.",
+                "Tira outra, do mesmo sítio, que o faça parecer um caos total.",
+                "Tira uma terceira, honesta, com a cena toda.",
+                "Mostra as três a alguém, uma de cada vez, e pergunta o que pensa da tua casa."
+              ],
+              "curriculumLink": "É o descritor dos «jogos de poder» das imagens e da sua capacidade de mistificação ou desmistificação do real, feito com as próprias mãos.",
+              "reflection": "Nenhuma das três fotografias foi manipulada depois de tirada. Alguma delas mente?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "experimentacao-e-criacao",
+      "name": "Experimentação e Criação",
+      "emoji": "✏️",
+      "palette": "crimson",
+      "summary": "Fazer com intenção declarada, e conseguir defender as escolhas.",
+      "subtopics": [
+        {
+          "id": "compor-com-intencao",
+          "name": "Compor com intenção",
+          "student": "A diferença entre um trabalho que resulta e outro que não resulta raramente está na destreza da mão — está em ter havido uma decisão. O programa usa uma palavra exigente: intencional. Escolher o material, o suporte, a técnica e o tema de propósito, e depois ser capaz de justificar essas escolhas com critérios de ordem estética, apoiados nas tuas vivências e no que já sabes. «Gostei assim» não é justificação; «escolhi o carvão porque queria que a linha fosse suja e nervosa» é.",
+          "questions": [
+            "Como é que se justifica uma escolha estética sem dizer «porque gosto»?",
+            "O material com que fazes uma coisa faz parte do que ela diz?",
+            "É possível ter expressividade sem ter técnica?"
+          ],
+          "essentials": [
+            "Articular conceitos (espaço, volume, cor, luz, movimento, estrutura, forma, ritmo), referências, experiências, materiais e suportes nas suas composições plásticas.",
+            "Manifestar expressividade nos seus trabalhos, selecionando, de forma intencional, conceitos, temáticas, materiais, suportes e técnicas.",
+            "Justificar a intencionalidade das suas composições, recorrendo a critérios de ordem estética (vivências, experiências e conhecimentos)."
+          ],
+          "activities": [
+            {
+              "title": "O mesmo tema, quatro materiais",
+              "type": "Criação",
+              "duration": "60 min",
+              "materials": [
+                "Carvão ou lápis de grafite mole",
+                "Caneta de tinta permanente",
+                "Papel rasgado para colagem",
+                "Linha e agulha, ou arame"
+              ],
+              "steps": [
+                "Escolhe um tema simples e pessoal: o cansaço, a pressa, o silêncio.",
+                "Trata o mesmo tema quatro vezes, uma em cada material, no mesmo formato.",
+                "Não decidas antecipadamente qual vai ser o melhor.",
+                "Alinha os quatro e escreve, por baixo de cada, o que aquele material fez ao tema.",
+                "Escolhe um e escreve cinco linhas a justificar a escolha sem usar a palavra «gosto»."
+              ],
+              "curriculumLink": "Junta a articulação de conceitos, materiais e suportes com a seleção intencional de técnicas e a justificação da intencionalidade por critérios estéticos.",
+              "reflection": "Algum material contrariou o teu tema em vez de o servir? Isso foi mau?"
+            }
+          ]
+        },
+        {
+          "id": "mostrar-o-trabalho",
+          "name": "Mostrar o trabalho",
+          "student": "Fazer é metade; a outra metade é mostrar. Organizar uma exposição obriga a decisões que nenhum trabalho individual obriga: o que entra e o que fica de fora, por que ordem, com que espaçamento, a que altura. Uma seleção diz tanto como as peças selecionadas. O programa pede também que registes o teu processo — a pesquisa, a investigação, as experiências falhadas — porque num trabalho artístico o percurso costuma ser mais interessante do que o resultado.",
+          "questions": [
+            "Como é que a ordem das peças muda o que uma exposição diz?",
+            "Vale a pena guardar as tentativas falhadas?",
+            "O que faz alguém parar em frente de uma peça e não de outra?"
+          ],
+          "essentials": [
+            "Organizar exposições em diferentes formatos – físicos e/ou digitais – individuais ou de grupo, selecionando trabalhos tendo por base os processos de análise, síntese e comparação, que conjugam as noções de composição e de harmonia, de acordo com o objetivo escolhido/proposto.",
+            "Selecionar, de forma autónoma, processos de trabalho e de registo de ideias que envolvam a pesquisa, investigação e experimentação."
+          ],
+          "activities": [
+            {
+              "title": "Uma exposição num corredor",
+              "type": "Curadoria",
+              "duration": "Duas sessões de 45 min",
+              "materials": [
+                "Trabalhos teus e de colegas",
+                "Fita adesiva que não danifique a parede",
+                "Cartões pequenos para legendas"
+              ],
+              "steps": [
+                "Reúne quinze trabalhos e escolhe apenas oito, com um critério que consigas dizer numa frase.",
+                "Espalha-os no chão e experimenta três ordens diferentes antes de decidir.",
+                "Escreve uma legenda para cada, com título, técnica e uma linha de intenção.",
+                "Monta no corredor, tudo à mesma altura do olhar.",
+                "Fica a observar quem passa: onde é que as pessoas param?"
+              ],
+              "curriculumLink": "Trabalha a organização de exposições com seleção por análise, síntese e comparação, conjugando composição e harmonia segundo um objetivo escolhido.",
+              "reflection": "As sete peças que deixaste de fora tornaram as oito escolhidas mais fortes?"
+            },
+            {
+              "title": "Caderno de processo",
+              "type": "Registo",
+              "duration": "Ao longo do ano",
+              "materials": [
+                "Um caderno que não tenhas medo de sujar",
+                "Cola"
+              ],
+              "steps": [
+                "Reserva um caderno só para ideias, não para trabalhos acabados.",
+                "Cola lá tudo o que te interessar: recortes, texturas, bilhetes, fotografias más.",
+                "Sempre que começares um trabalho, desenha três hipóteses antes de escolher uma.",
+                "Guarda as duas que não escolheste e escreve porquê.",
+                "Ao fim do período, folheia-o do princípio e vê o que se repete sem teres dado por isso."
+              ],
+              "curriculumLink": "Cobre a seleção autónoma de processos de trabalho e de registo de ideias que envolvam pesquisa, investigação e experimentação.",
+              "reflection": "O que se repete no teu caderno sem teres decidido repetir?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

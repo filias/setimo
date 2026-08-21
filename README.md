@@ -117,7 +117,8 @@ offer, the second optional to attend.
 - [x] Geografia — 2 domains, 6 subtopics, 25 essential descriptors, 10 activities
 - [x] Matemática — 4 domains, 17 subtopics, 107 essential descriptors, 21 activities
 - [x] Ciências Naturais — 1 domain, 5 subtopics, 31 essential descriptors, 10 activities
-- [ ] The remaining four subjects of the seventh-grade matrix
+- [x] Educação Visual — 3 domains, 6 subtopics, 14 essential descriptors, 7 activities
+- [ ] The remaining three subjects of the seventh-grade matrix
 
 ## Publishing
 
