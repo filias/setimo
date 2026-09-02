@@ -1,0 +1,506 @@
+{
+  "id": "ciencias-naturais",
+  "name": "Ciências Naturais",
+  "emoji": "🌱",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "O 3.º ciclo de Ciências Naturais tem um tema por ano: a Terra em transformação no 7.º, «Terra, um planeta com vida» no 8.º, e viver melhor na Terra no 9.º. Este ano são dois organizadores — as condições que tornaram a vida possível, e a sustentabilidade de tudo o que veio depois. O documento traz ainda sete Aprendizagens Essenciais Transversais, que não pertencem a nenhum tema porque atravessam todos: são o método, não a matéria, e estão aqui como primeiro domínio.",
+  "studentIntro": "A pergunta que organiza o ano é enganadoramente simples: porque é que há vida aqui e, tanto quanto sabemos, não à nossa volta? A resposta não é uma coisa só — é a distância ao Sol, a atmosfera, a água líquida, o campo magnético, e sobretudo o facto de os próprios seres vivos terem alterado o planeta que os alojava. O oxigénio que respiras foi fabricado por micróbios muito antes de existir alguém para o respirar. A segunda metade do ano é a consequência disso: se a vida mudou a Terra uma vez, está a mudá-la outra vez agora, e desta vez somos nós.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Ciências Naturais, 8.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/ciencias_naturais_3c_8a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. As Aprendizagens Essenciais Transversais, que no documento antecedem a tabela, surgem aqui como primeiro domínio; os lapsos do original foram mantidos."
+  },
+  "domains": [
+    {
+      "id": "transversais",
+      "name": "Aprendizagens Essenciais Transversais",
+      "emoji": "🔬",
+      "palette": "slate",
+      "summary": "Sete competências que valem em todos os temas: como se faz ciência, e não o que ela já descobriu.",
+      "subtopics": [
+        {
+          "id": "como-se-faz-ciencia",
+          "name": "Como se faz ciência",
+          "student": "Estes sete descritores são o único sítio do programa onde se descreve o método em vez do conteúdo, e por isso são os que mais te servem fora desta disciplina. Repara na palavra que aparece duas vezes: evidências. Uma explicação científica não é a que soa melhor, é a que se apoia em dados que outra pessoa poderia ter recolhido. Repara também no que se diz sobre a própria ciência — que é uma «atividade humana com objetivos, procedimentos próprios». Não é uma lista de verdades caídas do céu; é gente a discutir, a errar e a corrigir, e a sigla CTSA — ciência, tecnologia, sociedade e ambiente — existe para te lembrar de que essas discussões têm consequências.",
+          "questions": [
+            "Qual é a diferença entre uma opinião e uma opinião fundamentada?",
+            "Um modelo científico tem de ser parecido com a coisa que representa?",
+            "Como decides se uma fonte na internet é fiável?"
+          ],
+          "essentials": [
+            "Selecionar e organizar informação, a partir de fontes diversas e de forma cada vez mais autónoma, valorizando a utilização de tecnologias digitais e integrando saberes prévios para construir novos conhecimentos.",
+            "Construir explicações científicas baseadas em conceitos e evidências, obtidas através da realização de atividades práticas diversificadas – laboratoriais, experimentais, de campo – e planeadas para procurar responder a problemas formulados.",
+            "Construir modelos que permitam a representação e o estudo de estruturas, de sistemas e das suas transformações.",
+            "Reconhecer que a ciência é uma atividade humana com objetivos, procedimentos próprios, através da exploração de acontecimentos, atuais e/ou históricos, que documentam a sua natureza.",
+            "Aplicar as competências desenvolvidas em problemáticas atuais e em novos contextos.",
+            "Formular e comunicar opiniões críticas, cientificamente fundamentadas e relacionadas com a CTSA.",
+            "Articular saberes de diferentes disciplinas para aprofundar temáticas abordadas em Ciências Naturais."
+          ],
+          "activities": [
+            {
+              "title": "A mesma notícia em três fontes",
+              "type": "Método",
+              "duration": "40 min",
+              "materials": [
+                "Acesso à internet",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe uma notícia científica recente — clima, uma vacina, uma descoberta.",
+                "Encontra três versões: um jornal generalista, um site de divulgação científica e, se conseguires, o artigo original ou o comunicado da instituição.",
+                "Escreve, para cada uma, qual é a afirmação principal e que evidência apresenta para a sustentar.",
+                "Marca as afirmações que aparecem sem qualquer evidência atrás.",
+                "Escreve num parágrafo o que ficarias a saber a mais, e a menos, se só tivesses lido a primeira."
+              ],
+              "curriculumLink": "Trabalha a seleção e organização de informação a partir de fontes diversas e a formulação de opiniões críticas cientificamente fundamentadas.",
+              "reflection": "A versão mais fácil de ler era a mais fiel ao que foi mesmo descoberto?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terra-planeta-com-vida",
+      "name": "Terra, um planeta com vida",
+      "emoji": "🌍",
+      "palette": "teal",
+      "summary": "As condições que tornaram a vida possível, e a unidade de que toda ela é feita.",
+      "subtopics": [
+        {
+          "id": "condicoes-para-a-vida",
+          "name": "As condições que permitiram a vida",
+          "student": "Há uma inversão importante escondida nestes descritores. A ideia intuitiva é que a Terra tinha as condições certas e por isso a vida apareceu. Mas um dos descritores pede-te para relacionar «a influência dos seres vivos com a evolução da atmosfera terrestre» — ou seja, a seta aponta nos dois sentidos. A atmosfera atual, com o seu oxigénio, é um produto da vida, não uma condição prévia dela. Os gráficos de temperatura e de dióxido de carbono ao longo do tempo geológico servem para veres isso em escala: milhões de anos de variação natural, e depois uma subida recente que não se parece com nada do que veio antes.",
+          "questions": [
+            "O que veio primeiro: a atmosfera com oxigénio ou os seres que o produzem?",
+            "Que subsistema da Terra desapareceria primeiro se a água acabasse?",
+            "O solo é geologia ou biologia?"
+          ],
+          "essentials": [
+            "Explicar as principais condições da Terra que permitiram o desenvolvimento e a manutenção da vida, articulando com saberes de outras disciplinas (ex.: Ciências Físico-Químicas).",
+            "Interpretar gráficos da evolução da temperatura e do dióxido de carbono atmosférico ao longo do tempo geológico.",
+            "Relacionar a influência dos seres vivos com a evolução da atmosfera terrestre e o efeito de estufa na Terra.",
+            "Distinguir o sistema Terra dos seus subsistemas, identificando as potencialidades dos mesmos na geração da vida na Terra.",
+            "Analisar criticamente o papel das rochas e do solo na existência de vida no meio terrestre e dos subsistemas na manutenção da vida."
+          ],
+          "activities": [
+            {
+              "title": "Duas escalas do mesmo gráfico",
+              "type": "Análise",
+              "duration": "40 min",
+              "materials": [
+                "Acesso à internet",
+                "Papel milimétrico ou folha de cálculo"
+              ],
+              "steps": [
+                "Procura um gráfico de CO₂ atmosférico dos últimos 800 000 anos, a partir dos gelos da Antártida.",
+                "Copia para uma tabela dez pontos ao longo desse período, com a data e o valor.",
+                "Faz o teu gráfico e marca o máximo e o mínimo naturais desse intervalo.",
+                "Acrescenta o valor de hoje, procurando-o num observatório oficial, e traça a linha.",
+                "Escreve duas frases: uma sobre o que é normal nesta escala, outra sobre o que não é."
+              ],
+              "curriculumLink": "Interpreta gráficos da evolução da temperatura e do dióxido de carbono atmosférico ao longo do tempo geológico.",
+              "reflection": "O gráfico dos últimos cem anos parece o mesmo fenómeno do gráfico dos últimos oitocentos mil?"
+            },
+            {
+              "title": "Um solo debaixo do microscópio da cozinha",
+              "type": "Campo",
+              "duration": "45 min",
+              "materials": [
+                "Uma amostra de solo do jardim ou de um vaso",
+                "Um frasco alto com tampa e água",
+                "Um coador e uma folha branca"
+              ],
+              "steps": [
+                "Enche um terço do frasco com solo, o resto com água, tapa e agita bem durante um minuto.",
+                "Pousa e não lhe toques durante uma hora. Regista as camadas que se formam, de baixo para cima.",
+                "Mede a espessura de cada camada e calcula a percentagem de areia, limo e argila.",
+                "Espalha outra amostra seca na folha branca e separa com uma pinça o que é mineral do que é restos de seres vivos.",
+                "Escreve o que no teu solo veio de rocha e o que veio de vida."
+              ],
+              "curriculumLink": "Analisa criticamente o papel das rochas e do solo na existência de vida no meio terrestre.",
+              "reflection": "Se o solo é meio rocha e meio vida, quanto tempo demora a formar-se um centímetro?"
+            }
+          ]
+        },
+        {
+          "id": "da-celula-a-biodiversidade",
+          "name": "Da célula à biodiversidade",
+          "student": "Toda a vida que conheces é feita de células, e há duas maneiras de as fazer: com o material genético fechado num núcleo — eucarióticas — ou solto no citoplasma, procarióticas. Essa fronteira, invisível a olho nu, é a divisão mais profunda que existe entre seres vivos, muito maior do que a que separa uma árvore de um elefante. Os níveis de organização biológica são a escada que sobes a partir daí: célula, tecido, órgão, sistema, organismo, população, comunidade, ecossistema. Cada degrau tem propriedades que o degrau abaixo não tinha.",
+          "questions": [
+            "Uma bactéria e uma célula da tua pele têm o que em comum?",
+            "Em que degrau da escada é que aparece a palavra «espécie»?",
+            "Um vírus é uma célula?"
+          ],
+          "essentials": [
+            "Distinguir células eucarióticas de células procarióticas em observações microscópicas.",
+            "Reconhecer a célula como unidade básica dos seres vivos, identificando os principais constituintes das células eucarióticas.",
+            "Distinguir os níveis de organização biológica dos seres vivos e dos ecossistemas."
+          ],
+          "activities": [
+            {
+              "title": "Células de cebola sem laboratório",
+              "type": "Observação",
+              "duration": "35 min",
+              "materials": [
+                "Uma cebola",
+                "Uma lupa forte ou um microscópio de brincar, ou uma gota de água sobre a câmara do telemóvel",
+                "Corante: iodo da farmácia ou chá muito forte"
+              ],
+              "steps": [
+                "Corta a cebola e retira com uma pinça a película fina e transparente entre duas camadas.",
+                "Estende-a sem dobras num prato e põe uma gota de corante durante um minuto.",
+                "Observa com a lupa, ou pousa uma gota de água sobre a lente do telemóvel e aproxima muito.",
+                "Desenha o que vês: procura a parede, o contorno de cada célula e o ponto mais escuro no meio.",
+                "Escreve qual desses elementos te diz que esta célula é eucariótica."
+              ],
+              "curriculumLink": "Distingue células eucarióticas de procarióticas em observação e identifica os principais constituintes da célula eucariótica.",
+              "reflection": "Porque é que as células da cebola parecem tijolos e as do teu sangue não?"
+            },
+            {
+              "title": "Oito degraus, um ser vivo",
+              "type": "Sistematização",
+              "duration": "30 min",
+              "materials": [
+                "Uma folha A3",
+                "Um ser vivo à tua escolha, de preferência do teu quintal ou rua"
+              ],
+              "steps": [
+                "Escolhe um ser vivo concreto: um pardal, uma oliveira, uma minhoca.",
+                "Desenha oito caixas encaixadas, da mais pequena à maior.",
+                "Preenche cada uma com o nome do nível e um exemplo concreto do teu ser vivo.",
+                "Nos três níveis acima do organismo, escreve com que outros seres vivos ele partilha o espaço.",
+                "Marca o degrau onde deixa de se falar de um indivíduo e passa a falar-se de muitos."
+              ],
+              "curriculumLink": "Distingue os níveis de organização biológica dos seres vivos e dos ecossistemas.",
+              "reflection": "Em que degrau é que a morte de um indivíduo deixa de fazer diferença?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sustentabilidade-na-terra",
+      "name": "Sustentabilidade na Terra",
+      "emoji": "♻️",
+      "palette": "green",
+      "summary": "Como funcionam os ecossistemas, como se estragam e como se podem gerir.",
+      "subtopics": [
+        {
+          "id": "ecossistemas-e-fatores",
+          "name": "Ecossistemas e fatores abióticos",
+          "student": "Aqui o programa faz uma coisa que vale a pena notar: manda-te para a rua. Vários destes descritores dizem «na zona envolvente da escola» ou «da região envolvente», e isso não é um enfeite — é a diferença entre estudar ecossistemas e observar um. Os fatores abióticos são os não-vivos: luz, água, solo, temperatura. Os bióticos são as relações entre seres vivos, e dividem-se em duas famílias conforme sejam dentro da mesma espécie ou entre espécies diferentes. A cooperação e a competição existem nas duas, o que costuma surpreender: as espécies não competem só umas com as outras, competem sobretudo consigo mesmas.",
+          "questions": [
+            "Com quem compete mais uma sardinha: com outra sardinha ou com um atum?",
+            "Que fator abiótico manda mais no teu quintal?",
+            "O que muda num ecossistema quando se corta uma árvore grande?"
+          ],
+          "essentials": [
+            "Caracterizar um ecossistema na zona envolvente da escola (níveis de organização biológica, biodiversidade) a partir de dados recolhidos no campo.",
+            "Relacionar os fatores abióticos - luz, água, solo, temperatura – com a sua influência nos ecossistemas, apresentando exemplos de adaptações dos seres vivos a esses fatores e articulando com saberes de outras disciplinas (ex.: Geografia).",
+            "Interpretar a influência de alguns fatores abióticos nos ecossistemas, em geral, e aplicá-la em exemplos da região envolvente da escola.",
+            "Distinguir interações intraespecíficas de interações interespecíficas e explicitar diferentes tipos de relações bióticas.",
+            "Interpretar informação relativa a dinâmicas populacionais decorrentes de relações bióticas, avaliando as suas consequências nos ecossistemas."
+          ],
+          "activities": [
+            {
+              "title": "Um metro quadrado, contado",
+              "type": "Campo",
+              "duration": "Uma tarde",
+              "materials": [
+                "Quatro estacas e um cordel de quatro metros",
+                "Caderno e lápis",
+                "Telemóvel para fotografar"
+              ],
+              "steps": [
+                "Delimita um metro quadrado de terreno num sítio com vegetação, e outro num sítio pisado ou de cimento.",
+                "Durante vinte minutos em cada um, conta e fotografa tudo o que for vivo: plantas diferentes, insetos, musgos, líquenes.",
+                "Regista também os fatores abióticos: se apanha sol, se o solo está húmido, a temperatura à sombra.",
+                "Faz uma tabela comparativa das duas parcelas, com o número de espécies diferentes em cada.",
+                "Escreve qual dos fatores abióticos explica melhor a diferença que encontraste."
+              ],
+              "curriculumLink": "Caracteriza um ecossistema da zona envolvente a partir de dados recolhidos no campo e relaciona fatores abióticos com a sua influência.",
+              "reflection": "Contaste espécies ou indivíduos? Porque é que a distinção importa?"
+            },
+            {
+              "title": "Quem se dá com quem",
+              "type": "Observação",
+              "duration": "45 min",
+              "materials": [
+                "Um jardim, parque ou varanda",
+                "Caderno"
+              ],
+              "steps": [
+                "Observa durante meia hora e anota cada interação entre seres vivos que consigas ver.",
+                "Classifica cada uma como intraespecífica ou interespecífica.",
+                "Para as interespecíficas, tenta nomear o tipo: predação, parasitismo, mutualismo, comensalismo, competição.",
+                "Procura um exemplo de cada tipo que não tenhas visto, mas que saibas existir naquele sítio.",
+                "Desenha um esquema com setas entre os seres vivos, marcando quem beneficia e quem perde em cada seta."
+              ],
+              "curriculumLink": "Distingue interações intraespecíficas de interespecíficas e explicita diferentes tipos de relações bióticas.",
+              "reflection": "Encontraste alguma relação em que os dois lados ganhem? São raras ou só difíceis de ver?"
+            }
+          ]
+        },
+        {
+          "id": "cadeias-e-ciclos",
+          "name": "Cadeias tróficas e ciclos de matéria",
+          "student": "Duas coisas atravessam um ecossistema, e comportam-se de maneiras opostas. A energia entra do Sol, passa de nível em nível e perde-se como calor — é por isso que as cadeias tróficas têm poucos degraus e que há sempre menos leões do que gazelas. A matéria, essa, não se perde: o carbono do teu almoço já esteve numa planta, na atmosfera, e provavelmente num dinossauro. A energia flui e vai-se embora; a matéria dá voltas. Se guardares só uma frase deste subtema, guarda essa, porque é a razão pela qual reciclar faz sentido e «produzir energia» não existe.",
+          "questions": [
+            "Porque é que não há cadeias alimentares com quinze níveis?",
+            "Para onde foi a energia que a gazela não passou ao leão?",
+            "O carbono do teu corpo esteve onde antes de ser teu?"
+          ],
+          "essentials": [
+            "Sistematizar cadeias tróficas de ambientes aquáticos e terrestres predominantes na região envolvente da escola, indicando formas de transferência de energia.",
+            "Interpretar cadeias tróficas, partindo de diferentes exemplos de teias alimentares.",
+            "Analisar criticamente exemplos de impactes da ação humana que condicionem as teias alimentares, discutindo medidas de minimização dos mesmos nos ecossistemas.",
+            "Explicar o modo como as atividades dos seres vivos (alimentação, respiração, fotossíntese) interferem nos ciclos de matéria e promovem a sua reciclagem nos ecossistemas.",
+            "Interpretar as principais fases dos ciclos da água, do carbono e do oxigénio, com base em informação diversificada (notícias, esquemas, gráficos, imagens) e valorizando saberes de outras disciplinas (ex.: Geografia e Ciências Físico-Químicas).",
+            "Analisar criticamente exemplos teoricamente enquadrados acerca do modo como a ação humana pode interferir nos ciclos de matéria e afetar os ecossistemas.",
+            "Caracterizar as fases de uma sucessão ecológica em documentos diversificados sobre sucessões ecológicas primárias e secundárias."
+          ],
+          "activities": [
+            {
+              "title": "A teia do teu almoço",
+              "type": "Sistematização",
+              "duration": "40 min",
+              "materials": [
+                "A ementa real de um dia teu",
+                "Uma folha A3 e canetas de duas cores"
+              ],
+              "steps": [
+                "Escreve tudo o que comeste ontem, item a item.",
+                "Para cada item, desenha a cadeia até ao produtor: o pão vem do trigo, o queijo vem da vaca que veio da erva.",
+                "Liga as cadeias que partilham um elo e transforma-as numa teia.",
+                "Marca em cada elo quantos níveis te separam do Sol.",
+                "Numa cor diferente, marca os pontos da teia em que houve intervenção humana."
+              ],
+              "curriculumLink": "Sistematiza e interpreta cadeias tróficas a partir de teias alimentares, indicando formas de transferência de energia.",
+              "reflection": "Qual foi a refeição com mais níveis entre ti e o Sol? Custou mais energia ao planeta?"
+            },
+            {
+              "title": "Um frasco que faz o ciclo da água",
+              "type": "Experiência",
+              "duration": "Montagem 30 min, observação 2 semanas",
+              "materials": [
+                "Um frasco grande de vidro com tampa",
+                "Terra, pedrinhas e uma planta pequena de sombra",
+                "Água"
+              ],
+              "steps": [
+                "Põe pedras no fundo, depois terra, depois a planta, e rega uma vez, moderadamente.",
+                "Fecha o frasco e põe-no com luz indireta, nunca ao sol direto.",
+                "Todos os dias durante duas semanas, regista onde vês água: condensada no vidro, na terra, na planta.",
+                "Desenha o percurso da água dentro do frasco com setas e nomeia cada mudança de estado.",
+                "Escreve o que sai e o que entra no frasco fechado — e o que isso te diz sobre a Terra."
+              ],
+              "curriculumLink": "Interpreta as principais fases do ciclo da água e explica como as atividades dos seres vivos promovem a reciclagem da matéria.",
+              "reflection": "Se o frasco está fechado, porque é que a planta não morre de sede nem se afoga?"
+            },
+            {
+              "title": "O terreno que volta atrás",
+              "type": "Investigação",
+              "duration": "45 min",
+              "materials": [
+                "Fotografias aéreas de anos diferentes, num visualizador de mapas",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Encontra perto de ti um sítio que tenha ardido, sido lavrado ou abandonado há alguns anos.",
+                "Compara imagens aéreas de pelo menos três anos diferentes e descreve o que mudou.",
+                "Vai lá, se puderes, e regista que plantas ocupam agora o terreno.",
+                "Ordena por fases o que aconteceu desde a perturbação até hoje.",
+                "Escreve se se trata de uma sucessão primária ou secundária, e justifica com uma razão só."
+              ],
+              "curriculumLink": "Caracteriza as fases de uma sucessão ecológica, distinguindo sucessões primárias de secundárias.",
+              "reflection": "Quanto tempo falta para este sítio se parecer com o que era antes? Alguma vez se parecerá?"
+            }
+          ]
+        },
+        {
+          "id": "perturbacao-dos-ecossistemas",
+          "name": "Quando os ecossistemas se alteram",
+          "student": "O programa insiste numa distinção que costuma passar despercebida: catástrofes de origem natural e de origem antrópica — quer dizer, causadas por nós. A fronteira é menos nítida do que parece. Um sismo é natural; um sismo que mata milhares porque se construiu mal é outra coisa. Um incêndio de verão é natural em muitos ecossistemas; a escala dos incêndios em Portugal não é. As invasões biológicas, que aparecem aqui expressamente, são o exemplo mais claro de um estrago que não parece um estrago: ninguém acha que plantar uma árvore bonita seja poluir.",
+          "questions": [
+            "Uma cheia é uma catástrofe natural ou uma casa mal colocada?",
+            "Que espécie invasora existe a menos de um quilómetro de ti?",
+            "O que quer dizer «equilíbrio dinâmico»? Equilíbrio e imobilidade são o mesmo?"
+          ],
+          "essentials": [
+            "Discutir causas e consequências da alteração dos ecossistemas, justificando a importância do equilíbrio dinâmico dos ecossistemas e do modo como a sua gestão pode contribuir para alcançar as metas de um desenvolvimento sustentável.",
+            "Discutir opções para a conservação dos ecossistemas e o seu contributo para as necessidades humanas, bem como a importância da ciência e da tecnologia na sua conservação.",
+            "Distinguir catástrofes de origem natural de catástrofe de origem antrópica, identificando as causas das principais catástrofes de origem antrópica e valorizando saberes de outras disciplinas (ex.: Geografia).",
+            "Explicar o modo como a poluição, a desflorestação, os incêndios e as invasões biológicas podem afetar os ecossistemas.",
+            "Interpretar a influência de alguns agentes poluentes nos ecossistemas, partindo de problemáticas locais ou regionais e analisando criticamente os resultados obtidos.",
+            "Discutir medidas que diminuam os impactes das catástrofes de origem natural e de origem antrópica nos ecossistemas, em geral, e nos ecossistemas da zona envolvente da escola, em particular."
+          ],
+          "activities": [
+            {
+              "title": "Caçar invasoras no teu bairro",
+              "type": "Campo",
+              "duration": "Uma tarde",
+              "materials": [
+                "Telemóvel com uma aplicação de identificação de plantas",
+                "Uma lista das invasoras mais comuns em Portugal",
+                "Caderno"
+              ],
+              "steps": [
+                "Procura antes de sair quais são as invasoras comuns na tua região: acácias, chorão, erva-das-pampas, jacinto-de-água.",
+                "Percorre um trajeto fixo de cerca de dois quilómetros e fotografa cada uma que encontrares.",
+                "Marca no mapa onde estava cada uma e estima quanto terreno ocupava.",
+                "Para as duas mais frequentes, procura como chegaram a Portugal e porquê.",
+                "Escreve o que essas plantas estão a substituir, e o que se perde com a substituição."
+              ],
+              "curriculumLink": "Explica o modo como as invasões biológicas afetam os ecossistemas, a partir de uma problemática local.",
+              "reflection": "Alguma delas foi plantada de propósito por alguém que achava que estava a fazer bem?"
+            },
+            {
+              "title": "Natural, ou nossa?",
+              "type": "Debate",
+              "duration": "40 min",
+              "materials": [
+                "Notícias de cinco catástrofes recentes",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Recolhe cinco casos: um incêndio, uma cheia, um derrame, um sismo e uma seca.",
+                "Para cada um, escreve a causa imediata e depois pergunta cinco vezes «porquê?», descendo na cadeia.",
+                "Marca em que ponto da cadeia aparece uma decisão humana, se aparecer.",
+                "Classifica cada caso como natural, antrópico ou misto, e justifica com o ponto que marcaste.",
+                "Escolhe o caso mais discutível e defende as duas classificações, uma de cada vez."
+              ],
+              "curriculumLink": "Distingue catástrofes de origem natural das de origem antrópica e identifica as causas destas últimas.",
+              "reflection": "Ficou algum caso totalmente natural depois dos cinco porquês?"
+            }
+          ]
+        },
+        {
+          "id": "recursos-naturais",
+          "name": "Recursos naturais e a sua exploração",
+          "student": "Duas divisões, e é fácil baralhá-las. A primeira é entre recursos energéticos e não energéticos: o petróleo serve para queimar, o ferro serve para construir. A segunda é entre renováveis e não renováveis, e depende da velocidade — um recurso é renovável se se repõe mais depressa do que o gastamos. Repara na consequência incómoda: a madeira é renovável, mas deixa de o ser se cortares mais depressa do que a floresta cresce, e a água doce é renovável até deixares de ter aquífero. Renovável não é uma propriedade da coisa, é uma relação entre ela e nós.",
+          "questions": [
+            "A água é um recurso renovável em Portugal? E no Alentejo em agosto?",
+            "Que recursos não energéticos estão dentro do teu telemóvel?",
+            "Quanto tempo demora a formar-se o petróleo que gastas numa viagem?"
+          ],
+          "essentials": [
+            "Distinguir recursos energéticos de recursos não energéticos e recursos renováveis de recursos não renováveis.",
+            "Caracterizar diferentes formas de exploração dos recursos naturais, indicando as principais transformações dos recursos naturais.",
+            "Discutir os impactes da exploração/transformação dos recursos naturais e propor medidas de redução dos mesmos e de promoção da sua sustentabilidade."
+          ],
+          "activities": [
+            {
+              "title": "O telemóvel desmontado no papel",
+              "type": "Investigação",
+              "duration": "45 min",
+              "materials": [
+                "Acesso à internet",
+                "Uma folha A3"
+              ],
+              "steps": [
+                "Desenha o teu telemóvel ao centro da folha e à volta oito caixas.",
+                "Procura oito materiais que o compõem: lítio, cobalto, cobre, ouro, alumínio, estanho, terras raras, vidro.",
+                "Para cada um, escreve de onde vem — o país ou a região — e se é renovável ou não.",
+                "Marca a vermelho os que têm problemas conhecidos de extração.",
+                "Escreve o que aconteceria a esses materiais se entregasses o telemóvel para reciclagem em vez de o guardares na gaveta."
+              ],
+              "curriculumLink": "Distingue recursos energéticos e não energéticos, renováveis e não renováveis, e discute impactes da sua exploração.",
+              "reflection": "Quantos dos oito materiais podem voltar a ser usados? E quantos voltam mesmo?"
+            }
+          ]
+        },
+        {
+          "id": "conservacao-e-ordenamento",
+          "name": "Conservação da Natureza e ordenamento do território",
+          "student": "Este subtema trata do lado administrativo da ecologia, que soa aborrecido e decide quase tudo. Um instrumento de ordenamento do território é um mapa com regras: aqui pode construir-se, aqui não, aqui só com condições. É por causa desses mapas que existe uma duna em vez de um hotel. As Áreas Protegidas são o caso extremo, e Portugal tem uma rede grande — um Parque Nacional, treze Parques Naturais, reservas e paisagens protegidas — que quase ninguém sabe nomear. E há organismos com nome e morada: o ICNF, as ONG ambientais, os corpos de vigilantes da natureza.",
+          "questions": [
+            "Qual é a Área Protegida mais próxima de tua casa?",
+            "Porque é que Portugal só tem um Parque Nacional?",
+            "Quem decide o que se pode construir na tua rua?"
+          ],
+          "essentials": [
+            "Relacionar o papel dos instrumentos de ordenamento e gestão do território com a proteção e a conservação da Natureza.",
+            "Sistematizar informação relativa a Áreas Protegidas em Portugal e no mundo, explicitando medidas de proteção e de conservação das mesmas.",
+            "Identificar algumas associações e organismos públicos de proteção e conservação da Natureza existentes em Portugal."
+          ],
+          "activities": [
+            {
+              "title": "O mapa das áreas protegidas",
+              "type": "Investigação",
+              "duration": "50 min",
+              "materials": [
+                "Um mapa de Portugal impresso",
+                "Acesso ao site do ICNF",
+                "Lápis de cor"
+              ],
+              "steps": [
+                "Marca no mapa o Parque Nacional e os Parques Naturais, com o nome de cada um.",
+                "Pinta de outra cor a área protegida mais perto de tua casa e escreve a distância.",
+                "Procura que espécie ou paisagem essa área foi criada para proteger.",
+                "Escreve três coisas que lá são proibidas e uma que seja permitida com autorização.",
+                "Encontra uma associação, pública ou privada, que trabalhe nessa área, e o que faz."
+              ],
+              "curriculumLink": "Sistematiza informação sobre Áreas Protegidas e identifica organismos e associações de conservação da Natureza em Portugal.",
+              "reflection": "A área mais perto de ti protege-se de quê, exatamente?"
+            }
+          ]
+        },
+        {
+          "id": "residuos-agua-e-ciencia",
+          "name": "Resíduos, água e o preço do progresso",
+          "student": "O último bloco fecha o ano com uma pergunta que não tem resposta técnica: vale a pena? Cada avanço científico e tecnológico traz benefícios e custos, e os descritores pedem-te para analisar os impactes «ambientais, sociais e éticos» — três adjetivos que raramente apontam no mesmo sentido. Uma barragem dá eletricidade limpa e afoga uma aldeia. Um pesticida alimenta mais gente e mata mais abelhas. A parte dos resíduos e da água é a versão doméstica disto: o que fazes com o lixo e com a água que gastas é, à tua escala, exatamente a mesma decisão.",
+          "questions": [
+            "Para onde vai a água que sai do teu lava-loiça?",
+            "Um avanço tecnológico pode ser bom para o ambiente e mau para as pessoas?",
+            "Quanto lixo produz a tua casa por ano?"
+          ],
+          "essentials": [
+            "Explicar a importância da recolha, do tratamento e da gestão sustentável de resíduos e propor medidas de redução de riscos e de minimização de danos na contaminação da água procedente da ação humana.",
+            "Relacionar a gestão de resíduos e da água com a promoção de um desenvolvimento sustentável.",
+            "Analisar criticamente os impactes ambientais, sociais e éticos de casos de desenvolvimento científico e tecnológico no desenvolvimento sustentável e na melhoria da qualidade de vida das populações humanas."
+          ],
+          "activities": [
+            {
+              "title": "Seguir a água até ao fim",
+              "type": "Investigação",
+              "duration": "50 min",
+              "materials": [
+                "Acesso à internet",
+                "Uma fatura da água"
+              ],
+              "steps": [
+                "Descobre na fatura de onde vem a água de tua casa: albufeira, furo, captação superficial.",
+                "Procura no site da empresa de águas onde fica a ETAR que trata os teus esgotos.",
+                "Escreve as etapas do tratamento, por ordem, e o que sai no fim e para onde vai.",
+                "Calcula o consumo diário por pessoa em tua casa, dividindo o da fatura pelos dias e pelas pessoas.",
+                "Compara com a média nacional e escreve duas medidas realistas para baixar o teu número."
+              ],
+              "curriculumLink": "Explica a importância da recolha, tratamento e gestão sustentável da água e relaciona-a com o desenvolvimento sustentável.",
+              "reflection": "Sabias para onde ia a tua água antes desta atividade? Porque é que ninguém sabe?"
+            },
+            {
+              "title": "Três colunas para um avanço",
+              "type": "Debate",
+              "duration": "40 min",
+              "materials": [
+                "Papel e caneta",
+                "Acesso à internet"
+              ],
+              "steps": [
+                "Escolhe um caso concreto: uma barragem, a energia nuclear, os plásticos, os pesticidas ou a inteligência artificial.",
+                "Faz três colunas: impactes ambientais, sociais e éticos.",
+                "Preenche cada coluna com pelo menos dois pontos a favor e dois contra, com uma fonte para cada.",
+                "Marca os pontos em que as três colunas se contradizem.",
+                "Escreve a tua posição em cinco linhas, dizendo explicitamente o que estás disposto a perder."
+              ],
+              "curriculumLink": "Analisa criticamente os impactes ambientais, sociais e éticos de casos de desenvolvimento científico e tecnológico.",
+              "reflection": "Foi mais difícil encontrar argumentos contra a tua posição, ou aceitá-los?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
