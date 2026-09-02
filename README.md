@@ -168,6 +168,29 @@ Everything in *Adding a subject* above applies unchanged inside `oitavo/data/`.
 `python3 server.py` serves both: the seventh grade at `/` and the eighth at
 `/oitavo/`.
 
+All twelve subjects of the eighth-grade matrix are written:
+
+- [x] Físico-Química — 3 domains, 7 subtopics, 37 descriptors, 19 activities
+- [x] Ciências Naturais — 3 domains, 9 subtopics, 42 descriptors, 14 activities
+- [x] Geografia — 2 themes, 6 subtopics, 32 descriptors, 11 activities
+- [x] TIC — 4 domains, 7 subtopics, 22 descriptors, 8 activities
+- [x] Educação Física — 3 areas, 8 subtopics, 24 descriptors, 10 activities
+- [x] Educação Visual — 3 domains, 6 subtopics, 14 descriptors, 8 activities
+- [x] História — 4 themes, 9 subtopics, 52 descriptors, 12 activities
+- [x] Matemática — 4 themes, 18 subtopics, 81 objectives, 21 activities
+- [x] Português — 5 domains, 12 subtopics, 40 descriptors, 12 activities
+- [x] Inglês (LE I) — 3 competences, 9 subtopics, 15 descriptors, 10 activities
+- [x] Francês (LE II) — 3 competences, 6 subtopics, 9 descriptors, 8 activities
+- [x] Cidadania e Desenvolvimento — 3 domains, 7 subtopics, 34 excerpts, 8 activities
+
+Two subjects are not written the same way as the rest. **Educação Visual** has no
+per-year document — the homologated *Aprendizagens Essenciais* cover the whole
+3.º ciclo — so its descriptors are word for word those of the seventh grade, and
+the page says so. **Cidadania e Desenvolvimento** has no *Aprendizagens
+Essenciais* at all, and uses the `source.layer` override described above; the
+eighth-grade page draws on the parts of the *Estratégia Nacional* that the
+seventh-grade one does not, chiefly the school-wide sections.
+
 ## Publishing
 
 A push to `main` publishes both sites. GitHub calls

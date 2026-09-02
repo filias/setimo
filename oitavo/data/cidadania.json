@@ -1,0 +1,308 @@
+{
+  "id": "cidadania",
+  "name": "Cidadania e Desenvolvimento",
+  "emoji": "🤝",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "Como no 7.º ano, esta disciplina não tem Aprendizagens Essenciais: é uma componente do currículo enquadrada pela Estratégia Nacional de Educação para a Cidadania, e os domínios de cada ano são decididos em Conselho de Turma a partir de uma lista nacional. Esta página do 8.º ano parte dos princípios e dos eixos em que a Estratégia assenta, repete a lista dos três grupos de domínios — que vale para todos os anos — e detém-se no que a página do 7.º ano não tratou: a escola inteira como lugar de cidadania, os projetos em parceria com a comunidade, e a monitorização da estratégia.",
+  "studentIntro": "No 7.º ano viste que os temas desta disciplina são escolhidos por adultos numa reunião. Este ano vale a pena olhar para a parte que a Estratégia diz sobre a escola toda, porque é onde tu apareces com mais poder do que imaginas: diz que o sucesso desta estratégia está ligado «às oportunidades dadas aos/às alunos/as para se envolverem na tomada de decisões, nomeadamente nas que os/as afetam». Isto é, uma escola que decide tudo sobre ti sem ti está a falhar um objetivo escrito num documento nacional. E diz também que os projetos devem ser feitos em parceria com a comunidade — não sobre a comunidade, com ela.",
+  "source": {
+    "title": "Estratégia Nacional de Educação para a Cidadania",
+    "publisher": "Grupo de Trabalho de Educação para a Cidadania, Ministério da Educação — publicada pela Direção-Geral da Educação (DGE)",
+    "url": "https://www.dge.mec.pt/sites/default/files/ECidadania/Docs_referencia/estrategia_cidadania_original.pdf",
+    "note": "Cidadania e Desenvolvimento não tem Aprendizagens Essenciais: é uma componente do currículo cujos domínios são decididos em Conselho de Turma. Os textos da camada oficial são transcritos da Estratégia Nacional de Educação para a Cidadania, elaborada pelo Grupo de Trabalho criado pelo Despacho n.º 6173/2016, de 10 de maio, e enquadrada pelo Decreto-Lei n.º 55/2018, de 6 de julho. Os lapsos do original foram mantidos.",
+    "layer": {
+      "name": "Estratégia Nacional de Educação para a Cidadania",
+      "noun": "excertos",
+      "sourceLabel": "Documento oficial"
+    }
+  },
+  "domains": [
+    {
+      "id": "principios-e-eixos",
+      "name": "Princípios e eixos",
+      "emoji": "🧭",
+      "palette": "slate",
+      "summary": "Em que assenta a Estratégia, e os três círculos por que a cidadania se organiza.",
+      "subtopics": [
+        {
+          "id": "tres-principios",
+          "name": "Os três princípios",
+          "student": "O primeiro princípio é o mais afiado: uma «conceção não abstrata de cidadania». Quer dizer que cidadania não se aprende por definições — aprende-se fazendo coisas com consequências reais. É a razão pela qual esta disciplina se avalia por projetos e não por testes. O segundo garante que há domínios que aparecem em todos os anos, para que nada dependa da sorte da escola que te calhou. E o terceiro remete para as Competências para uma Cultura da Democracia, um quadro do Conselho da Europa que arruma o que é preciso para viver numa democracia: valores, atitudes, capacidades e conhecimento crítico.",
+          "questions": [
+            "O que é uma conceção abstrata de cidadania, e porque é que não chega?",
+            "Que competência é precisa para viver em democracia e não se aprende em nenhuma disciplina?",
+            "Aprendeste mais cidadania numa aula ou a organizar alguma coisa?"
+          ],
+          "essentials": [
+            "A proposta apresentada tem em conta os seguintes três princípios:",
+            "Conceção não abstrata de cidadania;",
+            "Identificação de domínios essenciais em toda a escolaridade;",
+            "Identificação de competências essenciais de formação cidadã (Competências para uma Cultura da Democracia)."
+          ],
+          "activities": [
+            {
+              "title": "Cidadania em concreto",
+              "type": "Reflexão",
+              "duration": "35 min",
+              "materials": [
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escreve a tua definição de cidadania numa frase, sem consultar nada.",
+                "Agora escreve cinco coisas concretas que fizeste no último ano que caibam nessa definição.",
+                "Se não conseguires cinco, escreve o que isso te diz sobre a definição ou sobre o ano.",
+                "Escolhe uma das cinco e descreve o que mudou para outra pessoa por a teres feito.",
+                "Reescreve a definição inicial usando apenas coisas que se possam fazer."
+              ],
+              "curriculumLink": "Parte do primeiro princípio da Estratégia, o de uma conceção não abstrata de cidadania.",
+              "reflection": "A tua segunda definição é mais pequena do que a primeira? Isso é mau?"
+            }
+          ]
+        },
+        {
+          "id": "tres-eixos",
+          "name": "Os três eixos",
+          "student": "Os eixos vêm do Fórum Educação para a Cidadania de 2008 e organizam-se como círculos que se abrem: tu contigo, tu com quem tens à frente, tu com o mundo. O terceiro é o que cresce mais no 8.º ano, porque é onde estão a democracia, o desenvolvimento humano sustentável, a globalização e a interdependência, e a paz e gestão de conflitos. Repara na palavra interdependência: não diz que os países dependem uns dos outros por bondade, diz que estão presos uns aos outros — o que torna a cooperação menos uma escolha moral e mais uma necessidade prática.",
+          "questions": [
+            "Em qual dos três eixos é que a tua escola trabalha mais?",
+            "Gerir um conflito e evitá-lo são a mesma coisa?",
+            "De que é que a tua vida depende que aconteça noutro país?"
+          ],
+          "essentials": [
+            "Atitude cívica individual (identidade cidadã, autonomia individual, direitos humanos);",
+            "Relacionamento interpessoal (comunicação, diálogo);",
+            "Relacionamento social e intercultural (democracia, desenvolvimento humano sustentável, globalização e interdependência, paz e gestão de conflitos)."
+          ],
+          "activities": [
+            {
+              "title": "Um conflito, mediado",
+              "type": "Simulação",
+              "duration": "45 min",
+              "materials": [
+                "Cartões com situações",
+                "Quatro pessoas"
+              ],
+              "steps": [
+                "Escrevam três conflitos plausíveis de escola, sem nomes reais: um mal-entendido, uma injustiça, uma disputa de recursos.",
+                "Duas pessoas representam as partes, uma medeia e a quarta observa em silêncio.",
+                "Quem medeia só pode fazer perguntas — não pode dar opinião nem propor solução.",
+                "Parem ao fim de dez minutos, mesmo sem acordo, e ouçam quem observou.",
+                "Escrevam que pergunta desbloqueou mais, e qual piorou."
+              ],
+              "curriculumLink": "Trabalha os eixos do relacionamento interpessoal e do relacionamento social, em particular a paz e gestão de conflitos.",
+              "reflection": "Foi mais difícil discutir ou não dar opinião?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dominios",
+      "name": "Os domínios e os seus três grupos",
+      "emoji": "🕊️",
+      "palette": "crimson",
+      "summary": "A lista nacional de onde a tua escola escolhe, e as obrigações de cada grupo.",
+      "subtopics": [
+        {
+          "id": "primeiro-grupo",
+          "name": "1.º Grupo — obrigatório em todos os ciclos",
+          "student": "Esta lista repete-se em todos os anos, e é isso que a torna importante: são as áreas que a Estratégia considera transversais e longitudinais, ou seja, que atravessam tudo e acompanham toda a escolaridade. Voltas a elas no 8.º ano com mais idade e mais matéria — os direitos humanos ao lado das revoluções liberais que estás a dar em História, a educação ambiental ao lado dos ecossistemas de Ciências Naturais, a saúde ao lado do estilo de vida saudável de Educação Física. É aqui que se percebe que a interdisciplinaridade não é um enfeite: os mesmos temas estão a ser trabalhados em quatro sítios ao mesmo tempo.",
+          "questions": [
+            "Que domínio deste grupo aparece noutra disciplina tua este ano?",
+            "Que direito humano foi conquistado nas revoluções que estás a dar em História?",
+            "Interculturalidade inclui religião. Porquê?"
+          ],
+          "essentials": [
+            "Os diferentes domínios da Educação para a Cidadania estão organizados em três grupos com implicações diferenciadas: o primeiro, obrigatório para todos os níveis e ciclos de escolaridade (porque se trata de áreas transversais e longitudinais), o segundo, pelo menos em dois ciclos do ensino básico, o terceiro com aplicação opcional em qualquer ano de escolaridade.",
+            "Direitos Humanos (civis e políticos, económicos, sociais e culturais e de solidariedade);",
+            "Igualdade de Género;",
+            "Interculturalidade (diversidade cultural e religiosa);",
+            "Desenvolvimento Sustentável;",
+            "Educação Ambiental;",
+            "Saúde (promoção da saúde, saúde pública, alimentação, exercício físico)."
+          ],
+          "activities": [
+            {
+              "title": "O mesmo domínio em quatro disciplinas",
+              "type": "Interdisciplinar",
+              "duration": "45 min",
+              "materials": [
+                "Os teus manuais do 8.º ano",
+                "Uma folha A3"
+              ],
+              "steps": [
+                "Escolhe um domínio do 1.º grupo, por exemplo Desenvolvimento Sustentável.",
+                "Percorre quatro manuais e encontra em cada um uma página que o trabalhe.",
+                "Escreve, para cada disciplina, o que ela acrescenta que as outras não dizem.",
+                "Desenha um esquema com o domínio ao centro e as quatro disciplinas à volta.",
+                "Escreve a pergunta que só se consegue responder juntando as quatro."
+              ],
+              "curriculumLink": "Trabalha os domínios do 1.º Grupo, obrigatórios em todos os ciclos por serem áreas transversais e longitudinais.",
+              "reflection": "As quatro disciplinas contradiziam-se nalgum ponto?"
+            }
+          ]
+        },
+        {
+          "id": "segundo-e-terceiro-grupos",
+          "name": "2.º e 3.º Grupos — o que a escola pode escolher",
+          "student": "O segundo grupo tem de ser trabalhado em pelo menos dois ciclos do ensino básico, o que na prática quer dizer que há uma boa hipótese de alguns destes domínios te calharem agora: sexualidade, media, instituições e participação democrática, literacia financeira, segurança rodoviária, risco. O terceiro é livre, e acaba numa porta aberta — «Outras», conforme o que a escola diagnosticar. A frase que fecha a lista é a mais importante de todas e costuma passar despercebida: os domínios devem ser vistos como intercomunicantes, «tendo na base uma visão holística da pessoa». Não são gavetas, e tu não és um somatório de temas.",
+          "questions": [
+            "Que domínio do 2.º grupo é mais urgente na tua idade?",
+            "Bem-estar animal está no 3.º grupo. Devia estar no 1.º?",
+            "O que significa uma visão holística da pessoa, na prática de uma escola?"
+          ],
+          "essentials": [
+            "Sexualidade (diversidade, direitos, saúde sexual e reprodutiva);",
+            "Media;",
+            "Instituições e participação democrática.",
+            "Literacia financeira e educação para o consumo;",
+            "Segurança rodoviária;",
+            "Risco.",
+            "Empreendedorismo (na suas vertentes económica e social);",
+            "Mundo do Trabalho;",
+            "Segurança, Defesa e Paz;",
+            "Bem-estar animal;",
+            "Voluntariado.",
+            "Outras (de acordo com as necessidades de educação para a cidadania diagnosticadas pela escola e que se enquadre no conceito de EC proposto pelo Grupo).",
+            "Todos os domínios a trabalhar na Cidadania e Desenvolvimento devem ser vistos como intercomunicantes, tendo na base uma visão holística da pessoa."
+          ],
+          "activities": [
+            {
+              "title": "Ligar dois domínios distantes",
+              "type": "Ensaio",
+              "duration": "40 min",
+              "materials": [
+                "A lista dos três grupos",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe ao acaso dois domínios que pareçam não ter nada a ver: por exemplo, segurança rodoviária e igualdade de género.",
+                "Procura dados reais sobre cada um em Portugal.",
+                "Escreve três ligações plausíveis entre eles, com base nos dados e não em opiniões.",
+                "Escolhe a ligação mais forte e escreve meia página a defendê-la.",
+                "Troca com um colega que tenha tirado outros dois domínios."
+              ],
+              "curriculumLink": "Concretiza a indicação da Estratégia de que todos os domínios devem ser vistos como intercomunicantes, tendo na base uma visão holística da pessoa.",
+              "reflection": "A ligação que encontraste era real, ou construída para o exercício?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a-escola-toda",
+      "name": "A escola inteira como lugar de cidadania",
+      "emoji": "🏫",
+      "palette": "green",
+      "summary": "O que a Estratégia pede à escola no seu todo, e não apenas à disciplina.",
+      "subtopics": [
+        {
+          "id": "cultura-de-escola",
+          "name": "A cultura de escola",
+          "student": "Esta é a parte da Estratégia que raramente chega aos alunos, e é a que mais fala deles. Diz que a cidadania se exprime «através das atitudes, dos valores, das regras, das práticas quotidianas» de toda a escola, e não só na sala de aula. E depois diz uma coisa mensurável: que o sucesso da estratégia está ligado às oportunidades dadas aos alunos para se envolverem na tomada de decisões, «nomeadamente nas que os/as afetam». É um critério com o qual podes avaliar a tua escola — quantas decisões que te afetam foram tomadas com participação de alunos?",
+          "questions": [
+            "Que decisão da tua escola te afetou este ano sem que ninguém te perguntasse nada?",
+            "As regras da tua escola foram discutidas com quem as cumpre?",
+            "Um clima «aberto e livre para a discussão» reconhece-se como?"
+          ],
+          "essentials": [
+            "A escola no seu todo deve assentar as suas práticas quotidianas em valores e princípios de cidadania, de forma a criar um clima aberto e livre para a discussão ativa das decisões que afetam a vida de todos os membros da comunidade escolar.",
+            "A diversidade de metodologias e de práticas pedagógicas adotadas na escola deve ser indutora à aplicação em experiências reais de participação e de vivência da cidadania, de forma adequada a cada nível de educação e ensino.",
+            "Em cada escola a Estratégia da Educação para a Cidadania enforma a cultura escolar que se exprime através das atitudes, dos valores, das regras, das práticas quotidianas, dos princípios e dos procedimentos adotados tanto ao nível global da escola, como ao nível da sala de aula. O sucesso da implementação desta Estratégia está intrinsecamente ligado à cultura de cada escola e às oportunidades dadas aos/às alunos/as para se envolverem na tomada de decisões, nomeadamente nas que os/as afetam."
+          ],
+          "activities": [
+            {
+              "title": "Um inventário das decisões",
+              "type": "Auditoria",
+              "duration": "45 min",
+              "materials": [
+                "Papel e caneta",
+                "O regulamento interno da escola, se o encontrares"
+              ],
+              "steps": [
+                "Lista dez decisões tomadas na tua escola este ano que te afetem diretamente: horários, regras de recreio, refeições, visitas, avaliação.",
+                "Para cada uma, escreve quem decidiu e se algum aluno participou.",
+                "Marca as que teriam sido melhores com participação de alunos, e explica porquê numa linha.",
+                "Escolhe uma e escreve como poderia ter sido decidida de outra maneira, em concreto.",
+                "Leva a proposta à associação de estudantes ou ao diretor de turma."
+              ],
+              "curriculumLink": "Aplica o critério da Estratégia segundo o qual o sucesso depende das oportunidades dadas aos alunos de se envolverem nas decisões que os afetam.",
+              "reflection": "Das dez decisões, quantas tinham mesmo de ser tomadas sem vocês?"
+            }
+          ]
+        },
+        {
+          "id": "projetos-e-comunidade",
+          "name": "Projetos com a comunidade",
+          "student": "Duas frases que descrevem como esta disciplina funciona quando funciona bem. A primeira diz que os projetos devem ser desenvolvidos «preferencialmente em parceria com entidades da comunidade», podendo alargar-se a outras escolas, «numa perspetiva de trabalho em rede». A segunda explica porquê: projetos assentes nas necessidades, recursos e potencialidades da comunidade «corporizam situações reais de vivência da cidadania». Corporizar é uma palavra forte e bem escolhida — dão corpo, tornam real. Um projeto sobre a comunidade fica na gaveta; um projeto com a comunidade deixa alguma coisa lá fora.",
+          "questions": [
+            "Que entidade da tua zona faria parceria com a tua turma?",
+            "Qual é a diferença entre estudar um problema e trabalhar nele?",
+            "O que ficou, depois do último projeto que a tua turma fez?"
+          ],
+          "essentials": [
+            "Os projetos desenvolvidos na disciplina de Cidadania e Desenvolvimento e outros projetos realizados na escola devem estar articulados com a Estratégia de Educação para a Cidadania da Escola e ser desenvolvidos preferencialmente em parceria com entidades da comunidade, podendo mesmo alargar-se a outras escolas (vd. ponto sobre stakeholders), numa perspetiva de trabalho em rede. A conceção e o desenvolvimento de projetos assentes nas necessidades, recursos e potencialidades da comunidade corporizam situações reais de vivência da cidadania.",
+            "As aprendizagens na disciplina de Cidadania e Desenvolvimento alicerçam-se no desenvolvimento de competências cognitivas, pessoais, sociais e emocionais, ancoradas no currículo e desenvolvidas num ciclo contínuo e em progressão de “reflexão-antecipação-ação”, em que as/os alunas/os aprendem através dos desafios da vida real, indo para além da sala de aula e da escola, e tomando em consideração as implicações das suas decisões e ações, tanto para o seu futuro individual como coletivo."
+          ],
+          "activities": [
+            {
+              "title": "Um projeto com parceiro",
+              "type": "Projeto",
+              "duration": "Um período",
+              "materials": [
+                "Uma lista de entidades locais",
+                "Um caderno de projeto",
+                "Autorização de um adulto"
+              ],
+              "steps": [
+                "Identifiquem uma necessidade real da vossa zona, ouvindo pelo menos cinco pessoas de fora da escola.",
+                "Encontrem uma entidade que já trabalhe nisso: junta, associação, IPSS, biblioteca, escola vizinha.",
+                "Marquem uma reunião com essa entidade, com um adulto, e perguntem em que é que podem ser úteis.",
+                "Desenhem o projeto a partir do que ouviram, não do que tinham imaginado.",
+                "Executem, registem e, no fim, meçam o que mudou para quem estava do outro lado."
+              ],
+              "safety": "Todos os contactos com entidades externas são feitos com um adulto responsável, e nenhuma visita é combinada sozinho.",
+              "curriculumLink": "Concretiza a orientação de desenvolver projetos em parceria com entidades da comunidade, assentes nas suas necessidades, recursos e potencialidades.",
+              "reflection": "O projeto que fizeram foi o que tinham imaginado antes de ouvir a comunidade?"
+            }
+          ]
+        },
+        {
+          "id": "monitorizar-e-avaliar",
+          "name": "Monitorizar, avaliar e o que fica escrito",
+          "student": "A Estratégia responsabiliza a escola pela monitorização da sua própria estratégia de cidadania, e nomeia três indicadores de impacto: a cultura escolar, a governança escolar, a relação com a comunidade. Nenhum deles se mede em testes. Para ti, o que interessa é o critério que fecha o ciclo: a avaliação nesta disciplina deve considerar o impacto da tua participação nas atividades realizadas na escola e na comunidade, e essas atividades constam do certificado de conclusão da escolaridade obrigatória. Aquilo que fizeres agora fica escrito num documento que te acompanha.",
+          "questions": [
+            "O que é governança escolar, e quem participa nela?",
+            "Como se mede o impacto de uma atividade na comunidade?",
+            "O que gostarias que estivesse escrito no teu certificado?"
+          ],
+          "essentials": [
+            "A escola, no âmbito da sua autonomia, é responsável pela monitorização e avaliação da sua Estratégia de Educação para a Cidadania, definindo a metodologia a aplicar e os indicadores de impacto nomeadamente na cultura escolar, na governança escolar, na relação com a comunidade. A avaliação da estratégia em cada escola deverá estar articulada com o respetivo processo de autoavaliação.",
+            "Os critérios de avaliação a definir pelo Conselho de Turma e pela escola para a disciplina Cidadania e Desenvolvimento devem considerar o impacto da participação dos alunos e das alunas nas atividades realizadas na escola e na comunidade, constando estas, de acordo com as normas definidas, no certificado de conclusão da escolaridade obrigatória."
+          ],
+          "activities": [
+            {
+              "title": "Três indicadores, medidos",
+              "type": "Avaliação",
+              "duration": "45 min",
+              "materials": [
+                "Papel e caneta",
+                "Acesso a pessoas da escola"
+              ],
+              "steps": [
+                "Escreve os três indicadores que a Estratégia nomeia: cultura escolar, governança escolar, relação com a comunidade.",
+                "Para cada um, inventa duas formas concretas de o medir na tua escola, com números.",
+                "Aplica uma das seis medições, mesmo que em pequena escala.",
+                "Regista o resultado e o método, para que outra pessoa o pudesse repetir.",
+                "Escreve o que farias com esse número se fosses o diretor."
+              ],
+              "curriculumLink": "Trabalha a monitorização e avaliação da Estratégia de Educação para a Cidadania da escola e os seus indicadores de impacto.",
+              "reflection": "O indicador mais fácil de medir era o mais importante?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
