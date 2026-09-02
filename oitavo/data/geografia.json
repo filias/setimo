@@ -1,0 +1,352 @@
+{
+  "id": "geografia",
+  "name": "Geografia",
+  "emoji": "🌍",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "A Geografia do 8.º ano tem dois temas — População e Povoamento, e Atividades Económicas — e cada um é trabalhado através das mesmas três competências: localizar e compreender, problematizar e debater, comunicar e participar. Essa terceira coluna é a menos habitual num currículo: pede que se apresentem soluções, se relatem medidas e se participe em campanhas. Depois do 7.º ano, dedicado à Terra e ao meio natural, este é o ano em que as pessoas entram na paisagem.",
+  "studentIntro": "Este ano a Geografia deixa de ser sobre onde estão as coisas e passa a ser sobre porque é que as pessoas estão onde estão. Metade do planeta cabe numa faixa estreita perto da água, e o resto é quase vazio — isso não é acaso, é a soma de clima, solo, história e trabalho. Vais aprender a ler uma pirâmide etária, e é uma leitura desconfortável: a de Portugal mostra que a tua geração é pequena e a dos teus avós é grande, e todas as discussões sobre reformas, impostos e imigração saem daí. A segunda metade do ano segue o dinheiro — onde se produz, quem consome, e o que custa transportar tudo isso.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Geografia, 8.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/8_geografia.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Cada tema é trabalhado através das três competências do documento, que aqui organizam os subtemas; os símbolos de interdisciplinaridade do original foram omitidos."
+  },
+  "domains": [
+    {
+      "id": "populacao-e-povoamento",
+      "name": "População e Povoamento",
+      "emoji": "👥",
+      "palette": "crimson",
+      "summary": "Quantos somos, onde estamos, para onde vamos — e o que acontece nas cidades.",
+      "subtopics": [
+        {
+          "id": "populacao-localizar",
+          "name": "Localizar e compreender a população",
+          "student": "Quase tudo aqui passa por saber ler um mapa temático e um indicador. Um mapa temático mostra uma variável no espaço, e a legenda é a parte que decide o que vais concluir — a mesma densidade populacional muda de aspeto conforme as classes que se escolhem. Os indicadores demográficos são o outro instrumento: natalidade, mortalidade, crescimento natural, esperança de vida. Repara que o programa pede para os comparares «no tempo e no espaço», e é essa dupla comparação que os torna úteis: uma taxa de natalidade de dez por mil não quer dizer nada sozinha, quer dizer muito ao lado da de 1960 ou da do Níger.",
+          "questions": [
+            "Onde vive metade da população mundial, e porquê aí?",
+            "A tua cidade cresce por nascimentos ou por chegadas?",
+            "O que é que a legenda de um mapa decide por ti?"
+          ],
+          "essentials": [
+            "Interpretar mapas temáticos simples (com uma variável), relativos a fenómenos demográficos e culturais, usando o título e a legenda.",
+            "Representar, em mapas a diferentes escalas, variáveis relativas a fenómenos demográficos, usando o título e a legenda.",
+            "Comparar o comportamento de diferentes indicadores demográficos, no tempo e no espaço, enunciando fatores que explicam os comportamentos observados.",
+            "Identificar padrões na distribuição da população e do povoamento, à escala nacional, europeia e mundial, enunciando fatores responsáveis por essa distribuição.",
+            "Identificar padrões na distribuição dos fluxos migratórios, à escala nacional, europeia e mundial, enunciando fatores responsáveis por essa distribuição.",
+            "Localizar cidades, em mapas de diferentes escalas.",
+            "Enunciar fatores responsáveis pelos padrões da organização das áreas funcionais da cidade, interpretando plantas funcionais.",
+            "Aplicar as Tecnologias de Informação Geográfica para localizar, descrever e compreender os fenómenos sociodemográficos."
+          ],
+          "activities": [
+            {
+              "title": "A pirâmide da tua freguesia",
+              "type": "Dados",
+              "duration": "50 min",
+              "materials": [
+                "Acesso ao site do INE ou aos Censos",
+                "Papel milimétrico ou folha de cálculo"
+              ],
+              "steps": [
+                "Procura nos Censos os dados da tua freguesia por grupo etário e sexo.",
+                "Constrói a pirâmide etária: barras horizontais, homens à esquerda, mulheres à direita.",
+                "Faz a mesma pirâmide com os dados de 1991 ou 2001 e põe as duas lado a lado.",
+                "Marca em cada uma a classe etária mais numerosa e escreve em que ano essas pessoas nasceram.",
+                "Escreve três frases sobre o que mudou, e uma previsão para 2040."
+              ],
+              "curriculumLink": "Compara o comportamento de indicadores demográficos no tempo e no espaço, enunciando fatores que explicam os comportamentos.",
+              "reflection": "A base da pirâmide encolheu. O que é que isso significa para a tua escola daqui a dez anos?"
+            },
+            {
+              "title": "Uma cidade em quatro cores",
+              "type": "Cartografia",
+              "duration": "45 min",
+              "materials": [
+                "Um mapa da tua cidade ou vila impresso",
+                "Quatro lápis de cor"
+              ],
+              "steps": [
+                "Escolhe quatro funções urbanas: residencial, comércio e serviços, indústria, e espaços verdes ou lazer.",
+                "Percorre a área, ou usa a vista de satélite, e pinta cada zona com a cor da sua função dominante.",
+                "Marca a preto as vias principais e vê se as fronteiras entre cores coincidem com elas.",
+                "Escreve que função ocupa o centro e qual foi empurrada para a periferia.",
+                "Procura uma zona que tenha mudado de função e descobre quando e porquê."
+              ],
+              "curriculumLink": "Enuncia fatores responsáveis pelos padrões da organização das áreas funcionais da cidade, interpretando plantas funcionais.",
+              "reflection": "O centro da tua cidade é onde vive mais gente, ou onde trabalha mais gente?"
+            }
+          ]
+        },
+        {
+          "id": "populacao-problematizar",
+          "name": "Problematizar a população e o território",
+          "student": "É aqui que a Geografia se torna incómoda, e de propósito. Áreas de atração e de repulsão: as pessoas saem de onde não há trabalho, água ou segurança e vão para onde há — e essa frase, escrita assim, cobre tanto quem sai do interior para Lisboa como quem atravessa o Mediterrâneo. O programa pede também que descrevas situações de «equilíbrio ou rutura entre a população e os recursos naturais», que é a pergunta mais antiga da geografia humana: quantas pessoas aguenta um território? E termina com um exercício concreto — identificar problemas das áreas urbanas «aplicando questionários», ou seja, perguntando às pessoas.",
+          "questions": [
+            "O que faz alguém deixar a terra onde nasceu?",
+            "Um território pode ter gente a mais? Segundo que critério?",
+            "Que problema da tua zona só se descobre perguntando a quem lá vive?"
+          ],
+          "essentials": [
+            "Relacionar as áreas de atração e de repulsão demográficas com fatores físicos e humanos, utilizando mapas a diferentes escalas.",
+            "Reconhecer aspetos que conferem singularidade a cada região, comparando características culturais, do povoamento e das atividades económicas.",
+            "Descrever situações de equilíbrio ou rutura entre a população e os recursos naturais, em diferentes contextos geográficos e económicos, explicando a ação de fatores naturais e humanos.",
+            "Explicar causas e consequências dos fluxos migratórios, a diferentes escalas.",
+            "Identificar problemas das áreas urbanas que afetam a qualidade de vida e o bem-estar das populações, aplicando questionários."
+          ],
+          "activities": [
+            {
+              "title": "Um questionário na rua",
+              "type": "Inquérito",
+              "duration": "Duas sessões de 45 min",
+              "materials": [
+                "Papel ou um formulário digital",
+                "Doze pessoas dispostas a responder"
+              ],
+              "steps": [
+                "Escreve seis perguntas fechadas sobre a qualidade de vida no teu bairro: transportes, ruído, segurança, espaços verdes, comércio, limpeza.",
+                "Acrescenta uma pergunta aberta: o que mudaria primeiro?",
+                "Aplica o questionário a doze pessoas de idades diferentes, sempre com um adulto por perto.",
+                "Faz um gráfico por pergunta e vê onde as respostas se dividem por idade.",
+                "Escreve o problema mais votado e compara-o com o que tu terias respondido antes de perguntar."
+              ],
+              "safety": "Faz os inquéritos em espaços públicos movimentados e acompanhado; não recolhas nomes, moradas nem contactos.",
+              "curriculumLink": "Identifica problemas das áreas urbanas que afetam a qualidade de vida e o bem-estar das populações, aplicando questionários.",
+              "reflection": "O problema mais votado era o teu? O que é que isso diz sobre governar uma cidade?"
+            },
+            {
+              "title": "Duas gerações, dois mapas",
+              "type": "Entrevista",
+              "duration": "40 min",
+              "materials": [
+                "Um mapa de Portugal e um do mundo",
+                "Dois familiares de gerações diferentes"
+              ],
+              "steps": [
+                "Pergunta a um avô ou avó onde nasceram os pais e irmãos dele, e marca no mapa.",
+                "Faz o mesmo com um adulto da geração dos teus pais, e depois com os teus colegas próximos.",
+                "Liga com setas os movimentos: quem saiu de onde para onde, e em que década.",
+                "Escreve ao lado de cada seta a razão, se souberes: trabalho, guerra, estudos, família.",
+                "Classifica cada seta como puxada por uma área de atração ou empurrada por uma de repulsão."
+              ],
+              "curriculumLink": "Explica causas e consequências dos fluxos migratórios a diferentes escalas, e relaciona áreas de atração e de repulsão com fatores físicos e humanos.",
+              "reflection": "As setas da tua família e as das notícias sobre migração são o mesmo fenómeno?"
+            }
+          ]
+        },
+        {
+          "id": "populacao-comunicar",
+          "name": "Comunicar e participar",
+          "student": "Esta coluna do programa não pede que saibas, pede que faças. Apresentar soluções, participar em campanhas, enunciar medidas, explicar a importância do diálogo. É a parte que se avalia mal em teste e bem em projeto. O descritor sobre a cooperação «entre povos e culturas, que coexistem no mesmo território» é o mais delicado do ano, e vale a pena lê-lo devagar: não fala de tolerar quem chega, fala de coexistir — de duas coisas que ocupam o mesmo espaço ao mesmo tempo, o que é uma exigência bastante maior.",
+          "questions": [
+            "Qual é a diferença entre tolerar e coexistir?",
+            "Uma campanha de sensibilização muda alguma coisa?",
+            "Que línguas se falam na tua escola?"
+          ],
+          "essentials": [
+            "Apresentar exemplos de soluções para a gestão pacífica e sustentável dos conflitos entre recursos naturais e a população.",
+            "Participar de forma ativa em campanhas de sensibilização para minimizar os impactes ambientais, socioeconómicos e culturais da distribuição e evolução da população e do povoamento, a diferentes escalas.",
+            "Enunciar medidas para fomentar a cooperação entre povos e culturas, que coexistem no mesmo território.",
+            "Relatar medidas para melhorar a qualidade de vida e o bem-estar das populações urbanas, rurais e migrantes.",
+            "Explicar a importância do diálogo e da cooperação internacional na preservação da diversidade cultural."
+          ],
+          "activities": [
+            {
+              "title": "O mapa das línguas da escola",
+              "type": "Projeto",
+              "duration": "Duas sessões de 40 min",
+              "materials": [
+                "Um planisfério grande",
+                "Fio e alfinetes ou autocolantes",
+                "Papel para etiquetas"
+              ],
+              "steps": [
+                "Pergunta na tua turma e nas vizinhas que línguas se falam em casa, incluindo dialetos e línguas de herança.",
+                "Marca no planisfério cada país ou região de origem dessas línguas.",
+                "Escreve numa etiqueta, em cada língua, a mesma frase curta de boas-vindas.",
+                "Conta quantas línguas diferentes reuniste e quantas delas ninguém sabia que existiam ali.",
+                "Afixa o mapa num corredor com uma legenda que explique o que ele mostra."
+              ],
+              "curriculumLink": "Trabalha as medidas para fomentar a cooperação entre povos e culturas que coexistem no mesmo território e a preservação da diversidade cultural.",
+              "reflection": "Quantas dessas línguas é que a escola usa alguma vez? E porque não?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atividades-economicas",
+      "name": "Atividades Económicas",
+      "emoji": "🏭",
+      "palette": "amber",
+      "summary": "O que se produz, onde, como se transporta e a que custo.",
+      "subtopics": [
+        {
+          "id": "economicas-localizar",
+          "name": "Localizar e compreender as atividades económicas",
+          "student": "O primeiro descritor manda-te ao trabalho de campo, e é o melhor sítio para começar: as atividades económicas da tua rua são a versão pequena de tudo o resto. Depois vem a lista dos processos de produção — extração mineira, agricultura, pecuária, silvicultura, pesca, indústria, comércio, serviços e turismo — com uma exigência acrescentada, «equacionar a sua sustentabilidade». Não basta descrever como se produz, é preciso perguntar durante quanto tempo se pode continuar a produzir assim. A parte dos transportes fecha com um conceito que dá jeito para a vida toda: distância absoluta é em quilómetros, distância relativa é em tempo, custo ou incómodo — e é esta que decide as coisas.",
+          "questions": [
+            "Que atividades económicas existem a cem metros da tua porta?",
+            "Lisboa está mais perto de Londres ou de Bragança?",
+            "Um saco de arroz percorreu quantos quilómetros até ao teu prato?"
+          ],
+          "essentials": [
+            "Identificar as principais atividades económicas da comunidade local, recorrendo ao trabalho de campo.",
+            "Caracterizar os principais processos de produção e equacionar a sua sustentabilidade (extração mineira, agricultura, pecuária, silvicultura, pesca, indústria, comércio, serviços e turismo).",
+            "Identificar padrões na distribuição de diferentes atividades económicas, a nível mundial, e em Portugal, enunciando fatores responsáveis pela sua distribuição.",
+            "Comparar os diferentes tipos de transporte, quanto às respetivas vantagens e desvantagens.",
+            "Identificar padrões na distribuição de diferentes redes de transporte e telecomunicações, a nível mundial, e em Portugal, enunciando fatores responsáveis pela sua distribuição.",
+            "Determinar a acessibilidade de lugares, simulando redes topológicas simples.",
+            "Aplicar as Tecnologias de Informação Geográfica para localizar, descrever e compreender as atividades económicas."
+          ],
+          "activities": [
+            {
+              "title": "Levantamento da tua rua",
+              "type": "Campo",
+              "duration": "Uma tarde",
+              "materials": [
+                "Uma planta da rua, desenhada ou impressa",
+                "Caderno e três cores"
+              ],
+              "steps": [
+                "Percorre uma rua inteira e regista todas as portas com atividade económica.",
+                "Classifica cada uma pelo setor: primário, secundário ou terciário.",
+                "Pinta a planta com uma cor por setor e conta quantas de cada.",
+                "Marca as portas fechadas ou devolutas e conta-as também.",
+                "Escreve o que o teu gráfico diz sobre a economia do sítio onde vives."
+              ],
+              "curriculumLink": "Identifica as principais atividades económicas da comunidade local recorrendo ao trabalho de campo.",
+              "reflection": "Que setor domina? E era o que esperavas antes de contar?"
+            },
+            {
+              "title": "Distância absoluta, distância relativa",
+              "type": "Cálculo",
+              "duration": "40 min",
+              "materials": [
+                "Um mapa e acesso a horários de comboio, autocarro e avião",
+                "Calculadora"
+              ],
+              "steps": [
+                "Escolhe cinco destinos a partir de tua casa: um na tua região, um no outro extremo do país, dois na Europa e um noutro continente.",
+                "Para cada um, escreve a distância em quilómetros em linha reta.",
+                "Procura agora quanto tempo demora a chegar, porta a porta, pelo meio mais comum.",
+                "Faz uma tabela com as duas colunas e ordena os destinos por cada uma delas.",
+                "Escreve os casos em que as duas ordens não coincidem e explica porquê."
+              ],
+              "curriculumLink": "Compara tipos de transporte quanto a vantagens e desvantagens e trabalha a acessibilidade e as distâncias absolutas e relativas.",
+              "reflection": "Qual dos cinco está mais longe, e segundo que medida?"
+            },
+            {
+              "title": "Uma rede topológica do teu concelho",
+              "type": "Modelação",
+              "duration": "40 min",
+              "materials": [
+                "Papel e régua",
+                "Horários de transportes públicos"
+              ],
+              "steps": [
+                "Escolhe seis localidades do teu concelho e desenha-as como pontos, sem respeitar as distâncias reais.",
+                "Liga com um traço os pares que têm ligação direta de transporte público.",
+                "Conta, para cada ponto, quantas ligações diretas tem: é o seu grau de acessibilidade.",
+                "Calcula quantos passos são precisos, no pior caso, para ir de um ponto a qualquer outro.",
+                "Marca o ponto mais acessível e o mais isolado, e escreve o que muda na vida de quem lá vive."
+              ],
+              "curriculumLink": "Determina a acessibilidade de lugares simulando redes topológicas simples.",
+              "reflection": "O ponto mais isolado é o mais distante em quilómetros?"
+            }
+          ]
+        },
+        {
+          "id": "economicas-problematizar",
+          "name": "Problematizar a economia no território",
+          "student": "Dois descritores apenas, mas ambos com peso. O primeiro pede exemplos de impactes da ação humana no território «apoiados em fontes fidedignas» — e essa condição, num tema onde toda a gente tem opinião, é o descritor inteiro. O segundo trata da cooperação internacional na gestão de recursos: rios que atravessam fronteiras, bancos de pesca partilhados, ar que não pede vistos. Portugal é um caso de estudo cómodo, porque os seus maiores rios nascem todos em Espanha, e há convenções assinadas precisamente por isso.",
+          "questions": [
+            "De quem é a água de um rio que nasce noutro país?",
+            "Uma fonte fidedigna reconhece-se como?",
+            "Que recurso partilhado com outro país é mais importante para Portugal?"
+          ],
+          "essentials": [
+            "Descrever exemplos de impactes da ação humana no território, apoiados em fontes fidedignas.",
+            "Reconhecer a necessidade da cooperação internacional na gestão de recursos naturais, exemplificando com casos concretos, a diferentes escalas."
+          ],
+          "activities": [
+            {
+              "title": "Um rio que vem de fora",
+              "type": "Investigação",
+              "duration": "45 min",
+              "materials": [
+                "Um mapa hidrográfico da Península Ibérica",
+                "Acesso à internet"
+              ],
+              "steps": [
+                "Escolhe um dos grandes rios: Douro, Tejo ou Guadiana, e traça o curso desde a nascente.",
+                "Marca a fronteira e calcula que percentagem do percurso é espanhola.",
+                "Procura a Convenção de Albufeira e escreve, em três linhas, o que ela regula.",
+                "Encontra uma notícia sobre um conflito ou uma seca ligados a esse rio, de fonte identificada.",
+                "Escreve o que aconteceria a jusante se não houvesse acordo nenhum."
+              ],
+              "curriculumLink": "Reconhece a necessidade de cooperação internacional na gestão de recursos naturais, com casos concretos a diferentes escalas.",
+              "reflection": "Um país pode ser dono da água que apenas atravessa o seu território?"
+            }
+          ]
+        },
+        {
+          "id": "economicas-comunicar",
+          "name": "Comunicar e participar na economia",
+          "student": "Outra vez a coluna que pede ação, e desta vez com um foco: a distribuição entre produção e consumo. Um mundo em que se produz onde é barato e se consome onde é caro tem consequências geográficas visíveis — contentores a atravessar oceanos meio vazios no regresso, e regiões inteiras especializadas numa só coisa. O último descritor é o mais atual de todo o programa: relatar exemplos do impacte da era digital na sociedade. Muito do que compras não passa por loja nenhuma, e isso mudou ruas, empregos e o próprio desenho das cidades.",
+          "questions": [
+            "Onde foi feito o que tens vestido?",
+            "O que aconteceu às lojas da tua rua nos últimos dez anos?",
+            "Comprar online é mais ou menos poluente do que ir à loja?"
+          ],
+          "essentials": [
+            "Representar o levantamento funcional das atividades económicas da comunidade local, utilizando diferentes técnicas de expressão gráfica e cartografia.",
+            "Apresentar exemplos para uma distribuição mais equitativa entre a produção e o consumo, a diferentes escalas.",
+            "Participar de forma ativa em campanhas de sensibilização para a promoção da maior sustentabilidade das atividades económicas, a diferentes escalas (local, regional, etc.).",
+            "Selecionar o modo de transporte mais adequado em função do fim a que se destina e das distâncias (absolutas e relativas).",
+            "Relatar exemplos do impacte da era digital na sociedade."
+          ],
+          "activities": [
+            {
+              "title": "O mapa da tua roupa",
+              "type": "Cartografia",
+              "duration": "40 min",
+              "materials": [
+                "Dez peças de roupa tuas",
+                "Um planisfério impresso",
+                "Fio e alfinetes"
+              ],
+              "steps": [
+                "Lê a etiqueta de dez peças e anota o país de fabrico de cada uma.",
+                "Marca cada país no planisfério e liga-o à tua cidade com um fio.",
+                "Soma os quilómetros aproximados de todos os fios.",
+                "Procura, para os três países mais repetidos, quanto ganha em média quem faz essa roupa.",
+                "Escreve uma medida realista que tornaria esta distribuição mais equilibrada."
+              ],
+              "curriculumLink": "Apresenta exemplos para uma distribuição mais equitativa entre a produção e o consumo, a diferentes escalas.",
+              "reflection": "Se a roupa fosse feita aqui, quanto custaria? Pagavas?"
+            },
+            {
+              "title": "A rua antes e depois do digital",
+              "type": "Investigação",
+              "duration": "45 min",
+              "materials": [
+                "Fotografias de rua de anos diferentes, num visualizador de mapas",
+                "Alguém que viva ali há mais de quinze anos"
+              ],
+              "steps": [
+                "Escolhe uma rua comercial e compara imagens de há dez ou quinze anos com as de hoje.",
+                "Lista as lojas que desapareceram e as que apareceram, por tipo de negócio.",
+                "Pergunta a um comerciante ou morador antigo o que mudou e porquê.",
+                "Conta quantos pontos de entrega, cacifos ou lojas de logística existem agora e não existiam.",
+                "Escreve um parágrafo sobre o que a era digital tirou e deu àquela rua."
+              ],
+              "curriculumLink": "Relata exemplos do impacte da era digital na sociedade e representa o levantamento funcional das atividades económicas locais.",
+              "reflection": "As lojas que fecharam foram substituídas por quê — outras lojas, ou por nada?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
