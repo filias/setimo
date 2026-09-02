@@ -5,6 +5,10 @@ A site about the seventh grade in Portugal: the subjects, the official curriculu
 
 Live at **<https://setimo.filias.dev>**.
 
+The repository also holds a second, separate site for the eighth grade under
+`oitavo/`, live at **<https://oitavo.filias.dev>**. See [The eighth
+grade](#the-eighth-grade).
+
 HTML, CSS and JavaScript, no build step. The content lives in JSON files, kept
 apart from the markup.
 
@@ -31,6 +35,7 @@ favicon.svg         The crossed seven; the .ico and 180 px PNG sit beside it
 favicons/           The six designs that were on the table
 server.py           Local server, no dependencies
 deploy/             Publish webhook and its systemd unit
+oitavo/             The eighth-grade site, standing on its own
 ```
 
 The code is entirely in English — filenames, classes, functions, variables and
@@ -142,22 +147,44 @@ offer, the second optional to attend.
 
 All twelve subjects of the matrix are covered.
 
+## The eighth grade
+
+`oitavo/` is a **separate site, not a second mode of this one**. It has its own
+`index.html`, `subject.html`, stylesheet, scripts, data and icons, and shares
+nothing with the seventh-grade site but the repository and the deploy webhook.
+The two can drift apart without either one breaking.
+
+```
+oitavo/
+  index.html          Grid of the eighth-grade subjects
+  subject.html        Generic page; the subject comes from ?subject=<id>
+  css/style.css       Its own copy of the stylesheet
+  js/                 Its own copy of common.js, home.js, subject.js
+  data/               The eighth-grade content
+  favicon.svg         The eight; the .ico and 180 px PNG sit beside it
+```
+
+Everything in *Adding a subject* above applies unchanged inside `oitavo/data/`.
+`python3 server.py` serves both: the seventh grade at `/` and the eighth at
+`/oitavo/`.
+
 ## Publishing
 
-A push to `main` publishes to <https://setimo.filias.dev>. GitHub calls
+A push to `main` publishes both sites. GitHub calls
 `https://setimo.filias.dev/deploy`, `deploy/webhook.py` checks the HMAC signature
 and runs `git pull --ff-only` in `/opt/setimo`. Caddy serves the folder as it
-stands — no build step, so what is in the repository is what goes live.
+stands — no build step, so what is in the repository is what goes live. One pull
+updates both hosts, because both are rooted in the same working copy.
 
 | Piece | Where |
 |---|---|
 | Repository | <https://github.com/filias/setimo> |
 | Files | `/opt/setimo`, cloned with its own read-only key |
-| Caddy block | `/etc/caddy/Caddyfile`, host `setimo.filias.dev` |
+| Caddy blocks | `/etc/caddy/Caddyfile`, hosts `setimo.filias.dev` and `oitavo.filias.dev` |
 | Service | `setimo-webhook.service`, listening on `127.0.0.1:9017` |
 | Secret | `/etc/setimo-webhook.env`, matching the one in the GitHub webhook |
 
-The Caddy block:
+The Caddy blocks:
 
 ```caddy
 setimo.filias.dev {
@@ -167,15 +194,26 @@ setimo.filias.dev {
 	handle {
 		root * /opt/setimo
 		file_server {
-			hide .git deploy
+			hide .git deploy oitavo
 		}
 		encode gzip
 	}
 }
+
+oitavo.filias.dev {
+	root * /opt/setimo/oitavo
+	file_server
+	encode gzip
+}
 ```
 
 The `hide` matters: without it `file_server` serves `/.git/`, and with it the
-whole history of the repository.
+whole history of the repository. `oitavo` is hidden from the seventh-grade host
+so that the eighth-grade site is reachable only under its own domain, rather than
+at both `oitavo.filias.dev/` and `setimo.filias.dev/oitavo/`.
+
+Only the seventh-grade host carries the `/deploy` route; one webhook updates the
+working copy that both hosts are served from.
 
 ### Setting it up again
 

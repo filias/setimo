@@ -1,0 +1,92 @@
+{
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "matrixNote": "Matriz curricular do 3.º ciclo, nos termos do Decreto-Lei n.º 55/2018, de 6 de julho. A Língua Estrangeira II aqui listada é o Francês; noutras escolas pode ser Espanhol ou Alemão.",
+  "subjects": [
+    {
+      "id": "portugues",
+      "name": "Português",
+      "emoji": "📖",
+      "status": "pending",
+      "summary": "Oralidade, leitura, escrita, educação literária e gramática. No 8.º ano entram o texto dramático e as narrativas de países de língua oficial portuguesa."
+    },
+    {
+      "id": "ingles",
+      "name": "Inglês (LE I)",
+      "emoji": "🇬🇧",
+      "status": "pending",
+      "summary": "Quarto ano da língua estrangeira iniciada no 2.º ciclo. Nível A2.2/B1.1 do Quadro Europeu Comum de Referência."
+    },
+    {
+      "id": "frances",
+      "name": "Francês (LE II)",
+      "emoji": "🇫🇷",
+      "status": "pending",
+      "summary": "Segundo ano da segunda língua estrangeira — nível A2.1 do Quadro Europeu Comum de Referência."
+    },
+    {
+      "id": "historia",
+      "name": "História",
+      "emoji": "🏛️",
+      "status": "pending",
+      "summary": "Da expansão marítima ao mundo industrializado: os descobrimentos, o absolutismo, o Iluminismo, as revoluções liberais e o século XIX."
+    },
+    {
+      "id": "geografia",
+      "name": "Geografia",
+      "emoji": "🌍",
+      "status": "pending",
+      "summary": "População e povoamento, e atividades económicas: distribuição, migrações, cidades, agricultura, indústria, serviços e turismo."
+    },
+    {
+      "id": "matematica",
+      "name": "Matemática",
+      "emoji": "📐",
+      "status": "pending",
+      "summary": "Números racionais e dízimas infinitas, equações e sistemas, funções afins, o Teorema de Pitágoras, e a análise de dados."
+    },
+    {
+      "id": "ciencias-naturais",
+      "name": "Ciências Naturais",
+      "emoji": "🌱",
+      "status": "pending",
+      "summary": "Terra, um planeta com vida: os subsistemas terrestres, os ecossistemas, os fluxos de energia e a sustentabilidade na Terra."
+    },
+    {
+      "id": "fisico-quimica",
+      "name": "Físico-Química",
+      "emoji": "⚗️",
+      "status": "pending",
+      "featured": true,
+      "summary": "Três domínios: as reações químicas, o som e a luz. Da equação química à velocidade de propagação e à reflexão."
+    },
+    {
+      "id": "educacao-visual",
+      "name": "Educação Visual",
+      "emoji": "🎨",
+      "status": "pending",
+      "summary": "Apropriação e reflexão, interpretação e comunicação, experimentação e criação. As Aprendizagens Essenciais são as do ciclo inteiro."
+    },
+    {
+      "id": "tic",
+      "name": "TIC",
+      "emoji": "💻",
+      "status": "pending",
+      "summary": "Os mesmos quatro domínios do 7.º ano, um degrau acima: segurança, investigar, comunicar e criar — agora com ambientes digitais abertos."
+    },
+    {
+      "id": "educacao-fisica",
+      "name": "Educação Física",
+      "emoji": "🏃",
+      "status": "pending",
+      "summary": "Atividades físicas, aptidão física e conhecimentos. No 8.º ano sobe o nível exigido em algumas das matérias."
+    },
+    {
+      "id": "cidadania",
+      "name": "Cidadania e Desenvolvimento",
+      "emoji": "🤝",
+      "status": "pending",
+      "summary": "Domínios obrigatórios: direitos humanos, igualdade de género, interculturalidade, desenvolvimento sustentável, educação ambiental e saúde."
+    }
+  ]
+}
