@@ -1,0 +1,521 @@
+{
+  "id": "portugues",
+  "name": "Português",
+  "emoji": "📖",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "Os cinco domínios são os de sempre — Oralidade, Leitura, Educação Literária, Escrita e Gramática — e o que muda no 8.º ano é o peso do argumento. Na oralidade passa a avaliar-se a validade dos argumentos ouvidos; na leitura entram a autobiografia, o diário, as memórias, a reportagem e o texto de opinião; na escrita pede-se que se tome posição. A Educação Literária traz o texto dramático e a poesia trovadoresca ao lado de Camões, com um mínimo escrito no programa: nove poemas de sete autores diferentes, duas narrativas de autores de língua portuguesa e um texto dramático. O documento traz ainda uma lista anexa de obras e textos, que não faz parte dos descritores transcritos aqui.",
+  "studentIntro": "Este é o ano em que aprendes a discordar por escrito e em voz alta sem que isso seja uma discussão. Há um descritor na oralidade que diz tudo: avaliar argumentos quanto à validade e à adequação aos objetivos — ou seja, perceber a diferença entre um argumento que convence e um argumento que está certo, que não é a mesma coisa. Depois há a leitura de textos sobre vidas reais: diários, memórias, autobiografias, e o Diário de Anne Frank na lista de obras. E na gramática entra o modo conjuntivo, que é o modo do que ainda não aconteceu — o modo da dúvida, do desejo e da hipótese.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Português, 8.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/portugues_3c_8a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho, e correspondem à coluna «AE: Conhecimentos, Capacidades e Atitudes». A lista anexa de obras e textos para Educação Literária não é transcrita aqui."
+  },
+  "domains": [
+    {
+      "id": "oralidade",
+      "name": "Oralidade",
+      "emoji": "🎙️",
+      "palette": "teal",
+      "summary": "Ouvir com juízo crítico, e falar com estrutura e recursos preparados.",
+      "subtopics": [
+        {
+          "id": "compreensao",
+          "name": "Ouvir e avaliar o que se ouve",
+          "student": "Quatro descritores, e o terceiro é o mais exigente que a oralidade te pediu até hoje: avaliar argumentos quanto à validade e à adequação aos objetivos comunicativos. São dois critérios distintos. Um argumento pode ser válido e inadequado — verdadeiro mas irrelevante para o que se discute — e pode ser adequado e inválido, que é o caso de quase toda a publicidade. Os outros três descritores dão-te as ferramentas: perceber o objetivo de quem fala, ler o que não foi dito explicitamente, e resumir sem perder o essencial.",
+          "questions": [
+            "O último anúncio que te convenceu apresentou algum argumento?",
+            "Qual é a diferença entre um argumento válido e um argumento eficaz?",
+            "Consegues resumir em três frases um vídeo de dez minutos?"
+          ],
+          "essentials": [
+            "Compreender o(s) tema(s) e as ideias centrais do texto, relacionando as informações expressas com o contexto e com o objetivo (expor, informar, explicar, persuadir).",
+            "Explicar sentidos figurados e contextuais com base em inferências.",
+            "Avaliar argumentos quanto à validade e adequação aos objetivos comunicativos.",
+            "Sintetizar a informação recebida."
+          ],
+          "activities": [
+            {
+              "title": "Três minutos, três argumentos",
+              "type": "Escuta",
+              "duration": "40 min",
+              "materials": [
+                "Um debate ou uma entrevista gravada",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Ouve três minutos de um debate e escreve só os argumentos, sem os comentar.",
+                "Ao lado de cada um, escreve o objetivo de quem falou: expor, informar, explicar ou persuadir.",
+                "Classifica cada argumento como válido ou não, e como adequado ou não, em duas colunas.",
+                "Encontra pelo menos um que seja adequado mas não válido.",
+                "Escreve um resumo de cinco linhas do que foi discutido, sem tomar partido."
+              ],
+              "curriculumLink": "Trabalha a avaliação de argumentos quanto à validade e adequação aos objetivos comunicativos, e a síntese da informação recebida.",
+              "reflection": "O argumento que te pareceu mais forte era válido?"
+            }
+          ]
+        },
+        {
+          "id": "expressao",
+          "name": "Falar para os outros",
+          "student": "A palavra que organiza este bloco é planificar. Uma exposição oral não se improvisa nem se lê — planeia-se, ensaia-se e avalia-se depois. O programa nomeia até os recursos gramaticais que espera ouvir: coordenação e subordinação, anáfora, conectores frásicos e marcadores discursivos. Traduzido: frases que se ligam umas às outras, palavras que retomam o que já foi dito, e expressões que sinalizam onde vais — «em primeiro lugar», «por outro lado», «em conclusão». São essas que fazem alguém conseguir seguir-te sem se perder.",
+          "questions": [
+            "Que marcadores discursivos usas quando falas?",
+            "Ler em voz alta e expor são a mesma coisa?",
+            "O que faz uma apresentação eletrónica ser útil em vez de distrair?"
+          ],
+          "essentials": [
+            "Fazer exposições orais para apresentação de temas, ideias e opiniões.",
+            "Planificar e avaliar o texto oral, tendo em conta a intenção comunicativa e o género textual (expor/informar, explicar, argumentar), individualmente e/ou com discussão de diversos pontos de vista.",
+            "Produzir um discurso oral com vocabulário e recursos gramaticais diversificados (coordenação e subordinação; anáfora; conectores frásicos e marcadores discursivos).",
+            "Usar recursos verbais e não-verbais com fluência e correção (apresentação eletrónica, Web)."
+          ],
+          "activities": [
+            {
+              "title": "A mesma exposição, duas vezes",
+              "type": "Oralidade",
+              "duration": "Duas sessões de 40 min",
+              "materials": [
+                "Um tema à tua escolha",
+                "Telemóvel para gravar",
+                "Uma folha de plano"
+              ],
+              "steps": [
+                "Prepara uma exposição de três minutos com um plano escrito: introdução, três pontos, conclusão.",
+                "Grava a primeira versão sem ensaiar.",
+                "Ouve-te e conta os marcadores discursivos que usaste e as vezes que disseste «e depois».",
+                "Reescreve o plano acrescentando conectores e uma anáfora clara em cada transição.",
+                "Grava a segunda versão e compara as duas com quem te ouvir."
+              ],
+              "curriculumLink": "Planifica e avalia o texto oral e produz discurso com recursos gramaticais diversificados: conectores, anáfora e marcadores discursivos.",
+              "reflection": "O que melhorou mais: o conteúdo ou a ligação entre as partes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leitura",
+      "name": "Leitura",
+      "emoji": "📰",
+      "palette": "indigo",
+      "summary": "Vidas contadas e opinião publicada, lidas com método.",
+      "subtopics": [
+        {
+          "id": "generos-e-modos-de-ler",
+          "name": "Géneros e modos de ler",
+          "student": "A lista de géneros deste ano tem uma lógica: autobiografia, diário e memórias são vidas contadas por quem as viveu; reportagem, comentário e texto de opinião são o mundo contado por quem o observa. Todos têm autor visível e ponto de vista assumido, ao contrário da notícia. E há um género prático que aparece sozinho e vale ouro — a carta de apresentação, que é o texto com que alguém se candidata a alguma coisa. É provavelmente o primeiro texto que vais escrever a sério fora da escola.",
+          "questions": [
+            "Um diário escrito para ser publicado ainda é um diário?",
+            "O que separa uma reportagem de uma notícia?",
+            "O que se põe numa carta de apresentação, e o que se deixa de fora?"
+          ],
+          "essentials": [
+            "Ler em suportes variados textos dos géneros seguintes: (auto)biografia, diário, memórias; reportagem, comentário; texto de opinião.",
+            "Reconhecer a organização discursiva de cartas de apresentação.",
+            "Realizar leitura em voz alta, silenciosa e autónoma, não contínua e de pesquisa."
+          ],
+          "activities": [
+            {
+              "title": "Uma carta de apresentação verdadeira",
+              "type": "Escrita e leitura",
+              "duration": "45 min",
+              "materials": [
+                "Três exemplos reais de cartas de apresentação",
+                "Papel ou computador"
+              ],
+              "steps": [
+                "Lê três cartas de apresentação e marca a estrutura de cada uma: abertura, motivo, provas, fecho.",
+                "Escreve o que as três têm em comum e onde diferem.",
+                "Escolhe uma coisa real a que te pudesses candidatar: um voluntariado, um clube, um curso de verão.",
+                "Escreve a tua carta seguindo a estrutura que identificaste, em menos de uma página.",
+                "Dá-a a ler a um adulto e pergunta se convidaria essa pessoa."
+              ],
+              "curriculumLink": "Reconhece a organização discursiva de cartas de apresentação e aplica-a.",
+              "reflection": "O que é que a tua carta prova, além de dizer?"
+            }
+          ]
+        },
+        {
+          "id": "compreender-e-tratar",
+          "name": "Compreender e tratar a informação",
+          "student": "Quatro descritores que descrevem, na verdade, um método. Explicitar o sentido global com inferências «devidamente justificadas» — a exigência está nas duas últimas palavras: não basta perceber, é preciso apontar onde no texto está a base. Distinguir factos de opiniões é a competência de leitura mais transferível que existe. E o último descritor sai da aula de Português e entra no trabalho de investigação: registar e tratar informação «pela utilização dos métodos do trabalho científico», que é como se diz «cita as tuas fontes e organiza as tuas notas».",
+          "questions": [
+            "Que frase do texto justifica a tua interpretação?",
+            "Consegues distinguir facto de opinião num texto de opinião?",
+            "Como organizas as notas de uma pesquisa?"
+          ],
+          "essentials": [
+            "Explicitar o sentido global de um texto, com base em inferências, devidamente justificadas.",
+            "Identificar temas, ideias principais, pontos de vista, causas e efeitos, factos e opiniões.",
+            "Reconhecer a forma como o texto está estruturado (diferentes partes e subpartes).",
+            "Utilizar procedimentos de registo e tratamento da informação pela utilização dos métodos do trabalho científico."
+          ],
+          "activities": [
+            {
+              "title": "Duas cores num texto de opinião",
+              "type": "Leitura crítica",
+              "duration": "35 min",
+              "materials": [
+                "Um texto de opinião impresso",
+                "Dois marcadores"
+              ],
+              "steps": [
+                "Sublinha a uma cor tudo o que é facto verificável, e a outra tudo o que é opinião.",
+                "Conta as linhas de cada cor e calcula a proporção.",
+                "Escolhe três factos e verifica-os numa fonte independente.",
+                "Escreve a tese do autor numa frase e indica em que parágrafo ela está.",
+                "Escreve se algum facto foi apresentado de forma a parecer sustentar mais do que sustenta."
+              ],
+              "curriculumLink": "Identifica temas, pontos de vista, factos e opiniões e explicita o sentido global com inferências justificadas.",
+              "reflection": "Um texto pode ser todo factos e ainda assim ser tendencioso?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "educacao-literaria",
+      "name": "Educação Literária",
+      "emoji": "📚",
+      "palette": "purple",
+      "summary": "Poesia, narrativa e teatro lidos por inteiro, e um projeto de leitura que é teu.",
+      "subtopics": [
+        {
+          "id": "obras-e-interpretacao",
+          "name": "Obras inteiras e modos literários",
+          "student": "O primeiro descritor traz números, o que é raro: no mínimo nove poemas de sete autores diferentes, duas narrativas de autores de língua portuguesa e um texto dramático — por inteiro, não em excertos. Essa palavra, «integralmente», é o coração do domínio: um livro lido aos bocados é outro livro. O segundo descritor pede que interpretes o texto «em função do seu modo literário», isto é, que leias um poema como poema e uma peça como peça, porque as perguntas que se fazem a cada um são diferentes.",
+          "questions": [
+            "O que se perde ao ler só um excerto de uma obra?",
+            "Que perguntas se fazem a um poema que não se fazem a um conto?",
+            "Uma peça de teatro foi escrita para ser lida?"
+          ],
+          "essentials": [
+            "Ler integralmente obras literárias narrativas, líricas e dramáticas (no mínimo, nove poemas de sete autores diferentes, duas narrativas de autores de língua portuguesa e um texto dramático).",
+            "Interpretar o texto em função do seu modo literário, com base na análise da representação dos temas, das experiências e dos valores."
+          ],
+          "activities": [
+            {
+              "title": "Nove poemas, sete vozes",
+              "type": "Leitura",
+              "duration": "Ao longo do período",
+              "materials": [
+                "A lista de obras do teu manual",
+                "Um caderno"
+              ],
+              "steps": [
+                "Escolhe nove poemas de sete autores diferentes, entre os obrigatórios e os que puderes selecionar.",
+                "Lê um por semana, em voz alta, pelo menos duas vezes.",
+                "Para cada um, escreve três linhas: o tema, a imagem que te ficou, e uma pergunta.",
+                "No fim, agrupa os nove por afinidade, não por autor nem por época.",
+                "Escreve o que os teus grupos revelam sobre o que te interessa na poesia."
+              ],
+              "curriculumLink": "Cumpre a leitura integral do mínimo de nove poemas de sete autores diferentes e a interpretação em função do modo literário.",
+              "reflection": "Os teus grupos separavam poemas antigos de modernos, ou não?"
+            }
+          ]
+        },
+        {
+          "id": "marcas-formais",
+          "name": "Marcas formais do poema e da peça",
+          "student": "Aqui aprende-se o vocabulário técnico, e ele serve para ver melhor, não para classificar. Estrofe, rima, esquema rimático e métrica são as engrenagens de um poema: contar sílabas métricas explica porque é que um verso soa a marcha e outro a canção de embalar. No teatro, ato, cena, fala e indicações cénicas mostram que a peça é uma planta de construção, não um texto acabado. E o recurso expressivo nomeado este ano é a antítese, que junta contrários na mesma frase — e que existe porque muita coisa importante só se diz assim.",
+          "questions": [
+            "Quantas sílabas métricas tem o verso de que mais gostas?",
+            "As indicações cénicas são para o leitor ou para o encenador?",
+            "Porque é que uma antítese diz mais do que uma frase direta?"
+          ],
+          "essentials": [
+            "Identificar marcas formais do texto poético: estrofe, rima, esquema rimático e métrica.",
+            "Reconhecer, na organização do texto dramático, ato, cena, fala e indicações cénicas.",
+            "Compreender a utilização de recursos expressivos na construção de sentido do texto (designadamente a antítese)."
+          ],
+          "activities": [
+            {
+              "title": "Contar sílabas em voz alta",
+              "type": "Poesia",
+              "duration": "35 min",
+              "materials": [
+                "Dois poemas com metros diferentes",
+                "Papel e lápis"
+              ],
+              "steps": [
+                "Escolhe uma redondilha e um soneto e lê os dois em voz alta.",
+                "Escande os primeiros quatro versos de cada um, contando as sílabas até à última tónica.",
+                "Marca o esquema rimático com letras: abba, abab, e assim por diante.",
+                "Bate o ritmo com a mão enquanto lês, e vê onde caem as pancadas fortes.",
+                "Escreve como o metro muda o que o poema parece dizer."
+              ],
+              "curriculumLink": "Identifica marcas formais do texto poético: estrofe, rima, esquema rimático e métrica.",
+              "reflection": "O poema mais curto era o mais simples?"
+            },
+            {
+              "title": "Uma cena montada",
+              "type": "Teatro",
+              "duration": "45 min",
+              "materials": [
+                "Uma cena de um texto dramático",
+                "Três colegas",
+                "Um espaço livre"
+              ],
+              "steps": [
+                "Escolham uma cena curta e leiam-na primeiro sem as indicações cénicas.",
+                "Marquem no texto onde cada personagem entra, sai e a quem se dirige.",
+                "Leiam agora com as indicações cénicas e vejam o que muda.",
+                "Encenem a cena de duas maneiras opostas, mudando só o tom.",
+                "Escrevam o que no texto permitia as duas leituras."
+              ],
+              "curriculumLink": "Reconhece, na organização do texto dramático, ato, cena, fala e indicações cénicas.",
+              "reflection": "Quanto de uma peça está escrito, e quanto é decidido por quem a monta?"
+            }
+          ]
+        },
+        {
+          "id": "leitor-que-se-torna",
+          "name": "O leitor que te vais tornando",
+          "student": "Os três últimos descritores não avaliam compreensão, avaliam relação. Exprimir opiniões e problematizar sentidos «como reação pessoal»; expressar o apreço por livros lidos; e desenvolver um projeto de leitura que revele «um percurso pessoal de leitor», com obras escolhidas em contrato com o professor. É provavelmente a parte mais generosa do programa de Português: reconhece que ninguém se torna leitor por obrigação, e cria um espaço em que a escolha é tua e fica registada.",
+          "questions": [
+            "Que livro recomendarias a alguém que não gosta de ler?",
+            "O teu percurso de leitor tem alguma direção, ou é acaso?",
+            "Como se fala de um livro sem contar o enredo?"
+          ],
+          "essentials": [
+            "Exprimir opiniões e problematizar sentidos como reação pessoal à audição ou à leitura de um texto ou obra.",
+            "Expressar o apreço por livros lidos através de processos e suportes diversificados.",
+            "Desenvolver um projeto de leitura que revele um percurso pessoal de leitor (obras escolhidas em contrato de leitura com o(a) professor(a))."
+          ],
+          "activities": [
+            {
+              "title": "Um contrato de leitura para o ano",
+              "type": "Projeto",
+              "duration": "Uma sessão, e depois o ano inteiro",
+              "materials": [
+                "Um caderno",
+                "A biblioteca da escola ou municipal"
+              ],
+              "steps": [
+                "Escreve os cinco últimos livros que leste inteiros, com o que te fez escolher cada um.",
+                "Identifica um padrão e escolhe deliberadamente três livros que o quebrem.",
+                "Escreve o teu contrato: que obras, até quando, e porquê cada uma.",
+                "Combina-o com o teu professor e assina-o mesmo.",
+                "Ao acabar cada uma, escreve meia página sobre o que ela te fez pensar, não sobre o que ela conta."
+              ],
+              "curriculumLink": "Desenvolve um projeto de leitura que revele um percurso pessoal de leitor, com obras escolhidas em contrato de leitura.",
+              "reflection": "O livro que quebrou o padrão foi o pior ou o mais interessante?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "escrita",
+      "name": "Escrita",
+      "emoji": "✍️",
+      "palette": "crimson",
+      "summary": "Escrever para alguém e com um fim, tomar posição, rever e dar crédito.",
+      "subtopics": [
+        {
+          "id": "planificar-e-elaborar",
+          "name": "Planificar e elaborar",
+          "student": "Duas ideias que mudam a qualidade de tudo o que escreves. A primeira é que um texto tem destinatário e finalidade explícitos: escreve-se para alguém, para fazer alguma coisa. Um comentário para a turma e o mesmo comentário para uma revista não são o mesmo texto. A segunda é a planificação, e o descritor enumera o que ela deve garantir: distribuição de informação por parágrafos, continuidade de sentido, progressão temática, coerência e coesão. Progressão temática é a que mais falta faz — cada parágrafo tem de acrescentar, não repetir com outras palavras.",
+          "questions": [
+            "Para quem estás a escrever este texto, exatamente?",
+            "O que é que o teu terceiro parágrafo acrescenta ao segundo?",
+            "Um plano feito antes poupa tempo ou tira-o?"
+          ],
+          "essentials": [
+            "Elaborar textos que cumpram objetivos explícitos quanto ao destinatário e à finalidade (informativa ou argumentativa) no âmbito de géneros como: diário, entrevista, comentário e resposta a questões de leitura.",
+            "Planificar a escrita de textos com finalidades informativas, assegurando distribuição de informação por parágrafos, continuidade de sentido, progressão temática, coerência e coesão."
+          ],
+          "activities": [
+            {
+              "title": "O mesmo assunto, dois destinatários",
+              "type": "Escrita",
+              "duration": "45 min",
+              "materials": [
+                "Papel ou computador"
+              ],
+              "steps": [
+                "Escolhe um assunto sobre o qual tenhas opinião firme.",
+                "Escreve um comentário de vinte linhas dirigido aos teus colegas.",
+                "Escreve outro, do mesmo tamanho e sobre o mesmo, dirigido ao diretor da escola.",
+                "Sublinha o que mudou: vocabulário, exemplos, tom, ordem dos argumentos.",
+                "Escreve o que não mudou — e essa é a tua tese."
+              ],
+              "curriculumLink": "Elabora textos com objetivos explícitos quanto ao destinatário e à finalidade, informativa ou argumentativa.",
+              "reflection": "Mudar de destinatário obrigou-te a mudar de opinião ou só de maneira de a dizer?"
+            }
+          ]
+        },
+        {
+          "id": "redigir-rever-e-citar",
+          "name": "Redigir, rever e citar",
+          "student": "O descritor central deste bloco pede textos «em que se confrontam ideias e pontos de vista e se toma uma posição». Confrontar antes de tomar posição — por essa ordem. Um texto argumentativo que só apresente um lado não é forte, é incompleto. Depois vem a revisão, que é o que separa um rascunho de um texto, e a reformulação em função do contexto. E o último descritor é curto e sério: respeitar os princípios do trabalho intelectual quanto às normas de citação. Usar palavras de outra pessoa sem o dizer tem nome, e o nome não é abreviatura.",
+          "questions": [
+            "Já escreveste alguma vez o melhor argumento do lado contrário ao teu?",
+            "Quantas vezes revês um texto antes de o entregar?",
+            "Onde acaba a inspiração e começa a cópia?"
+          ],
+          "essentials": [
+            "Redigir textos coesos e coerentes, em que se confrontam ideias e pontos de vista e se toma uma posição sobre personagens, acontecimentos, situações e/ou enunciados.",
+            "Escrever com correção sintática, com vocabulário diversificado, com uso correto da ortografia e dos sinais de pontuação.",
+            "Reformular textos tendo em conta a adequação ao contexto e a correção linguística.",
+            "Utilizar com critério as tecnologias da informação na produção, na revisão e na edição de texto.",
+            "Respeitar os princípios do trabalho intelectual, quanto às normas para citação."
+          ],
+          "activities": [
+            {
+              "title": "O melhor argumento do outro lado",
+              "type": "Argumentação",
+              "duration": "45 min",
+              "materials": [
+                "Papel ou computador"
+              ],
+              "steps": [
+                "Escolhe um tema em que tenhas posição e escreve-a numa frase.",
+                "Antes de escrever o texto, escreve os três melhores argumentos contra ti, tão bem quanto os conseguires formular.",
+                "Escreve agora o texto: apresenta esses argumentos primeiro, e só depois responde-lhes.",
+                "Revê o texto duas vezes: uma para o sentido, outra para pontuação e ortografia.",
+                "Acrescenta as fontes de qualquer facto ou citação que tenhas usado."
+              ],
+              "curriculumLink": "Redige textos coesos em que se confrontam pontos de vista e se toma posição, revendo e respeitando as normas de citação.",
+              "reflection": "Depois de escreveres bem os argumentos contrários, a tua posição continuou a mesma?"
+            },
+            {
+              "title": "Rever com uma lista",
+              "type": "Revisão",
+              "duration": "30 min",
+              "materials": [
+                "Um texto teu já escrito",
+                "Uma caneta de outra cor"
+              ],
+              "steps": [
+                "Faz uma lista de seis coisas a verificar: concordância, pontuação, repetições, parágrafos, conectores, citações.",
+                "Lê o texto seis vezes, cada uma à procura de uma coisa só.",
+                "Marca cada correção com a caneta de cor.",
+                "Conta quantas correções fez cada passagem.",
+                "Escreve qual dos seis erros é o teu mais frequente e guarda essa informação."
+              ],
+              "curriculumLink": "Reformula textos tendo em conta a adequação ao contexto e a correção linguística, e escreve com correção sintática e ortográfica.",
+              "reflection": "Ler seis vezes à procura de uma coisa é mais eficaz do que ler uma vez à procura de tudo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gramatica",
+      "name": "Gramática",
+      "emoji": "🔤",
+      "palette": "amber",
+      "summary": "Subordinação, o modo conjuntivo, e a língua como coisa que varia.",
+      "subtopics": [
+        {
+          "id": "classes-e-conjuntivo",
+          "name": "Classes de palavras e o modo conjuntivo",
+          "student": "O modo conjuntivo é a novidade do ano e vale a pena perceber o que ele faz em vez de decorar onde aparece. O indicativo afirma o que é; o conjuntivo trata do que não é ainda, ou pode não ser: «espero que venhas», «embora chova», «talvez seja». É o modo da dúvida, do desejo e da hipótese, e é por isso que as conjunções que o exigem são exatamente as que introduzem condições e concessões. Os quantificadores universal e existencial são a outra face da mesma moeda: dizer «todos» ou «alguns» muda por completo o que uma frase afirma.",
+          "questions": [
+            "«Todos os alunos» e «alguns alunos» — o que muda ao negar cada uma?",
+            "Porque é que «embora» pede conjuntivo?",
+            "Consegues dizer a mesma coisa no indicativo e no conjuntivo?"
+          ],
+          "essentials": [
+            "Distinguir as seguintes subclasses de palavras: quantificador universal e existencial.",
+            "Distinguir na classe da conjunção e locução conjuncional subordinativa as seguintes subclasses: comparativa, consecutiva, concessiva.",
+            "Empregar corretamente o modo conjuntivo em contextos de uso obrigatório em frases complexas."
+          ],
+          "activities": [
+            {
+              "title": "O modo do que ainda não é",
+              "type": "Gramática",
+              "duration": "35 min",
+              "materials": [
+                "Papel e caneta",
+                "Um texto qualquer à mão"
+              ],
+              "steps": [
+                "Num texto, sublinha todos os verbos no conjuntivo que encontrares.",
+                "Para cada um, escreve a palavra que o obrigou: embora, talvez, para que, caso.",
+                "Reescreve cinco dessas frases no indicativo e vê o que deixa de fazer sentido.",
+                "Escreve cinco frases tuas sobre o próximo ano, todas com conjuntivo.",
+                "Escreve o que essas cinco frases têm em comum quanto ao tempo e à certeza."
+              ],
+              "curriculumLink": "Emprega corretamente o modo conjuntivo em contextos de uso obrigatório em frases complexas.",
+              "reflection": "Uma língua sem conjuntivo perderia o quê?"
+            }
+          ]
+        },
+        {
+          "id": "sintaxe-e-subordinacao",
+          "name": "Sintaxe e subordinação",
+          "student": "Este é o bloco mais técnico do ano e o que mais compensa perceber de uma vez. Uma oração subordinada faz, dentro da frase, o trabalho de uma só palavra — e é isso que dá os três nomes. Se faz o trabalho de um advérbio, é adverbial: «Saí quando chovia» é «Saí então». Se faz o de um adjetivo, é adjetival: «O livro que li» é «o livro lido». Se faz o de um nome, é substantiva: «Quero que venhas» é «Quero isso». O truque para as identificar é sempre o mesmo — tenta substituir a oração inteira por uma palavra e vê que classe ela teria.",
+          "questions": [
+            "Por que palavra substituirias «que ele chegasse» em «Esperei que ele chegasse»?",
+            "O predicativo do complemento direto aparece com que verbos?",
+            "Uma oração pode ser sujeito?"
+          ],
+          "essentials": [
+            "Distinguir funções sintáticas: predicativo do complemento direto.",
+            "Distinguir subordinação adverbial de subordinação adjetival e de subordinação substantiva.",
+            "Explicar a função sintática da oração substantiva completiva selecionada pelo verbo.",
+            "Classificar orações subordinadas comparativas, consecutivas e concessivas."
+          ],
+          "activities": [
+            {
+              "title": "Substituir a oração por uma palavra",
+              "type": "Gramática",
+              "duration": "40 min",
+              "materials": [
+                "Papel e caneta",
+                "Doze frases complexas"
+              ],
+              "steps": [
+                "Escreve doze frases complexas, quatro de cada tipo de subordinação.",
+                "Em cada uma, tapa a oração subordinada e tenta substituí-la por uma palavra só.",
+                "Escreve a classe dessa palavra: advérbio, adjetivo ou nome.",
+                "Confirma que a classificação da oração corresponde à classe da palavra.",
+                "Troca as tuas doze frases com um colega e classifiquem as dele."
+              ],
+              "curriculumLink": "Distingue subordinação adverbial, adjetival e substantiva e explica a função sintática da oração completiva.",
+              "reflection": "Houve alguma que não desse para substituir? Porquê?"
+            }
+          ]
+        },
+        {
+          "id": "palavras-e-variacao",
+          "name": "Palavras, sentidos e variação da língua",
+          "student": "O programa fecha com três descritores que abrem a gramática ao mundo. As relações de sentido entre palavras — sinonímia, antonímia, hiperonímia — são o que te permite escrever sem repetir e ler sem tropeçar. Depois vem o descritor mais interessante do ano: reconhecer traços da variação da língua portuguesa «de natureza social». A língua não varia só de região para região, varia com a escolaridade, a profissão, a idade e o grupo, e o modo como falamos serve para incluir e para excluir. E o último descritor é o mais prático: saber dizer o que se pensa e assumir compromissos com as palavras certas.",
+          "questions": [
+            "Que palavras usas com amigos e nunca usarias numa entrevista?",
+            "Quem decide o que é «falar bem»?",
+            "Qual é a diferença entre «acho que faço» e «comprometo-me a fazer»?"
+          ],
+          "essentials": [
+            "Analisar relações de sentido entre palavras.",
+            "Reconhecer traços da variação da língua portuguesa de natureza social.",
+            "Empregar formas linguísticas adequadas à expressão de opinião e à assunção de compromissos."
+          ],
+          "activities": [
+            {
+              "title": "A mesma frase em quatro registos",
+              "type": "Variação",
+              "duration": "35 min",
+              "materials": [
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe uma mensagem simples: pedir um adiamento de um trabalho.",
+                "Escreve-a como a dirias a um amigo, a um irmão mais novo, ao teu professor e por escrito num email formal.",
+                "Sublinha as palavras que só aparecem numa das versões.",
+                "Marca qual das quatro assume um compromisso mais claro.",
+                "Escreve o que aconteceria se trocasses o registo entre destinatários."
+              ],
+              "curriculumLink": "Reconhece traços da variação da língua de natureza social e emprega formas adequadas à expressão de opinião e à assunção de compromissos.",
+              "reflection": "A versão mais formal era a mais clara?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
