@@ -1,0 +1,265 @@
+{
+  "id": "frances",
+  "name": "Francês (LE II)",
+  "emoji": "🇫🇷",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "Segundo ano de francês, e o documento marca-o como Nível A2.1 do Quadro Europeu Comum de Referência — um degrau acima do A1.2 do 7.º ano. As três competências mantêm-se: comunicativa, intercultural e estratégica. Todos os descritores partem da mesma moldura, «no contexto temático da vida quotidiana», e há dois números concretos que definem a exigência do ano: textos e correspondência de 50 a 60 palavras, articulados com conectores básicos de coordenação e subordinação.",
+  "studentIntro": "No 7.º ano aprendeste a apresentar-te e a dizer o essencial; este ano começas a contar coisas. Repara no que se repete em quatro dos seis descritores comunicativos: descrever e narrar acontecimentos reais ou imaginários, presentes ou passados. Narrar no passado é a fronteira que estás a atravessar, e em francês isso significa os tempos do passado e os conectores que ligam uma frase à seguinte. Sessenta palavras parecem poucas, mas sessenta palavras que se ligam umas às outras já são um texto — e é a ligação, não o comprimento, que faz a diferença.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Francês, 8.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/frances_3c_8a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Quando o documento remata um descritor com uma lista de finalidades, essa lista é transcrita dentro da mesma entrada."
+  },
+  "domains": [
+    {
+      "id": "competencia-comunicativa",
+      "name": "Competência Comunicativa",
+      "emoji": "💬",
+      "palette": "indigo",
+      "summary": "Compreender, interagir e produzir sobre o quotidiano, ao nível A2.1.",
+      "subtopics": [
+        {
+          "id": "compreensao-oral-e-escrita",
+          "name": "Compreensão oral e escrita",
+          "student": "Os dois descritores são quase gémeos e diferem no essencial: a lista de suportes. Na oralidade são anúncios públicos, mensagens telefónicas, publicidade, canções, videoclipes e publicações digitais; na escrita, correspondência, folhetos, catálogos, receitas, ementas, artigos de jornal e banda desenhada. Nenhum deles é um texto escolar — são todos coisas que existem no mundo. E a estratégia pedida é a mesma nas duas: identificar palavras-chave e inferir o sentido geral. Inferir é a palavra importante: não é traduzir tudo, é deduzir a partir do que se reconhece.",
+          "questions": [
+            "Quanto percebes de uma canção francesa à primeira audição?",
+            "Uma ementa e um folheto ensinam que tipo de palavras?",
+            "Que pistas usas para adivinhar o sentido de uma frase que não percebes?"
+          ],
+          "essentials": [
+            "Identificar palavras-chave e frases simples e inferir o sentido geral em mensagens e textos simples e curtos (anúncios públicos, mensagens telefónicas, publicidade, canções, videoclipes, publicações digitais, entre outros), relacionados com situações do quotidiano e experiências pessoais e articulados de forma clara e pausada.",
+            "Identificar palavras-chave e frases simples e inferir o sentido geral em mensagens e textos simples e curtos (correspondência, folhetos, publicidade, catálogos, receitas, ementas, artigos de jornal, banda desenhada, publicações digitais, entre outros), relacionados com situações do quotidiano e experiências pessoais, constituídos essencialmente por frases com estruturas elementares e vocabulário familiar."
+          ],
+          "activities": [
+            {
+              "title": "Uma receita em francês, cozinhada",
+              "type": "Compreensão escrita",
+              "duration": "Uma tarde",
+              "materials": [
+                "Uma receita simples em francês",
+                "Os ingredientes",
+                "Um adulto na cozinha"
+              ],
+              "steps": [
+                "Escolhe uma receita francesa simples — crêpes, quiche, salada — em francês.",
+                "Antes de traduzir seja o que for, sublinha tudo o que reconheces e escreve o que achas que a receita é.",
+                "Procura só as palavras sem as quais não consegues avançar: verbos de ação e quantidades.",
+                "Faz a receita seguindo o texto francês, não uma tradução.",
+                "No fim, escreve as dez palavras que aprendeste por as teres feito com as mãos."
+              ],
+              "safety": "Fogão, forno e facas sempre com um adulto por perto.",
+              "curriculumLink": "Trabalha a identificação de palavras-chave e a inferência do sentido geral em textos simples como receitas.",
+              "reflection": "Aprendeste mais palavras a cozinhar ou a traduzir?"
+            }
+          ]
+        },
+        {
+          "id": "interacao-oral-e-escrita",
+          "name": "Interação oral e escrita",
+          "student": "Interagir é responder a alguém, e o descritor da interação oral acrescenta uma exigência que raramente se vê escrita num programa: respeitar «os princípios de delicadeza». Em francês isso é matéria concreta — o vous, o s'il vous plaît, o est-ce que je pourrais, o condicional de cortesia. Não é enfeite: em França, pedir sem essas fórmulas soa a ordem. A interação escrita fixa o tamanho, 50 a 60 palavras, e pede conectores de coordenação e subordinação, que são o que transforma frases soltas numa carta.",
+          "questions": [
+            "Como se pede uma coisa em francês sem parecer mandar?",
+            "Quando se trata alguém por tu e quando por vous?",
+            "Que conectores conheces além de et e mais?"
+          ],
+          "essentials": [
+            "Interagir, sobre situações do quotidiano e experiências pessoais, pronunciando de forma compreensível, em conversas curtas, bem estruturadas e ligadas, tendo em conta o discurso do interlocutor, respeitando os princípios de delicadeza e usando um repertório limitado de expressões e de frases com estruturas gramaticais elementares para: pedir e dar informações; descrever, narrar acontecimentos reais ou imaginários, presentes ou passados; exprimir gostos e preferências.",
+            "Escrever correspondência (50-60 palavras) sobre situações do quotidiano e experiências pessoais em suportes diversos respeitando as convenções textuais, utilizando vocabulário elementar e frases simples e articulando as ideias com conetores básicos de coordenação e subordinação para: pedir e dar informações; descrever, narrar acontecimentos reais ou imaginários, presentes ou passados; exprimir gostos e preferências."
+          ],
+          "activities": [
+            {
+              "title": "O mesmo pedido, com e sem delicadeza",
+              "type": "Role-play",
+              "duration": "35 min",
+              "materials": [
+                "Papel e caneta",
+                "Um colega"
+              ],
+              "steps": [
+                "Escrevam cinco pedidos simples em francês, na forma mais direta possível.",
+                "Reescrevam cada um usando fórmulas de delicadeza: s'il vous plaît, est-ce que, pourriez-vous.",
+                "Encenem os dez pedidos, alternando as duas versões, sem dizer qual é qual.",
+                "Quem ouve diz como se sentiu em cada um.",
+                "Escrevam a lista das fórmulas que mudaram mais o efeito."
+              ],
+              "curriculumLink": "Trabalha a interação oral respeitando os princípios de delicadeza, para pedir e dar informações.",
+              "reflection": "A versão direta era incorreta em francês, ou apenas indelicada?"
+            },
+            {
+              "title": "Sessenta palavras sobre ontem",
+              "type": "Escrita",
+              "duration": "35 min",
+              "materials": [
+                "Papel e caneta",
+                "Uma lista de conectores franceses"
+              ],
+              "steps": [
+                "Escreve o que fizeste ontem em francês, em frases curtas e soltas, sem te preocupares com ligação.",
+                "Conta as palavras: deves ter entre 50 e 60.",
+                "Reescreve o mesmo texto ligando as frases com conectores: et, mais, parce que, quand, puis, alors.",
+                "Conta outra vez e corta o que for preciso para voltares às 60.",
+                "Lê as duas versões em voz alta e nota a diferença."
+              ],
+              "curriculumLink": "Escreve correspondência de 50-60 palavras articulando ideias com conetores básicos de coordenação e subordinação, narrando acontecimentos passados.",
+              "reflection": "Ligar as frases obrigou-te a cortar o quê?"
+            }
+          ]
+        },
+        {
+          "id": "producao-oral-e-escrita",
+          "name": "Produção oral e escrita",
+          "student": "Produzir é falar ou escrever sozinho, sem alguém do outro lado. Repara na condição do descritor oral: monólogos curtos «preparados previamente». O programa não te pede improviso este ano — pede preparação, e é uma boa notícia: preparar, ensaiar e repetir é como se ganha a fluência que mais tarde permite improvisar. E as finalidades repetem-se aqui: descrever e narrar acontecimentos reais ou imaginários, presentes ou passados, e exprimir gostos e preferências. Reais ou imaginários: podes inventar, e inventar em língua estrangeira é dos melhores exercícios que há.",
+          "questions": [
+            "Consegues contar uma história inventada em francês, no passado?",
+            "Um monólogo preparado é menos válido do que um improvisado?",
+            "Como se diz em francês que não gostas de uma coisa, sem ser 'je n'aime pas'?"
+          ],
+          "essentials": [
+            "Exprimir-se sobre situações do quotidiano e experiências pessoais, de forma simples, em monólogos curtos preparados previamente, usando um repertório limitado de expressões e de frases com estruturas gramaticais elementares e pronunciando de forma suficientemente clara para: descrever e narrar acontecimentos reais ou imaginários, presentes ou passados; exprimir gostos e preferências.",
+            "Escrever, sobre situações do quotidiano e experiências pessoais, textos (50-60 palavras) simples e curtos, em suportes diversos, respeitando as convenções textuais, utilizando vocabulário elementar e frases simples e articulando as ideias com conetores básicos de coordenação e subordinação para: descrever e narrar acontecimentos reais ou imaginários, presentes ou passados; exprimir gostos e preferências."
+          ],
+          "activities": [
+            {
+              "title": "Uma mentira em francês",
+              "type": "Produção oral",
+              "duration": "40 min",
+              "materials": [
+                "Papel para preparar",
+                "Três colegas"
+              ],
+              "steps": [
+                "Cada pessoa prepara três histórias curtas sobre o fim de semana, em francês, todas no passado.",
+                "Duas são verdadeiras e uma é inventada, mas todas plausíveis.",
+                "Conta as três em voz alta, com o texto preparado mas sem o ler.",
+                "Os outros perguntam em francês para descobrir qual é a inventada.",
+                "Quem inventou revela no fim, e todos anotam as expressões novas que apareceram."
+              ],
+              "curriculumLink": "Trabalha o monólogo curto previamente preparado para descrever e narrar acontecimentos reais ou imaginários, presentes ou passados.",
+              "reflection": "As perguntas em francês foram mais difíceis do que a história?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competencia-intercultural",
+      "name": "Competência Intercultural",
+      "emoji": "🌍",
+      "palette": "orange",
+      "summary": "A diversidade na cultura de origem e nas culturas de língua francesa.",
+      "subtopics": [
+        {
+          "id": "elementos-culturais",
+          "name": "Observar a diversidade, aqui e lá",
+          "student": "Um descritor só, e a sua construção é o que interessa: pede que observes a diversidade «na sua cultura de origem, assim como na(s) cultura(s) da língua estrangeira». A tua cultura vem primeiro na frase, e o plural entre parênteses na segunda parte não é um pormenor tipográfico — o francês é língua oficial em quase trinta países, do Senegal ao Canadá, e as culturas francófonas são muitas. Os quatro planos de observação estão nomeados: referências, hábitos, atitudes e comportamentos, sempre em situações da vida quotidiana.",
+          "questions": [
+            "Em que países se fala francês, além da França?",
+            "Que hábito português é que um francês acharia estranho?",
+            "Há mais diversidade dentro de Portugal ou entre Portugal e França?"
+          ],
+          "essentials": [
+            "Observar e identificar a diversidade na sua cultura de origem, assim como na(s) cultura(s) da língua estrangeira em referências, hábitos, atitudes e comportamentos inseridos em situações da vida quotidiana."
+          ],
+          "activities": [
+            {
+              "title": "Um dia, dois países",
+              "type": "Intercultural",
+              "duration": "45 min",
+              "materials": [
+                "Acesso à internet",
+                "Uma folha dividida ao meio"
+              ],
+              "steps": [
+                "Escolhe um país francófono que não seja a França: Senegal, Canadá, Bélgica, Marrocos, Costa do Marfim.",
+                "Descreve numa coluna um dia escolar típico em Portugal: horas, refeições, transportes, cumprimentos.",
+                "Na outra, o mesmo dia nesse país, com fontes que identifiques.",
+                "Sublinha as três diferenças que mais te surpreenderam e as três semelhanças inesperadas.",
+                "Escreve cinco frases em francês sobre uma dessas diferenças."
+              ],
+              "curriculumLink": "Observa e identifica a diversidade na cultura de origem e nas culturas de língua francesa, em hábitos e comportamentos do quotidiano.",
+              "reflection": "O país que escolheste parecia-se mais com Portugal ou com a França?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competencia-estrategica",
+      "name": "Competência Estratégica",
+      "emoji": "🧭",
+      "palette": "teal",
+      "summary": "Saber como se aprende uma língua, e avaliar se está a resultar.",
+      "subtopics": [
+        {
+          "id": "estrategias-de-aprendizagem",
+          "name": "Reconhecer as estratégias que funcionam",
+          "student": "Este descritor lista cinco estratégias pelo nome — motivação, contacto com a língua, planificação do trabalho, pesquisa de informação, assimilação de conhecimentos — e pede que identifiques as mais frequentes e as mais eficazes. Repara que são duas perguntas diferentes: a estratégia que usas mais não é necessariamente a que resulta melhor. Quase toda a gente estuda listas de vocabulário porque é o que conhece, e quase toda a gente aprende mais com contacto real com a língua. Descobrir isso sobre ti é o objetivo.",
+          "questions": [
+            "Qual é a tua estratégia mais frequente para aprender francês?",
+            "E qual é a mais eficaz? São a mesma?",
+            "Quanto contacto real com francês tens por semana, fora da aula?"
+          ],
+          "essentials": [
+            "Reconhecer a importância de estratégias no processo de aprendizagem da língua estrangeira (motivação, contacto com a língua, planificação do trabalho, pesquisa de informação, assimilação de conhecimentos) e identificar as mais frequentes e eficazes para realizar tarefas individualmente ou em grupo."
+          ],
+          "activities": [
+            {
+              "title": "Duas semanas, duas estratégias",
+              "type": "Experiência",
+              "duration": "Duas semanas, 15 min por dia",
+              "materials": [
+                "Um caderno",
+                "Acesso a música, vídeos ou textos em francês"
+              ],
+              "steps": [
+                "Semana um: estuda francês como costumas fazer, 15 minutos por dia, e regista o que fizeste.",
+                "Semana dois: substitui esses 15 minutos por contacto real — uma canção, um vídeo curto, um texto — sem estudar nada de propósito.",
+                "No fim de cada semana, faz o mesmo teste de vocabulário e compreensão.",
+                "Compara os resultados e o esforço que cada semana te custou.",
+                "Escreve qual das duas foi mais eficaz, e desenha a tua terceira semana a partir daí."
+              ],
+              "curriculumLink": "Reconhece a importância das estratégias de aprendizagem e identifica as mais frequentes e as mais eficazes.",
+              "reflection": "A estratégia mais eficaz foi a mais confortável?"
+            }
+          ]
+        },
+        {
+          "id": "planificar-e-avaliar",
+          "name": "Planificar, realizar e avaliar a eficiência",
+          "student": "O último descritor fecha o ciclo e tem uma palavra que raramente aparece num programa de línguas: eficiência. Não pede só que uses estratégias e suportes técnicos nas fases de planificação e de realização — pede que avalies se resultaram. É a diferença entre trabalhar e trabalhar bem. Repara também nas três fases nomeadas: compreensão, interação oral e produção escrita, cada uma com necessidades diferentes. A estratégia que te serve para perceber um vídeo não é a que te serve para escrever uma carta.",
+          "questions": [
+            "Como sabes se uma forma de estudar está a resultar?",
+            "Que ferramenta usas para preparar uma tarefa em francês?",
+            "Planeias antes de escrever, ou escreves e corriges?"
+          ],
+          "essentials": [
+            "Utilizar diferentes estratégias e suportes técnicos nas fases de planificação, de realização de tarefas comunicativas de compreensão, interação oral e produção escrita, avaliando a sua eficiência."
+          ],
+          "activities": [
+            {
+              "title": "Uma tarefa, três fases, uma avaliação",
+              "type": "Método",
+              "duration": "Duas sessões de 35 min",
+              "materials": [
+                "Uma tarefa real de francês",
+                "Um caderno"
+              ],
+              "steps": [
+                "Escolhe uma tarefa a sério: escrever uma carta de 60 palavras ou preparar um monólogo.",
+                "Antes de começar, escreve o plano: que suportes vais usar e por que ordem.",
+                "Executa a tarefa registando o tempo gasto em cada fase.",
+                "Entrega-a e recolhe o resultado ou o comentário do professor.",
+                "Escreve o que farias igual e o que mudarias no plano da próxima vez."
+              ],
+              "curriculumLink": "Utiliza estratégias e suportes técnicos nas fases de planificação e de realização de tarefas comunicativas, avaliando a sua eficiência.",
+              "reflection": "A fase que demorou mais foi a que mais melhorou o resultado?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
