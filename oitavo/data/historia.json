@@ -1,0 +1,448 @@
+{
+  "id": "historia",
+  "name": "História",
+  "emoji": "🏛️",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "Quatro temas cobrem cerca de quatrocentos anos, da partida das caravelas às fábricas de Manchester: a expansão e as mudanças dos séculos XV e XVI, Portugal no contexto europeu dos séculos XVII e XVIII, o crescimento e as ruturas do mundo ocidental nos séculos XVIII e XIX, e o mundo industrializado do século XIX. Cada subtema termina com um descritor de conceitos a identificar e aplicar, e essa lista é a espinha do ano — é aí que se percebe que História não é uma sequência de acontecimentos, é um vocabulário para os pensar.",
+  "studentIntro": "Este é o ano em que Portugal aparece grande e depois pequeno. Começa com um país da periferia da Europa a chegar primeiro à Índia e ao Brasil, e acaba com esse mesmo país a exportar gente porque não tem trabalho para ela. Pelo meio há duas coisas que convém não arrumar em gavetas separadas: a expansão trouxe especiarias, mapas e encontros de culturas, e trouxe também a submissão violenta de povos e o tráfico de seres humanos — o programa nomeia as duas coisas na mesma linha, e não te pede para escolheres entre elas. Depois vêm as revoluções, e a pergunta que fica é sempre a mesma: quem ganhou direitos, e quem continuou de fora?",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — História, 8.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/historia_3c_8a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Os subtemas do documento organizam aqui os subtópicos, e o descritor de conceitos que fecha cada um deles é transcrito na íntegra."
+  },
+  "domains": [
+    {
+      "id": "expansao-e-mudanca",
+      "name": "Expansão e mudança nos séculos XV e XVI",
+      "emoji": "⛵",
+      "palette": "amber",
+      "summary": "A abertura do mundo pelo mar, e a revolução cultural e religiosa que lhe é contemporânea.",
+      "subtopics": [
+        {
+          "id": "abertura-ao-mundo",
+          "name": "A abertura ao mundo",
+          "student": "Onze descritores, o subtema mais longo do ano, e vale a pena ver como está construído. Começa pelas condições e motivações — porquê Portugal, porquê então — passa pelos rumos e pelas etapas, e chega às civilizações que já lá estavam, que o programa manda caracterizar antes de falar da ocupação. Essa ordem não é inocente: obriga a admitir que os europeus chegaram a sítios habitados. Dois descritores adiante vem a frase mais dura do ano, sobre a submissão violenta de povos e o tráfico de seres humanos «como uma realidade da expansão» — não como um episódio lateral, como parte do que a expansão foi.",
+          "questions": [
+            "Porque é que foi Portugal, e não outro reino, a começar?",
+            "O que existia em Benim, em Calecute e em Tenochtitlán antes da chegada dos europeus?",
+            "Uma rota comercial pode ser uma forma de poder?"
+          ],
+          "essentials": [
+            "Referir as principais condições e motivações da expansão portuguesa;",
+            "Demonstrar a importância que o poder régio e os diversos grupos sociais tiveram no arranque da expansão portuguesa;",
+            "Reconhecer rumos e etapas principais da expansão henriquina;",
+            "Relacionar a política expansionista de D. João II e a assinatura do Tratado de Tordesilhas com a estratégia ibérica de partilha de espaços coloniais;",
+            "Identificar as principais características da conquista e da ocupação espanholas na América Central e do Sul;",
+            "Caracterizar sumariamente as principais civilizações de África, América e Ásia à chegada dos europeus;",
+            "Distinguir formas de ocupação e de exploração económicas implementadas por Portugal em África, Índia e Brasil, considerando as especificidades de cada uma dessas regiões;",
+            "Reconhecer a submissão violenta de diversos povos e o tráfico de seres humanos como uma realidade da expansão;",
+            "Identificar as rotas intercontinentais, destacando os principais centros distribuidores de produtos ultramarinos;",
+            "Compreender que as novas rotas de comércio intercontinental constituíram a base do poder global naval português, promovendo a circulação de pessoas e produtos e influenciando os hábitos culturais;",
+            "Identificar/aplicar os conceitos: navegação astronómica; colonização; capitão-donatário; império colonial; mare clausum; monopólio comercial; feitoria; tráfico de escravos; aculturação/ encontro de culturas; missionação; globalização."
+          ],
+          "activities": [
+            {
+              "title": "O que já lá estava",
+              "type": "Investigação",
+              "duration": "50 min",
+              "materials": [
+                "Acesso à internet ou à biblioteca",
+                "Uma folha A3"
+              ],
+              "steps": [
+                "Escolhe três civilizações que os europeus encontraram: uma em África, uma na América e uma na Ásia.",
+                "Para cada uma, procura o que existia por volta de 1500: cidades, escrita, comércio, técnicas, organização política.",
+                "Faz uma ficha de cinco linhas por civilização, sem usar a palavra «descoberta».",
+                "Ao lado, escreve o que aconteceu a cada uma nos cem anos seguintes.",
+                "Escreve um parágrafo sobre o que muda na história quando se conta a partir de quem já lá estava."
+              ],
+              "curriculumLink": "Cobre a caracterização sumária das principais civilizações de África, América e Ásia à chegada dos europeus.",
+              "reflection": "«Descobrir» é a palavra certa para chegar a um sítio onde vive gente?"
+            },
+            {
+              "title": "Uma rota, dez produtos",
+              "type": "Cartografia",
+              "duration": "45 min",
+              "materials": [
+                "Um planisfério impresso",
+                "Fio de duas cores"
+              ],
+              "steps": [
+                "Traça a rota do Cabo desde Lisboa até Goa, marcando as principais escalas e feitorias.",
+                "Marca com outra cor a rota do comércio triangular do Atlântico.",
+                "Escreve, em cada troço, o que era transportado em cada sentido.",
+                "Identifica os centros distribuidores e assinala onde os produtos mudavam de mãos.",
+                "Escreve quem ganhava dinheiro em cada troço, e à custa de quem."
+              ],
+              "curriculumLink": "Identifica as rotas intercontinentais e os principais centros distribuidores de produtos ultramarinos, e liga-as ao poder naval português.",
+              "reflection": "Nos dois sentidos das rotas viajava a mesma coisa?"
+            }
+          ]
+        },
+        {
+          "id": "renascimento-e-reforma",
+          "name": "Renascimento e Reforma",
+          "student": "Enquanto as caravelas partiam, a Europa mudava de ideias sobre si própria. O Renascimento troca o teocentrismo pelo antropocentrismo — o centro deixa de ser Deus e passa a ser o homem — e a imprensa é o que torna isso contagioso: o programa refere expressamente o seu papel na disseminação. A Reforma é a consequência política dessa mudança, e o descritor mais honesto do subtema é o último antes dos conceitos: tanto a reforma protestante como a católica foram acompanhadas de intolerância, «destacando o caso da Península Ibérica». Isto é, aqui.",
+          "questions": [
+            "O que muda numa sociedade quando um livro deixa de ser copiado à mão?",
+            "Porque é que uma discussão religiosa se tornou uma guerra política?",
+            "O que era um cristão-novo, e o que lhe acontecia?"
+          ],
+          "essentials": [
+            "Relacionar a renovação cultural dos séculos XV e XVI com o apoio mecenático;",
+            "Compreender o desenvolvimento de novos valores e atitudes e o papel da imprensa na sua disseminação;",
+            "Compreender a inspiração clássica da arte renascentista e as especificidades do manuelino;",
+            "Compreender em que condições se desenvolveu, na Cristandade ocidental, um movimento de insatisfação e de crítica que culminou numa rutura religiosa;",
+            "Conhecer alguns dos princípios ideológicos que separam o protestantismo do catolicismo;",
+            "Reconhecer que tanto a reforma protestante como a católica foram acompanhadas de manifestações de intolerância, destacando o caso da Península Ibérica;",
+            "Identificar/aplicar os conceitos: humanismo; renascimento; mecenato; geocentrismo/heliocentrismo; teocentrismo/antropocentrismo; arte renascentista; manuelino; naturalismo; reforma protestante/ contrarreforma; dogma; individualismo; cristão-novo."
+          ],
+          "activities": [
+            {
+              "title": "Manuelino à porta de casa",
+              "type": "Património",
+              "duration": "Uma tarde",
+              "materials": [
+                "Telemóvel para fotografar",
+                "Uma lista dos elementos manuelinos"
+              ],
+              "steps": [
+                "Aprende a reconhecer cinco elementos manuelinos: cordas, esferas armilares, cruz de Cristo, elementos marinhos e a rosca torcida.",
+                "Procura no teu concelho, ou no mais próximo, um portal, uma janela ou uma igreja com algum deles.",
+                "Fotografa e identifica cada elemento que encontrares.",
+                "Compara com uma imagem de arquitetura renascentista italiana da mesma época.",
+                "Escreve o que o manuelino tem que o renascimento italiano não tem, e porquê."
+              ],
+              "curriculumLink": "Trabalha a inspiração clássica da arte renascentista e as especificidades do manuelino.",
+              "reflection": "Porque é que um país que ia ao mar decorou as suas pedras com cordas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "portugal-no-contexto-europeu",
+      "name": "Portugal no contexto europeu dos séculos XVII e XVIII",
+      "emoji": "👑",
+      "palette": "indigo",
+      "summary": "A perda do monopólio, o absolutismo, e as Luzes a chegar a um país barroco.",
+      "subtopics": [
+        {
+          "id": "imperio-e-concorrencia",
+          "name": "O império português e a concorrência internacional",
+          "student": "Quatro descritores para explicar como se perde um império. A ideia central está no par de conceitos que fecha o subtema: mare clausum contra mare liberum — o mar como propriedade de quem lá chegou primeiro, contra o mar como espaço aberto a quem tiver navios. Os holandeses, ingleses e franceses defenderam a segunda tese porque lhes convinha, e tinham com que a impor. A União Ibérica e a Restauração são lidas aqui de uma forma pouco heroica e muito útil: como confluência e depois divergência de interesses de grupos dominantes.",
+          "questions": [
+            "O mar pode pertencer a alguém?",
+            "Quem em Portugal ganhou com a União Ibérica, e quem perdeu?",
+            "Uma companhia de comércio é uma empresa ou um estado?"
+          ],
+          "essentials": [
+            "Identificar fatores e manifestações de crise no império português a partir de meados do século XVI, destacando a ascensão de outros impérios coloniais (Holanda, França, Inglaterra);",
+            "Concluir que a União Ibérica resultou da confluência de interesses dos grupos dominantes nos dois estados;",
+            "Compreender que a Restauração resultou da divergência de interesses de uma parte significativa da sociedade portuguesa relativamente às políticas imperiais espanholas;",
+            "Identificar/aplicar os conceitos: mare liberum; capitalismo comercial; bolsa de valores; companhia de comércio; comércio triangular; Restauração."
+          ],
+          "activities": [
+            {
+              "title": "Mare clausum contra mare liberum",
+              "type": "Debate",
+              "duration": "45 min",
+              "materials": [
+                "Papel e caneta",
+                "Quatro pessoas"
+              ],
+              "steps": [
+                "Dividam-se em dois pares: um defende o mare clausum português, outro o mare liberum holandês.",
+                "Cada par prepara três argumentos jurídicos, três económicos e um moral.",
+                "Debatam durante dez minutos, com um moderador a cronometrar.",
+                "Troquem de lado e repitam com os argumentos do adversário.",
+                "Escrevam qual das teses venceu na História, e porquê — e se venceu por ter razão."
+              ],
+              "curriculumLink": "Aplica os conceitos de mare liberum e mare clausum e os fatores de crise do império português face aos novos impérios coloniais.",
+              "reflection": "A tese que venceu era a mais justa ou a mais bem armada?"
+            }
+          ]
+        },
+        {
+          "id": "antigo-regime",
+          "name": "O Antigo Regime no século XVIII",
+          "student": "Três descritores e um mundo inteiro: uma sociedade de ordens, em que se nasce clero, nobreza ou povo e daí não se sai; um rei absoluto, que concentra os poderes que hoje estão separados; e uma economia mercantilista, que mede a riqueza de um país pelo ouro que entra. O descritor do meio é o mais interessante e o mais fácil de saltar: pede que diferencies os ritmos — a agricultura mudava devagar enquanto o comércio se transformava depressa, e é dessa diferença de velocidades que sai a tensão do século seguinte.",
+          "questions": [
+            "O que impedia alguém de mudar de estrato social no Antigo Regime?",
+            "Um rei absoluto podia tudo, mesmo?",
+            "Porque é que o ouro do Brasil não industrializou Portugal?"
+          ],
+          "essentials": [
+            "Relacionar o absolutismo com a manutenção da sociedade de ordens e com as opções mercantilistas;",
+            "Diferenciar os ritmos de evolução da agricultura dos ritmos do dinamismo comercial no quadro de uma economia pré-industrial;",
+            "Referir elementos de mudanças políticas, sociais e económicas no projeto pombalino;",
+            "Identificar/aplicar os conceitos: Antigo Regime; sociedade de ordens; absolutismo; mercantilismo; manufatura."
+          ],
+          "activities": [
+            {
+              "title": "Uma vida em cada ordem",
+              "type": "Escrita",
+              "duration": "45 min",
+              "materials": [
+                "Papel e caneta",
+                "O manual ou uma fonte sobre o século XVIII português"
+              ],
+              "steps": [
+                "Escolhe um ano concreto, por exemplo 1750, e três personagens: um lavrador, um comerciante do Porto e um fidalgo.",
+                "Para cada um, escreve um dia inteiro: o que come, o que trabalha, quanto ganha, a quem paga.",
+                "Marca em cada dia os momentos em que a ordem social decide o que acontece.",
+                "Escreve o que teria de suceder para cada um mudar de ordem.",
+                "Compara os três dias e escreve qual dos três teria mais a ganhar com uma revolução."
+              ],
+              "curriculumLink": "Relaciona o absolutismo com a manutenção da sociedade de ordens e com as opções mercantilistas.",
+              "reflection": "Qual dos três é que hoje seria considerado rico?"
+            }
+          ]
+        },
+        {
+          "id": "cultura-em-portugal",
+          "name": "A cultura em Portugal no contexto europeu",
+          "student": "O barroco e as Luzes convivem neste subtema, e a tensão entre eles explica o século: o barroco é ouro, curva, emoção e autoridade; o iluminismo é razão, método, separação de poderes e soberania popular. Portugal recebe as Luzes sobretudo por intermediários — os estrangeirados — e o urbanismo pombalino é o exemplo perfeito da mistura: uma Baixa reconstruída segundo a razão, em linhas retas e prédios iguais, para afirmar o poder absoluto de quem mandou construí-la.",
+          "questions": [
+            "A Baixa de Lisboa é uma obra iluminista ou absolutista?",
+            "O que é o método científico, e o que é que ele exclui?",
+            "Quem eram os estrangeirados, e porque é que incomodavam?"
+          ],
+          "essentials": [
+            "Caracterizar a arte e a mentalidade barrocas;",
+            "Concluir que os avanços verificados na ciência e na técnica se relacionaram com o desenvolvimento do método científico;",
+            "Enquadrar as novas propostas sociais e políticas na filosofia das Luzes;",
+            "Destacar a afirmação do poder absoluto no urbanismo pombalino;",
+            "Compreender a ação dos estrangeirados e do Marquês de Pombal no contexto do pensamento iluminista;",
+            "Identificar/aplicar os conceitos: barroco; revolução científica; racionalismo; iluminismo; estrangeirado; separação de poderes; soberania popular; direitos humanos."
+          ],
+          "activities": [
+            {
+              "title": "A planta da razão",
+              "type": "Análise",
+              "duration": "45 min",
+              "materials": [
+                "Uma planta da Baixa Pombalina",
+                "Uma planta de um bairro medieval, como Alfama",
+                "Régua"
+              ],
+              "steps": [
+                "Põe as duas plantas lado a lado, à mesma escala.",
+                "Mede quantas ruas são retas em cada uma, e quantos cruzamentos são em ângulo reto.",
+                "Escreve como se orienta alguém em cada bairro, e qual é mais fácil de vigiar.",
+                "Procura o que era um edifício pombalino por dentro: a gaiola, a altura fixa, as fachadas iguais.",
+                "Escreve o que a planta da Baixa diz sobre quem a mandou fazer."
+              ],
+              "curriculumLink": "Destaca a afirmação do poder absoluto no urbanismo pombalino e enquadra-o no pensamento iluminista.",
+              "reflection": "Uma cidade racional é uma cidade mais livre?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crescimento-e-ruturas",
+      "name": "Crescimento e ruturas no mundo ocidental nos séculos XVIII e XIX",
+      "emoji": "⚙️",
+      "palette": "green",
+      "summary": "Primeiro os campos e as máquinas, depois as revoluções que refizeram os estados.",
+      "subtopics": [
+        {
+          "id": "revolucao-agricola-e-industrial",
+          "name": "A revolução agrícola e o arranque da revolução industrial",
+          "student": "Três descritores apenas, e uma cadeia causal que é preciso segurar inteira: mudam as técnicas agrícolas e a estrutura da propriedade — os enclosures fecham terras que eram comuns —, sobra gente no campo, essa gente vai para as cidades, e é essa mão de obra disponível que torna possível a fábrica. O programa pede-te expressamente para «sublinhar a ligação existente» entre as três coisas. Sem a revolução agrícola não há operários; sem operários não há revolução industrial.",
+          "questions": [
+            "O que aconteceu a quem usava as terras comuns depois dos enclosures?",
+            "Porque é que a população europeia explodiu no século XVIII?",
+            "A máquina veio antes ou depois de haver quem trabalhasse nela?"
+          ],
+          "essentials": [
+            "Sublinhar a ligação existente entre as novas tendências demográficas, a transformação da estrutura da propriedade agrícola e as inovações técnicas;",
+            "Analisar as condições que favoreceram o arranque da Revolução industrial e as alterações verificadas no regime de produção;",
+            "Identificar/aplicar os conceitos: revolução agrícola; enclosure; explosão demográfica; êxodo rural; revolução industrial; maquinofatura."
+          ],
+          "activities": [
+            {
+              "title": "Uma cadeia de cinco elos",
+              "type": "Esquema",
+              "duration": "35 min",
+              "materials": [
+                "Uma folha A3",
+                "Post-its ou papéis pequenos"
+              ],
+              "steps": [
+                "Escreve num papel cada um destes: enclosures, novas técnicas agrícolas, mais alimento, explosão demográfica, êxodo rural, fábrica.",
+                "Dispõe-nos na folha e liga-os com setas de causa e efeito.",
+                "Onde tiveres dúvida sobre a direção da seta, desenha as duas e escreve o argumento de cada.",
+                "Retira um dos papéis e vê o que acontece à cadeia.",
+                "Escreve qual dos elos, se faltasse, impediria a revolução industrial."
+              ],
+              "curriculumLink": "Sublinha a ligação entre as tendências demográficas, a transformação da propriedade agrícola e as inovações técnicas.",
+              "reflection": "A cadeia funciona nos dois sentidos, ou só num?"
+            }
+          ]
+        },
+        {
+          "id": "revolucoes-liberais",
+          "name": "O triunfo das revoluções liberais",
+          "student": "Sete descritores para a maior mudança política da história moderna: a passagem de súbditos a cidadãos. Os Estados Unidos primeiro, a França depois, e Portugal em 1820. O descritor sobre a Revolução Francesa é preciso ao ponto de ser desconfortável: fala do princípio da igualdade perante a lei estabelecido «teoricamente» — e essa palavra faz todo o trabalho, porque a igualdade proclamada não abrangia mulheres, nem escravos, nem quem não tinha bens. Em Portugal, três textos disputam o país — a Constituição de 1822, a Carta de 1826 e a resistência absolutista — e a disputa acaba numa guerra civil.",
+          "questions": [
+            "Quem ficou de fora da igualdade proclamada em 1789?",
+            "Qual é a diferença entre uma constituição e uma carta outorgada?",
+            "O que é o sufrágio censitário, e quem votava com ele?"
+          ],
+          "essentials": [
+            "Compreender as razões que justificaram o primeiro processo de independência por parte de um território colonial europeu (EUA);",
+            "Destacar, no processo revolucionário francês, a abolição dos direitos e privilégios feudais e o estabelecimento do conceito de cidadania moderno, estabelecendo-se, teoricamente, o princípio da igualdade perante a lei;",
+            "Compreender a importância das conquistas da revolução francesa para o liberalismo, estabelecendo ligações com o caso português;",
+            "Interpretar a revolução liberal portuguesa, identificando causas e as diversas propostas políticas expressas na Constituição de 1822, na Carta Constitucional de 1826 e na resistência absolutista;",
+            "Contextualizar a independência do Brasil no processo revolucionário liberal português;",
+            "Reconhecer que o fim do Antigo Regime e o estabelecimento de uma nova ordem liberal e burguesa em Portugal resultou numa guerra civil;",
+            "Identificar/aplicar os conceitos: Liberalismo; Constituição; cidadania; carta constitucional; sufrágio censitário / sufrágio universal; monarquia constitucional/estado federal/república."
+          ],
+          "activities": [
+            {
+              "title": "Quem votava, afinal",
+              "type": "Cálculo",
+              "duration": "40 min",
+              "materials": [
+                "Acesso à internet",
+                "Calculadora"
+              ],
+              "steps": [
+                "Procura as condições para votar segundo a Constituição de 1822 e segundo a Carta de 1826.",
+                "Escreve, para cada uma, quem estava excluído: por sexo, idade, rendimento, alfabetização.",
+                "Estima que percentagem da população portuguesa poderia votar em cada caso.",
+                "Compara com a percentagem que vota hoje.",
+                "Escreve uma frase sobre o que significava «soberania popular» naquele tempo."
+              ],
+              "curriculumLink": "Interpreta a revolução liberal portuguesa e as propostas da Constituição de 1822 e da Carta de 1826, aplicando o conceito de sufrágio censitário.",
+              "reflection": "Um regime em que vota um por cento da população é liberal?"
+            },
+            {
+              "title": "Três textos, um país",
+              "type": "Fontes",
+              "duration": "45 min",
+              "materials": [
+                "Excertos da Constituição de 1822 e da Carta Constitucional de 1826",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Lê o artigo sobre a soberania em cada um dos dois textos.",
+                "Escreve, para cada, de quem emana o poder e quem o exerce.",
+                "Procura no texto de 1826 o poder moderador e escreve o que ele permite ao rei.",
+                "Faz uma tabela de três colunas: 1822, 1826, absolutismo, com o que cada posição defendia.",
+                "Escreve porque é que estas diferenças chegaram para uma guerra civil."
+              ],
+              "curriculumLink": "Identifica as diversas propostas políticas expressas na Constituição de 1822, na Carta Constitucional de 1826 e na resistência absolutista.",
+              "reflection": "Uma Carta outorgada pelo rei pode limitar o rei?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mundo-industrializado",
+      "name": "O mundo industrializado no século XIX",
+      "emoji": "🚂",
+      "palette": "slate",
+      "summary": "Fábricas, comboios, operariado e ideologias novas — e Portugal a ver de fora.",
+      "subtopics": [
+        {
+          "id": "transformacoes",
+          "name": "Transformações económicas, sociais e culturais",
+          "student": "A revolução dos transportes é o motor discreto deste subtema: o comboio e o navio a vapor encolhem o mundo e criam pela primeira vez uma economia mundial. Da fábrica nasce uma classe nova, o proletariado, e das condições dessa classe nascem os movimentos reivindicativos e o socialismo — o programa pede que relaciones as três coisas, não que as saibas separadamente. E a cultura acompanha: o romantismo é a reação emocional a um mundo mecanizado, o realismo é a decisão de o olhar de frente, e o impressionismo é a pintura a descobrir que a luz muda enquanto se pinta.",
+          "questions": [
+            "O que muda numa vida quando é possível viajar cem quilómetros num dia?",
+            "Porque é que os sindicatos aparecem com as fábricas e não antes?",
+            "O realismo pintava a mesma gente que o romantismo?"
+          ],
+          "essentials": [
+            "Identificar as principais potências industrializadas no século XIX, ressaltando a importância da revolução dos transportes para a mundialização da economia;",
+            "Selecionar as alterações que se operaram a nível económico, social e demográfico devido ao desenvolvimento dos meios de produção;",
+            "Relacionar as condições de vida e trabalho do operariado com o aparecimento dos movimentos reivindicativos e da ideologia socialista;",
+            "Relacionar o aparecimento das novas correntes culturais e artísticas com as transformações da revolução industrial e a confiança no conhecimento científico;",
+            "Identificar/aplicar os conceitos: capitalismo industrial e financeiro; liberalismo económico; mercado nacional; classes médias; proletariado; marxismo; socialismo; comunismo; sindicalismo; romantismo; realismo; impressionismo."
+          ],
+          "activities": [
+            {
+              "title": "Um dia de doze horas",
+              "type": "Fontes",
+              "duration": "45 min",
+              "materials": [
+                "Um relato ou inquérito parlamentar sobre trabalho infantil no século XIX",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Lê um testemunho de um operário ou de uma criança numa fábrica do século XIX.",
+                "Escreve o horário, o salário e as condições descritas.",
+                "Compara com o teu horário escolar e com o horário legal de trabalho em Portugal hoje.",
+                "Procura em que ano apareceu cada uma das proteções que hoje existem.",
+                "Escreve quem lutou por cada uma delas, e contra quem."
+              ],
+              "curriculumLink": "Relaciona as condições de vida e trabalho do operariado com o aparecimento dos movimentos reivindicativos e da ideologia socialista.",
+              "reflection": "Nenhuma destas proteções foi oferecida. O que é que isso te diz?"
+            },
+            {
+              "title": "Três quadros, um século",
+              "type": "Arte",
+              "duration": "40 min",
+              "materials": [
+                "Reproduções de um quadro romântico, um realista e um impressionista",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe uma obra de cada corrente, com data e autor.",
+                "Descreve, em cada uma, quem aparece e o que está a fazer.",
+                "Escreve o que cada quadro parece pensar do mundo industrial: foge dele, denuncia-o ou observa-o.",
+                "Marca em qual deles a pincelada é mais visível e o que isso significa.",
+                "Ordena as três por data e escreve o que mudou entre elas."
+              ],
+              "curriculumLink": "Relaciona o aparecimento das novas correntes culturais e artísticas com as transformações da revolução industrial.",
+              "reflection": "Qual das três correntes olhou o operário de frente?"
+            }
+          ]
+        },
+        {
+          "id": "caso-portugues",
+          "name": "O caso português",
+          "student": "Portugal chega tarde e chega pouco. A Regeneração investe em infraestruturas — estradas, pontes, caminhos de ferro — e o descritor liga esse investimento ao que ele moldou: a agricultura e uma industrialização tímida. Mas o subtema acaba na emigração, e é aí que este ano se fecha sobre o teu 8.º ano de Geografia: os pequenos produtores rurais não conseguem viver da terra e partem, sobretudo para o Brasil. O programa pede expressamente que integres essa emigração «no contexto das migrações europeias do período» — não é uma singularidade portuguesa, é a versão portuguesa de um movimento continental.",
+          "questions": [
+            "O comboio serviu para levar produtos, ou para levar pessoas embora?",
+            "Porque é que os teus antepassados emigraram, se emigraram?",
+            "Portugal industrializou-se no século XIX?"
+          ],
+          "essentials": [
+            "Analisar a política económica regeneradora, nomeadamente o investimento efetuado nas infraestruturas de transporte, que moldaram o desenvolvimento da agricultura e a industrialização;",
+            "Relacionar a emigração com as dificuldades sentidas pelos pequenos produtores rurais na segunda metade do século XIX;",
+            "Integrar a emigração portuguesa da segunda metade do século XIX no contexto das migrações europeias do período;",
+            "Justificar o aparecimento e desenvolvimento do operariado português;",
+            "Identificar/aplicar o conceito: Regeneração."
+          ],
+          "activities": [
+            {
+              "title": "A linha de comboio mais próxima",
+              "type": "Património",
+              "duration": "Uma tarde",
+              "materials": [
+                "Um mapa ferroviário atual e um do século XIX",
+                "Telemóvel"
+              ],
+              "steps": [
+                "Descobre quando foi inaugurada a linha ou a estação mais próxima de tua casa.",
+                "Compara o traçado ferroviário de 1890 com o de hoje e marca o que foi encerrado.",
+                "Visita a estação, ou o que resta dela, e fotografa a data na fachada.",
+                "Procura o que essa linha transportava quando abriu.",
+                "Escreve o que mudou na tua região com a chegada do comboio, e o que mudou quando a linha fechou."
+              ],
+              "curriculumLink": "Analisa a política económica regeneradora e o investimento nas infraestruturas de transporte que moldaram a agricultura e a industrialização.",
+              "reflection": "A tua região está hoje melhor ou pior servida do que em 1900?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
