@@ -119,7 +119,8 @@ offer, the second optional to attend.
 - [x] Ciências Naturais — 1 domain, 5 subtopics, 31 essential descriptors, 10 activities
 - [x] Educação Visual — 3 domains, 6 subtopics, 14 essential descriptors, 7 activities
 - [x] TIC — 4 domains, 7 subtopics, 28 essential descriptors, 7 activities
-- [ ] The remaining two subjects of the seventh-grade matrix
+- [x] Educação Física — 3 domains, 8 subtopics, 24 essential descriptors, 11 activities
+- [ ] Cidadania e Desenvolvimento, the last subject of the matrix
 
 ## Publishing
 

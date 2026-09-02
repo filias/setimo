@@ -1,0 +1,385 @@
+{
+  "id": "educacao-fisica",
+  "name": "Educação Física",
+  "emoji": "🏃",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "A Educação Física organiza-se em três áreas: as Atividades Físicas, a Aptidão Física e os Conhecimentos. A primeira é a maior e funciona por escolha — o programa pede cinco matérias de subáreas diferentes, todas ao nível Introdução, e cabe à escola decidir quais. Por isso o documento se lê como uma lista de opções e não como um percurso fechado: é mesmo isso que é. As outras duas áreas explicam porque é que a disciplina não se esgota em jogar — uma trata da condição física ao longo do tempo, a outra do que se sabe sobre ela.",
+  "studentIntro": "Há uma ideia que atravessa este programa inteiro e que é fácil não notar: em quase todas as matérias pede-se que saibas fazer e que saibas arbitrar. Jogador e árbitro, praticante e juiz, executante e juiz outra vez. Não é um pormenor administrativo — quem sabe arbitrar vê o jogo por dentro, percebe a falta antes de ela acontecer e deixa de discutir com quem apita. A outra metade da disciplina é o teu corpo ao longo do tempo: a Zona Saudável de Aptidão Física não é uma nota, é um intervalo onde convém estares aos treze anos e continuar aos quarenta.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Educação Física, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/educacao_fisica_3c_7a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Os títulos de subárea e a nota final surgem também como entradas, por fixarem quantas matérias se contam em cada subárea."
+  },
+  "domains": [
+    {
+      "id": "atividades-fisicas",
+      "name": "Área das Atividades Físicas",
+      "emoji": "🤾",
+      "palette": "orange",
+      "summary": "Cinco matérias de subáreas diferentes, todas ao nível Introdução — e a escola escolhe quais.",
+      "subtopics": [
+        {
+          "id": "jogos-desportivos-coletivos",
+          "name": "Jogos desportivos coletivos",
+          "student": "Basquetebol, futebol, andebol e voleibol contam como quatro matérias distintas, mas desta subárea só entra uma no teu ano. O descritor pede três coisas ao mesmo tempo: cooperar para o objetivo do grupo, executar as ações técnico-táticas «em todas as funções» — ou seja, não te instalares na posição em que és melhor — e aplicar as regras como jogador e como árbitro. A parte de «todas as funções» é a mais exigente: obriga-te a defender se és avançado, e a atacar se és guarda-redes.",
+          "questions": [
+            "Em que posição jogas pior, e há quanto tempo a evitas?",
+            "O que é que um árbitro vê que um jogador não vê?",
+            "O que muda no jogo quando a equipa sabe o objetivo e cada um sabe a sua função?"
+          ],
+          "essentials": [
+            "O aluno desenvolve as competências essenciais para o 7.º ano de escolaridade de nível INTRODUÇÃO em 5 matérias, de diferentes subáreas e de acordo com as seguintes condições de possibilidade.",
+            "SUBÁREA JOGOS DESPORTIVOS COLETIVOS (uma matéria)",
+            "Cooperar com os companheiros para o alcance do objetivo, nos JOGOS DESPORTIVOS COLETIVOS (Basquetebol, Futebol, Andebol, Voleibol), realizando com oportunidade e correção as ações técnico-táticas elementares em todas as funções, conforme a oposição em cada fase do jogo, aplicando as regras, não só como jogador, mas também como árbitro."
+          ],
+          "activities": [
+            {
+              "title": "Um jogo com dois árbitros",
+              "type": "Jogo",
+              "duration": "45 min",
+              "materials": [
+                "Uma bola da modalidade escolhida",
+                "Um espaço aberto: parque, campo de bairro ou pátio",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Junta seis pessoas e organiza três contra três, na modalidade que quiserem.",
+                "Duas ficam de fora a arbitrar ao mesmo tempo, cada uma responsável por metade do campo.",
+                "Jogam sete minutos. Quem arbitra apita em voz alta e diz sempre qual foi a regra, pelo nome.",
+                "Trocam: quem arbitrou entra, quem jogou sai para arbitrar. Repete-se até todos terem apitado.",
+                "No fim, cada pessoa escreve uma regra que só percebeu mesmo depois de a ter aplicado de fora."
+              ],
+              "curriculumLink": "Cobre o descritor dos jogos desportivos coletivos, que pede as ações técnico-táticas em todas as funções e a aplicação das regras «não só como jogador, mas também como árbitro».",
+              "reflection": "Discutiste menos com o árbitro depois de teres sido árbitro?"
+            }
+          ]
+        },
+        {
+          "id": "ginastica",
+          "name": "Ginástica",
+          "student": "Solo, aparelhos e rítmica contam como três matérias, e só uma entra. O verbo que abre o descritor não é «executar», é «compor»: pede-se que montes um esquema, o realizes e o analises — o teu e o dos outros. Os critérios estão escritos e são três: correção técnica, expressão e combinação. Combinação é o que separa uma sequência de elementos soltos de um esquema — é a maneira como cada elemento prepara o seguinte, sem paragens a pensar no que vem a seguir.",
+          "questions": [
+            "Um esquema é uma lista de elementos ou uma coisa só?",
+            "O que é «expressão» num movimento que já está tecnicamente certo?",
+            "Consegues apreciar o esquema de outra pessoa usando os mesmos três critérios?"
+          ],
+          "essentials": [
+            "SUBÁREA GINÁSTICA (uma matéria)",
+            "Compor, realizar e analisar da GINÁSTICA (Solo, Aparelhos, Rítmica), as destrezas elementares de acrobacia, dos saltos, do solo e dos outros aparelhos, em esquemas individuais e/ou de grupo, aplicando os critérios de correção técnica, expressão e combinação, e apreciando os esquemas de acordo com esses critérios."
+          ],
+          "activities": [
+            {
+              "title": "Um esquema de doze segundos",
+              "type": "Composição",
+              "duration": "40 min",
+              "materials": [
+                "Colchão, tapete de ioga ou relva macia",
+                "Telemóvel para filmar"
+              ],
+              "steps": [
+                "Escolhe quatro elementos que já dominas com segurança — um equilíbrio, um rolamento, um salto e uma posição final.",
+                "Monta-os numa ordem em que o fim de cada um deixe o corpo pronto para o seguinte.",
+                "Ensaia até conseguires os doze segundos sem paragens para pensar.",
+                "Filma e vê duas vezes: a primeira à procura de correção técnica, a segunda à procura de combinação.",
+                "Pede a alguém que aprecie o esquema usando os três critérios do programa, e compara com a tua avaliação."
+              ],
+              "safety": "Só entram elementos que já executaste em aula com professor. Superfície macia, espaço livre à volta e alguém por perto — nunca experimentes acrobacias novas sozinho.",
+              "curriculumLink": "Trabalha os três verbos do descritor de Ginástica — compor, realizar e analisar — e os critérios de correção técnica, expressão e combinação.",
+              "reflection": "A tua avaliação e a de quem te viu bateram certo? Em que critério discordaram?"
+            }
+          ]
+        },
+        {
+          "id": "atletismo-patinagem-ritmicas",
+          "name": "Atletismo, patinagem e atividades rítmicas expressivas",
+          "student": "Estas subáreas contribuem juntas com três matérias, e o atletismo tem um estatuto especial — é ao mesmo tempo uma subárea e uma matéria, o que significa que conta como uma só, saltes ou corras. Repara na estrutura que se repete: no atletismo pede-se praticante e juiz, tal como nos coletivos se pedia jogador e árbitro. Nas atividades rítmicas o critério muda de família: já não é a correção do gesto, é a expressividade «de acordo com os motivos das composições» — ou seja, o movimento tem de dizer alguma coisa, e a coisa que diz tem de ser a que a música pede.",
+          "questions": [
+            "Cronometrar uma corrida e julgá-la são a mesma tarefa?",
+            "Um lançamento pode estar certo na força e errado no regulamento?",
+            "O que faz uma coreografia parecer que pertence àquela música e não a outra?"
+          ],
+          "essentials": [
+            "SUBÁREAS ATLETISMO, PATINAGEM, ATIVIDADES RÍTMICAS EXPRESSIVAS e OUTRAS (três matérias)",
+            "Realizar e analisar do ATLETISMO, saltos, corridas, lançamentos e marcha, cumprindo corretamente as exigências elementares, técnicas e do regulamento, não só como praticante, mas também como juiz.",
+            "Patinar adequadamente em combinações de deslocamentos e paragens, com equilíbrio e segurança, realizando as ações técnico-táticas elementares em jogo e as ações de composições rítmicas «individuais» e «a pares».",
+            "Apreciar, compor e realizar, nas ATIVIDADES RÍTMICAS E EXPRESSIVAS (Dança, Danças Sociais, Danças Tradicionais), sequências de elementos técnicos elementares, em coreografias individuais e ou em grupo, aplicando os critérios de expressividade, de acordo com os motivos das composições."
+          ],
+          "activities": [
+            {
+              "title": "Cronómetro contra regulamento",
+              "type": "Atletismo",
+              "duration": "45 min",
+              "materials": [
+                "Uma zona plana com cerca de 40 metros livres",
+                "Fita ou giz para marcar",
+                "Cronómetro"
+              ],
+              "steps": [
+                "Marca uma linha de partida, uma de chegada e uma zona de transposição para o salto em comprimento.",
+                "Antes de começar, lê o regulamento de uma das provas e escreve numa folha as três faltas mais comuns.",
+                "Cada pessoa faz duas tentativas. Uma cronometra, outra julga só com a folha na mão.",
+                "O juiz anuncia sempre em voz alta se a tentativa é válida e porquê, antes de dizer o tempo ou a distância.",
+                "Troquem de papéis e repitam. No fim, comparem quantas tentativas foram anuladas na primeira ronda e na segunda."
+              ],
+              "curriculumLink": "Cobre o descritor do Atletismo, que pede o cumprimento das exigências técnicas e do regulamento «não só como praticante, mas também como juiz».",
+              "reflection": "Melhoraste mais a marca ou a validade das tentativas?"
+            },
+            {
+              "title": "Oito tempos, três motivos",
+              "type": "Dança",
+              "duration": "40 min",
+              "materials": [
+                "Três músicas de estilos muito diferentes",
+                "Espaço livre para dois passos em cada direção"
+              ],
+              "steps": [
+                "Cria uma sequência curta de oito tempos, com quatro elementos simples.",
+                "Dança-a com a primeira música, sem mudar nada.",
+                "Dança exatamente a mesma sequência com a segunda e a terceira músicas.",
+                "Escreve em qual das três a sequência pareceu pertencer à música, e o que faltava nas outras duas.",
+                "Ajusta a sequência para servir a música em que ficou pior — muda a amplitude, a velocidade ou a direção, mas mantém os quatro elementos."
+              ],
+              "curriculumLink": "Trabalha o descritor das Atividades Rítmicas e Expressivas, que pede a aplicação dos critérios de expressividade «de acordo com os motivos das composições».",
+              "reflection": "O que mudaste ao certo: os passos, ou a intenção com que os fizeste?"
+            }
+          ]
+        },
+        {
+          "id": "outras-materias",
+          "name": "Raquetes, combate, orientação e natação",
+          "student": "As «Outras» são o cesto onde cabem matérias muito diferentes umas das outras, e é aqui que aparecem as duas mais fáceis de fazer fora da escola: os jogos de raquetes, que só precisam de uma parede, e a orientação, que só precisa de um mapa e de um bairro. Nos jogos de raquetes o descritor pede uma coisa curiosa — «garantindo a iniciativa e ofensividade» —, isto é, não basta devolver a bola, é preciso jogar para ganhar o ponto. Na orientação junta-se uma exigência que nenhuma outra matéria tem: a preservação da qualidade do ambiente por onde passas.",
+          "questions": [
+            "Qual é a diferença entre devolver uma bola e atacar com ela?",
+            "Numa atividade de combate, a segurança do adversário é responsabilidade de quem?",
+            "O que deixaste no sítio por onde passaste, além das pegadas?"
+          ],
+          "essentials": [
+            "OUTRAS",
+            "Realizar com oportunidade e correção as ações técnico-táticas elementares, nos JOGOS DE RAQUETES (Badminton, Ténis e Ténis de Mesa), garantindo a iniciativa e ofensividade em participações «individuais» e «a pares», aplicando as regras, não só como jogador, mas também como árbitro.",
+            "Realizar com oportunidade e correção as ações do domínio de oposição em ATIVIDADE DE COMBATE (Luta), utilizando as técnicas elementares de projeção e controlo, com segurança (própria e do opositor) e aplicando as regras, quer como executante quer como árbitro.",
+            "Realizar PERCURSOS (Orientação) elementares, utilizando técnicas de orientação e respeitando as regras de organização, participação, e de preservação da qualidade do ambiente.",
+            "Deslocar-se com segurança no MEIO AQUÁTICO (Natação), coordenando a respiração com as ações propulsivas específicas das técnicas selecionadas."
+          ],
+          "activities": [
+            {
+              "title": "Parede, raquete e um ponto para ganhar",
+              "type": "Raquetes",
+              "duration": "30 min",
+              "materials": [
+                "Duas raquetes de badminton ou de ténis de mesa e um volante ou bola",
+                "Uma parede lisa e um espaço de cerca de cinco metros"
+              ],
+              "steps": [
+                "Marca no chão uma linha a três metros da parede e uma zona de canto de cada lado.",
+                "Ronda um, dez minutos: o objetivo é só manter a troca, contando quantos toques seguidos conseguem.",
+                "Ronda dois, dez minutos: o objetivo é ganhar o ponto obrigando o outro a sair da linha.",
+                "Contem quantas trocas duraram em cada ronda e quantos pontos foram ganhos em cada uma.",
+                "Escrevam que gestos apareceram na segunda ronda e não existiam na primeira."
+              ],
+              "curriculumLink": "Cobre o descritor dos Jogos de Raquetes, em particular a exigência de «garantindo a iniciativa e ofensividade».",
+              "reflection": "Jogar para manter e jogar para ganhar pedem o mesmo corpo?"
+            },
+            {
+              "title": "Um percurso no teu bairro",
+              "type": "Orientação",
+              "duration": "Uma tarde",
+              "materials": [
+                "Um mapa do bairro impresso, ou desenhado à mão",
+                "Bússola ou telemóvel com bússola",
+                "Um saco para o lixo que encontrares"
+              ],
+              "steps": [
+                "Escolhe cinco pontos fixos e reconhecíveis: um marco, um chafariz, uma árvore grande, uma placa, um banco.",
+                "Marca-os no mapa e escreve a ordem por que devem ser visitados — mas não o caminho.",
+                "Dá o mapa a outra pessoa e cronometra o percurso dela; depois faz o dela.",
+                "Em cada ponto, anota o rumo aproximado para o ponto seguinte, em graus.",
+                "Traz de volta o lixo que apanhares pelo caminho e escreve como deixaste cada sítio."
+              ],
+              "safety": "Combina previamente o perímetro com um adulto, leva telemóvel carregado e não atravesses estradas com trânsito rápido para cortar caminho.",
+              "curriculumLink": "Cobre o descritor de PERCURSOS (Orientação), incluindo as regras de organização, participação e de preservação da qualidade do ambiente.",
+              "reflection": "O caminho mais curto no mapa foi o mais rápido no terreno?"
+            }
+          ]
+        },
+        {
+          "id": "cinco-materias",
+          "name": "Como se contam as cinco matérias",
+          "student": "Esta nota parece burocracia e não é: é a regra que decide o teu ano inteiro. Diz que o atletismo é ao mesmo tempo subárea e matéria — conta uma só vez. Diz que nos coletivos, na ginástica, na patinagem e nas rítmicas, cada opção entre parênteses é uma matéria por si — o basquetebol e o voleibol são duas, não uma. E diz o que pode preencher a rubrica «Outras». Somando com estas regras chegas às cinco matérias de subáreas diferentes que o nível Introdução exige, e percebes porque é que a tua escola escolheu as que escolheu — quase sempre por causa do espaço e do material que tem.",
+          "questions": [
+            "Que cinco matérias é que a tua escola escolheu, e de que subáreas?",
+            "Se pudesses trocar uma, qual trocavas e porquê?",
+            "Que matérias ficam de fora por falta de instalações e não por opção?"
+          ],
+          "essentials": [
+            "Nota - Para o nível INTRODUÇÃO, em cinco matérias de diferentes subáreas, devem observar-se as seguintes condições:",
+            "1 - O ATLETISMO constitui-se, simultaneamente, como uma subárea e como uma matéria.",
+            "2 – Nas subáreas JOGOS DESPORTIVOS COLETIVOS, GINÁSTICA, PATINAGEM e ATIVIDADES RÍTMICAS E EXPRESSIVAS, cada uma das opções apresentadas entre parênteses é considerada como uma matéria.",
+            "3 - Nas OUTRAS, poderá ser considerada uma matéria dos JOGOS DE RAQUETES, a Natação, uma matéria da subárea de ATIVIDADES DE EXPLORAÇÃO DA NATUREZA ou uma matéria da subárea dos DESPORTOS DE COMBATE.",
+            "Consulte o Anexo 3 para conhecer os objetivos programáticos para o 7.º ano de escolaridade."
+          ],
+          "activities": [
+            {
+              "title": "As tuas cinco matérias",
+              "type": "Planeamento",
+              "duration": "25 min",
+              "materials": [
+                "Papel e caneta",
+                "O horário e as instalações da tua escola"
+              ],
+              "steps": [
+                "Escreve as cinco subáreas: coletivos, ginástica, atletismo, patinagem, rítmicas expressivas e outras.",
+                "Debaixo de cada uma, lista as matérias possíveis segundo as três condições da nota.",
+                "Assinala as que a tua escola tem condições para dar, e as que não tem.",
+                "Escolhe as tuas cinco, de subáreas diferentes, e escreve numa linha porque escolheste cada uma.",
+                "Compara a tua lista com a que a escola pratica de facto e vê onde diferem."
+              ],
+              "curriculumLink": "Aplica a nota das condições do nível INTRODUÇÃO, que define como se conta uma matéria em cada subárea.",
+              "reflection": "As tuas cinco escolhas cobriam o que já sabes fazer, ou o que te falta?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aptidao-fisica",
+      "name": "Área da Aptidão Física",
+      "emoji": "💪",
+      "palette": "crimson",
+      "summary": "Aptidão muscular e aptidão aeróbia, dentro da Zona Saudável do FITescola.",
+      "subtopics": [
+        {
+          "id": "zona-saudavel",
+          "name": "A Zona Saudável de Aptidão Física",
+          "student": "Repara na palavra que o descritor usa: zona, não valor. Não há um número a atingir, há um intervalo onde convém estar, e esse intervalo muda com a idade e com o sexo — o FITescola publica-os. Isso muda o que a avaliação significa: não estás a competir com a turma, estás a comparar-te com o intervalo saudável para alguém como tu. As duas metades são a aptidão aeróbia, que é a capacidade de manter esforço durante muito tempo, e a aptidão muscular, que é força e resistência dos músculos. Melhoram por razões diferentes e treinam-se de maneiras diferentes.",
+          "questions": [
+            "Estar na Zona Saudável e estar em forma são a mesma coisa?",
+            "Porque é que o intervalo é diferente aos 12 e aos 15 anos?",
+            "Que parte da tua aptidão melhorou desde o ano passado sem teres feito nada de propósito?"
+          ],
+          "essentials": [
+            "Desenvolver capacidades motoras evidenciando aptidão muscular e aptidão aeróbia, enquadradas na Zona Saudável de Aptidão Física do programa FITescola, para a sua idade e sexo.",
+            "Consulte o Anexo 3 para conhecer as capacidades motoras a desenvolver no 7.º ano de escolaridade.",
+            "Consulte o site da Plataforma FITescola para conhecer os valores referentes à Zona Saudável da Aptidão Física."
+          ],
+          "activities": [
+            {
+              "title": "A tua linha de base",
+              "type": "Avaliação",
+              "duration": "40 min",
+              "materials": [
+                "Cronómetro",
+                "Um espaço plano de 20 metros",
+                "Caderno para registar"
+              ],
+              "steps": [
+                "Consulta no site do FITescola os valores da Zona Saudável para a tua idade e sexo, e copia-os para o caderno.",
+                "Aquece durante oito minutos: corrida leve e mobilização das articulações.",
+                "Faz três testes simples e regista os resultados: abdominais em um minuto, flexões de braços até à falha e uma corrida contínua de seis minutos, medindo a distância.",
+                "Compara cada resultado com o intervalo que copiaste, e marca-o como abaixo, dentro ou acima.",
+                "Guarda a folha com a data. É a tua linha de base, não a tua nota."
+              ],
+              "safety": "Aquece sempre antes e para se sentires dor, tonturas ou falta de ar fora do normal. Se tiveres asma ou alguma condição cardíaca, fala com um adulto antes.",
+              "curriculumLink": "Trabalha o enquadramento da aptidão muscular e da aptidão aeróbia na Zona Saudável de Aptidão Física do programa FITescola.",
+              "reflection": "Que resultado te surpreendeu mais, e porquê?"
+            },
+            {
+              "title": "Seis semanas, uma coisa só",
+              "type": "Treino",
+              "duration": "10 min por dia, seis semanas",
+              "materials": [
+                "A folha da linha de base",
+                "Um calendário"
+              ],
+              "steps": [
+                "Escolhe uma única capacidade para melhorar — a que ficou mais longe da Zona Saudável.",
+                "Define um exercício simples para ela e uma quantidade que consigas fazer hoje sem sofrimento.",
+                "Faz esse exercício cinco dias por semana, dez minutos, aumentando um pouco a cada semana.",
+                "Marca no calendário cada dia feito. Faltar um dia não é falhar; faltar uma semana é.",
+                "Ao fim de seis semanas repete o teste dessa capacidade e compara com a linha de base."
+              ],
+              "curriculumLink": "Concretiza o objetivo geral de conhecer e aplicar processos de elevação e manutenção da condição física de forma autónoma no quotidiano.",
+              "reflection": "Melhorou o resultado, ou melhorou a facilidade com que o fizeste?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conhecimentos",
+      "name": "Área dos Conhecimentos",
+      "emoji": "🧠",
+      "palette": "teal",
+      "summary": "O que se sabe sobre o exercício, a saúde e o lugar do desporto na sociedade.",
+      "subtopics": [
+        {
+          "id": "aptidao-e-saude",
+          "name": "Aptidão física e saúde",
+          "student": "O descritor pede duas coisas encadeadas: relacionar aptidão física com saúde, e identificar benefícios concretos. A relação não é óbvia nem automática — há quem seja muito apto e pouco saudável, e o contrário também acontece. O que a evidência mostra com clareza é o efeito do exercício regular em coisas mensuráveis: a frequência cardíaca em repouso, a qualidade do sono, a densidade dos ossos, a disposição. Identificar benefícios significa saber dizer qual, não dizer que «faz bem».",
+          "questions": [
+            "Consegues nomear três benefícios do exercício que se meçam com números?",
+            "Um atleta de alta competição é necessariamente uma pessoa saudável?",
+            "Quanto tempo demora o corpo a perder o que ganhou em seis semanas?"
+          ],
+          "essentials": [
+            "Relacionar aptidão física e saúde e identificar os benefícios do exercício físico para a saúde."
+          ],
+          "activities": [
+            {
+              "title": "A pulsação como termómetro",
+              "type": "Medição",
+              "duration": "Cinco dias, 5 min por dia",
+              "materials": [
+                "Cronómetro ou relógio com segundos",
+                "Caderno"
+              ],
+              "steps": [
+                "Durante cinco manhãs, mede a pulsação em repouso ainda deitado, contando as batidas em 30 segundos e multiplicando por dois.",
+                "Regista também quantas horas dormiste e se fizeste exercício no dia anterior.",
+                "Ao quinto dia, faz um gráfico simples com os cinco valores.",
+                "Marca os dias em que tinhas feito exercício na véspera e vê se há padrão.",
+                "Procura no FITescola ou noutra fonte fiável que intervalo é esperado para a tua idade, e escreve a fonte."
+              ],
+              "curriculumLink": "Trabalha a relação entre aptidão física e saúde e a identificação de benefícios concretos do exercício físico.",
+              "reflection": "Cinco dias chegam para ver um padrão, ou só para levantar uma suspeita?"
+            }
+          ]
+        },
+        {
+          "id": "desporto-e-sociedade",
+          "name": "O desporto na sociedade",
+          "student": "Este é o descritor que tira a Educação Física do ginásio. Pede que interpretes a dimensão sociocultural dos desportos hoje e ao longo do tempo, e nomeia expressamente os jogos olímpicos e paralímpicos. Os dois nomes juntos não são um acaso: comparar as duas competições mostra como uma sociedade decide o que é uma proeza, quem é atleta e o que merece ser visto. Os Jogos também servem de espelho ao século — foram usados para propaganda, boicotados por razões políticas e transformados em negócio global.",
+          "questions": [
+            "Porque é que os Jogos Paralímpicos têm muito menos audiência do que os Olímpicos?",
+            "Que desporto era popular há cem anos e hoje quase ninguém pratica?",
+            "Quem paga o desporto que vês na televisão, e o que recebe em troca?"
+          ],
+          "essentials": [
+            "Interpretar a dimensão sociocultural dos desportos na atualidade e ao longo dos tempos, nomeadamente os jogos olímpicos e paralímpicos."
+          ],
+          "activities": [
+            {
+              "title": "Os mesmos Jogos, duas transmissões",
+              "type": "Investigação",
+              "duration": "50 min",
+              "materials": [
+                "Acesso à internet",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe uma edição recente dos Jogos e uma modalidade que exista nas duas competições.",
+                "Procura quantas horas de transmissão teve a versão olímpica e a paralímpica, e regista as fontes.",
+                "Compara a linguagem usada nas notícias sobre cada uma: que palavras aparecem só num dos lados?",
+                "Procura uma edição dos Jogos marcada por um acontecimento político e escreve o que aconteceu em três linhas.",
+                "Escreve um parágrafo sobre o que estas diferenças dizem sobre quem estava a ver."
+              ],
+              "curriculumLink": "Cobre o descritor sobre a dimensão sociocultural dos desportos na atualidade e ao longo dos tempos, nos jogos olímpicos e paralímpicos.",
+              "reflection": "A palavra «inspirador» aparece mais de um lado do que do outro? O que é que isso revela?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
