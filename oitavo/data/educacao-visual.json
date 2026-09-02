@@ -1,0 +1,312 @@
+{
+  "id": "educacao-visual",
+  "name": "Educação Visual",
+  "emoji": "🎨",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "A Educação Visual é a única disciplina do 8.º ano cujas Aprendizagens Essenciais não são escritas para um ano, mas para o 3.º ciclo inteiro: o documento homologado vale igualmente para o 7.º, o 8.º e o 9.º. Os três domínios são por isso os mesmos — apropriação e reflexão, interpretação e comunicação, experimentação e criação — e o que distingue este ano do anterior não é a lista de descritores, é o grau em que se cumprem. Os conceitos que atravessam tudo continuam a ser espaço, volume, cor, luz, forma, movimento, estrutura e ritmo.",
+  "studentIntro": "Se comparares esta página com a do 7.º ano vais encontrar exatamente os mesmos catorze descritores, e isso não é um erro: as Aprendizagens Essenciais desta disciplina foram escritas para o ciclo todo. O que muda é o que se espera de ti. No 7.º ano bastava perceber que uma imagem tem intenção; no 8.º espera-se que construas a tua e a saibas defender com argumentos que não sejam «gosto mais assim». É também o ano em que faz sentido começares a guardar o processo — esboços, tentativas falhadas, cadernos —, porque é aí que se vê o que estás mesmo a aprender.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Educação Visual, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/educacao_visual_3c_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Ao contrário das restantes disciplinas, este documento é único para todo o 3.º ciclo: os descritores do 8.º ano são os mesmos do 7.º e do 9.º."
+  },
+  "domains": [
+    {
+      "id": "apropriacao-e-reflexao",
+      "name": "Apropriação e Reflexão",
+      "emoji": "🖼️",
+      "palette": "purple",
+      "summary": "Olhar para o que já foi feito, e ganhar o vocabulário para dizer o que se vê.",
+      "subtopics": [
+        {
+          "id": "patrimonio-e-linguagens",
+          "name": "Património e linguagens artísticas",
+          "student": "Como as Aprendizagens Essenciais de Educação Visual são as mesmas nos três anos do ciclo, o que muda no 8.º ano não é a lista, é a profundidade com que a cumpres. Aqui isso significa passar do reconhecimento à comparação: já sabes que uma banda desenhada e um filme partilham enquadramento e ritmo, e o passo seguinte é perceber o que cada linguagem consegue fazer que a outra não consegue. Uma página de banda desenhada mostra-te o antes e o depois ao mesmo tempo; um plano de cinema obriga-te a esperar. A gramática é comum, as possibilidades não.",
+          "questions": [
+            "O que é que a banda desenhada faz e o cinema não pode fazer?",
+            "Que obra do teu concelho merecia estar num livro de arte e não está?",
+            "O artesanato é arte, design, ou outra coisa?"
+          ],
+          "essentials": [
+            "Refletir sobre as manifestações culturais do património local e global (obras e artefactos de arte – pintura, escultura, desenho, assemblage, colagem, fotografia, instalação, land´art, banda desenhada, design, arquitetura, artesanato, multimédia e linguagens cinematográficas).",
+            "Dominar os conceitos de plano, ritmo, espaço, estrutura, luz-cor, enquadramento, entre outros - em diferentes contextos e modalidades expressivas: pintura, escultura, desenho, design, fotografia, cinema, vídeo, banda desenhada."
+          ],
+          "activities": [
+            {
+              "title": "A mesma cena, três linguagens",
+              "type": "Composição",
+              "duration": "50 min",
+              "materials": [
+                "Folhas A4 e lápis",
+                "Uma câmara de telemóvel",
+                "Régua"
+              ],
+              "steps": [
+                "Escolhe uma cena simples com duas personagens e um acontecimento: alguém chega, alguém sai.",
+                "Conta-a numa tira de banda desenhada de quatro vinhetas.",
+                "Conta a mesma cena numa fotografia única, decidindo o instante exato.",
+                "Conta-a num storyboard de três planos, indicando o movimento de câmara.",
+                "Escreve o que se perdeu e o que se ganhou em cada uma das três versões."
+              ],
+              "curriculumLink": "Trabalha o domínio dos conceitos de plano, ritmo, espaço, estrutura, luz-cor e enquadramento em diferentes modalidades expressivas.",
+              "reflection": "Qual das três contou melhor a história? E qual foi mais difícil?"
+            }
+          ]
+        },
+        {
+          "id": "imagens-e-historia-da-arte",
+          "name": "Imagens de massas e História da Arte",
+          "student": "No 8.º ano vale a pena cruzar este domínio com o que estás a dar em História — a expansão marítima, o absolutismo, as revoluções liberais, a industrialização. Cada um desses momentos tem imagens que o serviram, e nenhuma delas é inocente: um retrato de rei é propaganda, uma gravura de fábrica é argumento. O descritor pede que enquadres os objetos artísticos «tendo como referência os saberes da História da Arte», e o mais útil dessa referência é a noção de rutura: perceber contra o que é que cada movimento estava a reagir explica mais do que qualquer lista de datas.",
+          "questions": [
+            "Que imagem do teu manual de História foi feita para convencer alguém?",
+            "Uma pintura encomendada por quem paga pode ser honesta?",
+            "O que é que a fotografia tirou à pintura quando foi inventada?"
+          ],
+          "essentials": [
+            "Reconhecer a importância das imagens como meios de comunicação de massas, capazes de veicular diferentes significados (económicos, políticos, sociais, religiosos, ambientais, entre outros).",
+            "Enquadrar os objetos artísticos de diferentes culturas e períodos históricos, tendo como referência os saberes da História da Arte (estilos, movimentos, intencionalidades e ruturas)."
+          ],
+          "activities": [
+            {
+              "title": "O retrato como propaganda",
+              "type": "Análise",
+              "duration": "45 min",
+              "materials": [
+                "Reproduções de três retratos de poder de épocas diferentes",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe três retratos oficiais: um monarca absoluto, um chefe de estado do século XX e uma fotografia oficial atual.",
+                "Para cada um, lista o que aparece além da pessoa: objetos, roupa, fundo, altura do olhar.",
+                "Escreve o que cada elemento está a afirmar sobre quem manda.",
+                "Marca o que foi deliberadamente deixado de fora.",
+                "Escreve como farias hoje um retrato que dissesse o contrário do que esses dizem."
+              ],
+              "curriculumLink": "Reconhece a importância das imagens como meios de comunicação de massas capazes de veicular significados políticos e sociais, e enquadra-as historicamente.",
+              "reflection": "Que retrato oficial de hoje será lido daqui a cem anos como propaganda evidente?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interpretacao-e-comunicacao",
+      "name": "Interpretação e Comunicação",
+      "emoji": "👁️",
+      "palette": "indigo",
+      "summary": "Como as imagens produzem sentido, e o poder que isso lhes dá.",
+      "subtopics": [
+        {
+          "id": "ler-a-comunicacao-visual",
+          "name": "Ler a comunicação visual",
+          "student": "A inter-relação dos saberes visuais é fácil de aceitar em teoria e difícil de ver na prática, por isso convém testá-la: muda um elemento e vê quantos outros se mexem. A segunda parte é mais subtil e é a que costuma ficar por trabalhar — os processos de criação interferem na intenção da obra. Um desenho feito em trinta segundos e outro em três horas não dizem a mesma coisa, mesmo que representem o mesmo objeto, porque o tempo fica visível no traço. No 8.º ano já tens técnica que chegue para usar isso de propósito em vez de o sofrer.",
+          "questions": [
+            "Quantas coisas mudam quando mudas só a luz?",
+            "O tempo que demoraste a fazer um trabalho nota-se nele?",
+            "Uma obra feita por computador diz o mesmo que a mesma obra feita à mão?"
+          ],
+          "essentials": [
+            "Compreender a importância da inter-relação dos saberes da comunicação visual (espaço, volume, cor, luz, forma, movimento, estrutura, ritmo, entre outros) nos processos de fruição dos universos culturais.",
+            "Relacionar o modo como os processos de criação interferem na(s) intencionalidade(s) dos objetos artísticos."
+          ],
+          "activities": [
+            {
+              "title": "Trinta segundos, três minutos, trinta minutos",
+              "type": "Desenho",
+              "duration": "45 min",
+              "materials": [
+                "Três folhas iguais",
+                "Um lápis",
+                "Cronómetro",
+                "Um objeto qualquer com forma complexa"
+              ],
+              "steps": [
+                "Põe o objeto à tua frente, com uma única fonte de luz lateral.",
+                "Desenha-o em trinta segundos. Sem corrigir, passa à folha seguinte.",
+                "Desenha-o em três minutos, e depois em trinta.",
+                "Alinha os três e escreve, debaixo de cada um, o que ele mostra que os outros não mostram.",
+                "Escolhe qual usarias para uma capa de livro, e justifica."
+              ],
+              "curriculumLink": "Relaciona o modo como os processos de criação interferem nas intencionalidades dos objetos artísticos.",
+              "reflection": "O desenho de trinta minutos é o melhor, ou apenas o mais completo?"
+            },
+            {
+              "title": "Uma variável de cada vez",
+              "type": "Experiência visual",
+              "duration": "40 min",
+              "materials": [
+                "Uma câmara de telemóvel",
+                "Um candeeiro",
+                "Um objeto claro e um fundo neutro"
+              ],
+              "steps": [
+                "Fotografa o objeto uma vez, como referência.",
+                "Repete mudando só a direção da luz; depois só o enquadramento; depois só o fundo.",
+                "Não mudes duas coisas na mesma fotografia.",
+                "Alinha as quatro e escreve, para cada uma, que outros aspetos mudaram sem que lhes tocasses.",
+                "Marca a variável que teve mais efeito sobre as restantes."
+              ],
+              "curriculumLink": "Trabalha a inter-relação dos saberes da comunicação visual — espaço, volume, cor, luz, forma, estrutura — nos processos de fruição.",
+              "reflection": "Mudar uma coisa só é possível?"
+            }
+          ]
+        },
+        {
+          "id": "poder-das-imagens",
+          "name": "Os jogos de poder das imagens",
+          "student": "Este é o conjunto mais afiado do programa e no 8.º ano ganha um contexto novo: já não se trata só de fotografia e publicidade, trata-se de imagens que podem ser inteiramente fabricadas. Mistificar ou desmistificar o real continua a ser a mesma operação com as mesmas ferramentas — enquadramento, luz, momento, o que fica fora do quadro — e agora acrescenta-se a possibilidade de não ter havido quadro nenhum. O terceiro descritor é o que fecha o ciclo e o mais fácil de esquecer: transformar o que aprendeste em novos modos de apreciar o mundo. Não é para a aula, é para a rua.",
+          "questions": [
+            "Como decides se uma imagem que vês foi fabricada?",
+            "Uma fotografia verdadeira pode mentir mais do que uma falsa?",
+            "O que é que passaste a reparar este ano e não reparavas antes?"
+          ],
+          "essentials": [
+            "Perceber os “jogos de poder” das imagens e da sua capacidade de mistificação ou desmistificação do real.",
+            "Interrogar os processos artísticos para a compreensão da arte contemporânea.",
+            "Transformar os conhecimentos adquiridos em novos modos de apreciação do mundo."
+          ],
+          "activities": [
+            {
+              "title": "A mesma pessoa, dois retratos",
+              "type": "Fotografia",
+              "duration": "45 min",
+              "materials": [
+                "Câmara de telemóvel",
+                "Um candeeiro",
+                "Um colega que aceite ser fotografado"
+              ],
+              "steps": [
+                "Combina com a pessoa que vais fazer dois retratos opostos dela, e mostra-lhe os dois no fim.",
+                "Primeiro retrato: luz suave e frontal, ângulo ligeiramente acima, fundo limpo.",
+                "Segundo: luz dura e lateral vinda de baixo, ângulo contrapicado, fundo carregado.",
+                "Mostra os dois a três pessoas e pergunta que profissão atribuem à pessoa retratada.",
+                "Escreve o que mudou entre os dois: a pessoa, ou a informação sobre ela."
+              ],
+              "safety": "Fotografa só quem consentiu, mostra-lhe o resultado, e não publiques nada sem autorização expressa.",
+              "curriculumLink": "Trabalha os «jogos de poder» das imagens e a sua capacidade de mistificação ou desmistificação do real.",
+              "reflection": "Se um retrato pode dizer isto tudo, o que dizem as fotografias que publicas de ti?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "experimentacao-e-criacao",
+      "name": "Experimentação e Criação",
+      "emoji": "✏️",
+      "palette": "crimson",
+      "summary": "Fazer com intenção declarada, e conseguir defender as escolhas.",
+      "subtopics": [
+        {
+          "id": "compor-com-intencao",
+          "name": "Compor com intenção",
+          "student": "Os três descritores formam uma escada: articular os conceitos, manifestar expressividade escolhendo de forma intencional, e justificar essa intenção com critérios estéticos. É o terceiro degrau que separa o 8.º ano do 7.º. Justificar não é dizer que gostas — é dizer porque escolheste este suporte e não outro, esta cor e não outra, e o que essa escolha faz ao trabalho. O programa até nomeia de onde vêm os teus critérios: vivências, experiências e conhecimentos. Ou seja, o teu gosto tem história, e conhecê-la torna as escolhas melhores.",
+          "questions": [
+            "Consegues justificar uma escolha tua sem usar a palavra «bonito»?",
+            "De onde vem o teu gosto? Consegues datá-lo?",
+            "Um trabalho pode estar tecnicamente certo e não dizer nada?"
+          ],
+          "essentials": [
+            "Articular conceitos (espaço, volume, cor, luz, movimento, estrutura, forma, ritmo), referências, experiências, materiais e suportes nas suas composições plásticas.",
+            "Manifestar expressividade nos seus trabalhos, selecionando, de forma intencional, conceitos, temáticas, materiais, suportes e técnicas.",
+            "Justificar a intencionalidade das suas composições, recorrendo a critérios de ordem estética (vivências, experiências e conhecimentos)."
+          ],
+          "activities": [
+            {
+              "title": "Uma composição e a sua defesa",
+              "type": "Projeto",
+              "duration": "Duas sessões de 45 min",
+              "materials": [
+                "Materiais à tua escolha",
+                "Uma folha para a memória descritiva"
+              ],
+              "steps": [
+                "Escolhe um tema pessoal e uma frase que queiras que quem vê sinta.",
+                "Antes de começar, escreve as escolhas que vais fazer: suporte, cor dominante, escala, técnica.",
+                "Executa a composição sem mudar as escolhas que escreveste.",
+                "Escreve depois meia página a justificar cada escolha, ligando-a à frase inicial.",
+                "Pede a alguém que veja o trabalho sem ler nada e diga o que sentiu; compara com a tua frase."
+              ],
+              "curriculumLink": "Articula conceitos, materiais e suportes, manifesta expressividade com escolhas intencionais e justifica-as por critérios de ordem estética.",
+              "reflection": "O que a pessoa sentiu e o que querias que sentisse coincidiram? De quem é a responsabilidade?"
+            },
+            {
+              "title": "O mesmo tema em três materiais",
+              "type": "Experimentação",
+              "duration": "50 min",
+              "materials": [
+                "Lápis e papel",
+                "Tinta ou guache",
+                "Materiais recolhidos: papel rasgado, arame, tecido"
+              ],
+              "steps": [
+                "Escolhe um só tema e mantém-no nas três versões.",
+                "Faz a primeira a lápis, a segunda com tinta, a terceira em colagem ou construção.",
+                "Não tentes que fiquem parecidas: deixa cada material puxar o trabalho para onde ele quiser.",
+                "Alinha as três e escreve que qualidade do tema cada material fez aparecer.",
+                "Escolhe a que melhor serve o tema e justifica com dois argumentos."
+              ],
+              "curriculumLink": "Trabalha a articulação de materiais e suportes nas composições plásticas e a seleção intencional de técnicas.",
+              "reflection": "O material obedeceu-te, ou negociaste com ele?"
+            }
+          ]
+        },
+        {
+          "id": "mostrar-o-trabalho",
+          "name": "Mostrar o trabalho",
+          "student": "Organizar uma exposição é uma competência que quase não se pratica e que muda a relação com o que fazes. O descritor é exigente e vale a pena lê-lo devagar: selecionar trabalhos «tendo por base os processos de análise, síntese e comparação», e conjugar composição e harmonia de acordo com um objetivo escolhido. Ou seja, uma exposição não é pôr tudo na parede, é deixar coisas de fora para que as restantes se entendam. E o último descritor pede autonomia no registo de ideias — cadernos, esboços, provas falhadas — que é a parte do trabalho que ninguém vê e que decide tudo o resto.",
+          "questions": [
+            "O que é que uma exposição perde por incluir mais uma peça?",
+            "Guardas os teus esboços? Porquê?",
+            "Uma exposição digital e uma física exigem escolhas diferentes?"
+          ],
+          "essentials": [
+            "Organizar exposições em diferentes formatos – físicos e/ou digitais – individuais ou de grupo, selecionando trabalhos tendo por base os processos de análise, síntese e comparação, que conjugam as noções de composição e de harmonia, de acordo com o objetivo escolhido/proposto.",
+            "Selecionar, de forma autónoma, processos de trabalho e de registo de ideias que envolvam a pesquisa, investigação e experimentação."
+          ],
+          "activities": [
+            {
+              "title": "Doze trabalhos, cinco escolhidos",
+              "type": "Curadoria",
+              "duration": "45 min",
+              "materials": [
+                "Doze trabalhos teus ou da turma",
+                "Uma parede, corredor ou mural digital",
+                "Papel para legendas"
+              ],
+              "steps": [
+                "Reúne doze trabalhos e define um objetivo para a exposição, numa frase.",
+                "Elimina sete, justificando cada eliminação por análise, síntese ou comparação.",
+                "Dispõe os cinco restantes procurando uma ordem que crie um percurso.",
+                "Escreve uma legenda curta para cada e um texto de parede de cinco linhas.",
+                "Monta e pede a duas pessoas que percorram a exposição e digam qual era o objetivo."
+              ],
+              "curriculumLink": "Organiza exposições em formato físico ou digital, selecionando trabalhos por análise, síntese e comparação, conjugando composição e harmonia.",
+              "reflection": "Adivinharam o objetivo? Se não, foi da seleção ou da ordem?"
+            },
+            {
+              "title": "Um caderno de processo",
+              "type": "Registo",
+              "duration": "Ao longo de um mês",
+              "materials": [
+                "Um caderno pequeno que caiba no bolso",
+                "Lápis"
+              ],
+              "steps": [
+                "Durante um mês, regista todos os dias uma ideia, um esboço ou uma imagem que te tenha ficado.",
+                "Não apagues nada, nem sequer o que achares mau.",
+                "Uma vez por semana, relê e assinala o que se repete.",
+                "No fim do mês, escolhe três registos e desenvolve-os um pouco mais.",
+                "Escreve o que o caderno mostrou sobre ti que não sabias."
+              ],
+              "curriculumLink": "Seleciona de forma autónoma processos de trabalho e de registo de ideias que envolvam pesquisa, investigação e experimentação.",
+              "reflection": "O que se repetiu sem que tivesses dado por isso?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
