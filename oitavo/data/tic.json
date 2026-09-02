@@ -1,0 +1,355 @@
+{
+  "id": "tic",
+  "name": "TIC",
+  "emoji": "💻",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "Os quatro domínios são os mesmos do 7.º ano — segurança, investigar, comunicar, criar — mas o degrau é visível. Desaparecem os «ambientes digitais fechados» e passa a falar-se de comunicação síncrona e assíncrona sem rede de proteção. Aparecem três exigências novas e exatas: critérios de validação da informação publicada online, as normas de direitos de autor e licenciamento com o plágio nomeado, e as recomendações de acessibilidade. Vários descritores surgem como frase-mãe seguida de lista, e é assim que aparecem aqui.",
+  "studentIntro": "O 7.º ano ensinou-te a não te magoares; o 8.º parte do princípio de que já sabes isso e pergunta que tipo de pessoa és online. Três coisas novas dizem tudo: aprender critérios para decidir se algo é verdade, aprender as regras de quem fez o que tu usas — com a palavra plágio escrita no programa —, e aprender acessibilidade, ou seja, fazer conteúdos que também funcionem para quem não vê, não ouve ou não usa rato. Esta última é a mais fácil de ignorar e a que mais te distingue: quase ninguém põe texto alternativo numa imagem, e quem põe está a pensar em alguém que nunca vai conhecer.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Tecnologias de Informação e Comunicação, 8.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/tic_3c_8a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Quando o documento apresenta uma frase-mãe seguida de uma lista, a frase-mãe surge como primeira entrada; os lapsos do original foram mantidos."
+  },
+  "domains": [
+    {
+      "id": "seguranca-e-responsabilidade",
+      "name": "Segurança, responsabilidade e respeito em ambientes digitais",
+      "emoji": "🔒",
+      "palette": "crimson",
+      "summary": "Práticas seguras, critérios para validar, e as regras de quem fez o que usas.",
+      "subtopics": [
+        {
+          "id": "praticas-seguras",
+          "name": "Práticas seguras e privacidade",
+          "student": "Repara na mudança de palavra em relação ao ano passado: já não se fala de «ferramentas digitais» mas de «aplicações digitais», e desapareceu a menção aos sistemas operativos. O foco mudou do computador para aquilo que instalas nele e no telemóvel. A privacidade aqui não é um estado que se tem, é um conjunto de comportamentos que se repetem — o que instalas, que permissões dás, o que publicas e o que deixas publicar sobre ti. E há uma assimetria que convém perceber cedo: proteger a tua privacidade é fácil e proteger a dos outros é que dá trabalho, porque implica não publicar coisas que não são tuas.",
+          "questions": [
+            "Que aplicações do teu telemóvel pediram permissões que não precisam?",
+            "Publicaste esta semana alguma coisa que envolvesse outra pessoa sem lhe perguntar?",
+            "O que é que uma aplicação gratuita ganha contigo?"
+          ],
+          "essentials": [
+            "Adotar uma atitude crítica, refletida e responsável no uso de tecnologias, ambientes e serviços digitais:",
+            "Adotar práticas seguras de utilização das aplicações digitais e na navegação na Internet;",
+            "Conhecer comportamentos que visam a proteção da privacidade;adotar comportamentos seguros na utilização de aplicações digitais."
+          ],
+          "activities": [
+            {
+              "title": "O que a aplicação sabe de ti",
+              "type": "Segurança",
+              "duration": "35 min",
+              "materials": [
+                "O teu telemóvel ou tablet",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Abre as definições de privacidade e lista as cinco aplicações com mais permissões.",
+                "Para cada uma, escreve que permissões tem e para que serve mesmo a aplicação.",
+                "Marca as permissões que não são necessárias para essa função — a lanterna que quer contactos, o jogo que quer microfone.",
+                "Revoga as que marcaste e usa as aplicações durante três dias.",
+                "Escreve quais deixaram de funcionar e quais nem deram pela falta."
+              ],
+              "curriculumLink": "Trabalha as práticas seguras de utilização de aplicações digitais e os comportamentos que visam a proteção da privacidade.",
+              "reflection": "Quantas permissões eram mesmo precisas? E porque é que foram pedidas na mesma?"
+            }
+          ]
+        },
+        {
+          "id": "validar-creditar-e-incluir",
+          "name": "Validar, creditar e tornar acessível",
+          "student": "Estes três descritores são a novidade do ano e não se parecem uns com os outros, mas encaixam. O primeiro pede critérios de validação — não desconfiança genérica, critérios: quem publicou, quando, com que fontes, com que interesse. O segundo nomeia direitos de autor, propriedade intelectual e licenciamento, e acaba com uma palavra dura, plágio: usar sem creditar não é um atalho, é tirar. E o terceiro fala de acessibilidade, «mesmo que de forma elementar», que é o programa a admitir que basta começar: uma legenda, um texto alternativo, contraste suficiente, um título de secção a sério em vez de texto grande a negrito.",
+          "questions": [
+            "Que critérios usas para decidir se uma página é fiável?",
+            "Qual é a diferença entre citar e copiar?",
+            "A tua última apresentação era legível para alguém que não distingue vermelho de verde?"
+          ],
+          "essentials": [
+            "Conhecer e utilizar critérios de validação da informação publicada online;",
+            "Conhecer e utilizar as normas (relacionadas com direitos de autor, com propriedade intelectual e com licenciamento) relativas aos recursos e aos conteúdos que mobiliza nos seus trabalhos, combatendo o plágio;",
+            "Conhecer e utilizar as recomendações relativas à acessibilidade, no âmbito da criação e da publicação de conteúdos digitais, mesmo que de forma elementar;"
+          ],
+          "activities": [
+            {
+              "title": "Uma grelha de cinco critérios",
+              "type": "Validação",
+              "duration": "40 min",
+              "materials": [
+                "Acesso à internet",
+                "Papel ou folha de cálculo"
+              ],
+              "steps": [
+                "Escreve cinco critérios de validação: autoria identificada, data, fontes citadas, domínio e finalidade do site, e existência de contraditório.",
+                "Escolhe quatro páginas sobre o mesmo tema: uma institucional, uma de notícias, um blogue e uma rede social.",
+                "Pontua cada página de 0 a 2 em cada critério e soma.",
+                "Ordena as quatro pela pontuação e compara com a ordem por que confiarias nelas antes do exercício.",
+                "Escreve o critério que mais mudou a tua opinião."
+              ],
+              "curriculumLink": "Conhece e utiliza critérios de validação da informação publicada online.",
+              "reflection": "A página mais bem pontuada era a mais fácil de ler?"
+            },
+            {
+              "title": "Refazer um trabalho para toda a gente",
+              "type": "Acessibilidade",
+              "duration": "45 min",
+              "materials": [
+                "Uma apresentação ou documento que já tenhas feito",
+                "Um verificador de contraste online"
+              ],
+              "steps": [
+                "Abre um trabalho antigo teu e verifica se todas as imagens têm texto alternativo. Acrescenta o que faltar.",
+                "Passa as cores de texto e fundo pelo verificador de contraste e corrige as que reprovarem.",
+                "Substitui o texto grande a negrito por estilos de título verdadeiros.",
+                "Se tiver vídeo ou áudio, escreve uma legenda ou transcrição, nem que seja resumida.",
+                "Pede a alguém que percorra o documento só com o teclado, sem rato, e vê onde encrava."
+              ],
+              "curriculumLink": "Conhece e utiliza as recomendações relativas à acessibilidade na criação e publicação de conteúdos digitais.",
+              "reflection": "Quanto tempo demorou ao certo? E porque é que não se faz sempre?"
+            },
+            {
+              "title": "Creditar tudo, uma vez",
+              "type": "Direitos de autor",
+              "duration": "35 min",
+              "materials": [
+                "Um trabalho teu com imagens, música ou citações",
+                "Acesso à internet"
+              ],
+              "steps": [
+                "Lista todos os elementos do trabalho que não foram feitos por ti.",
+                "Para cada um, descobre o autor e a licença: domínio público, Creative Commons com que condições, ou tudo reservado.",
+                "Substitui os que não podes usar por alternativas com licença livre.",
+                "Escreve uma página final de créditos com autor, obra, licença e ligação.",
+                "Publica ou entrega o trabalho já com essa página."
+              ],
+              "curriculumLink": "Conhece e utiliza as normas de direitos de autor, propriedade intelectual e licenciamento, combatendo o plágio.",
+              "reflection": "Quantos elementos não podias mesmo usar? Sabias disso quando os escolheste?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar-e-pesquisar",
+      "name": "Investigar e pesquisar",
+      "emoji": "🔎",
+      "palette": "indigo",
+      "summary": "Planear a procura, escolher as palavras, e julgar o que aparece.",
+      "subtopics": [
+        {
+          "id": "planear-a-pesquisa",
+          "name": "Planear a pesquisa",
+          "student": "Esta lista repete-se quase toda do 7.º ano, o que não é preguiça do programa: são competências que só assentam com repetição. A ordem é o essencial — planificar, formular a questão, definir palavras-chave, e só depois pesquisar. Quase toda a gente faz ao contrário, escreve qualquer coisa na caixa e decide o que procura a partir do que aparece. A diferença prática é enorme: quem define a questão antes reconhece quando encontrou a resposta; quem não define, continua a rolar.",
+          "questions": [
+            "Qual foi a última pergunta a que foste procurar resposta, escrita como pergunta?",
+            "Que palavras-chave usarias para distinguir «Java» a linguagem de «Java» a ilha?",
+            "Como sabes que já pesquisaste que chegue?"
+          ],
+          "essentials": [
+            "Planificar estratégias de investigação e de pesquisa a realizar online;",
+            "Formular questões que permitam orientar a recolha de dados ou informações pertinentes;",
+            "Definir palavras-chave para localizar informação, utilizando mecanismos e funções simples de pesquisa;",
+            "Utilizar o computador e outros dispositivos digitais como ferramentas de apoio ao processo de investigação e pesquisa;",
+            "Conhecer as potencialidades e principais funcionalidades de aplicações, para apoiar o processo de investigação e pesquisa online;"
+          ],
+          "activities": [
+            {
+              "title": "Operadores de pesquisa, testados",
+              "type": "Pesquisa",
+              "duration": "35 min",
+              "materials": [
+                "Um computador ou telemóvel",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe um tema e escreve a tua pergunta numa frase.",
+                "Pesquisa primeiro escrevendo a frase inteira e anota quantos resultados aparecem.",
+                "Repete usando aspas para uma expressão exata, e anota outra vez.",
+                "Repete com um site: específico, e depois excluindo um termo com o sinal menos.",
+                "Faz uma tabela dos quatro ensaios e escreve qual deu menos resultados e melhores."
+              ],
+              "curriculumLink": "Define palavras-chave e utiliza mecanismos e funções de pesquisa para localizar informação, planificando a estratégia.",
+              "reflection": "Menos resultados foi sempre pior?"
+            }
+          ]
+        },
+        {
+          "id": "avaliar-e-organizar",
+          "name": "Pesquisar, avaliar e organizar",
+          "student": "Encontrar deixou de ser difícil; escolher é que é. Analisar criticamente a qualidade da informação, aqui, apoia-se nos critérios de validação do primeiro domínio — os dois descritores conversam um com o outro. E o último fecha com a parte menos glamorosa e mais decisiva: organizar e gerir o que recolheste. Notas espalhadas por cinco sítios são notas perdidas. Um sistema simples e único, usado sempre, vale mais do que o melhor sistema usado às vezes.",
+          "questions": [
+            "Onde estão as notas do teu último trabalho? Consegues encontrá-las agora?",
+            "Como registas de onde veio cada informação?",
+            "Que informação recolheste e nunca usaste?"
+          ],
+          "essentials": [
+            "Realizar pesquisa, utilizando os termos selecionados e relevantes, de acordo com o tema a desenvolver;",
+            "Analisar criticamente a qualidade da informação;",
+            "Utilizar o computador e outros dispositivos digitais, de forma a permitir a organização e gestão da informação."
+          ],
+          "activities": [
+            {
+              "title": "Um caderno digital para um trabalho",
+              "type": "Organização",
+              "duration": "Uma semana, 15 min por dia",
+              "materials": [
+                "Uma aplicação de notas ou um documento partilhado",
+                "Um trabalho de escola a decorrer"
+              ],
+              "steps": [
+                "Cria um único documento com três secções: perguntas, fontes e conclusões.",
+                "Sempre que encontrares algo útil, cola o essencial na secção certa e escreve a ligação e a data ao lado.",
+                "Ao fim de cada dia, marca a amarelo o que já respondeu a alguma pergunta.",
+                "No fim da semana, apaga tudo o que não ficou amarelo.",
+                "Escreve quanto do que recolheste sobreviveu, em percentagem."
+              ],
+              "curriculumLink": "Utiliza dispositivos digitais para a organização e gestão da informação, analisando criticamente a sua qualidade.",
+              "reflection": "O que apagaste era mau, ou apenas fora do tema?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comunicar-e-colaborar",
+      "name": "Comunicar e colaborar",
+      "emoji": "💬",
+      "palette": "teal",
+      "summary": "Escolher a ferramenta certa, síncrona ou assíncrona, e partilhar o resultado.",
+      "subtopics": [
+        {
+          "id": "sincrono-e-assincrono",
+          "name": "Síncrono e assíncrono",
+          "student": "A palavra que faz a diferença este ano é «assíncrona». Comunicação síncrona é ao mesmo tempo — uma chamada, uma videoconferência; assíncrona é cada um a seu tempo — uma mensagem, um documento partilhado, um fórum. Escolher mal é a causa de metade da frustração em trabalhos de grupo: marcar uma chamada para dizer o que cabia numa mensagem, ou tentar decidir uma coisa complicada por mensagens soltas. E repara que caiu a expressão «ambientes digitais fechados» do 7.º ano: agora escolhes tu, com autonomia e responsabilidade, o que também quer dizer que a culpa da escolha passa a ser tua.",
+          "questions": [
+            "Que decisões do teu grupo se arrastaram por serem tratadas por mensagens?",
+            "Quando é que uma chamada é uma perda de tempo para toda a gente?",
+            "Uma mensagem escrita deixa rasto. Isso é bom ou mau?"
+          ],
+          "essentials": [
+            "Mobilizar estratégias e ferramentas de comunicação e colaboração:",
+            "Identificar novos meios e aplicações que permitam a comunicação e a colaboração;",
+            "Selecionar as soluções tecnológicas mais adequadas para a realização de trabalho colaborativo e comunicação síncrona e assíncrona que se pretendem efetuar, no âmbito de atividades e/ou projetos, utilizando de forma autónoma e responsável as soluções mais adequadas e eficazes para partilhar ideias, sentimentos, informações ou factos na concretização dos objetivos;",
+            "Apresentar e partilhar os produtos desenvolvidos utilizando meios digitais de comunicação e colaboração."
+          ],
+          "activities": [
+            {
+              "title": "A mesma tarefa, síncrona e assíncrona",
+              "type": "Colaboração",
+              "duration": "Duas sessões de 40 min",
+              "materials": [
+                "Um documento partilhado",
+                "Uma aplicação de mensagens ou de chamada",
+                "Três colegas"
+              ],
+              "steps": [
+                "Escolham duas tarefas semelhantes: decidir um tema, e escrever um texto curto a quatro mãos.",
+                "Façam a primeira só de forma síncrona: uma chamada, ninguém escreve nada antes.",
+                "Façam a segunda só de forma assíncrona: documento partilhado e comentários, nunca ao mesmo tempo.",
+                "Cronometrem o tempo total gasto por cada pessoa em cada modo.",
+                "Escrevam qual das tarefas correu melhor em cada modo, e porquê."
+              ],
+              "curriculumLink": "Seleciona as soluções tecnológicas mais adequadas para trabalho colaborativo e comunicação síncrona e assíncrona.",
+              "reflection": "Que tipo de tarefa é que o modo assíncrono estragou?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "criar-e-inovar",
+      "name": "Criar e inovar",
+      "emoji": "✨",
+      "palette": "purple",
+      "summary": "Escolher a ferramenta com critério, planear em grupo, e produzir de facto.",
+      "subtopics": [
+        {
+          "id": "escolher-com-criterio",
+          "name": "Escolher a ferramenta com critério",
+          "student": "O verbo é «diferenciar», e é mais exigente do que parece: pede que compares aplicações pelas suas potencialidades e pelos seus constrangimentos, «aplicando critérios de análise pertinentes, previamente validados». Ou seja, decidir antes o que conta — se é o preço, se é funcionar sem internet, se é poder exportar o teu trabalho, se é ser acessível — e só depois comparar. É o oposto de escolher a ferramenta que toda a gente usa e descobrir o problema a meio.",
+          "questions": [
+            "Que critério é que costumas usar mesmo para escolher uma aplicação?",
+            "Consegues tirar o teu trabalho de lá, se a aplicação fechar?",
+            "Uma ferramenta com menos funcionalidades pode ser a melhor escolha?"
+          ],
+          "essentials": [
+            "Explorar ideias e desenvolver o pensamento computacional e produzir artefactos digitais criativos, recorrendo a estratégias e ferramentas digitais de apoio à criatividade:",
+            "Diferenciar as potencialidades e os constrangimentos de diferentes estratégias e aplicações para apoiar a criatividade e a inovação, aplicando critérios de análise pertinentes, previamente validados;"
+          ],
+          "activities": [
+            {
+              "title": "Três aplicações, uma grelha",
+              "type": "Análise",
+              "duration": "40 min",
+              "materials": [
+                "Acesso à internet",
+                "Folha de cálculo ou papel"
+              ],
+              "steps": [
+                "Define a tarefa concreta: editar um vídeo curto, fazer um cartaz, ou montar um podcast.",
+                "Escreve cinco critérios antes de olhar para qualquer aplicação: custo, funciona offline, exporta em formatos abertos, acessibilidade, e curva de aprendizagem.",
+                "Escolhe três aplicações e pontua cada uma em cada critério, de 0 a 2.",
+                "Soma e escolhe a vencedora, mesmo que não seja a que usarias por hábito.",
+                "Faz a tarefa com ela e escreve no fim se a grelha acertou."
+              ],
+              "curriculumLink": "Diferencia potencialidades e constrangimentos de diferentes aplicações aplicando critérios de análise previamente validados.",
+              "reflection": "A grelha escolheu a aplicação que já usavas? Se não, porque é que a usavas?"
+            }
+          ]
+        },
+        {
+          "id": "planear-e-produzir",
+          "name": "Planear em grupo e produzir",
+          "student": "Aqui o programa junta duas coisas que costumam andar separadas: gerar e priorizar ideias, e depois produzir mesmo. Priorizar é a parte que se salta — ter dez ideias é fácil, escolher três e abandonar sete é que custa. E repare-se no verbo final: «produzir, modificar e gerir». Gerir um artefacto digital significa que ele continua a existir depois de entregue: tem versões, tem cópias de segurança, tem um sítio onde vive e alguém que o mantém.",
+          "questions": [
+            "Como é que o teu grupo decide qual ideia fica?",
+            "Onde está a versão anterior do teu último trabalho?",
+            "O que acontece ao que produzes depois de ser avaliado?"
+          ],
+          "essentials": [
+            "Gerar e priorizar ideias, desenvolvendo planos de trabalho de forma colaborativa, selecionando e utilizando, de forma autónoma e responsável, as tecnologias digitais mais adequadas e eficazes para a concretização de projetos desenhados;",
+            "Produzir, modificar e gerir artefactos digitais criativos, de forma autónoma e responsável, e de acordo com os projetos desenhados."
+          ],
+          "activities": [
+            {
+              "title": "Dez ideias, três sobrevivem",
+              "type": "Projeto",
+              "duration": "Duas sessões de 45 min",
+              "materials": [
+                "Post-its ou papéis pequenos",
+                "Um mural digital ou uma parede",
+                "Três colegas"
+              ],
+              "steps": [
+                "Em silêncio e em cinco minutos, cada pessoa escreve dez ideias para o projeto, uma por papel.",
+                "Juntem tudo na parede e agrupem as repetidas, sem discutir ainda.",
+                "Definam dois critérios de prioridade — por exemplo, impacto e esforço — e coloquem cada ideia num eixo.",
+                "Escolham as três do canto de mais impacto e menos esforço e deitem as outras fora, literalmente.",
+                "Escrevam um plano de trabalho para a primeira, com tarefas, responsáveis e datas."
+              ],
+              "curriculumLink": "Gera e prioriza ideias, desenvolvendo planos de trabalho de forma colaborativa para a concretização dos projetos desenhados.",
+              "reflection": "Alguma ideia deitada fora era a tua preferida? Foi difícil?"
+            },
+            {
+              "title": "Três versões do mesmo artefacto",
+              "type": "Produção",
+              "duration": "Três sessões de 40 min",
+              "materials": [
+                "A ferramenta escolhida na atividade anterior",
+                "Uma pasta com cópias de segurança"
+              ],
+              "steps": [
+                "Produz uma primeira versão do artefacto, deliberadamente tosca, e guarda-a com a data no nome.",
+                "Mostra-a a duas pessoas e anota exatamente três críticas.",
+                "Produz a segunda versão respondendo só a essas três, e guarda-a também.",
+                "Repete uma última vez e guarda a terceira.",
+                "Põe as três lado a lado e escreve o que mudou entre cada uma."
+              ],
+              "curriculumLink": "Produz, modifica e gere artefactos digitais criativos de acordo com os projetos desenhados.",
+              "reflection": "A primeira versão tosca fez-te perder tempo, ou poupou-te tempo?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
