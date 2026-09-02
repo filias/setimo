@@ -1,0 +1,543 @@
+{
+  "id": "fisico-quimica",
+  "name": "Físico-Química",
+  "emoji": "⚗️",
+  "year": "8.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "O 8.º ano de Físico-Química tem três domínios: as reações químicas, o som e a luz. O primeiro é de longe o maior e desce ao nível dos corpúsculos — átomos, moléculas e iões — para depois subir outra vez até às chuvas ácidas e às alterações climáticas. Os outros dois são física de ondas, e estão ligados por uma mesma gramática: amplitude, período, frequência, reflexão, absorção. A diferença essencial entre eles cabe numa frase: o som precisa de matéria para viajar, a luz não.",
+  "studentIntro": "Este é o ano em que a química deixa de ser sobre o que se vê e passa a ser sobre o que se supõe. Ninguém alguma vez viu um átomo a rearranjar-se, mas a Lei da Conservação da Massa obriga a que assim seja: se pesas antes e depois e a balança não muda, os átomos não desapareceram, só trocaram de parceiros. Depois vem o som, que é ar a empurrar ar, e a luz, que não precisa de nada — atravessa o vazio entre o Sol e ti. Guarda esta pergunta para o fim do ano: porque é que ouves alguém a gritar do outro lado da parede mas não o vês?",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Físico-Química, 8.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/fisico-quimica_3c_8a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Os subtítulos do documento organizam aqui os subtemas; os lapsos do original foram mantidos."
+  },
+  "domains": [
+    {
+      "id": "reacoes-quimicas",
+      "name": "Reações Químicas",
+      "emoji": "🧪",
+      "palette": "green",
+      "summary": "Dos corpúsculos às equações químicas, e das combustões às alterações climáticas.",
+      "subtopics": [
+        {
+          "id": "explicacao-e-representacao",
+          "name": "Explicação e representação de reações químicas",
+          "student": "Tudo neste subtema assenta numa ideia que não se vê: a matéria é feita de corpúsculos. A partir daí, muita coisa deixa de precisar de ser decorada. Porque é que um gás enche o recipiente todo e um sólido não? Porque os corpúsculos de um gás andam livres e afastados. Porque é que aquecer um gás fechado aumenta a pressão? Porque os corpúsculos batem mais vezes e com mais força nas paredes. Depois vem o vocabulário exato — átomo, elemento, molécula, ião — e a regra que amarra tudo: numa reação química os átomos não se criam nem se destroem, só se rearranjam. É por isso que a massa se conserva, e é por isso que uma equação química tem de ficar acertada.",
+          "questions": [
+            "Se a matéria é feita de corpúsculos, o que há entre eles?",
+            "Um átomo e um ião do mesmo elemento diferem em quê, exatamente?",
+            "Porque é que a palha de aço fica mais pesada depois de arder?"
+          ],
+          "essentials": [
+            "Explicar, recorrendo a evidências experimentais e a simulações, a natureza corpuscular da matéria.",
+            "Interpretar a diferença entre sólidos, líquidos e gases com base na liberdade de movimentos dos corpúsculos que os constituem e na proximidade entre esses corpúsculos.",
+            "Verificar, experimentalmente, que a temperatura de um gás, o volume que ocupa e a sua pressão são grandezas que se relacionam entre si, analisando qualitativamente essas relações.",
+            "Descrever a constituição dos átomos, reconhecendo que átomos com igual número de protões são do mesmo elemento químico e que se representam por um símbolo químico.",
+            "Definir molécula como um grupo de átomos ligados entre si e definir ião como um corpúsculo que resulta de um átomo ou grupo de átomos que perdeu ou ganhou eletrões, concluindo sobre a carga elétrica do ião.",
+            "Relacionar a composição qualitativa e quantitativa de uma substância com a sua fórmula química, associando a fórmula à unidade estrutural da substância: átomo, molécula ou grupo de iões.",
+            "Aferir da existência de iões, através da análise de rótulos de produtos do dia a dia e, com base numa tabela de iões, escrever a fórmula química ou o nome de compostos iónicos em contextos diversificados.",
+            "Concluir, recorrendo a modelos representativos de átomos e moléculas, que nas reações químicas há rearranjos dos átomos dos reagentes, que conduzem à formação de novas substâncias, mantendo-se o número total de átomos de cada elemento.",
+            "Verificar, através de uma atividade experimental, a Lei da Conservação da Massa, aplicando-a à escrita ou à leitura de equações químicas simples, sendo dadas as fórmulas químicas ou os nomes das substâncias envolvidas."
+          ],
+          "activities": [
+            {
+              "title": "A garrafa que se amolga sozinha",
+              "type": "Experiência",
+              "duration": "25 min",
+              "materials": [
+                "Uma garrafa de plástico vazia com tampa",
+                "Um lava-loiça com água muito quente e outra taça com água fria e gelo"
+              ],
+              "steps": [
+                "Enche a garrafa com água quente da torneira, agita-a bem e despeja — o ar lá dentro fica quente.",
+                "Fecha a tampa com força e mete a garrafa na água com gelo.",
+                "Observa durante dois minutos, sem lhe tocar, e descreve o que acontece às paredes.",
+                "Repete ao contrário: fecha uma garrafa fria e mergulha-a em água quente.",
+                "Desenha os corpúsculos do ar lá dentro nos dois casos, com setas para o movimento, e explica a amolgadela sem usar a palavra «vácuo»."
+              ],
+              "safety": "Água quente da torneira chega, não uses água a ferver. Peça a um adulto para ajudar a manusear os recipientes.",
+              "curriculumLink": "Trabalha a relação qualitativa entre temperatura, volume e pressão de um gás, e a interpretação corpuscular dos estados físicos.",
+              "reflection": "O que empurrou a garrafa para dentro: o frio, ou o ar de fora?"
+            },
+            {
+              "title": "Ler os iões do armário",
+              "type": "Investigação",
+              "duration": "35 min",
+              "materials": [
+                "Rótulos de água engarrafada, sal, sabonete, fertilizante e uma bebida desportiva",
+                "Uma tabela de iões (do manual ou impressa)"
+              ],
+              "steps": [
+                "Recolhe cinco rótulos diferentes e copia para uma folha tudo o que pareça um nome químico.",
+                "Sublinha os que são iões: cálcio, magnésio, sódio, cloreto, nitrato, bicarbonato, sulfato.",
+                "Para cada um, escreve a fórmula com a carga, usando a tabela de iões.",
+                "Escolhe três pares de iões e escreve a fórmula química do composto que formariam, acertando as cargas.",
+                "Compara duas águas engarrafadas diferentes e diz qual tem mais iões dissolvidos, com números."
+              ],
+              "curriculumLink": "Cobre o descritor que pede aferir a existência de iões pela análise de rótulos e escrever fórmulas ou nomes de compostos iónicos.",
+              "reflection": "A água «pura» que compraste tem quantas substâncias dissolvidas?"
+            },
+            {
+              "title": "A balança que não se mexe",
+              "type": "Experiência",
+              "duration": "40 min",
+              "materials": [
+                "Bicarbonato de sódio e vinagre",
+                "Um saco de congelação com fecho hermético",
+                "Uma balança de cozinha com precisão de 1 g"
+              ],
+              "steps": [
+                "Põe uma colher de bicarbonato no saco e, separadamente, meio copo de vinagre num copo pequeno que caiba lá dentro.",
+                "Mete o copo no saco sem entornar, fecha o saco completamente e pesa tudo. Regista.",
+                "Sem abrir, entorna o copo lá dentro e deixa reagir até parar de borbulhar.",
+                "Pesa outra vez, com o saco ainda fechado, e regista.",
+                "Abre o saco, espera um minuto e pesa uma terceira vez. Explica as três leituras."
+              ],
+              "safety": "O saco incha bastante: usa um saco resistente, não o enchas demasiado e afasta a cara ao abrir.",
+              "curriculumLink": "Verifica experimentalmente a Lei da Conservação da Massa e prepara a escrita da equação química da reação.",
+              "reflection": "A massa perdeu-se, ou saiu?"
+            }
+          ]
+        },
+        {
+          "id": "tipos-de-reacoes",
+          "name": "Tipos de reações químicas",
+          "student": "Combustões, ácido-base e precipitação: três famílias que explicam uma quantidade desproporcionada do mundo. As combustões dão-te o motor do carro e, no mesmo movimento, os gases com efeito de estufa — o programa liga expressamente as duas coisas, e é uma das poucas vezes em que um documento curricular te pede para reconhecer um problema global a partir de uma equação química. As reações ácido-base explicam o estômago, o champô e a água da piscina. E a precipitação, que é a formação de um sal pouco solúvel, explica ao mesmo tempo o calcário da chaleira, as estalactites de uma gruta e a concha de um búzio: são todos o mesmo fenómeno, a escalas diferentes.",
+          "questions": [
+            "O que arde ao certo numa vela: a cera, o pavio ou o ar?",
+            "Uma gruta e uma chaleira têm o mesmo problema químico?",
+            "Se juntares um ácido a uma base em quantidades certas, o que sobra?"
+          ],
+          "essentials": [
+            "Identificar os reagentes e os produtos em reações de combustão, distinguindo combustível e comburente, e representar por equações químicas as combustões realizadas em atividades laboratoriais.",
+            "Concluir, a partir de pesquisa de informação, das consequências para o ambiente da emissão de poluentes provenientes das reações de combustão, propondo medidas para minimizar os seus efeitos, comunicando as conclusões.",
+            "Reconhecer, numa perspetiva interdisciplinar, as alterações climáticas como um dos grandes problemas ambientais atuais e relacioná-las com a poluição do ar resultante do aumento dos gases de efeito de estufa.",
+            "Determinar o carácter químico de soluções aquosas, recorrendo ao uso de indicadores e medidores de pH.",
+            "Prever o efeito no pH quando se adiciona uma solução ácida a uma solução básica ou vice-versa, pesquisando aplicações do dia a dia (como, por exemplo, o tratamento da água das piscinas e de aquários), e classificar as reações que ocorrem como reações ácido‐base, representando-as por equações químicas.",
+            "Caracterizar reações de precipitação, realizadas em atividades laboratoriais, como reações em que se formam sais pouco solúveis em água, representando-as por equações químicas e pesquisando, numa perspetiva interdisciplinar, exemplos em contextos reais (formação de estalactites e de estalagmites, de conchas e de corais).",
+            "Pesquisar, numa perspetiva interdisciplinar, sobre a dureza da água de consumo da região onde vive, bem como as consequências da utilização das águas duras a nível doméstico e industrial e formas de as tratar, comunicando as conclusões."
+          ],
+          "activities": [
+            {
+              "title": "Indicador de couve-roxa",
+              "type": "Experiência",
+              "duration": "50 min",
+              "materials": [
+                "Meia couve-roxa",
+                "Copos transparentes",
+                "Vinagre, sumo de limão, água, bicarbonato, detergente, sabão líquido",
+                "Um coador"
+              ],
+              "steps": [
+                "Corta a couve em pedaços, cobre com água quente e deixa 15 minutos até a água ficar roxa escura. Coa para um jarro.",
+                "Alinha seis copos e põe dois dedos do líquido roxo em cada um.",
+                "Junta a cada copo uma substância diferente, uma colher de cada vez, e regista a cor.",
+                "Ordena os copos do mais vermelho ao mais verde e escreve ao lado o pH aproximado que isso sugere.",
+                "Agora junta vinagre, gota a gota, ao copo mais verde, contando as gotas até a cor mudar."
+              ],
+              "safety": "Não bebas nenhuma das misturas, não juntes detergente com lixívia, e lava as mãos no fim. Água quente com ajuda de um adulto.",
+              "curriculumLink": "Determina o carácter químico de soluções aquosas com um indicador, e mostra o efeito no pH de adicionar um ácido a uma base.",
+              "reflection": "Quantas gotas foram precisas para virar a cor? O que diz isso sobre neutralizar?"
+            },
+            {
+              "title": "A vela debaixo do copo",
+              "type": "Experiência",
+              "duration": "30 min",
+              "materials": [
+                "Três velas iguais",
+                "Três frascos de vidro de tamanhos diferentes",
+                "Cronómetro"
+              ],
+              "steps": [
+                "Acende as três velas e cobre cada uma com um frasco diferente ao mesmo tempo.",
+                "Cronometra quanto tempo cada chama demora a apagar-se e regista.",
+                "Faz um gráfico do volume do frasco contra o tempo até apagar.",
+                "Escreve a equação química da combustão da cera, identificando combustível e comburente.",
+                "Explica pela equação porque é que a chama se apaga, e o que sobrou dentro do frasco."
+              ],
+              "safety": "Só com um adulto presente. Cabelo apanhado, nada inflamável por perto, e os frascos ficam quentes — não lhes toques logo a seguir.",
+              "curriculumLink": "Identifica reagentes e produtos numa combustão, distinguindo combustível e comburente, e representa-a por uma equação química.",
+              "reflection": "O frasco maior durou o dobro do tempo do frasco de metade do tamanho? Porquê?"
+            },
+            {
+              "title": "O calcário da tua torneira",
+              "type": "Investigação",
+              "duration": "45 min",
+              "materials": [
+                "Acesso à internet",
+                "Uma chaleira ou torneira com depósito branco",
+                "Vinagre"
+              ],
+              "steps": [
+                "Procura no site da empresa de águas do teu concelho o boletim de qualidade da água e encontra a dureza.",
+                "Escreve o valor e a unidade, e compara-o com a escala de água mole a muito dura.",
+                "Deita vinagre sobre um depósito branco da chaleira e observa durante cinco minutos.",
+                "Escreve o que a efervescência te diz sobre a substância do depósito.",
+                "Procura duas consequências da água dura em casa e duas na indústria, e uma forma de a tratar."
+              ],
+              "curriculumLink": "Cobre o descritor de pesquisa interdisciplinar sobre a dureza da água de consumo da região, as suas consequências e formas de tratamento.",
+              "reflection": "A mesma substância que entope a chaleira constrói as estalactites. Porquê num sítio e não no outro?"
+            }
+          ]
+        },
+        {
+          "id": "velocidade-das-reacoes",
+          "name": "Velocidade das reações químicas",
+          "student": "Duas linhas apenas no programa, e uma ideia que muda a forma como olhas para a cozinha e para o frigorífico. A velocidade de uma reação é a rapidez com que um reagente desaparece ou um produto aparece — e há quatro maneiras de a controlar: a concentração, a temperatura, o estado de divisão do sólido e a presença de um catalisador. O frigorífico usa a segunda, o açúcar em pó dissolve-se mais depressa que o torrão pela terceira, e o teu corpo inteiro funciona à custa da quarta, porque as enzimas são catalisadores.",
+          "questions": [
+            "Porque é que a comida se estraga mais devagar no frio?",
+            "Um comprimido efervescente inteiro e partido demoram o mesmo?",
+            "Um catalisador é consumido na reação?"
+          ],
+          "essentials": [
+            "Interpretar, recorrendo à experimentação, o conceito de velocidade de uma reação química como a rapidez de desaparecimento de um reagente ou aparecimento de um produto.",
+            "Interpretar, em situações laboratoriais e do dia a dia, fatores que influenciam a velocidade das reações químicas: concentração dos reagentes, temperatura do sistema, estado de divisão dos reagentes sólidos e presença de um catalisador apropriado, concluindo sobre formas de controlar a velocidade de uma reação."
+          ],
+          "activities": [
+            {
+              "title": "Quatro comprimidos, quatro tempos",
+              "type": "Experiência",
+              "duration": "30 min",
+              "materials": [
+                "Quatro comprimidos efervescentes iguais",
+                "Quatro copos: água fria, água morna, e dois com água à temperatura ambiente",
+                "Cronómetro"
+              ],
+              "steps": [
+                "Copo 1: água fria, comprimido inteiro. Copo 2: água morna, comprimido inteiro.",
+                "Copo 3: água ambiente, comprimido inteiro. Copo 4: água ambiente, comprimido esmagado.",
+                "Larga os quatro ao mesmo tempo, se tiveres ajuda, ou um a um cronometrando cada um.",
+                "Regista o tempo até deixar de haver sólido visível em cada copo.",
+                "Faz uma tabela com o fator alterado em cada copo e o tempo obtido, e ordena os fatores por efeito."
+              ],
+              "curriculumLink": "Interpreta experimentalmente a velocidade de reação e dois dos fatores que a influenciam: temperatura e estado de divisão do sólido.",
+              "reflection": "Qual teve mais efeito, aquecer ou esmagar? Terias adivinhado antes?"
+            },
+            {
+              "title": "O catalisador que sobra no fim",
+              "type": "Experiência",
+              "duration": "25 min",
+              "materials": [
+                "Água oxigenada de farmácia (10 volumes)",
+                "Fermento em pó de padeiro ou um pedaço de batata crua",
+                "Dois copos altos"
+              ],
+              "steps": [
+                "Põe a mesma quantidade de água oxigenada nos dois copos.",
+                "Ao primeiro não juntes nada; ao segundo junta uma pitada de fermento ou um pedaço de batata.",
+                "Observa e cronometra a formação de bolhas nos dois durante cinco minutos.",
+                "Escreve o que se desprende e como confirmarias que é oxigénio.",
+                "Retira o pedaço de batata, mete-o em água oxigenada nova e vê se ainda funciona."
+              ],
+              "safety": "Água oxigenada irrita os olhos e a pele: usa a de farmácia, não a de cabeleireiro, e lava as mãos no fim.",
+              "curriculumLink": "Mostra o efeito de um catalisador apropriado na velocidade de uma reação, e que ele não se consome.",
+              "reflection": "A batata continuou a funcionar na segunda vez. O que é que isso prova sobre um catalisador?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "som",
+      "name": "Som",
+      "emoji": "🔊",
+      "palette": "purple",
+      "summary": "Uma vibração que viaja pela matéria, e o que o ouvido humano faz com ela.",
+      "subtopics": [
+        {
+          "id": "producao-e-propagacao",
+          "name": "Produção e propagação do som e ondas",
+          "student": "Uma onda não transporta matéria, transporta energia: a rolha na água sobe e desce, mas não viaja com a onda. O som é exatamente isso feito de ar — uma onda de pressão, zonas onde o ar fica mais apertado alternando com zonas onde fica mais rarefeito. Daí sai a consequência mais importante do subtema: sem matéria não há som. No vácuo do espaço, uma explosão é silenciosa. E há um resultado que costuma surpreender: o som é mais rápido nos sólidos do que nos gases, ao contrário do que a intuição sugere, porque os corpúsculos estão mais próximos e passam o empurrão mais depressa.",
+          "questions": [
+            "Se puseres a orelha no carril, ouves o comboio mais cedo. Porquê?",
+            "O que é que oscila quando o som atravessa uma parede?",
+            "Uma onda transporta água de um lado ao outro do mar?"
+          ],
+          "essentials": [
+            "Concluir, numa atividade laboratorial (como, por exemplo, ondas produzidas na água, numa corda ou numa mola), que uma onda resulta da propagação de uma vibração, identificando a amplitude dessa vibração.",
+            "Compreender que o som é produzido por vibrações de um material, identificando fontes sonoras.",
+            "Reconhecer que o som é uma onda de pressão e necessita de um meio material para se propagar.",
+            "Explicar a propagação do som e analisar tabelas de velocidade do som em diversos materiais (sólidos, líquidos e gases).",
+            "Aplicar os conceitos de amplitude, período e frequência na análise de gráficos que mostrem a periodicidade temporal de uma grandeza física associada a um som puro."
+          ],
+          "activities": [
+            {
+              "title": "A onda que não leva a rolha",
+              "type": "Experiência",
+              "duration": "30 min",
+              "materials": [
+                "Uma corda comprida ou uma mola de brincar",
+                "Um alguidar com água e uma rolha pequena",
+                "Telemóvel para filmar"
+              ],
+              "steps": [
+                "Estica a corda no chão com alguém a segurar a outra ponta e dá um único abanão vertical.",
+                "Filma e vê em câmara lenta: marca com o dedo um ponto da corda e segue-o. Sobe e desce, ou avança?",
+                "Na água, larga a rolha longe da margem e faz ondas com o dedo.",
+                "Filma a rolha durante dez segundos e descreve o seu movimento em duas palavras.",
+                "Escreve o que a onda transportou de uma ponta à outra, já que não foi a corda nem a rolha."
+              ],
+              "curriculumLink": "Conclui, a partir de ondas na água e numa corda, que uma onda resulta da propagação de uma vibração, identificando a amplitude.",
+              "reflection": "Se a matéria não viaja com a onda, o que é que viaja?"
+            },
+            {
+              "title": "Mesa, ar e cordel",
+              "type": "Experiência",
+              "duration": "30 min",
+              "materials": [
+                "Uma mesa de madeira",
+                "Dois copos de plástico e cinco metros de cordel",
+                "Um relógio ou telemóvel que faça tiquetaque"
+              ],
+              "steps": [
+                "Põe o relógio numa ponta da mesa e ouve, com a cabeça levantada, à outra ponta. Regista o que ouves.",
+                "Encosta a orelha à mesa e ouve outra vez, à mesma distância.",
+                "Faz o telefone de copos: um furo no fundo de cada copo, o cordel atado por dentro, bem esticado.",
+                "Fala baixinho para um copo enquanto alguém ouve no outro; depois deixa o cordel bambo e repete.",
+                "Explica as três situações com a ideia de que o som precisa de um meio, e ordena madeira, cordel e ar por velocidade."
+              ],
+              "curriculumLink": "Trabalha o som como onda que precisa de meio material, e a comparação da propagação em sólidos e em gases.",
+              "reflection": "Porque é que o cordel bambo não transmite nada?"
+            },
+            {
+              "title": "Ver o teu som num gráfico",
+              "type": "Medição",
+              "duration": "35 min",
+              "materials": [
+                "Um telemóvel com uma aplicação de osciloscópio ou analisador de espetro",
+                "Uma flauta, um copo com água ou a tua voz"
+              ],
+              "steps": [
+                "Abre a aplicação e assobia uma nota longa e estável. Fotografa o gráfico.",
+                "Assobia a mesma nota mais alto — mais forte — e fotografa outra vez.",
+                "Assobia agora uma nota mais aguda, ao mesmo volume, e fotografa.",
+                "Nas três fotografias, marca a amplitude e mede o período contando os quadrados.",
+                "Calcula a frequência a partir do período e confirma qual foi a nota mais aguda."
+              ],
+              "curriculumLink": "Aplica os conceitos de amplitude, período e frequência na análise de gráficos da periodicidade temporal de um som.",
+              "reflection": "Mudar o volume mexeu no período? E mudar a nota mexeu na amplitude?"
+            }
+          ]
+        },
+        {
+          "id": "atributos-e-fenomenos",
+          "name": "Atributos do som e fenómenos acústicos",
+          "student": "Três atributos, e cada um corresponde a algo do gráfico: a intensidade vem da amplitude, a altura vem da frequência, e o timbre é o que resta — é o que faz uma guitarra e um piano na mesma nota soarem diferentes. Depois o programa faz uma coisa que vale a pena notar: junta numa só linha o eco de um vale, a acústica de uma sala de espetáculos, os morcegos, o sonar e as ecografias. É tudo reflexão do som. E fecha com o audiograma e a poluição sonora, que é onde isto deixa de ser física e passa a ser a tua audição aos quarenta anos.",
+          "questions": [
+            "O que muda no som quando aumentas o volume, exatamente?",
+            "Porque é que uma sala vazia tem eco e uma mobilada não?",
+            "Quantos decibéis tem o teu autocarro? E os teus auscultadores?"
+          ],
+          "essentials": [
+            "Relacionar, a partir de atividades experimentais, a intensidade, a altura e o timbre de um som com as características da onda, e identificar sons puros.",
+            "Interpretar audiogramas, identificando o nível de intensidade sonora e os limiares de audição e de dor.",
+            "Relacionar a reflexão e a absorção do som com o eco e a reverberação, interpretando o uso de certos materiais nas salas de espetáculo, a ecolocalização nos animais, o funcionamento do sonar e das ecografias.",
+            "Conhecer o espectro sonoro e, com base em pesquisa, comunicar aplicações dos ultrassons.",
+            "Identificar fontes de poluição sonora, em ambientes diversos, recorrendo ao uso de sonómetros, e, com base em pesquisa, avaliar criticamente as consequências da poluição sonora no ser humano, propondo medidas de prevenção e de proteção."
+          ],
+          "activities": [
+            {
+              "title": "Uma escala em garrafas",
+              "type": "Experiência",
+              "duration": "35 min",
+              "materials": [
+                "Seis garrafas de vidro iguais",
+                "Água",
+                "Uma colher de metal"
+              ],
+              "steps": [
+                "Enche as seis garrafas com alturas de água diferentes, da quase vazia à quase cheia.",
+                "Bate em cada uma com a colher e ordena-as da nota mais grave à mais aguda.",
+                "Agora sopra por cima do gargalo de cada uma e ordena outra vez.",
+                "Compara as duas ordens: são iguais? Escreve o que vibra em cada caso, o vidro ou o ar.",
+                "Bate na mesma garrafa com força e com suavidade e diz o que mudou: a altura ou a intensidade."
+              ],
+              "curriculumLink": "Relaciona intensidade, altura e timbre com as características da onda, distinguindo o que muda quando muda a fonte.",
+              "reflection": "Duas ordens contrárias com as mesmas garrafas. O que é que isso revela sobre o que está mesmo a vibrar?"
+            },
+            {
+              "title": "Um mapa de decibéis",
+              "type": "Medição",
+              "duration": "Uma tarde",
+              "materials": [
+                "Um telemóvel com aplicação de sonómetro",
+                "Caderno"
+              ],
+              "steps": [
+                "Mede o nível sonoro em dez sítios: quarto de noite, sala com televisão, cozinha, rua, paragem, escola, cantina, autocarro, e os teus auscultadores a meio e no máximo.",
+                "Regista o valor máximo e o valor médio de cada sítio, medindo sempre um minuto.",
+                "Ordena os dez do mais silencioso ao mais ruidoso e marca a linha dos 85 dB.",
+                "Procura durante quanto tempo por dia é seguro estar acima dessa linha.",
+                "Escreve três medidas de proteção que possas mesmo aplicar esta semana."
+              ],
+              "curriculumLink": "Cobre a identificação de fontes de poluição sonora com sonómetros e a avaliação crítica das suas consequências, com medidas de prevenção.",
+              "reflection": "Quantos dos teus dez sítios passavam a linha? Quantos podias mudar?"
+            },
+            {
+              "title": "Medir a distância com um eco",
+              "type": "Medição",
+              "duration": "40 min",
+              "materials": [
+                "Uma parede grande e lisa a mais de 50 metros",
+                "Duas tábuas para bater uma na outra",
+                "Cronómetro"
+              ],
+              "steps": [
+                "Afasta-te da parede até ouvires claramente o eco de uma palmada forte.",
+                "Bate as tábuas em ritmo regular até cada eco cair exatamente em cima da palmada seguinte.",
+                "Cronometra 20 palmadas e divide para obter o intervalo entre elas — é o tempo de ida e volta.",
+                "Calcula a distância com v = 340 m/s, sabendo que o som percorreu duas vezes o caminho.",
+                "Confere com o mapa do telemóvel e escreve a diferença percentual."
+              ],
+              "curriculumLink": "Relaciona a reflexão do som com o eco, e usa o mesmo princípio do sonar e da ecolocalização.",
+              "reflection": "Este é o método do sonar e do morcego. O que precisarias de saber para o usar debaixo de água?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luz",
+      "name": "Luz",
+      "emoji": "💡",
+      "palette": "amber",
+      "summary": "Uma onda que atravessa o vazio, e o que lhe acontece quando encontra matéria.",
+      "subtopics": [
+        {
+          "id": "ondas-de-luz",
+          "name": "Ondas de luz e a sua propagação",
+          "student": "A frase decisiva do subtema é curta: a luz não precisa de meio material. É por isso que a vês do Sol e não ouves o Sol. A luz visível é apenas uma fatia estreita de uma coisa muito maior, o espetro eletromagnético, que vai das ondas de rádio aos raios gama — e o que ordena essa escala é a frequência. Aqui está a utilidade prática: o wi-fi, o micro-ondas, o comando da televisão, o raio X do hospital e o bronzeado da praia são todos a mesma coisa física, a frequências diferentes. Distinguir corpos luminosos de iluminados parece elementar até te lembrares de que a Lua, que parece a coisa mais luminosa do céu noturno, não emite luz nenhuma.",
+          "questions": [
+            "A Lua é um corpo luminoso ou iluminado?",
+            "Porque é que o espaço é escuro se está cheio de luz do Sol a atravessá-lo?",
+            "O que é que o wi-fi e a luz do candeeiro têm em comum?"
+          ],
+          "essentials": [
+            "Distinguir corpos luminosos de iluminados, concretizando com exemplos da astronomia e do dia a dia.",
+            "Reconhecer que a luz transporta energia e é uma onda (eletromagnética) que não necessita de um meio material para se propagar, concluindo, experimentalmente, que se propaga em linha reta.",
+            "Ordenar as principais regiões do espetro eletromagnético, tendo em consideração a frequência, e identificar algumas aplicações das radiações dessas regiões."
+          ],
+          "activities": [
+            {
+              "title": "Três cartões e um furo",
+              "type": "Experiência",
+              "duration": "25 min",
+              "materials": [
+                "Três cartões iguais e um furador",
+                "Plasticina para os pôr de pé",
+                "Uma lanterna e um fio de linha"
+              ],
+              "steps": [
+                "Fura os três cartões exatamente no mesmo sítio, empilhando-os antes de furar.",
+                "Põe-nos de pé, alinhados a 10 cm um do outro, e espreita pelo primeiro furo com a lanterna atrás.",
+                "Desalinha o cartão do meio um centímetro e olha outra vez.",
+                "Passa um fio pelos três furos e estica-o: descreve a forma que ele toma quando a luz passa.",
+                "Escreve o que este arranjo demonstra, numa frase, sem usar a palavra «reta» duas vezes."
+              ],
+              "curriculumLink": "Conclui experimentalmente que a luz se propaga em linha reta.",
+              "reflection": "Se a luz curvasse, o que aconteceria às sombras?"
+            },
+            {
+              "title": "O espetro na tua casa",
+              "type": "Investigação",
+              "duration": "40 min",
+              "materials": [
+                "Papel e caneta",
+                "Acesso à internet",
+                "Uma câmara de telemóvel e um comando de televisão"
+              ],
+              "steps": [
+                "Desenha uma linha horizontal e marca as sete regiões do espetro, da menor à maior frequência.",
+                "Debaixo de cada região, escreve um aparelho de tua casa que a use.",
+                "Aponta o comando da televisão à câmara do telemóvel e carrega num botão: vês a luz que o teu olho não vê.",
+                "Escreve em que região está essa radiação e porque é que a câmara a apanha e tu não.",
+                "Marca na linha a fatia estreitíssima que corresponde à luz visível, à escala."
+              ],
+              "curriculumLink": "Ordena as principais regiões do espetro eletromagnético pela frequência e identifica aplicações das suas radiações.",
+              "reflection": "Que fração do espetro é que os teus olhos veem?"
+            }
+          ]
+        },
+        {
+          "id": "fenomenos-oticos",
+          "name": "Fenómenos óticos",
+          "student": "Quando a luz encontra matéria só pode fazer três coisas: refletir, refratar ou ser absorvida. Tudo o resto deste subtema decorre daí. A reflexão especular dá-te o espelho; a difusa dá-te tudo o resto, porque só vês esta página por a luz saltar dela em todas as direções. A refração — a luz a mudar de velocidade e por isso de direção ao mudar de meio — dá-te a colher partida dentro do copo, as lentes, os óculos e o arco-íris. E o programa termina no sítio certo: o teu próprio olho é um sistema de lentes, a miopia e a hipermetropia são defeitos geométricos, e a tecnologia para os corrigir tem história.",
+          "questions": [
+            "Porque é que te vês num espelho mas não numa parede branca?",
+            "A colher dentro do copo está mesmo partida?",
+            "Um espelho troca a esquerda com a direita. Porque não troca cima com baixo?"
+          ],
+          "essentials": [
+            "Concluir, através de atividades experimentais, que a luz pode sofrer reflexão (especular e difusa), refração e absorção, verificando as leis da reflexão e comunicando as conlusões.",
+            "Representar, geometricamente, a reflexão e a refração da luz e interpretar representações desses fenómenos.",
+            "Concluir, através de atividades experimentais, sobre as características das imagens em espelhos planos, côncavos e convexos e com lentes convergentes e divergentes, analisando os procedimentos e comunicando as conclusões.",
+            "Explicar algumas das aplicações dos fenómenos óticos, nomeadamente objetos e instrumentos que incluam espelhos e lentes.",
+            "Explicar a formação de imagens no olho humano e a utilização de lentes na correção da miopia e da hipermetropia, e analisar, através de pesquisa de informação, a evolução da tecnologia associada à correção dos defeitos de visão.",
+            "Distinguir, experimentalmente, luz monocromática de policromática, associando o arco‐íris à dispersão da luz e justificar o fenómeno da dispersão num prisma de vidro com base na refração."
+          ],
+          "activities": [
+            {
+              "title": "A lei da reflexão, medida",
+              "type": "Experiência",
+              "duration": "40 min",
+              "materials": [
+                "Um espelho pequeno de pé",
+                "Um ponteiro laser ou uma lanterna com fenda de cartão",
+                "Transferidor, régua e uma folha branca"
+              ],
+              "steps": [
+                "Desenha na folha uma linha para o espelho e a normal, perpendicular a ela no ponto de incidência.",
+                "Põe o espelho na linha e faz incidir o feixe no ponto marcado, num ângulo qualquer.",
+                "Marca com dois pontos o raio que entra e dois o que sai, e traça as retas.",
+                "Mede o ângulo de incidência e o de reflexão em relação à normal, e regista.",
+                "Repete com mais quatro ângulos e faz uma tabela das duas colunas."
+              ],
+              "safety": "Nunca apontes o laser aos olhos de ninguém, nem para superfícies que o reflitam na direção de alguém.",
+              "curriculumLink": "Verifica as leis da reflexão e representa geometricamente o fenómeno, comunicando as conclusões.",
+              "reflection": "Os teus pares de ângulos batem certo? Onde é que o erro entrou?"
+            },
+            {
+              "title": "A colher que se parte",
+              "type": "Experiência",
+              "duration": "25 min",
+              "materials": [
+                "Um copo alto e transparente com água",
+                "Uma colher, um lápis e uma moeda",
+                "Uma tigela opaca"
+              ],
+              "steps": [
+                "Mergulha a colher no copo e olha de lado, ao nível da água. Desenha o que vês.",
+                "Desenha o percurso da luz da ponta da colher até ao teu olho, marcando onde muda de direção.",
+                "Põe a moeda no fundo da tigela e afasta-te até deixares de a ver pela borda.",
+                "Sem te mexeres, pede a alguém que encha a tigela de água devagar.",
+                "Explica o reaparecimento da moeda com um desenho de raios."
+              ],
+              "curriculumLink": "Trabalha a refração e a sua representação geométrica, interpretando o desvio da luz ao mudar de meio.",
+              "reflection": "A moeda mexeu-se, ou mexeu-se a luz?"
+            },
+            {
+              "title": "Arco-íris com um prisma de água",
+              "type": "Experiência",
+              "duration": "30 min",
+              "materials": [
+                "Um copo de água cheio e uma folha branca",
+                "Sol direto ou uma lanterna forte",
+                "Um CD velho"
+              ],
+              "steps": [
+                "Põe o copo na borda de uma mesa ao sol, com a folha branca no chão do lado da sombra.",
+                "Ajusta o copo até apareceres uma faixa de cores na folha e fotografa-a.",
+                "Escreve a ordem das cores, da menos desviada à mais desviada.",
+                "Inclina o CD à luz e compara as cores que vês com as do copo.",
+                "Explica porque é que a luz branca se separa, ligando o desvio de cada cor à refração."
+              ],
+              "curriculumLink": "Distingue luz monocromática de policromática e justifica a dispersão com base na refração, associando-a ao arco-íris.",
+              "reflection": "Se todas as cores viajassem à mesma velocidade dentro da água, haveria arco-íris?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
