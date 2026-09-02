@@ -1,0 +1,385 @@
+{
+  "id": "cidadania",
+  "name": "Cidadania e Desenvolvimento",
+  "emoji": "🤝",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "Cidadania e Desenvolvimento é a única disciplina da matriz que não tem Aprendizagens Essenciais. Não é um esquecimento: o documento que a enquadra — a Estratégia Nacional de Educação para a Cidadania — decidiu de propósito não fixar um programa nacional, e entregou a escolha dos domínios ao Conselho de Turma de cada escola. O que existe é uma lista de domínios repartida por três grupos, com obrigações diferentes, e um modo de trabalhar: projetos ligados à comunidade, avaliados pelo impacto que tiveram. Por isso esta página não transcreve descritores de ano; transcreve as regras do jogo.",
+  "studentIntro": "É provável que esta seja a disciplina em que a tua turma tem mais poder e menos consciência disso. Não há um manual com a matéria toda, porque os temas do teu ano foram escolhidos por professores numa reunião, a partir de uma lista nacional — e a lista é grande. O que a Estratégia diz sobre a avaliação é ainda mais invulgar: conta o impacto do que fizeste na escola e na comunidade, e isso fica escrito no certificado no fim da escolaridade obrigatória. Ou seja, a nota não vem de decorar; vem de ter feito alguma coisa a alguém, algures.",
+  "source": {
+    "title": "Estratégia Nacional de Educação para a Cidadania",
+    "publisher": "Grupo de Trabalho de Educação para a Cidadania, Ministério da Educação — publicada pela Direção-Geral da Educação (DGE)",
+    "url": "https://www.dge.mec.pt/sites/default/files/ECidadania/Docs_referencia/estrategia_cidadania_original.pdf",
+    "note": "Cidadania e Desenvolvimento não tem Aprendizagens Essenciais: é uma componente do currículo cujos domínios são decididos em Conselho de Turma. Os textos da camada oficial são transcritos da Estratégia Nacional de Educação para a Cidadania, elaborada pelo Grupo de Trabalho criado pelo Despacho n.º 6173/2016, de 10 de maio, e enquadrada pelo Decreto-Lei n.º 55/2018, de 6 de julho. Os lapsos do original foram mantidos.",
+    "layer": {
+      "name": "Estratégia Nacional de Educação para a Cidadania",
+      "noun": "excertos",
+      "sourceLabel": "Documento oficial"
+    }
+  },
+  "domains": [
+    {
+      "id": "como-funciona",
+      "name": "Como funciona a disciplina",
+      "emoji": "🧭",
+      "palette": "slate",
+      "summary": "Sem programa nacional: os temas e a avaliação decidem-se na tua escola.",
+      "subtopics": [
+        {
+          "id": "disciplina-autonoma",
+          "name": "Uma disciplina que a tua turma ajuda a definir",
+          "student": "No 1.º ciclo a cidadania está espalhada por todas as aulas; no secundário volta a estar. Só no 2.º e no 3.º ciclos é uma disciplina com hora marcada e um professor responsável — e é por isso que este é o momento em que ela mais se parece com um espaço próprio. Repara em duas palavras do texto oficial: os domínios são decididos «em sede de Conselho de Turma», e a disciplina pode funcionar em organização «semestral, anual ou outra». Nada disto está fixado à partida. A consequência prática é que dois amigos em escolas diferentes podem ter tido Cidadania sobre coisas completamente distintas, e ambos estarem a cumprir o mesmo currículo nacional.",
+          "questions": [
+            "Que domínios é que o teu Conselho de Turma escolheu para este ano?",
+            "Quem esteve nessa reunião, e quem é que não esteve?",
+            "Se a disciplina existe para preparar cidadãos, faz sentido que os alunos não escolham os temas?"
+          ],
+          "essentials": [
+            "Nos 2.º e 3.º ciclos do ensino básico: Disciplina autónoma – Cidadania e Desenvolvimento –, sob a responsabilidade de um/a docente e decorrente da decisão acerca dos domínios a trabalhar e das competências a desenvolver ao longo do ano, definidos em sede de Conselho de Turma e enquadrados na Estratégica de Educação para a Cidadania da Escola;",
+            "A disciplina Cidadania e Desenvolvimento, enquanto disciplina autónoma, constitui-se como espaço potenciador da valorização de uma abordagem interdisciplinar ao nível do Conselho de Turma, sempre que se verifique a interligação curricular com outras disciplinas, ao nível das aprendizagens.",
+            "A disciplina Cidadania e Desenvolvimento pode funcionar numa organização semestral, anual ou outra, salvaguardando a possibilidade de a escola poder gerir a sua distribuição ao longo do ano com flexibilidade, possibilitando a realização de projetos interdisciplinares."
+          ],
+          "activities": [
+            {
+              "title": "Ler a estratégia da tua escola",
+              "type": "Investigação",
+              "duration": "40 min",
+              "materials": [
+                "O site da tua escola ou o Projeto Educativo",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Procura no site da escola a Estratégia de Educação para a Cidadania — quase todas a publicam, muitas vezes junto ao Projeto Educativo.",
+                "Escreve a lista dos domínios que a tua escola diz trabalhar no 3.º ciclo.",
+                "Assinala os que reconheces de aulas que tiveste, e os que nunca viste aparecer.",
+                "Compara essa lista com a lista nacional dos três grupos, mais abaixo nesta página.",
+                "Se não encontrares o documento, escreve a pergunta que farias ao diretor de turma para o obter."
+              ],
+              "curriculumLink": "Parte do princípio, inscrito na Estratégia, de que os domínios a trabalhar são decididos em Conselho de Turma e enquadrados na Estratégia de Educação para a Cidadania da Escola.",
+              "reflection": "O que a escola escreveu que faz e o que tu viste acontecer são a mesma coisa?"
+            }
+          ]
+        },
+        {
+          "id": "eixos-e-avaliacao",
+          "name": "Os três eixos, e o que conta para a avaliação",
+          "student": "Os três eixos vêm de 2008 e organizam a cidadania por círculos que se vão abrindo: primeiro tu contigo — identidade, autonomia, direitos; depois tu com as pessoas à tua frente — comunicação e diálogo; por fim tu com a sociedade e o mundo — democracia, sustentabilidade, globalização, paz. Quase todos os temas da disciplina caem num destes círculos. A parte da avaliação é a mais fora do comum de todo o ensino básico: o texto pede que se considere «o impacto da participação dos alunos e das alunas nas atividades realizadas na escola e na comunidade», e diz que isso consta do certificado final. Também descreve como se aprende — num ciclo de reflexão, antecipação e ação, «indo para além da sala de aula e da escola».",
+          "questions": [
+            "Em qual dos três eixos te sentes mais à vontade, e em qual menos?",
+            "Como é que se mede o impacto de uma ação na comunidade?",
+            "O que é antecipar, no meio de refletir e agir?"
+          ],
+          "essentials": [
+            "Atitude cívica individual (identidade cidadã, autonomia individual, direitos humanos);",
+            "Relacionamento interpessoal (comunicação, diálogo);",
+            "Relacionamento social e intercultural (democracia, desenvolvimento humano sustentável, globalização e interdependência, paz e gestão de conflitos).",
+            "As aprendizagens na disciplina de Cidadania e Desenvolvimento alicerçam-se no desenvolvimento de competências cognitivas, pessoais, sociais e emocionais, ancoradas no currículo e desenvolvidas num ciclo contínuo e em progressão de “reflexão-antecipação-ação”, em que as/os alunas/os aprendem através dos desafios da vida real, indo para além da sala de aula e da escola, e tomando em consideração as implicações das suas decisões e ações, tanto para o seu futuro individual como coletivo.",
+            "Os critérios de avaliação a definir pelo Conselho de Turma e pela escola para a disciplina Cidadania e Desenvolvimento devem considerar o impacto da participação dos alunos e das alunas nas atividades realizadas na escola e na comunidade, constando estas, de acordo com as normas definidas, no certificado de conclusão da escolaridade obrigatória."
+          ],
+          "activities": [
+            {
+              "title": "Reflexão, antecipação, ação",
+              "type": "Projeto",
+              "duration": "Três sessões de 30 min, ao longo de uma semana",
+              "materials": [
+                "Um caderno dividido em três partes",
+                "Uma decisão real por tomar, tua ou de casa"
+              ],
+              "steps": [
+                "Escolhe uma decisão pequena e concreta que tenhas mesmo de tomar esta semana.",
+                "Reflexão: escreve o que já sabes sobre ela e o que não sabes, separando factos de opiniões.",
+                "Antecipação: escreve as consequências de cada opção a uma semana, a um ano e a dez anos, para ti e para outra pessoa.",
+                "Ação: decide, faz, e escreve no mesmo dia o que aconteceu de facto.",
+                "Uma semana depois, volta ao caderno e escreve qual das tuas antecipações se confirmou."
+              ],
+              "curriculumLink": "Aplica o ciclo de «reflexão-antecipação-ação» descrito na Estratégia, incluindo a consideração das implicações das decisões para o futuro individual e coletivo.",
+              "reflection": "A parte mais difícil foi decidir, ou foi imaginar as consequências antes de decidir?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "primeiro-grupo",
+      "name": "1.º Grupo — obrigatório em todos os ciclos",
+      "emoji": "🕊️",
+      "palette": "crimson",
+      "summary": "Seis domínios que aparecem em todos os níveis, por serem transversais e longitudinais.",
+      "subtopics": [
+        {
+          "id": "direitos-e-igualdade",
+          "name": "Direitos humanos, igualdade de género e interculturalidade",
+          "student": "Estes três domínios são obrigatórios em todos os anos de escolaridade, do pré-escolar ao 12.º, o que quer dizer que já os trabalhaste antes e voltarás a trabalhá-los depois — de cada vez com mais espessura. Repara na arrumação dos direitos humanos entre parênteses: civis e políticos, económicos, sociais e culturais, e de solidariedade. Não é uma lista decorativa, são as três gerações de direitos por ordem histórica de conquista, e a terceira — os direitos de solidariedade, como o direito à paz ou a um ambiente saudável — é a mais recente e a mais disputada. Interculturalidade, no texto, é definida como diversidade cultural e religiosa: as duas coisas juntas, não uma sem a outra.",
+          "questions": [
+            "Um direito que ninguém pode fazer cumprir continua a ser um direito?",
+            "Onde é que a igualdade de género já está na lei mas ainda não está nos hábitos?",
+            "Que diferenças culturais existem na tua turma que nunca foram faladas em voz alta?"
+          ],
+          "essentials": [
+            "Os diferentes domínios da Educação para a Cidadania estão organizados em três grupos com implicações diferenciadas: o primeiro, obrigatório para todos os níveis e ciclos de escolaridade (porque se trata de áreas transversais e longitudinais), o segundo, pelo menos em dois ciclos do ensino básico, o terceiro com aplicação opcional em qualquer ano de escolaridade.",
+            "Direitos Humanos (civis e políticos, económicos, sociais e culturais e de solidariedade);",
+            "Igualdade de Género;",
+            "Interculturalidade (diversidade cultural e religiosa);"
+          ],
+          "activities": [
+            {
+              "title": "Trinta artigos, uma semana",
+              "type": "Leitura",
+              "duration": "30 min, mais uma semana de registo",
+              "materials": [
+                "A Declaração Universal dos Direitos Humanos, impressa",
+                "Um marcador"
+              ],
+              "steps": [
+                "Lê os trinta artigos de uma vez, sem parar para pensar. Demora menos de dez minutos.",
+                "Volta ao início e sublinha os cinco que já usaste esta semana sem dar por isso.",
+                "Marca com outra cor os que dependem de o Estado fazer alguma coisa, e não apenas de te deixar em paz.",
+                "Durante uma semana, aponta no telemóvel cada notícia que te lembre de um artigo concreto, com o número.",
+                "No fim da semana, vê que artigos aparecem muitas vezes e quais nunca apareceram."
+              ],
+              "curriculumLink": "Trabalha o domínio dos Direitos Humanos do 1.º Grupo, incluindo a distinção entre direitos civis e políticos, económicos, sociais e culturais, e de solidariedade.",
+              "reflection": "Os direitos que nunca apareceram nas notícias são os que estão garantidos, ou os que foram esquecidos?"
+            },
+            {
+              "title": "Quem fala, quem interrompe",
+              "type": "Observação",
+              "duration": "Duas aulas",
+              "materials": [
+                "Uma folha com duas colunas",
+                "Discrição"
+              ],
+              "steps": [
+                "Durante duas aulas de disciplinas diferentes, faz um risco de cada vez que alguém fala sem ser chamado.",
+                "Separa os riscos em duas colunas, por género, sem escrever nomes.",
+                "Regista também quantas vezes alguém foi interrompido, e por quem.",
+                "Compara os totais com a proporção de rapazes e raparigas na turma.",
+                "Apresenta os números à turma sem tirar conclusões, e deixa que sejam eles a tirá-las."
+              ],
+              "curriculumLink": "Concretiza o domínio da Igualdade de Género do 1.º Grupo, num contexto real e observável em vez de abstrato.",
+              "reflection": "Os números mudaram o comportamento de alguém na aula seguinte?"
+            }
+          ]
+        },
+        {
+          "id": "sustentabilidade-e-saude",
+          "name": "Desenvolvimento sustentável, ambiente e saúde",
+          "student": "Estes três aparecem separados na lista e são fáceis de confundir. Desenvolvimento sustentável é a ideia grande, e vem com uma definição que vale a pena guardar: responder às necessidades do presente sem comprometer a capacidade das gerações futuras de responderem às suas. Educação ambiental é a parte que trata do que se passa à tua volta e do que podes fazer com as mãos. E a saúde, no texto oficial, vem com quatro parênteses que a arrumam — promoção da saúde, saúde pública, alimentação e exercício físico. Saúde pública é o parente pobre dos quatro e o mais interessante: trata daquilo que não se decide sozinho, como a água que sai da torneira ou as vacinas de uma população inteira.",
+          "questions": [
+            "Onde é que uma escolha tua já custa a alguém que ainda não nasceu?",
+            "Qual é a diferença entre a tua saúde e a saúde pública?",
+            "O que é sustentável na tua casa por hábito, e não por decisão?"
+          ],
+          "essentials": [
+            "Desenvolvimento Sustentável;",
+            "Educação Ambiental;",
+            "Saúde (promoção da saúde, saúde pública, alimentação, exercício físico)."
+          ],
+          "activities": [
+            {
+              "title": "O lixo de uma semana, pesado",
+              "type": "Medição",
+              "duration": "Uma semana, 10 min por dia",
+              "materials": [
+                "Uma balança de cozinha",
+                "Sacos separados por tipo de resíduo",
+                "Caderno"
+              ],
+              "steps": [
+                "Durante sete dias, separa o lixo de casa em quatro sacos: orgânico, papel, plástico e indiferenciado.",
+                "Pesa cada saco todos os dias, à mesma hora, e regista.",
+                "No fim, faz a conta do total e multiplica por 52 para teres o ano.",
+                "Escolhe a categoria mais pesada e escreve três mudanças concretas que a reduziriam.",
+                "Aplica uma dessas mudanças na semana seguinte e pesa outra vez, para ver se resultou."
+              ],
+              "curriculumLink": "Cruza os domínios de Desenvolvimento Sustentável e Educação Ambiental do 1.º Grupo, ligando um gesto doméstico a uma quantidade anual.",
+              "reflection": "A mudança que resultou foi a mais fácil ou a mais incómoda?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "segundo-grupo",
+      "name": "2.º Grupo — pelo menos em dois ciclos",
+      "emoji": "📰",
+      "palette": "indigo",
+      "summary": "Domínios que têm de ser trabalhados em pelo menos dois ciclos do ensino básico.",
+      "subtopics": [
+        {
+          "id": "media-e-democracia",
+          "name": "Media, instituições e participação democrática",
+          "student": "A lista escreve «Media» sem mais nada, o que é enganador pela brevidade: é o domínio que trata de como a informação chega até ti, quem a produz, quem a paga e o que fica de fora. E «Instituições e participação democrática» é o domínio mais concreto de todos — municípios, assembleias, tribunais, o modo como se vota e o que faz uma associação de estudantes. O que liga os dois é isto: para participar numa democracia é preciso saber o que se passa, e o que se sabe chega quase sempre por um meio que teve de escolher o que contar.",
+          "questions": [
+            "Quem decide qual é a primeira notícia do dia?",
+            "Que decisões sobre a tua vida são tomadas na câmara municipal?",
+            "A associação de estudantes da tua escola foi eleita por quantas pessoas?"
+          ],
+          "essentials": [
+            "Media;",
+            "Instituições e participação democrática."
+          ],
+          "activities": [
+            {
+              "title": "A mesma notícia, quatro primeiras páginas",
+              "type": "Análise",
+              "duration": "40 min",
+              "materials": [
+                "Quatro jornais online diferentes, no mesmo dia",
+                "Papel e caneta"
+              ],
+              "steps": [
+                "Escolhe um dia e abre quatro jornais portugueses diferentes à mesma hora.",
+                "Escreve, para cada um, qual é a notícia principal e as palavras exatas do título.",
+                "Marca as notícias que aparecem em todos e as que aparecem só num.",
+                "Escolhe um acontecimento coberto por todos e sublinha as palavras diferentes usadas para descrever as mesmas pessoas.",
+                "Escreve um parágrafo sobre o que terias percebido do dia se só tivesses lido um deles."
+              ],
+              "curriculumLink": "Trabalha o domínio Media do 2.º Grupo, através da comparação de escolhas editoriais sobre o mesmo acontecimento.",
+              "reflection": "As diferenças estavam nos factos ou nas palavras escolhidas para os contar?"
+            },
+            {
+              "title": "Uma proposta à junta",
+              "type": "Participação",
+              "duration": "Duas sessões de 45 min",
+              "materials": [
+                "Acesso à internet",
+                "Uma folha A4"
+              ],
+              "steps": [
+                "Identifica um problema pequeno e real da tua rua ou da tua escola — um passeio, um sinal, um espaço sem uso.",
+                "Descobre no site da junta de freguesia ou da câmara quem tem competência sobre esse assunto.",
+                "Escreve uma página com três partes: o que está mal, porque importa a mais gente do que a ti, e o que propões.",
+                "Descobre como se entrega: correio eletrónico, atendimento, orçamento participativo ou reunião pública.",
+                "Entrega, com um adulto, e guarda o comprovativo ou a resposta que receberes."
+              ],
+              "curriculumLink": "Concretiza o domínio Instituições e participação democrática do 2.º Grupo, e o critério de avaliação que valoriza o impacto da participação na comunidade.",
+              "reflection": "Quanto tempo demoraste a descobrir quem era responsável? Isso diz alguma coisa?"
+            }
+          ]
+        },
+        {
+          "id": "corpo-dinheiro-e-risco",
+          "name": "Sexualidade, dinheiro, estrada e risco",
+          "student": "Estes quatro domínios parecem não ter nada em comum, e têm: são as áreas em que uma decisão tua tem consequências imediatas e por vezes irreversíveis. A sexualidade aparece com três parênteses — diversidade, direitos, saúde sexual e reprodutiva —, e o primeiro é o que muitas vezes se salta. A literacia financeira e a educação para o consumo andam juntas porque saber o que é um juro e saber porque compraste aquilo são a mesma competência vista de dois lados. E o «Risco» sozinho, sem parênteses, é o domínio da proteção civil: sismos, incêndios, cheias — o que fazer quando acontece, que em Portugal não é uma hipótese académica.",
+          "questions": [
+            "Quanto custa realmente uma coisa comprada em prestações?",
+            "Que anúncio te convenceu de que precisavas de alguma coisa que não querias?",
+            "A tua casa tem um plano para um sismo? E a tua escola?"
+          ],
+          "essentials": [
+            "Sexualidade (diversidade, direitos, saúde sexual e reprodutiva);",
+            "Literacia financeira e educação para o consumo;",
+            "Segurança rodoviária;",
+            "Risco."
+          ],
+          "activities": [
+            {
+              "title": "O preço a prestações",
+              "type": "Cálculo",
+              "duration": "35 min",
+              "materials": [
+                "Anúncios com preço «a partir de X€/mês»",
+                "Calculadora"
+              ],
+              "steps": [
+                "Encontra três anúncios de coisas vendidas em prestações — um telemóvel, um eletrodoméstico, uma viagem.",
+                "Para cada um, multiplica o valor da prestação pelo número de meses e escreve o total.",
+                "Procura no anúncio o preço a pronto e calcula a diferença, em euros e em percentagem.",
+                "Procura a TAEG em letra pequena e escreve-a ao lado.",
+                "Ordena os três do mais caro ao menos caro em custo total, e vê se a ordem é a mesma que a das prestações mensais."
+              ],
+              "curriculumLink": "Trabalha o domínio Literacia financeira e educação para o consumo do 2.º Grupo, tornando visível o custo total do crédito.",
+              "reflection": "O anúncio mostrava o número que interessa, ou o número que convence?"
+            },
+            {
+              "title": "Um plano para setenta segundos",
+              "type": "Proteção civil",
+              "duration": "45 min",
+              "materials": [
+                "Uma planta simples da tua casa, desenhada à mão",
+                "Uma mochila vazia"
+              ],
+              "steps": [
+                "Desenha a planta da casa e marca as saídas, o quadro elétrico e a torneira de segurança do gás.",
+                "Marca em cada divisão o sítio mais seguro para um sismo — junto a uma parede mestra, longe de vidros e de móveis altos.",
+                "Combina com a família um ponto de encontro fora do prédio.",
+                "Prepara uma mochila com água, lanterna, cópia de documentos, medicação e um rádio a pilhas.",
+                "Faz o percurso da casa até ao ponto de encontro a cronometrar, uma vez de dia e uma vez com pouca luz."
+              ],
+              "safety": "Não mexas no quadro elétrico nem na torneira do gás sozinho — pede a um adulto que os identifique contigo e explique como se fecham.",
+              "curriculumLink": "Concretiza o domínio Risco do 2.º Grupo, transformando conhecimento sobre catástrofes num plano executável.",
+              "reflection": "Quanto do plano é que as outras pessoas de casa saberiam explicar sem te perguntar?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terceiro-grupo",
+      "name": "3.º Grupo — opcional em qualquer ano",
+      "emoji": "🌱",
+      "palette": "green",
+      "summary": "Domínios que a escola pode escolher livremente, incluindo outros que ela própria diagnostique.",
+      "subtopics": [
+        {
+          "id": "escolhas-da-escola",
+          "name": "O que a escola ainda pode escolher",
+          "student": "O terceiro grupo é o mais curto e o mais revelador, porque acaba com uma porta aberta: «Outras», de acordo com as necessidades que a escola diagnosticar. Ou seja, a lista nacional admite que não sabe tudo o que faz falta em cada sítio. Os domínios nomeados aqui são muito diferentes entre si — empreendedorismo, mundo do trabalho, segurança e defesa, bem-estar animal, voluntariado — e reparar-se-á que vários deles falam do futuro próximo: o que vais fazer da vida, com quem, e por quem. E há uma frase final que vale por todas: os domínios devem ser vistos como intercomunicantes, com uma visão holística da pessoa. Não são gavetas.",
+          "questions": [
+            "Que necessidade é que a tua escola tem e que não está em nenhuma das listas?",
+            "Voluntariado é ajudar, ou é organizar-se para ajudar?",
+            "Que trabalhos existirão daqui a dez anos que ainda não têm nome?"
+          ],
+          "essentials": [
+            "Empreendedorismo (na suas vertentes económica e social);",
+            "Mundo do Trabalho;",
+            "Segurança, Defesa e Paz;",
+            "Bem-estar animal;",
+            "Voluntariado.",
+            "Outras (de acordo com as necessidades de educação para a cidadania diagnosticadas pela escola e que se enquadre no conceito de EC proposto pelo Grupo).",
+            "Todos os domínios a trabalhar na Cidadania e Desenvolvimento devem ser vistos como intercomunicantes, tendo na base uma visão holística da pessoa."
+          ],
+          "activities": [
+            {
+              "title": "Quatro horas dadas",
+              "type": "Voluntariado",
+              "duration": "Quatro horas, num mês",
+              "materials": [
+                "Uma lista de instituições da tua zona",
+                "Autorização de um adulto"
+              ],
+              "steps": [
+                "Faz uma lista de cinco organizações perto de ti: um centro de dia, uma associação de animais, uma biblioteca, um banco alimentar, uma junta de freguesia.",
+                "Descobre, para cada uma, se aceita voluntários da tua idade e o que precisam de facto — muitas vezes não é o que imaginas.",
+                "Escolhe uma e combina quatro horas, com um adulto a acompanhar.",
+                "Durante o trabalho, aponta o que foi diferente do que esperavas.",
+                "No fim, escreve meia página sobre o que mudou de facto para outra pessoa, e não sobre como te sentiste."
+              ],
+              "safety": "Combina sempre com a instituição através de um adulto e nunca vás sozinho a um primeiro contacto.",
+              "curriculumLink": "Trabalha os domínios de Voluntariado e Empreendedorismo social do 3.º Grupo, e o critério de avaliação centrado no impacto da participação na comunidade.",
+              "reflection": "Foi mais útil o que fizeste, ou o que aprendeste a fazer?"
+            },
+            {
+              "title": "O domínio que falta",
+              "type": "Diagnóstico",
+              "duration": "Duas sessões de 30 min",
+              "materials": [
+                "As três listas de domínios desta página",
+                "Cinco pessoas dispostas a responder"
+              ],
+              "steps": [
+                "Pergunta a cinco pessoas de idades diferentes qual é o maior problema da comunidade onde vives.",
+                "Escreve as cinco respostas e tenta encaixar cada uma nos domínios dos três grupos.",
+                "Assinala as que não encaixam em nenhum: essas são candidatas ao «Outras».",
+                "Escreve uma proposta de meia página para um novo domínio, com o nome, porque faz falta aqui e o que se aprenderia nele.",
+                "Entrega a proposta ao teu diretor de turma."
+              ],
+              "curriculumLink": "Usa a entrada «Outras» do 3.º Grupo, que remete para as necessidades de educação para a cidadania diagnosticadas pela própria escola.",
+              "reflection": "As respostas das pessoas mais velhas e das mais novas apontavam para o mesmo domínio?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

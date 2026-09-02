@@ -100,6 +100,24 @@ documents ratified by the [Direção-Geral da Educação](https://www.dge.mec.pt
 under article 38 of Decree-Law 55/2018 of 6 July. The activities, the questions
 and the «para ti» passages are our own and carry no official standing.
 
+Eleven of the twelve subjects have an *Aprendizagens Essenciais* document.
+**Cidadania e Desenvolvimento has none** — by design: it is a curricular component
+whose domains each school's Conselho de Turma chooses from a national list. Its
+official layer therefore transcribes the *Estratégia Nacional de Educação para a
+Cidadania*, and the page says so rather than implying a document that does not
+exist. A subject renames that layer through an optional `source.layer`:
+
+```jsonc
+"source": {
+  "title": "…", "publisher": "…", "url": "…", "note": "…",
+  "layer": {                       // all three keys optional
+    "name": "Estratégia Nacional de Educação para a Cidadania",  // default: "Aprendizagens Essenciais"
+    "noun": "excertos",            // default: "descritores"
+    "sourceLabel": "Documento oficial"   // default: "Currículo oficial"
+  }
+}
+```
+
 ## The matrix
 
 Twelve subjects. Second Foreign Language is fixed as **French**, which is what
@@ -120,7 +138,9 @@ offer, the second optional to attend.
 - [x] Educação Visual — 3 domains, 6 subtopics, 14 essential descriptors, 7 activities
 - [x] TIC — 4 domains, 7 subtopics, 28 essential descriptors, 7 activities
 - [x] Educação Física — 3 domains, 8 subtopics, 24 essential descriptors, 11 activities
-- [ ] Cidadania e Desenvolvimento, the last subject of the matrix
+- [x] Cidadania e Desenvolvimento — 4 domains, 7 subtopics, 28 excerpts, 11 activities
+
+All twelve subjects of the matrix are covered.
 
 ## Publishing
 

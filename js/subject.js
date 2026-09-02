@@ -53,8 +53,25 @@ function buildHero(subject) {
   ]);
 }
 
+/**
+ * Names the official layer. Almost every subject is framed by its Aprendizagens
+ * Essenciais, but Cidadania e Desenvolvimento has none — its official document is
+ * the Estratégia Nacional — so a subject may override the wording in its source.
+ */
+function sourceLabels(subject) {
+  const layer = subject.source.layer || {};
+  return {
+    name: layer.name || `Aprendizagens Essenciais de ${subject.name}`,
+    layerName: layer.name || 'Aprendizagens Essenciais',
+    noun: layer.noun || 'descritores',
+    prefix: layer.sourceLabel || 'Currículo oficial'
+  };
+}
+
 /** Link to the official DGE PDF, visible in every reading mode. */
 function buildSourceLink(subject) {
+  const labels = sourceLabels(subject);
+
   return el('p', { class: 'official-source' }, [
     el('a', {
       href: subject.source.url,
@@ -63,7 +80,7 @@ function buildSourceLink(subject) {
       title: subject.source.title
     }, [
       el('span', { text: '📄', 'aria-hidden': 'true' }),
-      'Currículo oficial: Aprendizagens Essenciais de ' + subject.name,
+      `${labels.prefix}: ${labels.name}`,
       el('span', { class: 'file-type', text: 'PDF, DGE' })
     ])
   ]);
@@ -129,8 +146,10 @@ function buildSubtopic(subtopic, subject) {
 function buildOfficialLayer(subtopic, subject) {
   const list = el('ol', {}, subtopic.essentials.map(item => el('li', { text: item })));
 
+  const labels = sourceLabels(subject);
+
   return el('details', { class: 'official' }, [
-    el('summary', { text: `Aprendizagens Essenciais (texto oficial) — ${subtopic.essentials.length} descritores` }),
+    el('summary', { text: `${labels.layerName} (texto oficial) — ${subtopic.essentials.length} ${labels.noun}` }),
     el('div', { class: 'content' }, [
       list,
       el('p', {
@@ -182,7 +201,7 @@ function noteBox(kind, icon, title, text) {
 
 function fillFooter(subject) {
   document.getElementById('footer-source').innerHTML =
-    `Currículo oficial: <a href="${esc(subject.source.url)}" target="_blank" rel="noopener">${esc(subject.source.title)}</a>, ` +
+    `${esc(sourceLabels(subject).prefix)}: <a href="${esc(subject.source.url)}" target="_blank" rel="noopener">${esc(subject.source.title)}</a>, ` +
     `${esc(subject.source.publisher)}. ${esc(subject.source.note)} As atividades são propostas próprias, não oficiais.`;
 }
 
