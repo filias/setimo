@@ -1,0 +1,308 @@
+{
+  "id": "tic",
+  "name": "TIC",
+  "emoji": "💻",
+  "year": "7.º ano",
+  "cycle": "3.º ciclo do Ensino Básico",
+  "intro": "As Tecnologias de Informação e Comunicação organizam-se em quatro domínios: segurança, responsabilidade e respeito em ambientes digitais; investigar e pesquisar; comunicar e colaborar; criar e inovar. Vários descritores aparecem no documento como uma frase-mãe seguida de uma lista, e é assim que surgem aqui — a frase-mãe primeiro, depois cada item.",
+  "studentIntro": "Sabes usar um telemóvel melhor do que muitos adultos, e isso não é o mesmo que ter literacia digital. Esta disciplina trata do que não se aprende sozinho: perceber se uma informação é fiável, saber o que acontece a uma fotografia depois de a publicares, procurar de maneira a encontrar em vez de andar às voltas, e respeitar o trabalho de quem fez as imagens e as músicas que usas. É menos sobre carregar em botões e mais sobre decidir se se deve carregar.",
+  "source": {
+    "title": "Aprendizagens Essenciais | Articulação com o Perfil dos Alunos — Tecnologias de Informação e Comunicação, 7.º ano, 3.º ciclo do Ensino Básico",
+    "publisher": "Direção-Geral da Educação (DGE), Ministério da Educação",
+    "url": "https://www.dge.mec.pt/sites/default/files/Curriculo/Aprendizagens_Essenciais/3_ciclo/tic_3c_7a_ff.pdf",
+    "note": "Os textos na camada «Aprendizagens Essenciais (oficial)» são transcritos deste documento, homologado ao abrigo do artigo 38.º do Decreto-Lei n.º 55/2018, de 6 de julho. Quando o documento apresenta uma frase-mãe seguida de uma lista, a frase-mãe surge como primeira entrada."
+  },
+  "domains": [
+    {
+      "id": "seguranca-e-responsabilidade",
+      "name": "Segurança, responsabilidade e respeito em ambientes digitais",
+      "emoji": "🔒",
+      "palette": "crimson",
+      "summary": "Proteger-se, reconhecer o que é falso e respeitar o trabalho dos outros.",
+      "subtopics": [
+        {
+          "id": "seguranca-e-privacidade",
+          "name": "Segurança e privacidade",
+          "student": "A privacidade não se perde de uma vez, perde-se aos bocados: uma autorização aqui, uma aplicação que pede a localização ali, uma conta criada num sítio de que nunca mais te lembras. Repara que o programa fala de práticas de instalação, atualização e configuração — a maior parte da segurança real não está em software especial, está em manter as coisas atualizadas e em olhar para o que uma aplicação pede antes de dizer que sim. Uma lanterna que quer aceder aos contactos não precisa dos contactos para nada.",
+          "questions": [
+            "Que permissões é que as aplicações do teu telemóvel têm neste momento?",
+            "Porque é que atualizar é uma medida de segurança?",
+            "O que é que se pode descobrir sobre ti só com o que já publicaste?"
+          ],
+          "essentials": [
+            "Adotar uma atitude crítica, refletida e responsável no uso de tecnologias, ambientes e serviços digitais:",
+            "Conhecer diferentes sistemas operativos e mecanismos de segurança;",
+            "Adotar práticas seguras de instalação, atualização, configuração e utilização de ferramentas digitais;",
+            "Conhecer comportamentos que visam a proteção da privacidade; adotar comportamentos seguros na utilização de ferramentas digitais;",
+            "Adotar práticas seguras de utilização das ferramentas digitais e na navegação na Internet;"
+          ],
+          "activities": [
+            {
+              "title": "Auditoria de permissões",
+              "type": "Segurança",
+              "duration": "35 min",
+              "materials": [
+                "O teu telemóvel ou tablet",
+                "Papel"
+              ],
+              "steps": [
+                "Abre as definições de privacidade e lista as dez aplicações que usas mais.",
+                "Para cada uma, anota que permissões tem: câmara, microfone, localização, contactos, ficheiros.",
+                "Escreve ao lado se cada permissão é mesmo necessária para o que a aplicação faz.",
+                "Retira as que não fizerem sentido e usa a aplicação normalmente durante uma semana.",
+                "No fim da semana, vê quantas fizeram falta."
+              ],
+              "curriculumLink": "Trabalha as práticas seguras de configuração e utilização de ferramentas digitais e os comportamentos de proteção da privacidade.",
+              "safety": "Se partilhares o dispositivo com a família, muda definições só com autorização de um adulto.",
+              "reflection": "Quantas permissões tinhas dado sem reparar?"
+            }
+          ]
+        },
+        {
+          "id": "informacao-falsa-e-direitos",
+          "name": "Mensagens falsas e direitos de autor",
+          "student": "Ler e identificar mensagens manipuladas ou falsas é uma competência que se treina como qualquer outra: há sinais que se repetem — urgência exagerada, ausência de fonte, uma emoção forte logo no título, uma imagem verdadeira usada num contexto que não é o dela. E depois há a outra metade, que é o respeito: as imagens, os sons e os vídeos que encontras online pertencem a alguém. Usar sem creditar é o equivalente digital de assinar o trabalho de outra pessoa.",
+          "questions": [
+            "Que sinais te fazem desconfiar de uma mensagem antes de a verificares?",
+            "Uma fotografia verdadeira pode ser usada para mentir?",
+            "Podes usar uma música num vídeo teu? Em que condições?"
+          ],
+          "essentials": [
+            "Ler, compreender e identificar mensagens manipuladas ou falsas;",
+            "Identificar os riscos do uso inapropriado de imagens, de sons e de vídeos;",
+            "Respeitar as normas dos direitos de autor associados à utilização da imagem, do som e do vídeo."
+          ],
+          "activities": [
+            {
+              "title": "A imagem que anda por aí",
+              "type": "Verificação",
+              "duration": "35 min",
+              "materials": [
+                "Acesso a um motor de pesquisa por imagem",
+                "Três imagens que circulem em mensagens"
+              ],
+              "steps": [
+                "Escolhe três imagens que tenhas recebido acompanhadas de uma afirmação forte.",
+                "Faz pesquisa inversa de cada uma para descobrir onde apareceu primeiro.",
+                "Compara a data e o contexto original com o que a mensagem dizia.",
+                "Classifica cada uma: verdadeira no contexto, verdadeira fora de contexto, ou fabricada.",
+                "Escreve a resposta que darias a quem te enviou."
+              ],
+              "curriculumLink": "Cobre a leitura, compreensão e identificação de mensagens manipuladas ou falsas.",
+              "reflection": "Qual das três te teria enganado se não a tivesses verificado?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigar-e-pesquisar",
+      "name": "Investigar e pesquisar",
+      "emoji": "🔎",
+      "palette": "indigo",
+      "summary": "Procurar de forma a encontrar, e avaliar o que se encontrou.",
+      "subtopics": [
+        {
+          "id": "planear-a-pesquisa",
+          "name": "Planear a pesquisa",
+          "student": "Quase toda a gente começa a pesquisar escrevendo uma frase inteira na caixa de pesquisa e vendo o que aparece. Funciona mal. Uma pesquisa boa começa antes do computador: com uma pergunta clara, com a decisão do que se quer saber exatamente, e com a escolha das palavras-chave certas — que raramente são as palavras da pergunta. Se procuras porque é que o mar é salgado, «salinidade oceânica origem» encontra melhor do que a pergunta inteira.",
+          "questions": [
+            "Que palavras-chave usarias para descobrir a altura da tua escola?",
+            "Porque é que uma pergunta mal formulada dá maus resultados?",
+            "Que ferramentas usas para guardar o que vais encontrando?"
+          ],
+          "essentials": [
+            "Planificar estratégias de investigação e de pesquisa a realizar online;",
+            "Formular questões que permitam orientar a recolha de dados ou informações pertinentes;",
+            "Definir palavras-chave para localizar informação, utilizando mecanismos e funções simples de pesquisa;",
+            "Utilizar o computador e outros dispositivos digitais como ferramentas de apoio ao processo de investigação e pesquisa;",
+            "Conhecer as potencialidades e principais funcionalidades de aplicações para apoiar o processo de investigação e de pesquisa online;"
+          ],
+          "activities": [
+            {
+              "title": "Duas pesquisas, a mesma pergunta",
+              "type": "Pesquisa",
+              "duration": "35 min",
+              "materials": [
+                "Computador com acesso à internet",
+                "Cronómetro"
+              ],
+              "steps": [
+                "Escolhe uma pergunta difícil mas respondível sobre a tua região.",
+                "Primeiro, escreve a pergunta inteira na caixa de pesquisa e cronometra até encontrares uma resposta fiável.",
+                "Agora escolhe três a cinco palavras-chave e repete, com o cronómetro a zero.",
+                "Aprende dois operadores de pesquisa — aspas para expressão exata, site: para um domínio — e tenta uma terceira vez.",
+                "Compara os três tempos e a qualidade das fontes que chegaste."
+              ],
+              "curriculumLink": "Trabalha a definição de palavras-chave e a utilização de mecanismos e funções simples de pesquisa.",
+              "reflection": "As palavras-chave que resultaram melhor estavam na tua pergunta original?"
+            }
+          ]
+        },
+        {
+          "id": "avaliar-e-organizar",
+          "name": "Pesquisar, avaliar e organizar",
+          "student": "Encontrar informação deixou de ser o problema; o problema é escolher entre a informação encontrada. Analisar criticamente a qualidade de uma fonte passa por perguntas simples e sistemáticas: quem escreveu, quando, com que interesse, e se o que diz aparece confirmado noutro lado independente. Depois é preciso arrumar, porque informação que não consegues voltar a encontrar é informação que não tens.",
+          "questions": [
+            "Como é que se sabe quem está por trás de um sítio da internet?",
+            "Duas fontes que se copiam uma à outra contam como duas confirmações?",
+            "Onde é que guardas o que encontras, e conseguirias voltar lá daqui a um mês?"
+          ],
+          "essentials": [
+            "Realizar pesquisas, utilizando os termos selecionados e relevantes de acordo com o tema a desenvolver;",
+            "Analisar criticamente a qualidade da informação;",
+            "Utilizar o computador e outros dispositivos digitais, de forma a permitir a organização e gestão da informação."
+          ],
+          "activities": [
+            {
+              "title": "Cinco perguntas a uma fonte",
+              "type": "Avaliação",
+              "duration": "40 min",
+              "materials": [
+                "Três páginas web sobre o mesmo assunto",
+                "Uma grelha de cinco colunas"
+              ],
+              "steps": [
+                "Escolhe um assunto polémico e encontra três páginas que falem dele.",
+                "Para cada uma, responde: quem escreveu, quando, quem paga o sítio, que fontes cita, quem beneficia se acreditares.",
+                "Marca as perguntas a que não conseguiste responder.",
+                "Ordena as três da mais fiável para a menos, justificando.",
+                "Procura se as três citam a mesma fonte original."
+              ],
+              "curriculumLink": "É o descritor de analisar criticamente a qualidade da informação, tornado num procedimento repetível.",
+              "reflection": "A página mais bem feita era a mais fiável?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comunicar-e-colaborar",
+      "name": "Comunicar e colaborar",
+      "emoji": "🤝",
+      "palette": "teal",
+      "summary": "Escolher a ferramenta certa para trabalhar com outras pessoas, e partilhar o resultado.",
+      "subtopics": [
+        {
+          "id": "ferramentas-de-colaboracao",
+          "name": "Ferramentas de comunicação e colaboração",
+          "student": "Repara na expressão que o programa repete: «ambientes digitais fechados». Não é um pormenor técnico — é uma escolha de segurança. Trabalhar num espaço fechado significa que só as pessoas do grupo entram, o que muda tudo em relação a publicar no aberto. Depois há a escolha da ferramenta, que parece trivial e não é: um documento partilhado, um chat e uma videochamada servem para coisas diferentes, e usar o errado faz um grupo perder mais tempo do que ganha.",
+          "questions": [
+            "Quando é que uma chamada resolve em cinco minutos o que o chat arrastaria por dois dias?",
+            "O que é um ambiente digital fechado, e porque é que importa?",
+            "Como se divide um trabalho de grupo para ninguém ficar à espera de ninguém?"
+          ],
+          "essentials": [
+            "Mobilizar estratégias e ferramentas de comunicação e colaboração:",
+            "Identificar novos meios e aplicações que permitam a comunicação e a colaboração;",
+            "Selecionar as soluções tecnológicas (mais adequadas para realização de trabalho colaborativo e comunicação) que se pretendem efetuar no âmbito de atividades e/ou projetos;",
+            "Utilizar diferentes meios e aplicações que permitem a comunicação e colaboração em ambientes digitais fechados;",
+            "Apresentar e partilhar os produtos desenvolvidos, utilizando meios digitais de comunicação e colaboração em ambientes digitais fechados."
+          ],
+          "activities": [
+            {
+              "title": "O mesmo trabalho, duas ferramentas",
+              "type": "Colaboração",
+              "duration": "Duas sessões de 40 min",
+              "materials": [
+                "Um documento partilhado",
+                "Um grupo de chat",
+                "Três ou quatro colegas"
+              ],
+              "steps": [
+                "Dividam-se em dois grupos com a mesma tarefa pequena.",
+                "Um grupo trabalha só por chat; o outro só num documento partilhado.",
+                "Cronometrem quanto tempo cada grupo demora e quantas mensagens trocam.",
+                "Troquem as ferramentas e repitam com outra tarefa igual.",
+                "Escrevam em conjunto para que tipo de tarefa serve melhor cada ferramenta."
+              ],
+              "curriculumLink": "Cobre a seleção das soluções tecnológicas mais adequadas ao trabalho colaborativo e a utilização de meios de colaboração em ambientes digitais fechados.",
+              "reflection": "A ferramenta mudou a maneira como o grupo se organizou, ou só a velocidade?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "criar-e-inovar",
+      "name": "Criar e inovar",
+      "emoji": "✨",
+      "palette": "purple",
+      "summary": "Pensamento computacional, captação e edição, e produzir alguma coisa que diga o que queres.",
+      "subtopics": [
+        {
+          "id": "captar-e-decompor",
+          "name": "Captar, editar e decompor",
+          "student": "Decompor um objeto nos seus elementos constituintes é a competência mais transferível deste domínio: é o que fazem os programadores, os designers e quem monta móveis. Um problema grande resolve-se partindo-o em problemas pequenos. Ao mesmo tempo aprendes técnicas concretas de captação — enquadramento, ângulos — que já viste em Educação Visual e que aqui reaparecem do lado de quem grava e edita.",
+          "questions": [
+            "Em quantas partes consegues decompor uma bicicleta?",
+            "O ângulo de onde filmas muda o que quem vê sente?",
+            "Que problemas se resolvem melhor com um vídeo do que com um texto?"
+          ],
+          "essentials": [
+            "Explorar ideias e desenvolver o pensamento computacional e produzir artefactos digitais criativos, recorrendo a estratégias e ferramentas digitais de apoio à criatividade:",
+            "Compreender e utilizar técnicas elementares (enquadramento, ângulos, entre outras) de captação e edição de imagem, som, vídeo e modelação 3D;",
+            "Analisar que tipos de problemas podem ser resolvidos usando, imagem, som, vídeo, modelação e simulação;",
+            "Decompor um objeto nos seus elementos constituintes;"
+          ],
+          "activities": [
+            {
+              "title": "A mesma cena de três ângulos",
+              "type": "Vídeo",
+              "duration": "40 min",
+              "materials": [
+                "Telemóvel com câmara",
+                "Alguém para filmar"
+              ],
+              "steps": [
+                "Escolhe uma ação simples de dez segundos: alguém a servir um copo de água.",
+                "Filma-a três vezes: de cima, ao nível dos olhos e de baixo.",
+                "Vê as três seguidas sem dizer nada a quem está a ver.",
+                "Pergunta que sensação cada uma dá sobre a pessoa filmada.",
+                "Escreve o que o ângulo fez, sem uma única palavra ter sido dita."
+              ],
+              "curriculumLink": "Trabalha as técnicas elementares de captação — enquadramento e ângulos — na captação e edição de vídeo.",
+              "reflection": "Qual dos ângulos escolherias para fazer alguém parecer poderoso?"
+            }
+          ]
+        },
+        {
+          "id": "produzir-artefactos",
+          "name": "Produzir artefactos digitais",
+          "student": "A parte final junta tudo: produzir uma narrativa digital que resolva um problema ou sirva um projeto, integrando materiais de origens diferentes, e fazê-lo respeitando os direitos de autor — que aqui reaparecem de propósito, agora do lado de quem produz. Há hoje bibliotecas enormes de imagens, sons e músicas com licenças que permitem o uso livre desde que se dê crédito. Usar essas, e creditá-las corretamente, é mais fácil do que parece e evita problemas reais.",
+          "questions": [
+            "O que é uma licença Creative Commons?",
+            "Como se credita corretamente uma música num vídeo?",
+            "O teu artefacto digital resolve mesmo um problema, ou é só bonito?"
+          ],
+          "essentials": [
+            "Desenhar objetos, produzir narrativas digitais, utilizando as técnicas e materiais adequados de captação de imagem, som, vídeo e modelação, tendo em vista soluções adequadas a um problema ou projeto;",
+            "Mobilizar os conhecimentos sobre as normas dos direitos de autor associados à utilização da imagem, do som e do vídeo e modelação 3D;",
+            "Integrar conteúdos provenientes de diferentes tipos de suportes, para produzir e modificar, de acordo com normas e diretrizes conhecidas, artefactos digitais criativos para exprimir ideias, sentimentos e propósitos específicos."
+          ],
+          "activities": [
+            {
+              "title": "Noventa segundos com tudo creditado",
+              "type": "Projeto",
+              "duration": "Duas sessões de 45 min",
+              "materials": [
+                "Telemóvel ou computador com editor de vídeo",
+                "Bancos de imagens e sons de uso livre"
+              ],
+              "steps": [
+                "Escolhe um problema pequeno e real da tua escola e faz um vídeo de noventa segundos sobre ele.",
+                "Usa imagens tuas sempre que possível; o resto vem de bancos de uso livre.",
+                "Anota, à medida que avanças, a origem e a licença de cada elemento.",
+                "Monta os créditos no fim, com autor, título e licença de cada material.",
+                "Mostra-o a alguém que possa fazer alguma coisa quanto ao problema."
+              ],
+              "curriculumLink": "Junta a produção de narrativas digitais orientadas a um problema com a mobilização das normas de direitos de autor e a integração de conteúdos de suportes diferentes.",
+              "safety": "Pede autorização a quem aparecer no vídeo antes de o mostrares a alguém.",
+              "reflection": "Escrever os créditos demorou quanto, comparado com o tempo total?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
